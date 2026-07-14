@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "chủ sở hữu",
+    "người quản lý hợp pháp",
+    "tòa án",
+    "người bị hại"
+  ],
+  "actions": [
+    "trả lại tài sản",
+    "chiếm đoạt",
+    "sửa chữa",
+    "bồi thường thiệt hại vật chất",
+    "gây thiệt hại về tinh thần",
+    "bồi thường về vật chất",
+    "công khai xin lỗi"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "trả lại tài sản"
+    ],
+    [
+      "người phạm tội",
+      "chiếm đoạt"
+    ],
+    [
+      "người phạm tội",
+      "sửa chữa"
+    ],
+    [
+      "người phạm tội",
+      "bồi thường thiệt hại vật chất"
+    ],
+    [
+      "người phạm tội",
+      "gây thiệt hại về tinh thần"
+    ],
+    [
+      "tòa án",
+      "buộc người phạm tội phải bồi thường về vật chất"
+    ],
+    [
+      "tòa án",
+      "buộc người phạm tội phải công khai xin lỗi người bị hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "chiếm đoạt"
+    ],
+    [
+      "thiệt hại vật chất",
+      "bồi thường"
+    ],
+    [
+      "thiệt hại về tinh thần",
+      "bồi thường về vật chất"
+    ],
+    [
+      "thiệt hại về tinh thần",
+      "công khai xin lỗi"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "người quản lý hợp pháp",
+      "tài sản"
+    ]
+  ]
+}

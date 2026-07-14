@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê",
+    "bên cho thuê"
+  ],
+  "actions": [
+    "trả lại tài sản thuê",
+    "yêu cầu bồi thường thiệt hại",
+    "thanh toán chi phí",
+    "chậm trả tài sản thuê",
+    "trả tiền thuê",
+    "bồi thường thiệt hại",
+    "trả tiền phạt vi phạm",
+    "chịu rủi ro"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê",
+      "trả lại tài sản thuê"
+    ],
+    [
+      "bên cho thuê",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên cho thuê",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên thuê",
+      "chậm trả tài sản thuê"
+    ],
+    [
+      "bên cho thuê",
+      "yêu cầu trả lại tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "trả tiền thuê"
+    ],
+    [
+      "bên thuê",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên thuê",
+      "chịu rủi ro"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuê",
+      "bên thuê"
+    ],
+    [
+      "tài sản thuê",
+      "bên cho thuê"
+    ],
+    [
+      "hao mòn tự nhiên",
+      "giảm sút giá trị tài sản thuê"
+    ],
+    [
+      "gia súc",
+      "gia súc được sinh ra"
+    ],
+    [
+      "chậm trả tài sản thuê",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chậm trả tài sản thuê",
+      "tiền phạt vi phạm"
+    ],
+    [
+      "chậm trả tài sản thuê",
+      "rủi ro"
+    ],
+    [
+      "tài sản thuê là động sản",
+      "địa điểm trả lại tài sản thuê"
+    ]
+  ]
+}

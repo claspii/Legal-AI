@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "giao",
+    "thiếu trách nhiệm",
+    "giữ",
+    "sử dụng",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạm tội",
+    "bị phạt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "được giao vũ khí quân dụng, súng săn, vũ khí thể thao, vật liệu nổ, công cụ hỗ trợ"
+    ],
+    [
+      "người",
+      "thiếu trách nhiệm"
+    ],
+    [
+      "người khác",
+      "sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiếu trách nhiệm",
+      "vũ khí quân dụng"
+    ],
+    [
+      "thiếu trách nhiệm",
+      "vật liệu nổ"
+    ],
+    [
+      "thiếu trách nhiệm",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "thiếu trách nhiệm",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

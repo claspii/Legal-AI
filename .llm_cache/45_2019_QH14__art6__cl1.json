@@ -1,0 +1,126 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người sử dụng lao động",
+    "tổ chức nghề nghiệp",
+    "tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "tuyển dụng",
+    "bố trí",
+    "quản lý",
+    "điều hành",
+    "giám sát lao động",
+    "khen thưởng",
+    "xử lý vi phạm kỷ luật lao động",
+    "thành lập",
+    "gia nhập",
+    "hoạt động",
+    "yêu cầu",
+    "thương lượng",
+    "ký kết",
+    "tham gia",
+    "giải quyết",
+    "đối thoại",
+    "trao đổi",
+    "đóng cửa tạm thời nơi làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển dụng"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí"
+    ],
+    [
+      "người sử dụng lao động",
+      "quản lý"
+    ],
+    [
+      "người sử dụng lao động",
+      "điều hành"
+    ],
+    [
+      "người sử dụng lao động",
+      "giám sát lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "khen thưởng"
+    ],
+    [
+      "người sử dụng lao động",
+      "xử lý vi phạm kỷ luật lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thành lập"
+    ],
+    [
+      "người sử dụng lao động",
+      "gia nhập"
+    ],
+    [
+      "người sử dụng lao động",
+      "hoạt động"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu tổ chức đại diện người lao động thương lượng"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham gia giải quyết tranh chấp lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham gia giải quyết đình công"
+    ],
+    [
+      "người sử dụng lao động",
+      "đối thoại với tổ chức đại diện người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "trao đổi với tổ chức đại diện người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "đóng cửa tạm thời nơi làm việc"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thương lượng với mục đích ký kết thỏa ước lao động tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức đại diện người sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức nghề nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "quan hệ lao động",
+      "người lao động"
+    ]
+  ]
+}

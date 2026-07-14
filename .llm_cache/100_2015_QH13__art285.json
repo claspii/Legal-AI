@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất",
+    "mua bán",
+    "trao đổi",
+    "tặng cho",
+    "sử dụng vào mục đích trái pháp luật",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất"
+    ],
+    [
+      "người nào",
+      "mua bán"
+    ],
+    [
+      "người nào",
+      "trao đổi"
+    ],
+    [
+      "người nào",
+      "tặng cho"
+    ],
+    [
+      "người nào",
+      "sử dụng vào mục đích trái pháp luật"
+    ],
+    [
+      "người nào",
+      "bị phạt tiền"
+    ],
+    [
+      "người nào",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công cụ",
+      "thiết bị"
+    ],
+    [
+      "công cụ",
+      "phần mềm"
+    ],
+    [
+      "thiết bị",
+      "phần mềm"
+    ],
+    [
+      "tấn công mạng máy tính",
+      "tấn công mạng viễn thông"
+    ],
+    [
+      "tấn công mạng máy tính",
+      "tấn công phương tiện điện tử"
+    ],
+    [
+      "tấn công mạng viễn thông",
+      "tấn công phương tiện điện tử"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

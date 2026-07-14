@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cha đẻ",
+    "mẹ đẻ",
+    "con",
+    "trẻ em",
+    "cha nuôi",
+    "mẹ nuôi",
+    "người đứng đầu cơ sở nuôi dưỡng trẻ em"
+  ],
+  "actions": [
+    "xác định dân tộc",
+    "thỏa thuận",
+    "nhận làm con nuôi",
+    "đề nghị",
+    "đăng ký khai sinh"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác định dân tộc"
+    ],
+    [
+      "cha đẻ",
+      "thỏa thuận"
+    ],
+    [
+      "mẹ đẻ",
+      "thỏa thuận"
+    ],
+    [
+      "cha nuôi",
+      "thỏa thuận"
+    ],
+    [
+      "mẹ nuôi",
+      "thỏa thuận"
+    ],
+    [
+      "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+      "đề nghị"
+    ],
+    [
+      "người đang tạm thời nuôi dưỡng trẻ em",
+      "đề nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha đẻ",
+      "mẹ đẻ"
+    ],
+    [
+      "dân tộc",
+      "cha đẻ"
+    ],
+    [
+      "dân tộc",
+      "mẹ đẻ"
+    ],
+    [
+      "cha nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "dân tộc",
+      "cha nuôi"
+    ],
+    [
+      "dân tộc",
+      "mẹ nuôi"
+    ],
+    [
+      "trẻ em bị bỏ rơi",
+      "nhận làm con nuôi"
+    ]
+  ]
+}

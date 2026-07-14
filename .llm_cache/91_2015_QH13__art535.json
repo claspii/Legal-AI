@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "bên thuê vận chuyển"
+  ],
+  "actions": [
+    "kiểm tra sự xác thực",
+    "từ chối vận chuyển",
+    "yêu cầu thanh toán",
+    "thanh toán cước phí"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "kiểm tra sự xác thực của tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "kiểm tra sự xác thực của vận đơn"
+    ],
+    [
+      "bên vận chuyển",
+      "kiểm tra sự xác thực của chứng từ vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "từ chối vận chuyển tài sản không đúng với loại tài sản đã thỏa thuận"
+    ],
+    [
+      "bên vận chuyển",
+      "yêu cầu bên thuê vận chuyển thanh toán đủ cước phí vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "từ chối vận chuyển tài sản cấm giao dịch"
+    ],
+    [
+      "bên vận chuyển",
+      "từ chối vận chuyển tài sản có tính chất nguy hiểm, độc hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "vận đơn"
+    ],
+    [
+      "tài sản",
+      "chứng từ vận chuyển"
+    ],
+    [
+      "tài sản",
+      "hợp đồng"
+    ],
+    [
+      "cước phí vận chuyển",
+      "thời hạn"
+    ],
+    [
+      "tài sản cấm giao dịch",
+      "tài sản có tính chất nguy hiểm, độc hại"
+    ]
+  ]
+}

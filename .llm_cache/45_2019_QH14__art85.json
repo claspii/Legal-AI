@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "doanh nghiệp",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động tại doanh nghiệp",
+    "chính phủ"
+  ],
+  "actions": [
+    "gia nhập",
+    "rút khỏi",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "doanh nghiệp",
+      "gia nhập"
+    ],
+    [
+      "doanh nghiệp",
+      "rút khỏi"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể ngành",
+      "gia nhập"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "gia nhập"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "rút khỏi"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "rút khỏi"
+    ],
+    [
+      "người sử dụng lao động",
+      "đồng thuận"
+    ],
+    [
+      "tổ chức đại diện người lao động tại doanh nghiệp",
+      "đồng thuận"
+    ]
+  ]
+}

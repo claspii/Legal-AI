@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [
+    "lừa dối trong giao dịch dân sự",
+    "đe dọa, cưỡng ép trong giao dịch dân sự"
+  ],
+  "actors": [
+    "một bên",
+    "tòa án",
+    "người thứ ba"
+  ],
+  "actions": [
+    "tham gia giao dịch dân sự",
+    "yêu cầu tuyên bố giao dịch dân sự vô hiệu",
+    "hiểu sai lệch",
+    "xác lập giao dịch",
+    "thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "tham gia giao dịch dân sự"
+    ],
+    [
+      "một bên",
+      "yêu cầu tuyên bố giao dịch dân sự vô hiệu"
+    ],
+    [
+      "một bên",
+      "hiểu sai lệch"
+    ],
+    [
+      "một bên",
+      "xác lập giao dịch"
+    ],
+    [
+      "một bên",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người thứ ba",
+      "làm cho bên kia hiểu sai lệch"
+    ],
+    [
+      "người thứ ba",
+      "làm cho bên kia buộc phải thực hiện giao dịch dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên bố giao dịch dân sự vô hiệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "vô hiệu"
+    ],
+    [
+      "lừa dối",
+      "giao dịch dân sự"
+    ],
+    [
+      "đe dọa, cưỡng ép",
+      "giao dịch dân sự"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "danh dự",
+      "uy tín"
+    ],
+    [
+      "uy tín",
+      "nhân phẩm"
+    ]
+  ]
+}

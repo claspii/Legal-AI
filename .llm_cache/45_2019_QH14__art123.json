@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "xử lý kỷ luật lao động",
+    "ban hành quyết định xử lý kỷ luật lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "ban hành quyết định xử lý kỷ luật lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "hành vi vi phạm"
+    ],
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "tài chính"
+    ],
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "tài sản"
+    ],
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "tiết lộ bí mật công nghệ"
+    ],
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "bí mật kinh doanh"
+    ],
+    [
+      "thời hiệu xử lý kỷ luật lao động",
+      "quyết định xử lý kỷ luật lao động"
+    ]
+  ]
+}

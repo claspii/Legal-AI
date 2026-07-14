@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ trưởng bộ nông nghiệp và phát triển nông thôn"
+  ],
+  "actions": [
+    "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+    "gây thiệt hại",
+    "dẫn đến phải công bố dịch"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gây thiệt hại về tài sản",
+      "1.000.000.000 đồng trở lên"
+    ],
+    [
+      "dẫn đến phải công bố dịch",
+      "thẩm quyền của bộ trưởng bộ nông nghiệp và phát triển nông thôn"
+    ]
+  ]
+}

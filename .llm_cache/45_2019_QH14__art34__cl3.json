@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên"
+  ],
+  "actions": [
+    "thỏa thuận chấm dứt hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "thỏa thuận chấm dứt hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt hợp đồng lao động",
+      "thỏa thuận"
+    ]
+  ]
+}

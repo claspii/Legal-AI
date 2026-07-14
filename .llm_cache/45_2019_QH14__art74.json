@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "ủy ban nhân dân cấp tỉnh",
+    "bên thương lượng tập thể",
+    "hội đồng thương lượng tập thể",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "tổ chức đào tạo",
+    "bồi dưỡng kỹ năng",
+    "xây dựng thông tin, dữ liệu",
+    "cung cấp thông tin, dữ liệu",
+    "hỗ trợ",
+    "thúc đẩy",
+    "thành lập"
+  ],
+  "actor_actions": [
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "tổ chức đào tạo"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "bồi dưỡng kỹ năng"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "xây dựng và cung cấp các thông tin, dữ liệu"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "hỗ trợ các bên đạt được thỏa thuận"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "thành lập hội đồng thương lượng tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "thương lượng tập thể",
+      "bên thương lượng tập thể"
+    ],
+    [
+      "thương lượng tập thể",
+      "thỏa thuận trong quá trình thương lượng tập thể"
+    ],
+    [
+      "thương lượng tập thể",
+      "hội đồng thương lượng tập thể"
+    ],
+    [
+      "thông tin, dữ liệu",
+      "kinh tế - xã hội"
+    ],
+    [
+      "thông tin, dữ liệu",
+      "thị trường lao động"
+    ],
+    [
+      "thông tin, dữ liệu",
+      "quan hệ lao động"
+    ]
+  ]
+}

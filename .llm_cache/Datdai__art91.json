@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "cộng đồng",
+    "địa phương",
+    "đối tượng chính sách xã hội",
+    "đối tượng trực tiếp sản xuất nông nghiệp"
+  ],
+  "actions": [
+    "bồi thường",
+    "hỗ trợ",
+    "tái định cư",
+    "thu hồi đất"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thu hồi đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường",
+      "thu hồi đất"
+    ],
+    [
+      "hỗ trợ",
+      "thu hồi đất"
+    ],
+    [
+      "tái định cư",
+      "thu hồi đất"
+    ]
+  ]
+}

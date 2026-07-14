@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "cơ quan cấp giấy phép xuất bản"
+  ],
+  "actions": [
+    "phạm tội",
+    "thay đổi",
+    "làm sai lệch",
+    "ký duyệt",
+    "xuất bản",
+    "phát hành"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "thay đổi"
+    ],
+    [
+      "người phạm tội",
+      "làm sai lệch"
+    ],
+    [
+      "người phạm tội",
+      "xuất bản"
+    ],
+    [
+      "người phạm tội",
+      "phát hành"
+    ],
+    [
+      "cơ quan cấp giấy phép xuất bản",
+      "ký duyệt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động xuất bản",
+      "vi phạm các quy định"
+    ],
+    [
+      "bản thảo",
+      "ký duyệt"
+    ],
+    [
+      "bản thảo tài liệu không kinh doanh",
+      "có dấu của cơ quan cấp giấy phép xuất bản"
+    ],
+    [
+      "xuất bản phẩm",
+      "có nội dung bị cấm"
+    ],
+    [
+      "luật xuất bản",
+      "quy định"
+    ]
+  ]
+}

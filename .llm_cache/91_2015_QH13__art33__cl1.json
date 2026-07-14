@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "ai"
+  ],
+  "actions": [
+    "có quyền sống",
+    "có quyền bất khả xâm phạm về tính mạng, thân thể",
+    "có quyền được pháp luật bảo hộ về sức khỏe",
+    "bị tước đoạt tính mạng trái luật"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quyền sống"
+    ],
+    [
+      "cá nhân",
+      "có quyền bất khả xâm phạm về tính mạng, thân thể"
+    ],
+    [
+      "cá nhân",
+      "có quyền được pháp luật bảo hộ về sức khỏe"
+    ],
+    [
+      "ai",
+      "bị tước đoạt tính mạng trái luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sống",
+      "tính mạng"
+    ],
+    [
+      "quyền sống",
+      "thân thể"
+    ],
+    [
+      "quyền sống",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "thân thể"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "thân thể",
+      "sức khỏe"
+    ]
+  ]
+}

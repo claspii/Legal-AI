@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chưa thành niên",
+    "cha",
+    "mẹ",
+    "pháp luật"
+  ],
+  "actions": [
+    "có nơi cư trú khác",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nơi cư trú của người chưa thành niên",
+      "nơi cư trú của cha"
+    ],
+    [
+      "nơi cư trú của người chưa thành niên",
+      "nơi cư trú của mẹ"
+    ]
+  ]
+}

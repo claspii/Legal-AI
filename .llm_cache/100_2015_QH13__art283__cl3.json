@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "điều khiển tàu bay",
+    "phạm tội",
+    "phạt tiền",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "điều khiển tàu bay vi phạm các quy định về hàng không của nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "người"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "người"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "người"
+    ]
+  ]
+}

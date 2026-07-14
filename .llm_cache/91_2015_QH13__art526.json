@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hành khách",
+    "bên vận chuyển"
+  ],
+  "actions": [
+    "trả cước phí",
+    "tự bảo quản",
+    "có mặt",
+    "tôn trọng",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "hành khách",
+      "trả cước phí vận chuyển hành khách"
+    ],
+    [
+      "hành khách",
+      "trả cước phí vận chuyển hành lý"
+    ],
+    [
+      "hành khách",
+      "tự bảo quản hành lý"
+    ],
+    [
+      "hành khách",
+      "có mặt tại điểm xuất phát"
+    ],
+    [
+      "hành khách",
+      "tôn trọng quy định của bên vận chuyển"
+    ],
+    [
+      "hành khách",
+      "chấp hành đúng quy định của bên vận chuyển"
+    ],
+    [
+      "hành khách",
+      "chấp hành đúng quy định về bảo đảm an toàn giao thông"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành khách",
+      "cước phí vận chuyển hành khách"
+    ],
+    [
+      "hành khách",
+      "hành lý"
+    ],
+    [
+      "hành khách",
+      "điểm xuất phát"
+    ],
+    [
+      "hành khách",
+      "thời gian đã thỏa thuận"
+    ],
+    [
+      "hành khách",
+      "bên vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "quy định"
+    ],
+    [
+      "quy định",
+      "an toàn giao thông"
+    ]
+  ]
+}

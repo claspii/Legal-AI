@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người nhặt được",
+    "nhà nước"
+  ],
+  "actions": [
+    "đánh rơi",
+    "bỏ quên",
+    "thông báo công khai",
+    "đến nhận",
+    "xác lập quyền sở hữu",
+    "trừ chi phí bảo quản",
+    "hưởng giá trị",
+    "thuộc về nhà nước"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "đánh rơi"
+    ],
+    [
+      "chủ sở hữu",
+      "bỏ quên"
+    ],
+    [
+      "chủ sở hữu",
+      "đến nhận"
+    ],
+    [
+      "người nhặt được",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "người nhặt được",
+      "hưởng giá trị"
+    ],
+    [
+      "nhà nước",
+      "thuộc về nhà nước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản do người khác đánh rơi",
+      "tài sản bỏ quên"
+    ],
+    [
+      "tài sản có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở",
+      "quyền sở hữu của người nhặt được"
+    ],
+    [
+      "tài sản có giá trị lớn hơn mười lần mức lương cơ sở",
+      "quyền sở hữu của người nhặt được và nhà nước"
+    ],
+    [
+      "tài sản thuộc di tích lịch sử - văn hóa",
+      "quyền sở hữu của nhà nước"
+    ]
+  ]
+}

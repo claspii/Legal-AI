@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu tài sản",
+    "tòa án",
+    "người hưởng dụng"
+  ],
+  "actions": [
+    "định đoạt tài sản",
+    "làm thay đổi quyền hưởng dụng",
+    "yêu cầu truất quyền hưởng dụng",
+    "vi phạm nghiêm trọng nghĩa vụ",
+    "cản trở",
+    "thực hiện hành vi khác gây khó khăn",
+    "xâm phạm đến quyền, lợi ích hợp pháp",
+    "thực hiện nghĩa vụ sửa chữa tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu tài sản",
+      "định đoạt tài sản"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "yêu cầu truất quyền hưởng dụng"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "không được cản trở"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "không được thực hiện hành vi khác gây khó khăn"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "không được xâm phạm đến quyền, lợi ích hợp pháp"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "thực hiện nghĩa vụ sửa chữa tài sản"
+    ],
+    [
+      "tòa án",
+      "truất quyền hưởng dụng"
+    ],
+    [
+      "người hưởng dụng",
+      "vi phạm nghiêm trọng nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu tài sản",
+      "tài sản"
+    ],
+    [
+      "quyền hưởng dụng",
+      "người hưởng dụng"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "quyền hưởng dụng"
+    ]
+  ]
+}

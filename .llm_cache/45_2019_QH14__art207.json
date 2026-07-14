@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "các bên"
+  ],
+  "actions": [
+    "trả lương",
+    "ngừng việc",
+    "tham gia đình công",
+    "không được trả lương",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "không tham gia đình công"
+    ],
+    [
+      "người lao động",
+      "ngừng việc"
+    ],
+    [
+      "người lao động",
+      "tham gia đình công"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động không tham gia đình công",
+      "được trả lương ngừng việc"
+    ],
+    [
+      "người lao động tham gia đình công",
+      "không được trả lương"
+    ],
+    [
+      "tiền lương",
+      "đình công"
+    ],
+    [
+      "quyền lợi hợp pháp",
+      "đình công"
+    ],
+    [
+      "người lao động",
+      "đình công"
+    ]
+  ]
+}

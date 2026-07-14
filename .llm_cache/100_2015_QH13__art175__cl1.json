@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "người bị hại"
+  ],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "vay",
+    "mượn",
+    "thuê tài sản",
+    "nhận được tài sản",
+    "dùng thủ đoạn gian dối",
+    "cố tình không trả",
+    "sử dụng tài sản vào mục đích bất hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "vay"
+    ],
+    [
+      "người",
+      "mượn"
+    ],
+    [
+      "người",
+      "thuê tài sản"
+    ],
+    [
+      "người",
+      "nhận được tài sản"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn gian dối"
+    ],
+    [
+      "người",
+      "cố tình không trả"
+    ],
+    [
+      "người",
+      "sử dụng tài sản vào mục đích bất hợp pháp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "lạm dụng tín nhiệm"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "tài sản"
+    ],
+    [
+      "vay",
+      "tài sản"
+    ],
+    [
+      "mượn",
+      "tài sản"
+    ],
+    [
+      "thuê tài sản",
+      "tài sản"
+    ],
+    [
+      "nhận được tài sản",
+      "hợp đồng"
+    ],
+    [
+      "tài sản",
+      "phương tiện kiếm sống chính"
+    ],
+    [
+      "tài sản",
+      "giá trị đặc biệt về mặt tinh thần"
+    ]
+  ]
+}

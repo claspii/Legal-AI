@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "tòa án",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "tính thời hạn để xóa án tích",
+    "thực hiện hành vi phạm tội mới",
+    "bị kết án",
+    "chấp hành xong hình phạt chính",
+    "quyết định việc xóa án tích",
+    "được miễn chấp hành phần hình phạt còn lại"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "kết án"
+    ],
+    [
+      "tòa án",
+      "quyết định việc xóa án tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn để xóa án tích",
+      "hình phạt chính"
+    ],
+    [
+      "án tích cũ",
+      "án treo của bản án mới"
+    ],
+    [
+      "người bị kết án",
+      "xóa án tích"
+    ],
+    [
+      "phạm nhiều tội",
+      "xóa án tích theo quyết định của tòa án"
+    ]
+  ]
+}

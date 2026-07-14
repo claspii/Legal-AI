@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cho vay lãi nặng",
+    "cho vay",
+    "thu lợi bất chính",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cho vay"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cho vay lãi nặng",
+      "giao dịch dân sự"
+    ],
+    [
+      "lãi suất",
+      "bộ luật dân sự"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tiền"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "vi phạm"
+    ],
+    [
+      "bị kết án",
+      "chưa được xóa án tích"
+    ]
+  ]
+}

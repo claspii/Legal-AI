@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "nhận hối lộ",
+    "bị xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước",
+      "nhận hối lộ"
+    ],
+    [
+      "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước",
+      "bị xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước",
+      "nhận hối lộ"
+    ]
+  ]
+}

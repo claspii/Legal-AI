@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mượn tài sản",
+    "bên cho mượn"
+  ],
+  "actions": [
+    "sử dụng tài sản mượn",
+    "yêu cầu",
+    "thanh toán chi phí",
+    "sửa chữa",
+    "làm tăng giá trị tài sản mượn",
+    "chịu trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "bên mượn tài sản",
+      "sử dụng tài sản mượn"
+    ],
+    [
+      "bên mượn tài sản",
+      "yêu cầu"
+    ],
+    [
+      "bên cho mượn",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên mượn tài sản",
+      "không phải chịu trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mượn tài sản",
+      "tài sản mượn"
+    ],
+    [
+      "bên cho mượn",
+      "tài sản mượn"
+    ],
+    [
+      "chi phí hợp lý",
+      "sửa chữa"
+    ],
+    [
+      "chi phí hợp lý",
+      "làm tăng giá trị tài sản mượn"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [
+    "năng lực hành vi dân sự của cá nhân"
+  ],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác lập"
+    ],
+    [
+      "cá nhân",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực hành vi dân sự của cá nhân",
+      "khả năng của cá nhân"
+    ],
+    [
+      "khả năng của cá nhân",
+      "hành vi của mình"
+    ],
+    [
+      "hành vi của mình",
+      "quyền dân sự"
+    ],
+    [
+      "hành vi của mình",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "quyền dân sự",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

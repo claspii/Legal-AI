@@ -1,0 +1,156 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đang chấp hành án phạt tù",
+    "người bị kết án",
+    "thương binh",
+    "bệnh binh",
+    "thân nhân gia đình liệt sỹ",
+    "gia đình có công với cách mạng",
+    "người đủ 70 tuổi trở lên",
+    "người khuyết tật nặng hoặc khuyết tật đặc biệt nặng",
+    "phụ nữ đang nuôi con dưới 36 tháng tuổi",
+    "cơ quan thi hành án hình sự có thẩm quyền",
+    "tòa án",
+    "người được tha tù trước thời hạn có điều kiện",
+    "người đó"
+  ],
+  "actions": [
+    "tha tù trước thời hạn có điều kiện",
+    "phạm tội",
+    "có nhiều tiến bộ",
+    "có ý thức cải tạo tốt",
+    "giảm thời hạn chấp hành hình phạt tù",
+    "chấp hành xong hình phạt bổ sung",
+    "chấp hành được ít nhất là một phần hai mức thời hạn tù",
+    "bị kết án",
+    "áp dụng quy định",
+    "đề nghị",
+    "quyết định tha tù trước thời hạn có điều kiện",
+    "thực hiện nghĩa vụ",
+    "cố ý vi phạm nghĩa vụ",
+    "bị xử phạt vi phạm hành chính",
+    "hủy bỏ quyết định tha tù trước thời hạn có điều kiện",
+    "chấp hành phần hình phạt tù còn lại chưa chấp hành",
+    "thực hiện hành vi phạm tội mới",
+    "buộc chấp hành hình phạt của bản án mới",
+    "tổng hợp với phần hình phạt tù chưa chấp hành của bản án trước",
+    "rút ngắn thời gian thử thách"
+  ],
+  "actor_actions": [
+    [
+      "người đang chấp hành án phạt tù",
+      "tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "phạm tội lần đầu"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "có nhiều tiến bộ"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "có ý thức cải tạo tốt"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "được giảm thời hạn chấp hành hình phạt tù"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "có nơi cư trú rõ ràng"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "chấp hành xong hình phạt bổ sung"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "chấp hành được ít nhất là một phần hai mức thời hạn tù"
+    ],
+    [
+      "cơ quan thi hành án hình sự có thẩm quyền",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "cố ý vi phạm nghĩa vụ"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "tòa án",
+      "hủy bỏ quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "tòa án",
+      "buộc chấp hành phần hình phạt tù còn lại chưa chấp hành"
+    ],
+    [
+      "người đó",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "buộc chấp hành hình phạt của bản án mới"
+    ],
+    [
+      "tòa án",
+      "tổng hợp với phần hình phạt tù chưa chấp hành của bản án trước"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "có nhiều tiến bộ"
+    ],
+    [
+      "tòa án",
+      "rút ngắn thời gian thử thách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "người đang chấp hành án phạt tù"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "thời gian thử thách"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "án phạt tù"
+    ],
+    [
+      "thời gian thử thách",
+      "nghĩa vụ"
+    ],
+    [
+      "người bị kết án",
+      "tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "án phạt tù",
+      "hình phạt bổ sung"
+    ],
+    [
+      "tội phạm nghiêm trọng",
+      "giảm thời hạn chấp hành hình phạt tù"
+    ],
+    [
+      "tù chung thân",
+      "tù có thời hạn"
+    ]
+  ]
+}

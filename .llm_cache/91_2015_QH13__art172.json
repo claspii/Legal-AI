@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "bảo vệ môi trường",
+    "tuân theo quy định",
+    "làm ô nhiễm môi trường",
+    "chấm dứt hành vi gây ô nhiễm",
+    "thực hiện biện pháp",
+    "khắc phục hậu quả",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "thực hiện quyền sở hữu"
+    ],
+    [
+      "chủ thể",
+      "thực hiện quyền khác đối với tài sản"
+    ],
+    [
+      "chủ thể",
+      "tuân theo quy định của pháp luật về bảo vệ môi trường"
+    ],
+    [
+      "chủ thể",
+      "làm ô nhiễm môi trường"
+    ],
+    [
+      "chủ thể",
+      "chấm dứt hành vi gây ô nhiễm"
+    ],
+    [
+      "chủ thể",
+      "thực hiện các biện pháp để khắc phục hậu quả"
+    ],
+    [
+      "chủ thể",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "bảo vệ môi trường"
+    ],
+    [
+      "làm ô nhiễm môi trường",
+      "khắc phục hậu quả"
+    ],
+    [
+      "làm ô nhiễm môi trường",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sửa đổi",
+    "bổ sung",
+    "phân tích",
+    "đánh giá",
+    "dự báo",
+    "xác định",
+    "định hướng",
+    "bảo đảm",
+    "bảo vệ",
+    "thích ứng"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "nội dung"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "phân tích, đánh giá"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "dự báo xu thế biến động"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "xác định quan điểm và mục tiêu"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "định hướng sử dụng đất quốc gia"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "xác định chỉ tiêu sử dụng đất"
+    ],
+    [
+      "quy hoạch sử dụng đất quốc gia",
+      "giải pháp, nguồn lực thực hiện"
+    ],
+    [
+      "sử dụng đất",
+      "phát triển kinh tế - xã hội"
+    ]
+  ]
+}

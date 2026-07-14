@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "người thế quyền",
+    "người chuyển giao quyền yêu cầu"
+  ],
+  "actions": [
+    "từ chối",
+    "thông báo",
+    "chuyển giao quyền yêu cầu",
+    "chứng minh",
+    "thực hiện nghĩa vụ",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "từ chối"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người thế quyền",
+      "chứng minh"
+    ],
+    [
+      "người thế quyền",
+      "yêu cầu"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "chuyển giao quyền yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên có nghĩa vụ",
+      "người thế quyền"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "người chuyển giao quyền yêu cầu"
+    ],
+    [
+      "người thế quyền",
+      "chuyển giao quyền yêu cầu"
+    ],
+    [
+      "nghĩa vụ",
+      "quyền yêu cầu"
+    ]
+  ]
+}

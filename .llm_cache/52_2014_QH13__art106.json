@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cô",
+    "dì",
+    "chú",
+    "cậu",
+    "bác ruột",
+    "cháu ruột",
+    "cha",
+    "mẹ",
+    "con",
+    "người cần được nuôi dưỡng"
+  ],
+  "actions": [
+    "thương yêu",
+    "chăm sóc",
+    "giúp đỡ",
+    "nuôi dưỡng",
+    "thực hiện nghĩa vụ nuôi dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "thương yêu"
+    ],
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "chăm sóc"
+    ],
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "giúp đỡ"
+    ],
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "nuôi dưỡng"
+    ],
+    [
+      "cháu ruột",
+      "thương yêu"
+    ],
+    [
+      "cháu ruột",
+      "chăm sóc"
+    ],
+    [
+      "cháu ruột",
+      "giúp đỡ"
+    ],
+    [
+      "cháu ruột",
+      "nuôi dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "cháu ruột"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "nuôi dưỡng",
+      "người cần được nuôi dưỡng"
+    ],
+    [
+      "cha, mẹ, con",
+      "người cần được nuôi dưỡng"
+    ]
+  ]
+}

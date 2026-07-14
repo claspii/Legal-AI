@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người không phải là chủ sở hữu tài sản",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "định đoạt tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người không phải là chủ sở hữu tài sản",
+      "định đoạt tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền định đoạt",
+      "chủ sở hữu"
+    ],
+    [
+      "quyền định đoạt",
+      "ủy quyền"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "xác định mất tích",
+    "xác định chết",
+    "có quốc tịch",
+    "có tin tức cuối cùng"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "mất tích"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "cá nhân",
+      "có quốc tịch"
+    ],
+    [
+      "cá nhân",
+      "có tin tức cuối cùng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân mất tích",
+      "pháp luật của nước có quốc tịch"
+    ],
+    [
+      "cá nhân chết",
+      "pháp luật của nước có quốc tịch"
+    ],
+    [
+      "xác định cá nhân mất tích tại việt nam",
+      "pháp luật việt nam"
+    ],
+    [
+      "xác định cá nhân chết tại việt nam",
+      "pháp luật việt nam"
+    ]
+  ]
+}

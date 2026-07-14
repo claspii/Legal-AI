@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất"
+    ],
+    [
+      "người nào",
+      "buôn bán"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng giả",
+      "thức ăn dùng để chăn nuôi"
+    ],
+    [
+      "hàng giả",
+      "phân bón"
+    ],
+    [
+      "hàng giả",
+      "thuốc thú y"
+    ],
+    [
+      "hàng giả",
+      "thuốc bảo vệ thực vật"
+    ],
+    [
+      "hàng giả",
+      "giống cây trồng"
+    ],
+    [
+      "hàng giả",
+      "vật nuôi"
+    ],
+    [
+      "giá bán",
+      "giá niêm yết"
+    ],
+    [
+      "giá niêm yết",
+      "giá ghi trong hóa đơn"
+    ]
+  ]
+}

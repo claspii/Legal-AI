@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "quản lý, sử dụng chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội vi phạm quy định về quản lý, sử dụng chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+      "có tổ chức"
+    ],
+    [
+      "tội vi phạm quy định về quản lý, sử dụng chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+      "phạm tội 02 lần trở lên"
+    ],
+    [
+      "tội vi phạm quy định về quản lý, sử dụng chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

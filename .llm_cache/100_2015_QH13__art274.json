@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người chịu trách nhiệm trực tiếp",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chịu trách nhiệm trực tiếp về việc điều động",
+    "chịu trách nhiệm trực tiếp về tình trạng kỹ thuật của phương tiện giao thông đường thủy",
+    "cho phép đưa vào sử dụng phương tiện giao thông đường thủy rõ ràng không bảo đảm an toàn",
+    "gây thiệt hại",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án về tội này",
+    "chưa được xóa án tích",
+    "còn vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chịu trách nhiệm trực tiếp về việc điều động"
+    ],
+    [
+      "người nào",
+      "chịu trách nhiệm trực tiếp về tình trạng kỹ thuật của phương tiện giao thông đường thủy"
+    ],
+    [
+      "người nào",
+      "cho phép đưa vào sử dụng phương tiện giao thông đường thủy rõ ràng không bảo đảm an toàn"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "đã bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "đã bị kết án về tội này"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường thủy",
+      "không bảo đảm an toàn"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "xử lý kỷ luật",
+      "hành vi này"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "hành vi này"
+    ],
+    [
+      "kết án",
+      "chưa được xóa án tích"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

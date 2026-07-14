@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ đối với nhiều người có quyền liên đới"
+  ],
+  "actors": [
+    "người có quyền liên đới",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "yêu cầu thực hiện nghĩa vụ",
+    "thực hiện nghĩa vụ",
+    "miễn không phải thực hiện phần nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền liên đới",
+      "yêu cầu thực hiện toàn bộ nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người có quyền liên đới",
+      "miễn cho bên có nghĩa vụ không phải thực hiện phần nghĩa vụ đối với mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có quyền liên đới",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ đối với nhiều người có quyền liên đới",
+      "nghĩa vụ"
+    ]
+  ]
+}

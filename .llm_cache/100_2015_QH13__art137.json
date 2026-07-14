@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "phụ nữ",
+    "người dưới 16 tuổi",
+    "người già yếu",
+    "người ốm đau",
+    "người khác không có khả năng tự vệ"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "dùng vũ lực",
+    "thi hành công vụ",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thi hành công vụ"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thi hành công vụ",
+      "dùng vũ lực"
+    ],
+    [
+      "phụ nữ",
+      "có thai"
+    ],
+    [
+      "người già yếu",
+      "không có khả năng tự vệ"
+    ],
+    [
+      "người ốm đau",
+      "không có khả năng tự vệ"
+    ]
+  ]
+}

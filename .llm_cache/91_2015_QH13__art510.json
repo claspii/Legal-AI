@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên",
+    "thành viên hợp tác",
+    "người này",
+    "bên vi phạm hợp đồng"
+  ],
+  "actions": [
+    "rút khỏi hợp đồng hợp tác",
+    "yêu cầu nhận lại tài sản đã đóng góp",
+    "chia phần tài sản",
+    "thanh toán các nghĩa vụ",
+    "phân chia tài sản bằng hiện vật",
+    "làm ảnh hưởng đến hoạt động hợp tác",
+    "xác định là bên vi phạm hợp đồng",
+    "thực hiện trách nhiệm dân sự"
+  ],
+  "actor_actions": [
+    [
+      "thành viên",
+      "có quyền rút khỏi hợp đồng hợp tác"
+    ],
+    [
+      "thành viên",
+      "có quyền yêu cầu nhận lại tài sản đã đóng góp"
+    ],
+    [
+      "thành viên",
+      "được chia phần tài sản trong khối tài sản chung"
+    ],
+    [
+      "thành viên",
+      "phải thanh toán các nghĩa vụ"
+    ],
+    [
+      "việc phân chia tài sản bằng hiện vật",
+      "làm ảnh hưởng đến hoạt động hợp tác"
+    ],
+    [
+      "tài sản",
+      "được tính giá trị thành tiền để chia"
+    ],
+    [
+      "việc rút khỏi hợp đồng hợp tác",
+      "không làm chấm dứt quyền, nghĩa vụ của người này"
+    ],
+    [
+      "thành viên rút khỏi hợp đồng",
+      "được xác định là bên vi phạm hợp đồng"
+    ],
+    [
+      "thành viên rút khỏi hợp đồng",
+      "phải thực hiện trách nhiệm dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rút khỏi hợp đồng hợp tác",
+      "yêu cầu nhận lại tài sản đã đóng góp"
+    ],
+    [
+      "rút khỏi hợp đồng hợp tác",
+      "chia phần tài sản"
+    ],
+    [
+      "rút khỏi hợp đồng hợp tác",
+      "thanh toán các nghĩa vụ"
+    ],
+    [
+      "rút khỏi hợp đồng hợp tác",
+      "bên vi phạm hợp đồng"
+    ],
+    [
+      "rút khỏi hợp đồng hợp tác",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "phân chia tài sản bằng hiện vật",
+      "hoạt động hợp tác"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

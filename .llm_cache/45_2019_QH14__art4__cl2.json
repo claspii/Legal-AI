@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "bảo đảm",
+    "quản lý lao động",
+    "nâng cao trách nhiệm xã hội"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động"
+    ],
+    [
+      "nhà nước",
+      "quản lý lao động đúng pháp luật"
+    ],
+    [
+      "nhà nước",
+      "nâng cao trách nhiệm xã hội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "quản lý lao động",
+      "đúng pháp luật"
+    ],
+    [
+      "quản lý lao động",
+      "dân chủ"
+    ],
+    [
+      "quản lý lao động",
+      "công bằng"
+    ],
+    [
+      "quản lý lao động",
+      "văn minh"
+    ]
+  ]
+}

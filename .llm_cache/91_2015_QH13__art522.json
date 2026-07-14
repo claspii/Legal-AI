@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [
+    "hợp đồng vận chuyển hành khách"
+  ],
+  "actors": [
+    "bên vận chuyển",
+    "hành khách",
+    "các bên"
+  ],
+  "actions": [
+    "chuyên chở",
+    "thanh toán cước phí vận chuyển"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "chuyên chở hành khách, hành lý đến địa điểm đã định theo thỏa thuận"
+    ],
+    [
+      "hành khách",
+      "thanh toán cước phí vận chuyển"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vận chuyển hành khách",
+      "bên vận chuyển"
+    ],
+    [
+      "hợp đồng vận chuyển hành khách",
+      "hành khách"
+    ],
+    [
+      "hành khách",
+      "cước phí vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "hành khách"
+    ],
+    [
+      "bên vận chuyển",
+      "hành lý"
+    ]
+  ]
+}

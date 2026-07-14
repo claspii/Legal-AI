@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về bảo quản, quản lý hóa đơn, chứng từ thu nộp ngân sách nhà nước",
+    "gây thiệt hại cho ngân sách nhà nước",
+    "gây thiệt hại cho người khác",
+    "phạm tội",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về bảo quản, quản lý hóa đơn, chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "người",
+      "gây thiệt hại cho ngân sách nhà nước"
+    ],
+    [
+      "người",
+      "gây thiệt hại cho người khác"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hóa đơn",
+      "chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "bảo quản hóa đơn",
+      "quản lý hóa đơn"
+    ],
+    [
+      "thiệt hại",
+      "ngân sách nhà nước"
+    ],
+    [
+      "thiệt hại",
+      "người khác"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "làm công việc nhất định"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động trái pháp luật",
+    "nhận trở lại làm việc",
+    "trả tiền lương",
+    "đóng bảo hiểm xã hội",
+    "đóng bảo hiểm y tế",
+    "đóng bảo hiểm thất nghiệp",
+    "hoàn trả",
+    "thỏa thuận",
+    "sửa đổi, bổ sung hợp đồng lao động",
+    "trả trợ cấp thôi việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động trái pháp luật"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải nhận người lao động trở lại làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải trả tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải đóng bảo hiểm xã hội"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải đóng bảo hiểm y tế"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải đóng bảo hiểm thất nghiệp"
+    ],
+    [
+      "người lao động",
+      "hoàn trả các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận để sửa đổi, bổ sung hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ của người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động trái pháp luật"
+    ],
+    [
+      "tiền lương",
+      "hợp đồng lao động"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "trợ cấp thôi việc",
+      "trợ cấp mất việc làm"
+    ],
+    [
+      "thời hạn báo trước",
+      "tiền lương theo hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "chấm dứt hợp đồng lao động",
+      "trợ cấp thôi việc"
+    ]
+  ]
+}

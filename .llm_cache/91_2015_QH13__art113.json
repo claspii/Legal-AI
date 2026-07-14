@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "vật cùng loại",
+    "vật đặc định"
+  ],
+  "actors": [],
+  "actions": [
+    "thay thế",
+    "phân biệt",
+    "thực hiện nghĩa vụ",
+    "chuyển giao",
+    "giao"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vật cùng loại",
+      "đơn vị đo lường"
+    ],
+    [
+      "vật cùng loại",
+      "chất lượng"
+    ],
+    [
+      "vật đặc định",
+      "ký hiệu"
+    ],
+    [
+      "vật đặc định",
+      "hình dáng"
+    ],
+    [
+      "vật đặc định",
+      "màu sắc"
+    ],
+    [
+      "vật đặc định",
+      "chất liệu"
+    ],
+    [
+      "vật đặc định",
+      "đặc tính"
+    ],
+    [
+      "vật đặc định",
+      "vị trí"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "trực tiếp giao kết hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": []
+}

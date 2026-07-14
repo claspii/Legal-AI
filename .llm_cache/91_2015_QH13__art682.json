@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giám hộ"
+  ],
+  "actions": [
+    "xác định giám hộ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "giám hộ",
+      "pháp luật của nước"
+    ],
+    [
+      "người được giám hộ",
+      "nơi cư trú"
+    ]
+  ]
+}

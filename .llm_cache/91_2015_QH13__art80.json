@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [
+    "pháp nhân việt nam"
+  ],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "được thành lập"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "được thành lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "quốc tịch của pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "pháp luật việt nam"
+    ],
+    [
+      "pháp nhân việt nam",
+      "pháp luật việt nam"
+    ]
+  ]
+}

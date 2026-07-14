@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "chủ sở hữu thông tin"
+  ],
+  "actions": [
+    "thực hiện",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "gây dư luận xấu",
+    "đưa lên mạng",
+    "mua bán",
+    "trao đổi",
+    "tặng cho"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "gây dư luận xấu"
+    ],
+    [
+      "người",
+      "đưa lên mạng máy tính"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "trao đổi"
+    ],
+    [
+      "người",
+      "tặng cho"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "an toàn công cộng",
+      "trật tự công cộng"
+    ],
+    [
+      "thông tin mạng máy tính",
+      "thông tin mạng viễn thông"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "quyền quản trị mạng máy tính",
+      "quyền quản trị mạng viễn thông"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ]
+  ]
+}

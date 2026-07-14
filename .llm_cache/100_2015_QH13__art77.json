@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "pháp nhân thương mại phạm tội"
+  ],
+  "actions": [
+    "phạt tiền",
+    "phạm tội",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "hình phạt chính"
+    ],
+    [
+      "phạt tiền",
+      "hình phạt bổ sung"
+    ],
+    [
+      "tính chất",
+      "mức độ nguy hiểm của tội phạm"
+    ],
+    [
+      "tình hình tài chính",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "sự biến động",
+      "giá cả"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "các bên tranh chấp",
+    "hội đồng trọng tài lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "tiến hành hòa giải",
+    "lựa chọn phương thức",
+    "giải quyết tranh chấp",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "tiến hành hòa giải"
+    ],
+    [
+      "các bên tranh chấp",
+      "lựa chọn phương thức"
+    ],
+    [
+      "các bên tranh chấp",
+      "yêu cầu"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải tranh chấp lao động cá nhân",
+      "hòa giải viên lao động"
+    ],
+    [
+      "hòa giải không thành",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ]
+}

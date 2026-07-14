@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động là người nước ngoài",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "bị trục xuất"
+  ],
+  "actor_actions": [
+    [
+      "người lao động là người nước ngoài",
+      "bị trục xuất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "chấm dứt"
+    ]
+  ]
+}

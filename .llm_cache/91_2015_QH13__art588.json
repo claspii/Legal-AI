@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có quyền yêu cầu"
+  ],
+  "actions": [
+    "khởi kiện",
+    "bồi thường thiệt hại",
+    "biết",
+    "xâm phạm"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền yêu cầu",
+      "biết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu khởi kiện yêu cầu bồi thường thiệt hại",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ]
+  ]
+}

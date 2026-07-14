@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt nghĩa vụ do bù trừ nghĩa vụ",
+    "thanh toán phần giá trị chênh lệch",
+    "thực hiện nghĩa vụ",
+    "bù trừ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thanh toán cho nhau phần giá trị chênh lệch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "nghĩa vụ",
+      "bù trừ nghĩa vụ"
+    ],
+    [
+      "giá trị của tài sản",
+      "giá trị công việc"
+    ],
+    [
+      "vật",
+      "nghĩa vụ trả tiền"
+    ]
+  ]
+}

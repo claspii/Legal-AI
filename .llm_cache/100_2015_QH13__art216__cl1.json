@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người lao động"
+  ],
+  "actions": [
+    "trốn đóng bảo hiểm xã hội",
+    "trốn đóng bảo hiểm y tế",
+    "trốn đóng bảo hiểm thất nghiệp",
+    "gian dối",
+    "không đóng",
+    "không đóng đầy đủ",
+    "bị xử phạt vi phạm hành chính"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "trốn đóng bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "trốn đóng bảo hiểm y tế"
+    ],
+    [
+      "người nào",
+      "trốn đóng bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "gian dối"
+    ],
+    [
+      "người nào",
+      "không đóng"
+    ],
+    [
+      "người nào",
+      "không đóng đầy đủ"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "nghĩa vụ đóng bảo hiểm xã hội"
+    ]
+  ]
+}

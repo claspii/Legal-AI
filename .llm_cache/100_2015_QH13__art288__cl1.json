@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "chủ sở hữu thông tin"
+  ],
+  "actions": [
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "gây dư luận xấu",
+    "làm giảm uy tín",
+    "đưa thông tin trái pháp luật",
+    "mua bán thông tin",
+    "trao đổi thông tin",
+    "tặng cho thông tin",
+    "sửa chữa thông tin",
+    "thay đổi thông tin",
+    "công khai hóa thông tin",
+    "sử dụng trái phép thông tin"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "gây dư luận xấu"
+    ],
+    [
+      "người",
+      "đưa lên mạng máy tính, mạng viễn thông những thông tin trái với quy định của pháp luật"
+    ],
+    [
+      "người",
+      "mua bán, trao đổi, tặng cho, sửa chữa, thay đổi hoặc công khai hóa thông tin riêng hợp pháp của cơ quan, tổ chức, cá nhân trên mạng máy tính, mạng viễn thông mà không được phép của chủ sở hữu thông tin đó"
+    ],
+    [
+      "người",
+      "sử dụng trái phép thông tin trên mạng máy tính, mạng viễn thông"
+    ],
+    [
+      "cơ quan",
+      "giảm uy tín"
+    ],
+    [
+      "tổ chức",
+      "giảm uy tín"
+    ],
+    [
+      "cá nhân",
+      "giảm uy tín"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin mạng máy tính",
+      "thông tin mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "thu lợi bất chính",
+      "thiệt hại"
+    ],
+    [
+      "dư luận xấu",
+      "uy tín"
+    ]
+  ]
+}

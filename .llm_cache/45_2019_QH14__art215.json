@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thẩm quyền thanh tra chuyên ngành về lao động"
+  ],
+  "actions": [
+    "thực hiện",
+    "thanh tra an toàn, vệ sinh lao động"
+  ],
+  "actor_actions": [
+    [
+      "thẩm quyền thanh tra chuyên ngành về lao động",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thanh tra chuyên ngành về lao động",
+      "luật thanh tra"
+    ],
+    [
+      "thanh tra an toàn, vệ sinh lao động",
+      "luật an toàn, vệ sinh lao động"
+    ]
+  ]
+}

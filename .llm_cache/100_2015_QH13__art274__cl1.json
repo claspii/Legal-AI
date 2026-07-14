@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người chịu trách nhiệm trực tiếp",
+    "tình trạng kỹ thuật của phương tiện giao thông đường thủy"
+  ],
+  "actions": [
+    "cho phép đưa vào sử dụng",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "còn vi phạm",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường thủy",
+      "cho phép đưa vào sử dụng phương tiện giao thông đường thủy rõ ràng không bảo đảm an toàn"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "còn vi phạm"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường thủy không bảo đảm an toàn",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phạt tiền",
+      "30.000.000 đồng đến 100.000.000 đồng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "03 năm"
+    ],
+    [
+      "phạt tù",
+      "01 năm đến 05 năm"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "100.000.000 đồng đến dưới 500.000.000 đồng"
+    ]
+  ]
+}

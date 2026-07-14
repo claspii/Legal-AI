@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người chiếm hữu ngay tình",
+    "người không có quyền định đoạt tài sản"
+  ],
+  "actions": [
+    "đòi lại động sản",
+    "đăng ký quyền sở hữu",
+    "có được động sản",
+    "định đoạt tài sản",
+    "bị lấy cắp",
+    "bị mất",
+    "bị chiếm hữu ngoài ý chí"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "đòi lại động sản"
+    ],
+    [
+      "người chiếm hữu ngay tình",
+      "có được động sản"
+    ],
+    [
+      "người không có quyền định đoạt tài sản",
+      "định đoạt tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động sản không phải đăng ký quyền sở hữu",
+      "người chiếm hữu ngay tình"
+    ],
+    [
+      "người chiếm hữu ngay tình",
+      "hợp đồng không có đền bù"
+    ],
+    [
+      "hợp đồng không có đền bù",
+      "người không có quyền định đoạt tài sản"
+    ],
+    [
+      "hợp đồng có đền bù",
+      "động sản bị lấy cắp"
+    ],
+    [
+      "hợp đồng có đền bù",
+      "động sản bị mất"
+    ],
+    [
+      "hợp đồng có đền bù",
+      "động sản bị chiếm hữu ngoài ý chí của chủ sở hữu"
+    ]
+  ]
+}

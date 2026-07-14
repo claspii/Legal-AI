@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "Hội đồng trọng tài lao động",
+    "trọng tài viên lao động",
+    "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",
+    "công đoàn cấp tỉnh",
+    "tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh",
+    "Chủ tịch Hội đồng",
+    "thư ký Hội đồng"
+  ],
+  "actions": [
+    "quyết định",
+    "đề cử"
+  ],
+  "actor_actions": [
+    [
+      "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+      "quyết định"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",
+      "đề cử"
+    ],
+    [
+      "công đoàn cấp tỉnh",
+      "đề cử"
+    ],
+    [
+      "tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh",
+      "đề cử"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+      "Hội đồng trọng tài lao động"
+    ],
+    [
+      "trọng tài viên lao động",
+      "Hội đồng trọng tài lao động"
+    ],
+    [
+      "Chủ tịch Hội đồng",
+      "cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "thư ký Hội đồng",
+      "cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

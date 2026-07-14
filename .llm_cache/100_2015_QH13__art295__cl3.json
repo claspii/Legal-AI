@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "người"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "người"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

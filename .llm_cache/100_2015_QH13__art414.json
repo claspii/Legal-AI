@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân"
+  ],
+  "actions": [
+    "làm mất",
+    "làm hư hỏng",
+    "phạm tội",
+    "giao quản lý",
+    "được trang bị"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "được giao quản lý"
+    ],
+    [
+      "người",
+      "được trang bị vũ khí quân dụng"
+    ],
+    [
+      "người",
+      "làm mất vũ khí quân dụng"
+    ],
+    [
+      "người",
+      "vô ý làm hư hỏng vũ khí quân dụng"
+    ],
+    [
+      "người",
+      "làm mất phương tiện kỹ thuật quân sự"
+    ],
+    [
+      "người",
+      "vô ý làm hư hỏng phương tiện kỹ thuật quân sự"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm mất vũ khí quân dụng",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "làm mất phương tiện kỹ thuật quân sự",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "vô ý làm hư hỏng vũ khí quân dụng",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "vô ý làm hư hỏng phương tiện kỹ thuật quân sự",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "phạm tội",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "phạm tội",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

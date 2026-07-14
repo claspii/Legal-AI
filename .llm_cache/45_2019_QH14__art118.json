@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "chính phủ"
+  ],
+  "actions": [
+    "ban hành nội quy lao động",
+    "sửa đổi nội quy lao động",
+    "bổ sung nội quy lao động",
+    "tham khảo ý kiến",
+    "thông báo",
+    "niêm yết",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "ban hành nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "sửa đổi nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "bổ sung nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ],
+    [
+      "người sử dụng lao động",
+      "niêm yết"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nội quy lao động",
+      "thời giờ làm việc"
+    ],
+    [
+      "nội quy lao động",
+      "thời giờ nghỉ ngơi"
+    ],
+    [
+      "nội quy lao động",
+      "trật tự tại nơi làm việc"
+    ],
+    [
+      "nội quy lao động",
+      "an toàn lao động"
+    ],
+    [
+      "nội quy lao động",
+      "vệ sinh lao động"
+    ],
+    [
+      "nội quy lao động",
+      "phòng, chống quấy rối tình dục tại nơi làm việc"
+    ],
+    [
+      "nội quy lao động",
+      "trách nhiệm vật chất"
+    ],
+    [
+      "nội quy lao động",
+      "kỷ luật lao động"
+    ]
+  ]
+}

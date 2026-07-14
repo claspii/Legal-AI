@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "những người này"
+  ],
+  "actions": [
+    "khoan",
+    "đào",
+    "làm hư hại",
+    "tạo ra chướng ngại vật",
+    "gây cản trở",
+    "không đặt",
+    "không duy trì báo hiệu",
+    "di chuyển làm giảm hiệu lực, tác dụng của báo hiệu",
+    "tháo dỡ báo hiệu",
+    "phá hoại công trình giao thông đường thủy",
+    "lấn chiếm luồng",
+    "lấn chiếm hành lang bảo vệ luồng giao thông đường thủy",
+    "cản trở giao thông đường thủy",
+    "gây thiệt hại",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "khoan"
+    ],
+    [
+      "người",
+      "đào trái phép làm hư hại kết cấu của các công trình giao thông đường thủy"
+    ],
+    [
+      "người",
+      "tạo ra chướng ngại vật gây cản trở giao thông đường thủy"
+    ],
+    [
+      "người",
+      "không đặt và duy trì báo hiệu"
+    ],
+    [
+      "người",
+      "di chuyển làm giảm hiệu lực, tác dụng của báo hiệu"
+    ],
+    [
+      "người",
+      "tháo dỡ báo hiệu"
+    ],
+    [
+      "người",
+      "phá hoại công trình giao thông đường thủy"
+    ],
+    [
+      "người",
+      "lấn chiếm luồng hoặc hành lang bảo vệ luồng giao thông đường thủy"
+    ],
+    [
+      "người",
+      "cản trở giao thông đường thủy"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khoan, đào trái phép",
+      "hư hại kết cấu của các công trình giao thông đường thủy"
+    ],
+    [
+      "tạo ra chướng ngại vật",
+      "gây cản trở giao thông đường thủy"
+    ],
+    [
+      "di chuyển",
+      "làm giảm hiệu lực, tác dụng của báo hiệu"
+    ],
+    [
+      "tháo dỡ báo hiệu",
+      "phá hoại công trình giao thông đường thủy"
+    ],
+    [
+      "lấn chiếm",
+      "luồng hoặc hành lang bảo vệ luồng giao thông đường thủy"
+    ],
+    [
+      "cản trở giao thông đường thủy",
+      "gây thiệt hại"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

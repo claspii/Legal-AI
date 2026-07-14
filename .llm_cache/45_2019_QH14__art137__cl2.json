@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động nữ",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chuyển sang làm công việc nhẹ hơn, an toàn hơn",
+    "giảm bớt 01 giờ làm việc hằng ngày",
+    "không bị cắt giảm tiền lương và quyền, lợi ích",
+    "mang thai",
+    "nuôi con dưới 12 tháng tuổi"
+  ],
+  "actor_actions": [
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "lao động nữ",
+      "có thông báo cho người sử dụng lao động biết"
+    ],
+    [
+      "lao động nữ",
+      "nuôi con dưới 12 tháng tuổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "chuyển sang làm công việc nhẹ hơn, an toàn hơn"
+    ],
+    [
+      "người sử dụng lao động",
+      "giảm bớt 01 giờ làm việc hằng ngày"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "lao động nữ",
+      "nuôi con dưới 12 tháng tuổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "công việc nhẹ hơn, an toàn hơn"
+    ],
+    [
+      "người sử dụng lao động",
+      "01 giờ làm việc hằng ngày"
+    ]
+  ]
+}

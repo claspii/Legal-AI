@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "đại diện các bên thương lượng",
+    "người ghi biên bản",
+    "các bên thương lượng"
+  ],
+  "actions": [
+    "lập biên bản",
+    "ghi rõ nội dung",
+    "có chữ ký",
+    "công bố rộng rãi",
+    "công khai"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "công bố rộng rãi"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "công khai"
+    ],
+    [
+      "đại diện các bên thương lượng",
+      "có chữ ký"
+    ],
+    [
+      "người ghi biên bản",
+      "có chữ ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "biên bản thương lượng tập thể"
+    ],
+    [
+      "biên bản thương lượng tập thể",
+      "nội dung đã được các bên thống nhất"
+    ],
+    [
+      "biên bản thương lượng tập thể",
+      "nội dung còn ý kiến khác nhau"
+    ],
+    [
+      "biên bản thương lượng tập thể",
+      "chữ ký"
+    ],
+    [
+      "biên bản thương lượng tập thể",
+      "người lao động"
+    ]
+  ]
+}

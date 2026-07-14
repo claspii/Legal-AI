@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "vi phạm quy định về giam giữ",
+    "gây rối",
+    "chống lại mệnh lệnh",
+    "hủy hoại tài sản",
+    "cố ý làm hư hỏng tài sản",
+    "cưỡng đoạt tài sản",
+    "đưa vào chất ma túy",
+    "tàng trữ chất ma túy"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi vi phạm quy định của pháp luật về giam giữ"
+    ],
+    [
+      "người",
+      "gây rối"
+    ],
+    [
+      "người",
+      "chống lại mệnh lệnh của người có thẩm quyền trong quản lý giam giữ"
+    ],
+    [
+      "người",
+      "hủy hoại tài sản"
+    ],
+    [
+      "người",
+      "cố ý làm hư hỏng tài sản"
+    ],
+    [
+      "người",
+      "cưỡng đoạt tài sản"
+    ],
+    [
+      "người",
+      "đưa vào chất ma túy, thuốc gây nghiện thuốc hướng thần"
+    ],
+    [
+      "người",
+      "tàng trữ chất ma túy, thuốc gây nghiện thuốc hướng thần"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về giam giữ",
+      "xử lý kỷ luật"
+    ],
+    [
+      "vi phạm quy định về giam giữ",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "vi phạm quy định về giam giữ",
+      "kết án"
+    ],
+    [
+      "tội vi phạm quy định về giam giữ",
+      "hình phạt tù"
+    ],
+    [
+      "tội vi phạm quy định về giam giữ",
+      "cấm cư trú"
+    ],
+    [
+      "tội vi phạm quy định về giam giữ",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ]
+}

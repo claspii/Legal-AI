@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội",
+    "tù binh",
+    "hàng binh"
+  ],
+  "actions": [
+    "xâm phạm nghĩa vụ, trách nhiệm của quân nhân",
+    "xâm phạm trách nhiệm của người phối thuộc với quân đội trong chiến đấu, phục vụ chiến đấu",
+    "ngược đãi",
+    "phá hoại hòa bình",
+    "chống loài người",
+    "tội phạm chiến tranh"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "ngược đãi tù binh"
+    ],
+    [
+      "người",
+      "ngược đãi hàng binh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tù binh",
+      "hàng binh"
+    ],
+    [
+      "nghĩa vụ của quân nhân",
+      "trách nhiệm của quân nhân"
+    ],
+    [
+      "chiến đấu",
+      "phục vụ chiến đấu"
+    ],
+    [
+      "phá hoại hòa bình",
+      "chống loài người"
+    ],
+    [
+      "chống loài người",
+      "tội phạm chiến tranh"
+    ]
+  ]
+}

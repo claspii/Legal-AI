@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [
+    "chiếm hữu"
+  ],
+  "actors": [
+    "chủ thể",
+    "chủ sở hữu",
+    "người không phải là chủ sở hữu"
+  ],
+  "actions": [
+    "nắm giữ",
+    "chi phối",
+    "xác lập quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "nắm giữ"
+    ],
+    [
+      "chủ thể",
+      "chi phối tài sản"
+    ],
+    [
+      "người không phải là chủ sở hữu",
+      "xác lập quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "chiếm hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "chiếm hữu của chủ sở hữu",
+      "chiếm hữu của người không phải là chủ sở hữu"
+    ]
+  ]
+}

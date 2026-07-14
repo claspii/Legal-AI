@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ sở hữu gia cầm",
+    "người bắt được gia cầm"
+  ],
+  "actions": [
+    "bắt được",
+    "thông báo công khai",
+    "nhận lại",
+    "nuôi giữ",
+    "thanh toán",
+    "hưởng hoa lợi",
+    "bồi thường thiệt hại",
+    "làm chết gia cầm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bị thất lạc"
+    ],
+    [
+      "người khác",
+      "bắt được"
+    ],
+    [
+      "người bắt được gia cầm",
+      "thông báo công khai"
+    ],
+    [
+      "chủ sở hữu gia cầm",
+      "nhận lại"
+    ],
+    [
+      "người bắt được gia cầm",
+      "nuôi giữ"
+    ],
+    [
+      "chủ sở hữu gia cầm",
+      "thanh toán"
+    ],
+    [
+      "người bắt được gia cầm",
+      "hưởng hoa lợi"
+    ],
+    [
+      "người bắt được gia cầm",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gia cầm bị thất lạc",
+      "quyền sở hữu"
+    ],
+    [
+      "gia cầm bị thất lạc",
+      "hoa lợi do gia cầm sinh ra"
+    ],
+    [
+      "tiền công nuôi giữ",
+      "chi phí khác"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người",
+    "người bị kết án"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "xét xử",
+    "phạm nhiều tội",
+    "tổng hợp hình phạt",
+    "cộng lại",
+    "chuyển đổi",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "xét xử"
+    ],
+    [
+      "tòa án",
+      "tổng hợp hình phạt"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt chính",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt chính",
+      "tù có thời hạn"
+    ],
+    [
+      "hình phạt chính",
+      "tù chung thân"
+    ],
+    [
+      "hình phạt chính",
+      "tử hình"
+    ],
+    [
+      "hình phạt chính",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt chính",
+      "trục xuất"
+    ],
+    [
+      "hình phạt bổ sung",
+      "hình phạt tiền"
+    ],
+    [
+      "tù có thời hạn",
+      "30 năm"
+    ]
+  ]
+}

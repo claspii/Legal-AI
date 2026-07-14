@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên gửi tài sản",
+    "bên giữ"
+  ],
+  "actions": [
+    "báo",
+    "bảo quản",
+    "chịu",
+    "bồi thường",
+    "trả tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên gửi tài sản",
+      "báo"
+    ],
+    [
+      "bên giữ",
+      "biết tình trạng tài sản"
+    ],
+    [
+      "bên gửi",
+      "tự chịu"
+    ],
+    [
+      "bên gửi",
+      "bồi thường"
+    ],
+    [
+      "bên gửi tài sản",
+      "trả đủ tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên gửi tài sản",
+      "bên giữ"
+    ],
+    [
+      "tài sản gửi giữ",
+      "bảo quản"
+    ],
+    [
+      "tài sản gửi giữ",
+      "tiêu hủy"
+    ],
+    [
+      "tài sản gửi giữ",
+      "hư hỏng"
+    ],
+    [
+      "không báo",
+      "tài sản bị tiêu hủy hoặc hư hỏng"
+    ]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người bị thiệt hại",
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "người được lợi về tài sản"
+  ],
+  "actions": [
+    "hoàn trả tài sản",
+    "thanh toán chi phí",
+    "bỏ ra để bảo quản",
+    "làm tăng giá trị của tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "thanh toán chi phí"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "thanh toán chi phí"
+    ],
+    [
+      "người bị thiệt hại",
+      "thanh toán chi phí"
+    ],
+    [
+      "người chiếm hữu",
+      "bỏ ra để bảo quản"
+    ],
+    [
+      "người sử dụng tài sản",
+      "bỏ ra để bảo quản"
+    ],
+    [
+      "người được lợi về tài sản",
+      "bỏ ra để bảo quản"
+    ],
+    [
+      "người chiếm hữu",
+      "làm tăng giá trị của tài sản"
+    ],
+    [
+      "người sử dụng tài sản",
+      "làm tăng giá trị của tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "hoàn trả tài sản"
+    ],
+    [
+      "người chiếm hữu",
+      "chiếm hữu tài sản không có căn cứ pháp luật"
+    ],
+    [
+      "người sử dụng tài sản",
+      "sử dụng tài sản không có căn cứ pháp luật"
+    ],
+    [
+      "người được lợi về tài sản",
+      "được lợi về tài sản không có căn cứ pháp luật"
+    ],
+    [
+      "chi phí cần thiết",
+      "bảo quản tài sản"
+    ],
+    [
+      "chi phí cần thiết",
+      "làm tăng giá trị của tài sản"
+    ]
+  ]
+}

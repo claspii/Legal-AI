@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [
+    "người lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "làm việc",
+    "trả lương",
+    "chịu sự quản lý",
+    "chịu sự điều hành",
+    "chịu sự giám sát"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người lao động",
+      "chịu sự quản lý"
+    ],
+    [
+      "người lao động",
+      "chịu sự điều hành"
+    ],
+    [
+      "người lao động",
+      "chịu sự giám sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "lương"
+    ],
+    [
+      "người lao động",
+      "độ tuổi lao động tối thiểu"
+    ]
+  ]
+}

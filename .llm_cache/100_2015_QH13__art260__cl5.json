@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn giao thông đường bộ",
+    "ngăn chặn kịp thời",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vi phạm quy định về an toàn giao thông đường bộ",
+      "hậu quả gây thiệt hại cho tính mạng"
+    ],
+    [
+      "vi phạm quy định về an toàn giao thông đường bộ",
+      "hậu quả gây thiệt hại cho sức khỏe"
+    ],
+    [
+      "vi phạm quy định về an toàn giao thông đường bộ",
+      "hậu quả gây thiệt hại cho tài sản của người khác"
+    ]
+  ]
+}

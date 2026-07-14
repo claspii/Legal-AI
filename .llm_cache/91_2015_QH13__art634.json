@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người làm chứng",
+    "người khác"
+  ],
+  "actions": [
+    "viết",
+    "đánh máy",
+    "ký",
+    "điểm chỉ",
+    "xác nhận"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "viết bản di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "đánh máy bản di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "ký vào bản di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "điểm chỉ vào bản di chúc"
+    ],
+    [
+      "người khác",
+      "viết bản di chúc"
+    ],
+    [
+      "người khác",
+      "đánh máy bản di chúc"
+    ],
+    [
+      "người làm chứng",
+      "xác nhận chữ ký"
+    ],
+    [
+      "người làm chứng",
+      "xác nhận điểm chỉ"
+    ],
+    [
+      "người làm chứng",
+      "ký vào bản di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lập di chúc",
+      "bản di chúc"
+    ],
+    [
+      "người làm chứng",
+      "bản di chúc"
+    ],
+    [
+      "ký",
+      "điểm chỉ"
+    ]
+  ]
+}

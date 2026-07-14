@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "chuyển đổi hình thức",
+    "chấm dứt tồn tại",
+    "được thành lập",
+    "kế thừa quyền, nghĩa vụ dân sự"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "chuyển đổi hình thức"
+    ],
+    [
+      "pháp nhân được chuyển đổi",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân chuyển đổi",
+      "được thành lập"
+    ],
+    [
+      "pháp nhân chuyển đổi",
+      "kế thừa quyền, nghĩa vụ dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "chuyển đổi hình thức"
+    ],
+    [
+      "pháp nhân được chuyển đổi",
+      "pháp nhân chuyển đổi"
+    ],
+    [
+      "chấm dứt tồn tại",
+      "được thành lập"
+    ],
+    [
+      "pháp nhân chuyển đổi",
+      "quyền, nghĩa vụ dân sự"
+    ]
+  ]
+}

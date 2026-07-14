@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "cấm kinh doanh",
+    "cấm lưu hành",
+    "cấm sử dụng",
+    "chưa được phép lưu hành",
+    "chưa được phép sử dụng",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "thu lợi bất chính",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "vi phạm",
+    "có tổ chức",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "có tính chất chuyên nghiệp",
+    "tái phạm nguy hiểm",
+    "bị đình chỉ hoạt động",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "nhà nước",
+      "cấm kinh doanh"
+    ],
+    [
+      "nhà nước",
+      "cấm lưu hành"
+    ],
+    [
+      "nhà nước",
+      "cấm sử dụng"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàng trữ hàng cấm",
+      "phạt tiền"
+    ],
+    [
+      "tàng trữ hàng cấm",
+      "phạt tù"
+    ],
+    [
+      "hàng hóa",
+      "cấm kinh doanh"
+    ],
+    [
+      "hàng hóa",
+      "cấm lưu hành"
+    ],
+    [
+      "hàng hóa",
+      "cấm sử dụng"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "trị giá hàng phạm pháp"
+    ],
+    [
+      "phạm tội",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

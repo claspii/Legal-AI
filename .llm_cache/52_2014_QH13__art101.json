@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan đăng ký hộ tịch",
+    "tòa án",
+    "người được yêu cầu xác định là cha, mẹ, con",
+    "các bên",
+    "cá nhân",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "giải quyết việc xác định cha, mẹ, con",
+    "xác định cha, mẹ, con",
+    "ghi chú",
+    "gửi"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan đăng ký hộ tịch",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "tòa án",
+      "giải quyết việc xác định cha, mẹ, con"
+    ],
+    [
+      "quyết định của tòa án",
+      "gửi cho cơ quan đăng ký hộ tịch"
+    ],
+    [
+      "cơ quan đăng ký hộ tịch",
+      "ghi chú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thẩm quyền",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "cơ quan đăng ký hộ tịch",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "tòa án",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "không có tranh chấp",
+      "cơ quan đăng ký hộ tịch"
+    ],
+    [
+      "có tranh chấp",
+      "tòa án"
+    ],
+    [
+      "người được yêu cầu xác định là cha, mẹ, con đã chết",
+      "tòa án"
+    ],
+    [
+      "quyết định của tòa án",
+      "ghi chú"
+    ],
+    [
+      "pháp luật về hộ tịch",
+      "ghi chú"
+    ]
+  ]
+}

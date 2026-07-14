@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "giao kết hợp đồng",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thực hiện công việc"
+    ],
+    [
+      "người lao động",
+      "giao kết hợp đồng"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công việc theo hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "địa điểm làm việc",
+      "hợp đồng lao động"
+    ]
+  ]
+}

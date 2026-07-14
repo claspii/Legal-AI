@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "mỗi người"
+  ],
+  "actions": [
+    "kết hôn",
+    "thừa kế riêng",
+    "tặng cho riêng",
+    "chia riêng",
+    "phục vụ",
+    "hình thành"
+  ],
+  "actor_actions": [
+    [
+      "mỗi người",
+      "có"
+    ],
+    [
+      "vợ",
+      "kết hôn"
+    ],
+    [
+      "chồng",
+      "kết hôn"
+    ],
+    [
+      "vợ",
+      "thừa kế riêng"
+    ],
+    [
+      "chồng",
+      "thừa kế riêng"
+    ],
+    [
+      "vợ",
+      "tặng cho riêng"
+    ],
+    [
+      "chồng",
+      "tặng cho riêng"
+    ],
+    [
+      "tài sản",
+      "hình thành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản mà mỗi người có trước khi kết hôn"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản được thừa kế riêng"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản được tặng cho riêng trong thời kỳ hôn nhân"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản được chia riêng cho vợ, chồng"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản phục vụ nhu cầu thiết yếu của vợ, chồng"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "tài sản được hình thành từ tài sản riêng của vợ, chồng"
+    ],
+    [
+      "tài sản riêng",
+      "hoa lợi, lợi tức phát sinh"
+    ]
+  ]
+}

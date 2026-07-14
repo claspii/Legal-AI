@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "ký quỹ"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "tổ chức tín dụng",
+    "bên có quyền"
+  ],
+  "actions": [
+    "ký quỹ",
+    "gửi một khoản tiền",
+    "thực hiện nghĩa vụ",
+    "thanh toán",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "gửi một khoản tiền"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "tổ chức tín dụng",
+      "thanh toán"
+    ],
+    [
+      "tổ chức tín dụng",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ký quỹ",
+      "nghĩa vụ"
+    ],
+    [
+      "tổ chức tín dụng",
+      "tài khoản phong tỏa"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "thanh toán",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "ký quỹ",
+      "bảo đảm việc thực hiện nghĩa vụ"
+    ]
+  ]
+}

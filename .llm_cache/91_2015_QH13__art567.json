@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên ủy quyền",
+    "bên được ủy quyền"
+  ],
+  "actions": [
+    "cung cấp thông tin",
+    "cung cấp tài liệu",
+    "cung cấp phương tiện",
+    "chịu trách nhiệm",
+    "thanh toán chi phí",
+    "trả thù lao"
+  ],
+  "actor_actions": [
+    [
+      "bên ủy quyền",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên ủy quyền",
+      "cung cấp tài liệu"
+    ],
+    [
+      "bên ủy quyền",
+      "cung cấp phương tiện"
+    ],
+    [
+      "bên ủy quyền",
+      "chịu trách nhiệm"
+    ],
+    [
+      "bên ủy quyền",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên ủy quyền",
+      "trả thù lao"
+    ],
+    [
+      "bên được ủy quyền",
+      "thực hiện công việc"
+    ],
+    [
+      "bên được ủy quyền",
+      "thực hiện cam kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên ủy quyền",
+      "bên được ủy quyền"
+    ],
+    [
+      "thông tin",
+      "tài liệu"
+    ],
+    [
+      "thông tin",
+      "phương tiện"
+    ],
+    [
+      "chi phí hợp lý",
+      "thù lao"
+    ]
+  ]
+}

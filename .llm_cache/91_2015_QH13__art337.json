@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên được bảo lãnh"
+  ],
+  "actions": [
+    "hưởng thù lao",
+    "có thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "hưởng thù lao"
+    ],
+    [
+      "bên bảo lãnh",
+      "có thỏa thuận"
+    ],
+    [
+      "bên được bảo lãnh",
+      "có thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thù lao",
+      "thỏa thuận"
+    ],
+    [
+      "bên bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "thù lao",
+      "bên bảo lãnh"
+    ]
+  ]
+}

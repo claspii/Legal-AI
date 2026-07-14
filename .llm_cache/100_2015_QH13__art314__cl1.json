@@ -1,0 +1,107 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tàu",
+    "thuyền"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cho phép xây nhà",
+    "tự ý xây nhà",
+    "gây nổ",
+    "gây cháy",
+    "đốt rừng làm nương rẫy",
+    "làm đổ cây",
+    "đào hố",
+    "đóng cọc",
+    "xây nhà",
+    "thả neo",
+    "lắp các thiết bị điện",
+    "thi công đường điện"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "cho phép xây nhà"
+    ],
+    [
+      "người",
+      "tự ý xây nhà"
+    ],
+    [
+      "người",
+      "gây nổ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "hành lang bảo vệ an toàn công trình điện",
+      "công trình điện"
+    ],
+    [
+      "hành lang bảo vệ đường cáp điện ngầm",
+      "đường cáp điện ngầm"
+    ],
+    [
+      "an toàn vận hành công trình điện",
+      "công trình điện"
+    ],
+    [
+      "xử lý kỷ luật",
+      "vi phạm hành chính"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "vi phạm hành chính"
+    ]
+  ]
+}

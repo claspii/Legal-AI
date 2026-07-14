@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "tòa án",
+    "cơ quan tiến hành tố tụng"
+  ],
+  "actions": [
+    "ngăn chặn",
+    "làm giảm bớt tác hại của tội phạm",
+    "sửa chữa",
+    "bồi thường thiệt hại",
+    "khắc phục hậu quả",
+    "gây thiệt hại",
+    "hợp tác",
+    "quyết định hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "ngăn chặn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "làm giảm bớt tác hại của tội phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "sửa chữa"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "khắc phục hậu quả"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây thiệt hại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hợp tác"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "tội phạm"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "thiệt hại"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "hậu quả"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "bản án"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "quyết định hình phạt"
+    ]
+  ]
+}

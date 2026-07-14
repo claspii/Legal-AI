@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có thẩm quyền",
+    "người",
+    "người tố giác",
+    "người báo tin về tội phạm",
+    "người bị hại",
+    "nhân chứng"
+  ],
+  "actions": [
+    "truy cứu trách nhiệm hình sự",
+    "phạt tù",
+    "thực hiện tội phạm",
+    "bỏ trốn",
+    "cản trở điều tra",
+    "cản trở truy tố",
+    "cản trở xét xử",
+    "thực hiện hành vi",
+    "gây ảnh hưởng xấu",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người nào có thẩm quyền",
+      "không truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "biết rõ là có tội"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "bỏ trốn"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "thực hiện hành vi cản trở điều tra"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người bị hại",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không truy cứu trách nhiệm hình sự",
+      "tội không truy cứu trách nhiệm hình sự người có tội"
+    ],
+    [
+      "người có thẩm quyền",
+      "không truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "bỏ trốn"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "cản trở điều tra"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "trả thù người tố giác"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "trả thù người báo tin về tội phạm"
+    ],
+    [
+      "người không bị truy cứu trách nhiệm hình sự",
+      "trả thù người bị hại"
+    ]
+  ]
+}

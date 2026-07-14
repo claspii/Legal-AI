@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm",
+    "bên nhận bảo đảm",
+    "tổ chức định giá tài sản",
+    "tổ chức định giá"
+  ],
+  "actions": [
+    "thỏa thuận về giá tài sản bảo đảm",
+    "định giá thông qua tổ chức định giá tài sản",
+    "định giá",
+    "xử lý tài sản bảo đảm",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "thỏa thuận về giá tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "thỏa thuận về giá tài sản bảo đảm"
+    ],
+    [
+      "bên bảo đảm",
+      "định giá thông qua tổ chức định giá tài sản"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "định giá thông qua tổ chức định giá tài sản"
+    ],
+    [
+      "tài sản",
+      "định giá thông qua tổ chức định giá tài sản"
+    ],
+    [
+      "tổ chức định giá",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bảo đảm",
+      "tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "tài sản bảo đảm"
+    ],
+    [
+      "định giá tài sản bảo đảm",
+      "giá thị trường"
+    ],
+    [
+      "tổ chức định giá",
+      "thiệt hại"
+    ]
+  ]
+}

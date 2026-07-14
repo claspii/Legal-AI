@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giám hộ",
+    "người chưa thành niên",
+    "cha",
+    "mẹ",
+    "tòa án",
+    "người giám hộ",
+    "ông",
+    "bà"
+  ],
+  "actions": [
+    "giám hộ",
+    "mất năng lực hành vi dân sự",
+    "có khó khăn trong nhận thức, làm chủ hành vi",
+    "bị hạn chế năng lực hành vi dân sự",
+    "tuyên bố hạn chế quyền đối với con"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "tuyên bố hạn chế quyền đối với con"
+    ],
+    [
+      "cha",
+      "giám hộ"
+    ],
+    [
+      "mẹ",
+      "giám hộ"
+    ],
+    [
+      "ông",
+      "giám hộ"
+    ],
+    [
+      "bà",
+      "giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được giám hộ",
+      "người chưa thành niên"
+    ],
+    [
+      "người được giám hộ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người được giám hộ",
+      "người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "cha, mẹ",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "cha, mẹ",
+      "có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "cha, mẹ",
+      "bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "cha, mẹ",
+      "không có điều kiện chăm sóc, giáo dục con"
+    ]
+  ]
+}

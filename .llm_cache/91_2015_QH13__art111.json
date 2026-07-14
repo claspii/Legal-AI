@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [
+    "vật chia được",
+    "vật không chia được"
+  ],
+  "actors": [],
+  "actions": [
+    "phân chia",
+    "giữ nguyên tính chất và tính năng sử dụng ban đầu",
+    "trị giá thành tiền"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vật chia được",
+      "tính chất"
+    ],
+    [
+      "vật chia được",
+      "tính năng sử dụng ban đầu"
+    ],
+    [
+      "vật không chia được",
+      "tính chất"
+    ],
+    [
+      "vật không chia được",
+      "tính năng sử dụng ban đầu"
+    ],
+    [
+      "phân chia",
+      "vật không chia được"
+    ],
+    [
+      "trị giá thành tiền",
+      "vật không chia được"
+    ]
+  ]
+}

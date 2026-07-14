@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "xâm nhập trái phép"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "xâm nhập trái phép",
+      "mạng máy tính"
+    ],
+    [
+      "xâm nhập trái phép",
+      "mạng viễn thông"
+    ],
+    [
+      "xâm nhập trái phép",
+      "phương tiện điện tử"
+    ],
+    [
+      "hệ thống dữ liệu",
+      "bí mật nhà nước"
+    ],
+    [
+      "hệ thống thông tin",
+      "quốc phòng"
+    ],
+    [
+      "hệ thống thông tin",
+      "an ninh"
+    ],
+    [
+      "thu lợi bất chính",
+      "500.000.000 đồng"
+    ],
+    [
+      "gây thiệt hại",
+      "1.000.000.000 đồng"
+    ]
+  ]
+}

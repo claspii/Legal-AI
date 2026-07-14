@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người khác"
+  ],
+  "actions": [
+    "để lại tài sản",
+    "hưởng di sản"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "để lại tài sản"
+    ],
+    [
+      "cá nhân",
+      "hưởng di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "di sản"
+    ],
+    [
+      "di chúc",
+      "pháp luật"
+    ]
+  ]
+}

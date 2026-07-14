@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "người đại diện theo pháp luật của pháp nhân",
+    "tòa án",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "chỉ định",
+    "đại diện"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "chỉ định"
+    ],
+    [
+      "tòa án",
+      "chỉ định"
+    ],
+    [
+      "người đại diện theo pháp luật của pháp nhân",
+      "đại diện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "người đại diện theo pháp luật của pháp nhân"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [
+    "giao dịch dân sự"
+  ],
+  "actors": [],
+  "actions": [
+    "làm phát sinh",
+    "thay đổi",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "hợp đồng"
+    ],
+    [
+      "giao dịch dân sự",
+      "hành vi pháp lý đơn phương"
+    ],
+    [
+      "hợp đồng",
+      "quyền, nghĩa vụ dân sự"
+    ],
+    [
+      "hành vi pháp lý đơn phương",
+      "quyền, nghĩa vụ dân sự"
+    ]
+  ]
+}

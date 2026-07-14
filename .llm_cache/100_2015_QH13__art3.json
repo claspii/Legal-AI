@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "người",
+    "người chủ mưu",
+    "người cầm đầu",
+    "người chỉ huy",
+    "pháp nhân thương mại phạm tội",
+    "pháp nhân thương mại",
+    "cơ quan tiến hành tố tụng"
+  ],
+  "actions": [
+    "phạm tội",
+    "phát hiện kịp thời",
+    "xử lý nhanh chóng",
+    "xử lý công minh",
+    "áp dụng hình phạt nhẹ hơn hình phạt tù",
+    "giám sát, giáo dục",
+    "chấp hành hình phạt",
+    "lao động",
+    "học tập",
+    "trở thành người có ích cho xã hội"
+  ],
+  "actor_actions": [
+    [
+      "hành vi phạm tội",
+      "phát hiện kịp thời"
+    ],
+    [
+      "hành vi phạm tội",
+      "xử lý nhanh chóng"
+    ],
+    [
+      "hành vi phạm tội",
+      "xử lý công minh"
+    ],
+    [
+      "người phạm tội",
+      "bình đẳng trước pháp luật"
+    ],
+    [
+      "người lần đầu phạm tội ít nghiêm trọng",
+      "áp dụng hình phạt nhẹ hơn hình phạt tù"
+    ],
+    [
+      "người lần đầu phạm tội ít nghiêm trọng",
+      "giám sát, giáo dục"
+    ],
+    [
+      "người bị phạt tù",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị phạt tù",
+      "lao động"
+    ],
+    [
+      "người bị phạt tù",
+      "học tập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người phạm tội",
+      "nguyên tắc xử lý"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "nguyên tắc xử lý"
+    ],
+    [
+      "hành vi phạm tội",
+      "phát hiện kịp thời"
+    ],
+    [
+      "hành vi phạm tội",
+      "xử lý nhanh chóng"
+    ],
+    [
+      "hành vi phạm tội",
+      "xử lý công minh"
+    ],
+    [
+      "người phạm tội",
+      "bình đẳng trước pháp luật"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "bình đẳng trước pháp luật"
+    ],
+    [
+      "hình phạt",
+      "giảm thời hạn chấp hành hình phạt"
+    ]
+  ]
+}

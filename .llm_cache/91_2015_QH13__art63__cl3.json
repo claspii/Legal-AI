@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "cha",
+    "mẹ",
+    "người được giám hộ"
+  ],
+  "actions": [
+    "chấm dứt việc giám hộ",
+    "thanh toán tài sản",
+    "chuyển giao quyền",
+    "chuyển giao nghĩa vụ phát sinh từ giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "thanh toán tài sản"
+    ],
+    [
+      "người giám hộ",
+      "chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt việc giám hộ",
+      "thanh toán tài sản"
+    ],
+    [
+      "chấm dứt việc giám hộ",
+      "chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự"
+    ],
+    [
+      "người giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "cha, mẹ",
+      "người được giám hộ"
+    ],
+    [
+      "tài sản",
+      "quyền, nghĩa vụ phát sinh từ giao dịch dân sự"
+    ]
+  ]
+}

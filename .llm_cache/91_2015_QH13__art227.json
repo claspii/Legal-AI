@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu của nguyên vật liệu",
+    "người dùng nguyên vật liệu",
+    "người chế biến"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "chế biến",
+    "thanh toán giá trị nguyên vật liệu",
+    "bồi thường thiệt hại",
+    "yêu cầu giao lại vật mới"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu của nguyên vật liệu",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "người dùng nguyên vật liệu",
+      "chế biến"
+    ],
+    [
+      "người dùng nguyên vật liệu",
+      "thanh toán giá trị nguyên vật liệu"
+    ],
+    [
+      "người dùng nguyên vật liệu",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu nguyên vật liệu",
+      "yêu cầu giao lại vật mới"
+    ],
+    [
+      "chủ sở hữu nguyên vật liệu bị chế biến không ngay tình",
+      "yêu cầu người chế biến bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "chế biến"
+    ],
+    [
+      "nguyên vật liệu",
+      "vật mới"
+    ],
+    [
+      "chủ sở hữu nguyên vật liệu",
+      "người chế biến"
+    ],
+    [
+      "ngay tình",
+      "không ngay tình"
+    ]
+  ]
+}

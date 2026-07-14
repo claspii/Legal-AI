@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "điều khiển tàu bay",
+    "vi phạm các quy định về hàng không"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều khiển tàu bay"
+    ],
+    [
+      "người",
+      "vi phạm các quy định về hàng không"
+    ]
+  ],
+  "related_concepts": []
+}

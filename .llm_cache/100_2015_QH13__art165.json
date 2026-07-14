@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "người phạm tội"
+  ],
+  "actions": [
+    "thực hiện hành vi cản trở",
+    "tham gia hoạt động",
+    "bị xử lý kỷ luật",
+    "bị xử phạt vi phạm hành chính",
+    "vi phạm",
+    "phạt cảnh cáo",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "lợi dụng chức vụ, quyền hạn",
+    "phạm tội 02 lần trở lên",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi cản trở"
+    ],
+    [
+      "người khác",
+      "tham gia hoạt động"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lý do giới",
+      "hành vi cản trở"
+    ],
+    [
+      "hành vi cản trở",
+      "quyền bình đẳng giới"
+    ],
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "phạm tội"
+    ],
+    [
+      "phạm tội",
+      "hình phạt"
+    ],
+    [
+      "phạm tội 02 lần trở lên",
+      "hình phạt tăng nặng"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "hình phạt bổ sung"
+    ],
+    [
+      "cấm hành nghề hoặc làm công việc nhất định",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

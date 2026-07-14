@@ -1,0 +1,98 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "hành khách",
+    "tổ bay",
+    "nhân viên mặt đất",
+    "người tại cảng hàng không, sân bay"
+  ],
+  "actions": [
+    "thực hiện",
+    "cản trở giao thông đường không",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "đặt các chướng ngại vật",
+    "di chuyển trái phép",
+    "làm sai lệch",
+    "che khuất",
+    "phá hủy các biển hiệu, tín hiệu an toàn giao thông đường không",
+    "sử dụng sai",
+    "làm nhiễu các tần số thông tin liên lạc",
+    "cố ý cung cấp thông tin sai",
+    "làm hư hỏng trang thiết bị",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "cản trở giao thông đường không"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "đặt các chướng ngại vật"
+    ],
+    [
+      "người",
+      "di chuyển trái phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao thông đường không",
+      "an toàn giao thông đường không"
+    ],
+    [
+      "giao thông đường không",
+      "tàu bay"
+    ],
+    [
+      "giao thông đường không",
+      "cảng hàng không, sân bay"
+    ],
+    [
+      "giao thông đường không",
+      "trang bị, thiết bị hàng không dân dụng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tài sản",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "xử lý kỷ luật",
+      "xử phạt vi phạm hành chính"
+    ]
+  ]
+}

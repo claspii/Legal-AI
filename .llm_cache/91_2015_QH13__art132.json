@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người đại diện",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người bị hạn chế năng lực hành vi dân sự",
+    "người bị nhầm lẫn",
+    "người bị lừa dối"
+  ],
+  "actions": [
+    "yêu cầu tuyên bố giao dịch dân sự vô hiệu",
+    "xác lập giao dịch",
+    "thực hiện giao dịch",
+    "biết giao dịch được xác lập",
+    "chấm dứt hành vi đe dọa, cưỡng ép",
+    "không nhận thức và làm chủ được hành vi",
+    "tuân thủ quy định về hình thức"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "tuyên bố giao dịch dân sự vô hiệu"
+    ],
+    [
+      "người đại diện",
+      "biết hoặc phải biết người được đại diện tự mình xác lập, thực hiện giao dịch"
+    ],
+    [
+      "người bị nhầm lẫn",
+      "biết hoặc phải biết giao dịch được xác lập do bị nhầm lẫn"
+    ],
+    [
+      "người bị lừa dối",
+      "biết hoặc phải biết giao dịch được xác lập do bị lừa dối"
+    ],
+    [
+      "người có hành vi đe dọa, cưỡng ép",
+      "chấm dứt hành vi đe dọa, cưỡng ép"
+    ],
+    [
+      "người không nhận thức và làm chủ được hành vi của mình",
+      "xác lập giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu",
+      "yêu cầu tòa án tuyên bố giao dịch dân sự vô hiệu"
+    ],
+    [
+      "giao dịch dân sự",
+      "giao dịch dân sự vô hiệu"
+    ],
+    [
+      "giao dịch dân sự",
+      "hình thức"
+    ],
+    [
+      "giao dịch dân sự",
+      "có hiệu lực"
+    ]
+  ]
+}

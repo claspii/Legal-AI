@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "ký kết",
+    "công bố"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "công bố"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "ký kết"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "công bố"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ]
+  ]
+}

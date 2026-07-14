@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [
+    "tội phạm ít nghiêm trọng",
+    "tội phạm nghiêm trọng",
+    "tội phạm rất nghiêm trọng",
+    "tội phạm đặc biệt nghiêm trọng"
+  ],
+  "actors": [],
+  "actions": [
+    "phân loại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội phạm",
+      "tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội"
+    ],
+    [
+      "tội phạm",
+      "khung hình phạt"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "phạt tiền"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "phạt tù đến 03 năm"
+    ],
+    [
+      "tội phạm nghiêm trọng",
+      "tù từ trên 03 năm đến 07 năm"
+    ],
+    [
+      "tội phạm rất nghiêm trọng",
+      "tù từ trên 07 năm đến 15 năm"
+    ],
+    [
+      "tội phạm đặc biệt nghiêm trọng",
+      "tù từ trên 15 năm đến 20 năm"
+    ],
+    [
+      "tội phạm đặc biệt nghiêm trọng",
+      "tù chung thân"
+    ],
+    [
+      "tội phạm đặc biệt nghiêm trọng",
+      "tử hình"
+    ]
+  ]
+}

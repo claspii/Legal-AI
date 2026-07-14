@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người thừa kế không là cá nhân",
+    "người thừa kế"
+  ],
+  "actions": [
+    "lập di chúc",
+    "định đoạt tài sản",
+    "để lại tài sản",
+    "hưởng di sản"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "lập di chúc"
+    ],
+    [
+      "cá nhân",
+      "định đoạt tài sản của mình"
+    ],
+    [
+      "cá nhân",
+      "để lại tài sản của mình cho người thừa kế theo pháp luật"
+    ],
+    [
+      "cá nhân",
+      "hưởng di sản theo di chúc hoặc theo pháp luật"
+    ],
+    [
+      "người thừa kế không là cá nhân",
+      "hưởng di sản theo di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền thừa kế",
+      "di chúc"
+    ],
+    [
+      "quyền thừa kế",
+      "tài sản"
+    ],
+    [
+      "quyền thừa kế",
+      "di sản"
+    ],
+    [
+      "di chúc",
+      "tài sản"
+    ],
+    [
+      "di chúc",
+      "di sản"
+    ],
+    [
+      "người thừa kế",
+      "di sản"
+    ]
+  ]
+}

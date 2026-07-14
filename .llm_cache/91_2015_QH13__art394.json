@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị",
+    "bên chậm trả lời",
+    "bên được đề nghị",
+    "các bên"
+  ],
+  "actions": [
+    "trả lời chấp nhận giao kết hợp đồng",
+    "ấn định thời hạn trả lời",
+    "nhận được trả lời",
+    "trả lời",
+    "giao kết hợp đồng",
+    "không đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị",
+      "ấn định thời hạn trả lời"
+    ],
+    [
+      "bên đề nghị",
+      "nhận được trả lời"
+    ],
+    [
+      "bên chậm trả lời",
+      "trả lời"
+    ],
+    [
+      "bên đề nghị",
+      "giao kết hợp đồng"
+    ],
+    [
+      "bên được đề nghị",
+      "trả lời"
+    ],
+    [
+      "bên đề nghị",
+      "không đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn trả lời",
+      "chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "đề nghị",
+      "trả lời chấp nhận"
+    ],
+    [
+      "thông báo chấp nhận giao kết hợp đồng",
+      "lý do khách quan"
+    ]
+  ]
+}

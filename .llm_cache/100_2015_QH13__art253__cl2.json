@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "chiếm đoạt",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "sử dụng người dưới 16 tuổi",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan",
+      "lợi dụng danh nghĩa"
+    ],
+    [
+      "tổ chức",
+      "lợi dụng danh nghĩa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền chất",
+      "sản xuất trái phép chất ma túy"
+    ],
+    [
+      "tiền chất ở thể rắn",
+      "khối lượng"
+    ],
+    [
+      "tiền chất ở thể lỏng",
+      "thể tích"
+    ]
+  ]
+}

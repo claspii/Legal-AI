@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạt tiền",
+    "phạm tội",
+    "áp dụng",
+    "xâm phạm",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "hình phạt chính"
+    ],
+    [
+      "phạt tiền",
+      "hình phạt bổ sung"
+    ],
+    [
+      "người phạm tội",
+      "tình hình tài sản"
+    ],
+    [
+      "tính chất",
+      "mức độ nguy hiểm của tội phạm"
+    ]
+  ]
+}

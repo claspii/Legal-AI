@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "cố ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "vượt quá giới hạn phòng vệ chính đáng",
+    "vượt quá mức cần thiết khi bắt giữ người phạm tội",
+    "phạm tội",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "dẫn đến chết người"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "vượt quá giới hạn phòng vệ chính đáng"
+    ],
+    [
+      "người",
+      "vượt quá mức cần thiết khi bắt giữ người phạm tội"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "dẫn đến chết người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% đến 60%"
+    ],
+    [
+      "phạt tiền",
+      "5.000.000 đồng đến 20.000.000 đồng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "03 năm"
+    ],
+    [
+      "phạt tù",
+      "03 tháng đến 02 năm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "61% trở lên"
+    ],
+    [
+      "phạt tù",
+      "01 năm đến 03 năm"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phòng vệ chính đáng",
+      "bắt giữ người phạm tội"
+    ]
+  ]
+}

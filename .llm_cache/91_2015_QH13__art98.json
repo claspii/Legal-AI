@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "cơ quan nhà nước ở trung ương",
+    "cơ quan nhà nước ở địa phương",
+    "cá nhân",
+    "pháp nhân khác"
+  ],
+  "actions": [
+    "đại diện tham gia quan hệ dân sự",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "đại diện tham gia quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "đại diện tham gia quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "đại diện tham gia quan hệ dân sự"
+    ],
+    [
+      "việc đại diện thông qua cá nhân",
+      "thực hiện"
+    ],
+    [
+      "pháp nhân khác",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đại diện",
+      "quan hệ dân sự"
+    ],
+    [
+      "chức năng",
+      "nhiệm vụ"
+    ],
+    [
+      "nhiệm vụ",
+      "quyền hạn"
+    ],
+    [
+      "quyền hạn",
+      "tổ chức bộ máy"
+    ],
+    [
+      "trình tự",
+      "thủ tục"
+    ]
+  ]
+}

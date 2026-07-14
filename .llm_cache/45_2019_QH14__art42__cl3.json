@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "xây dựng phương án sử dụng lao động",
+    "thực hiện phương án sử dụng lao động",
+    "đào tạo lại",
+    "sử dụng"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "xây dựng phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "ưu tiên đào tạo lại"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiếp tục sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thay đổi cơ cấu",
+      "thay đổi công nghệ"
+    ],
+    [
+      "thay đổi cơ cấu",
+      "ảnh hưởng đến việc làm của nhiều người lao động"
+    ],
+    [
+      "thay đổi công nghệ",
+      "ảnh hưởng đến việc làm của nhiều người lao động"
+    ],
+    [
+      "phương án sử dụng lao động",
+      "Điều 44 của Bộ luật này"
+    ],
+    [
+      "có chỗ làm việc mới",
+      "đào tạo lại người lao động"
+    ]
+  ]
+}

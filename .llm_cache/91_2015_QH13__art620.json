@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người khác",
+    "người quản lý di sản",
+    "người được giao nhiệm vụ phân chia di sản"
+  ],
+  "actions": [
+    "từ chối nhận di sản",
+    "thực hiện nghĩa vụ tài sản",
+    "lập thành văn bản",
+    "gửi",
+    "phân chia di sản"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "từ chối nhận di sản"
+    ],
+    [
+      "người thừa kế",
+      "lập thành văn bản"
+    ],
+    [
+      "người thừa kế",
+      "gửi"
+    ],
+    [
+      "người khác",
+      "thực hiện nghĩa vụ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thừa kế",
+      "di sản"
+    ],
+    [
+      "từ chối nhận di sản",
+      "nghĩa vụ tài sản"
+    ],
+    [
+      "từ chối nhận di sản",
+      "văn bản"
+    ],
+    [
+      "từ chối nhận di sản",
+      "phân chia di sản"
+    ]
+  ]
+}

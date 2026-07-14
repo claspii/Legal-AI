@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "chịu trách nhiệm liên đới",
+    "thực hiện giao dịch"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chịu trách nhiệm liên đới"
+    ],
+    [
+      "chồng",
+      "chịu trách nhiệm liên đới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "trách nhiệm liên đới",
+      "giao dịch"
+    ],
+    [
+      "trách nhiệm liên đới",
+      "nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "nhà nước",
+    "xã hội",
+    "người bị hại",
+    "người đại diện của người bị hại"
+  ],
+  "actions": [
+    "miễn trách nhiệm hình sự",
+    "tiến hành điều tra",
+    "truy tố",
+    "xét xử",
+    "tự thú",
+    "khai rõ sự việc",
+    "góp phần có hiệu quả vào việc phát hiện và điều tra tội phạm",
+    "hạn chế đến mức thấp nhất hậu quả của tội phạm"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người phạm tội",
+      "mắc bệnh hiểm nghèo"
+    ],
+    [
+      "người phạm tội",
+      "tự thú"
+    ],
+    [
+      "người phạm tội",
+      "khai rõ sự việc"
+    ],
+    [
+      "nhà nước",
+      "thừa nhận"
+    ],
+    [
+      "xã hội",
+      "thừa nhận"
+    ],
+    [
+      "người bị hại",
+      "hòa giải"
+    ],
+    [
+      "người bị hại",
+      "đề nghị miễn trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn trách nhiệm hình sự",
+      "chính sách"
+    ],
+    [
+      "miễn trách nhiệm hình sự",
+      "pháp luật"
+    ],
+    [
+      "miễn trách nhiệm hình sự",
+      "tình hình"
+    ],
+    [
+      "miễn trách nhiệm hình sự",
+      "bệnh hiểm nghèo"
+    ],
+    [
+      "miễn trách nhiệm hình sự",
+      "tự thú"
+    ],
+    [
+      "miễn trách nhiệm hình sự",
+      "hòa giải"
+    ],
+    [
+      "hành vi phạm tội",
+      "nguy hiểm cho xã hội"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "gây thiệt hại về tính mạng, sức khỏe, danh dự, nhân phẩm hoặc tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sĩ quan",
+    "quân đội"
+  ],
+  "actions": [
+    "chiếm đoạt chiến lợi phẩm",
+    "hủy hoại chiến lợi phẩm",
+    "phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "gây ảnh hưởng xấu đến uy tín quân đội",
+    "gây hậu quả nghiêm trọng",
+    "gây hậu quả rất nghiêm trọng",
+    "gây hậu quả đặc biệt nghiêm trọng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt chiến lợi phẩm"
+    ],
+    [
+      "người",
+      "hủy hoại chiến lợi phẩm"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt chiến lợi phẩm",
+      "hủy hoại chiến lợi phẩm"
+    ],
+    [
+      "chiến lợi phẩm",
+      "giá trị"
+    ],
+    [
+      "chiến lợi phẩm",
+      "giá trị trong quân sự"
+    ],
+    [
+      "chiến lợi phẩm",
+      "giá trị đặc biệt trong quân sự"
+    ],
+    [
+      "hậu quả",
+      "nghiêm trọng"
+    ],
+    [
+      "hậu quả",
+      "rất nghiêm trọng"
+    ],
+    [
+      "hậu quả",
+      "đặc biệt nghiêm trọng"
+    ]
+  ]
+}

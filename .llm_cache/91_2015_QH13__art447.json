@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán"
+  ],
+  "actions": [
+    "yêu cầu bảo hành",
+    "phát hiện khuyết tật",
+    "sửa chữa",
+    "giảm giá",
+    "đổi vật",
+    "trả lại vật",
+    "lấy lại tiền"
+  ],
+  "actor_actions": [
+    [
+      "bên mua",
+      "yêu cầu bảo hành"
+    ],
+    [
+      "bên mua",
+      "phát hiện khuyết tật"
+    ],
+    [
+      "bên bán",
+      "sửa chữa"
+    ],
+    [
+      "bên bán",
+      "giảm giá"
+    ],
+    [
+      "bên bán",
+      "đổi vật"
+    ],
+    [
+      "bên bán",
+      "trả lại vật"
+    ],
+    [
+      "bên bán",
+      "lấy lại tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn bảo hành",
+      "khuyết tật của vật mua bán"
+    ],
+    [
+      "vật mua bán",
+      "khuyết tật của vật mua bán"
+    ],
+    [
+      "bên mua",
+      "bên bán"
+    ],
+    [
+      "sửa chữa",
+      "giảm giá"
+    ],
+    [
+      "đổi vật",
+      "trả lại vật"
+    ],
+    [
+      "trả lại vật",
+      "lấy lại tiền"
+    ]
+  ]
+}

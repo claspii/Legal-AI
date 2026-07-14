@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người vi phạm",
+    "người"
+  ],
+  "actions": [
+    "vi phạm quy định về xây dựng",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người vi phạm",
+      "vi phạm quy định về xây dựng"
+    ],
+    [
+      "người vi phạm",
+      "gây thương tích"
+    ],
+    [
+      "người vi phạm",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về xây dựng",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "khảo sát",
+      "xây dựng"
+    ],
+    [
+      "thiết kế",
+      "xây dựng"
+    ],
+    [
+      "thi công",
+      "xây dựng"
+    ],
+    [
+      "sử dụng nguyên liệu",
+      "xây dựng"
+    ],
+    [
+      "giám sát",
+      "xây dựng"
+    ]
+  ]
+}

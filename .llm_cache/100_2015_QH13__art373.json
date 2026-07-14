@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị nhục hình",
+    "người dưới 18 tuổi",
+    "phụ nữ mà biết là có thai",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng"
+  ],
+  "actions": [
+    "dùng nhục hình",
+    "đối xử tàn bạo",
+    "hạ nhục nhân phẩm",
+    "phạm tội",
+    "gây thương tích",
+    "gây thiệt hại về sức khỏe",
+    "làm người bị nhục hình tự sát",
+    "làm người bị nhục hình chết"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng nhục hình"
+    ],
+    [
+      "người",
+      "đối xử tàn bạo"
+    ],
+    [
+      "người",
+      "hạ nhục nhân phẩm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây thiệt hại về sức khỏe"
+    ],
+    [
+      "người",
+      "làm người bị nhục hình tự sát"
+    ],
+    [
+      "người",
+      "làm người bị nhục hình chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động tố tụng",
+      "dùng nhục hình"
+    ],
+    [
+      "thi hành án",
+      "dùng nhục hình"
+    ],
+    [
+      "thi hành các biện pháp đưa vào trường giáo dưỡng",
+      "dùng nhục hình"
+    ],
+    [
+      "thi hành các biện pháp đưa vào cơ sở giáo dục bắt buộc",
+      "dùng nhục hình"
+    ],
+    [
+      "thi hành các biện pháp đưa vào cơ sở cai nghiện bắt buộc",
+      "dùng nhục hình"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thiệt hại về sức khỏe"
+    ],
+    [
+      "dùng nhục hình",
+      "tội dùng nhục hình"
+    ]
+  ]
+}

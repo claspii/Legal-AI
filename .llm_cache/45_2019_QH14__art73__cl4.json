@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ trưởng bộ lao động - thương binh và xã hội",
+    "hội đồng thương lượng tập thể"
+  ],
+  "actions": [
+    "quy định chức năng",
+    "quy định nhiệm vụ",
+    "quy định hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "quy định chức năng"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "quy định nhiệm vụ"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "quy định hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức năng",
+      "hội đồng thương lượng tập thể"
+    ],
+    [
+      "nhiệm vụ",
+      "hội đồng thương lượng tập thể"
+    ],
+    [
+      "hoạt động",
+      "hội đồng thương lượng tập thể"
+    ]
+  ]
+}

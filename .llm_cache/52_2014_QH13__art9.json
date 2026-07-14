@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền",
+    "vợ chồng"
+  ],
+  "actions": [
+    "kết hôn",
+    "đăng ký kết hôn",
+    "ly hôn",
+    "xác lập lại quan hệ vợ chồng"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "thực hiện"
+    ],
+    [
+      "vợ chồng",
+      "ly hôn"
+    ],
+    [
+      "vợ chồng",
+      "xác lập lại quan hệ vợ chồng"
+    ],
+    [
+      "vợ chồng",
+      "đăng ký kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "đăng ký kết hôn"
+    ],
+    [
+      "kết hôn",
+      "giá trị pháp lý"
+    ],
+    [
+      "ly hôn",
+      "xác lập lại quan hệ vợ chồng"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "làm việc theo ca",
+    "nghỉ",
+    "chuyển sang ca làm việc khác"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc theo ca"
+    ],
+    [
+      "người lao động",
+      "nghỉ"
+    ],
+    [
+      "người lao động",
+      "chuyển sang ca làm việc khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "nghỉ"
+    ],
+    [
+      "làm việc theo ca",
+      "nghỉ chuyển ca"
+    ]
+  ]
+}

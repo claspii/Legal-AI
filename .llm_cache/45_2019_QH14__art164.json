@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động là người giúp việc gia đình",
+    "người sử dụng lao động",
+    "cơ quan có thẩm quyền",
+    "gia đình người sử dụng lao động"
+  ],
+  "actions": [
+    "thực hiện thỏa thuận",
+    "giao kết hợp đồng lao động",
+    "bồi thường",
+    "làm hỏng tài sản",
+    "mất tài sản",
+    "thông báo kịp thời",
+    "gây tai nạn",
+    "đe dọa an toàn",
+    "tố cáo"
+  ],
+  "actor_actions": [
+    [
+      "lao động là người giúp việc gia đình",
+      "thực hiện thỏa thuận"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "bồi thường"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "làm hỏng tài sản"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "mất tài sản"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "thông báo kịp thời"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "tố cáo"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "ngược đãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động là người giúp việc gia đình",
+      "hợp đồng lao động"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "người sử dụng lao động"
+    ],
+    [
+      "bồi thường",
+      "tài sản của người sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tài sản của gia đình người sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "hành vi ngược đãi"
+    ],
+    [
+      "người sử dụng lao động",
+      "quấy rối tình dục"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "bán",
+    "trao đổi",
+    "tặng cho",
+    "cho vay",
+    "để thừa kế",
+    "từ bỏ quyền sở hữu",
+    "tiêu dùng",
+    "tiêu hủy"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "bán"
+    ],
+    [
+      "chủ sở hữu",
+      "trao đổi"
+    ],
+    [
+      "chủ sở hữu",
+      "tặng cho"
+    ],
+    [
+      "chủ sở hữu",
+      "cho vay"
+    ],
+    [
+      "chủ sở hữu",
+      "để thừa kế"
+    ],
+    [
+      "chủ sở hữu",
+      "từ bỏ quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "tiêu dùng"
+    ],
+    [
+      "chủ sở hữu",
+      "tiêu hủy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "quyền định đoạt",
+      "chủ sở hữu"
+    ]
+  ]
+}

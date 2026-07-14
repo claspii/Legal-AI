@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "cho thuê",
+    "cho mượn địa điểm",
+    "chứa chấp việc sử dụng trái phép chất ma túy",
+    "phạt tù",
+    "phạt tiền",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cho thuê"
+    ],
+    [
+      "người",
+      "cho mượn địa điểm"
+    ],
+    [
+      "người",
+      "chứa chấp việc sử dụng trái phép chất ma túy"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chứa chấp việc sử dụng trái phép chất ma túy",
+      "phạt tù"
+    ],
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "phạm tội"
+    ],
+    [
+      "phạm tội 02 lần trở lên",
+      "phạm tội"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạm tội"
+    ]
+  ]
+}

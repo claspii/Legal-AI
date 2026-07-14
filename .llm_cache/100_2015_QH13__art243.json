@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "đốt",
+    "phá rừng trái phép",
+    "hủy hoại rừng",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "đốt"
+    ],
+    [
+      "người nào",
+      "phá rừng trái phép"
+    ],
+    [
+      "người nào",
+      "hủy hoại rừng"
+    ],
+    [
+      "người nào",
+      "bị phạt tiền"
+    ],
+    [
+      "người nào",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rừng sản xuất",
+      "diện tích"
+    ],
+    [
+      "rừng phòng hộ",
+      "diện tích"
+    ],
+    [
+      "rừng đặc dụng",
+      "diện tích"
+    ],
+    [
+      "gây thiệt hại",
+      "lâm sản"
+    ],
+    [
+      "thực vật",
+      "trị giá"
+    ],
+    [
+      "rừng khoanh nuôi tái sinh",
+      "diện tích"
+    ],
+    [
+      "tái phạm",
+      "nguy hiểm"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ]
+  ]
+}

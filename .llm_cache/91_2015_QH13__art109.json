@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [
+    "hoa lợi",
+    "lợi tức"
+  ],
+  "actors": [],
+  "actions": [
+    "mang lại",
+    "thu được",
+    "khai thác"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hoa lợi",
+      "tài sản"
+    ],
+    [
+      "lợi tức",
+      "tài sản"
+    ]
+  ]
+}

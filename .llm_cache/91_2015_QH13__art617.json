@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người quản lý di sản",
+    "người khác",
+    "người thừa kế",
+    "người đang chiếm hữu, sử dụng, quản lý di sản",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "lập danh mục di sản",
+    "thu hồi tài sản",
+    "bảo quản di sản",
+    "bán",
+    "trao đổi",
+    "tặng cho",
+    "cầm cố",
+    "thế chấp",
+    "định đoạt tài sản",
+    "thông báo về tình trạng di sản",
+    "bồi thường thiệt hại",
+    "giao lại di sản"
+  ],
+  "actor_actions": [
+    [
+      "người quản lý di sản",
+      "lập danh mục di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "thu hồi tài sản"
+    ],
+    [
+      "người quản lý di sản",
+      "bảo quản di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "thông báo về tình trạng di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người quản lý di sản",
+      "giao lại di sản"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "bảo quản di sản"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "thông báo về di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người quản lý di sản",
+      "di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "người thừa kế"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "di sản"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "người thừa kế"
+    ],
+    [
+      "tài sản",
+      "di sản"
+    ]
+  ]
+}

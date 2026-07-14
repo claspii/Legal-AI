@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dùng chất kích thích"
+  ],
+  "actions": [
+    "bồi thường",
+    "gây thiệt hại",
+    "uống rượu",
+    "dùng chất kích thích khác"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "uống rượu"
+    ],
+    [
+      "người",
+      "dùng chất kích thích khác"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bồi thường"
+    ],
+    [
+      "người",
+      "cố ý dùng rượu"
+    ],
+    [
+      "người",
+      "cố ý dùng chất kích thích khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất kích thích",
+      "mất khả năng nhận thức và làm chủ hành vi"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "rượu",
+      "mất khả năng nhận thức và làm chủ hành vi"
+    ]
+  ]
+}

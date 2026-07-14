@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người ký kết"
+  ],
+  "actions": [
+    "vi phạm",
+    "ký kết",
+    "không tuân thủ"
+  ],
+  "actor_actions": [
+    [
+      "người ký kết",
+      "ký kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể vô hiệu",
+      "pháp luật"
+    ],
+    [
+      "thỏa ước lao động tập thể vô hiệu từng phần",
+      "nội dung trong thỏa ước lao động tập thể vi phạm pháp luật"
+    ],
+    [
+      "thỏa ước lao động tập thể vô hiệu toàn bộ",
+      "nội dung thỏa ước lao động tập thể vi phạm pháp luật"
+    ],
+    [
+      "thỏa ước lao động tập thể vô hiệu toàn bộ",
+      "người ký kết không đúng thẩm quyền"
+    ],
+    [
+      "thỏa ước lao động tập thể vô hiệu toàn bộ",
+      "không tuân thủ đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng dụng"
+  ],
+  "actions": [
+    "quyền sở hữu",
+    "thu hoa lợi, lợi tức",
+    "quyền hưởng dụng chấm dứt",
+    "được hưởng giá trị của hoa lợi, lợi tức"
+  ],
+  "actor_actions": [
+    [
+      "người hưởng dụng",
+      "quyền sở hữu"
+    ],
+    [
+      "người hưởng dụng",
+      "được hưởng giá trị của hoa lợi, lợi tức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoa lợi, lợi tức",
+      "quyền hưởng dụng"
+    ],
+    [
+      "tài sản",
+      "quyền hưởng dụng"
+    ]
+  ]
+}

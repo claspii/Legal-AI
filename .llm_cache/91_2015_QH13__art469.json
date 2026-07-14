@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho vay",
+    "bên vay"
+  ],
+  "actions": [
+    "thực hiện hợp đồng",
+    "đòi lại tài sản",
+    "trả nợ",
+    "báo cho nhau biết",
+    "trả lãi",
+    "nhận lại tài sản",
+    "trả lại tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên cho vay",
+      "đòi lại tài sản"
+    ],
+    [
+      "bên vay",
+      "trả nợ"
+    ],
+    [
+      "bên cho vay",
+      "báo trước cho bên vay"
+    ],
+    [
+      "bên cho vay",
+      "được trả lãi"
+    ],
+    [
+      "bên vay",
+      "trả lại tài sản"
+    ],
+    [
+      "bên vay",
+      "chỉ phải trả lãi"
+    ],
+    [
+      "bên vay",
+      "báo trước cho bên cho vay"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vay không kỳ hạn và không có lãi",
+      "bên cho vay có quyền đòi lại tài sản"
+    ],
+    [
+      "hợp đồng vay không kỳ hạn và không có lãi",
+      "bên vay có quyền trả nợ"
+    ],
+    [
+      "hợp đồng vay không kỳ hạn và có lãi",
+      "bên cho vay có quyền đòi lại tài sản"
+    ],
+    [
+      "hợp đồng vay không kỳ hạn và có lãi",
+      "bên vay có quyền trả lại tài sản"
+    ],
+    [
+      "thời điểm nhận lại tài sản",
+      "trả lãi"
+    ],
+    [
+      "thời điểm trả nợ",
+      "trả lãi"
+    ]
+  ]
+}

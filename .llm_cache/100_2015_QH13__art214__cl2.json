@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "bị phạt tiền",
+    "phạt tù",
+    "chiếm đoạt tiền bảo hiểm xã hội, bảo hiểm thất nghiệp",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gian lận bảo hiểm xã hội",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "có tổ chức",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "chiếm đoạt tiền bảo hiểm xã hội, bảo hiểm thất nghiệp",
+      "gây thiệt hại"
+    ],
+    [
+      "dùng thủ đoạn tinh vi",
+      "xảo quyệt"
+    ],
+    [
+      "tái phạm",
+      "nguy hiểm"
+    ]
+  ]
+}

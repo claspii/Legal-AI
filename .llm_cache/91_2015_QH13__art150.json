@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [
+    "thời hiệu hưởng quyền dân sự",
+    "thời hiệu miễn trừ nghĩa vụ dân sự",
+    "thời hiệu khởi kiện",
+    "thời hiệu yêu cầu giải quyết việc dân sự"
+  ],
+  "actors": [
+    "chủ thể",
+    "người có nghĩa vụ dân sự",
+    "tòa án",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "hưởng quyền dân sự",
+    "miễn việc thực hiện nghĩa vụ",
+    "khởi kiện",
+    "giải quyết vụ án dân sự",
+    "bảo vệ quyền và lợi ích hợp pháp",
+    "yêu cầu giải quyết việc dân sự"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "hưởng quyền dân sự"
+    ],
+    [
+      "người có nghĩa vụ dân sự",
+      "miễn việc thực hiện nghĩa vụ"
+    ],
+    [
+      "chủ thể",
+      "khởi kiện"
+    ],
+    [
+      "tòa án",
+      "giải quyết vụ án dân sự"
+    ],
+    [
+      "chủ thể",
+      "yêu cầu giải quyết việc dân sự"
+    ],
+    [
+      "tòa án",
+      "giải quyết việc dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu hưởng quyền dân sự",
+      "quyền dân sự"
+    ],
+    [
+      "thời hiệu miễn trừ nghĩa vụ dân sự",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "thời hiệu khởi kiện",
+      "quyền khởi kiện"
+    ],
+    [
+      "thời hiệu yêu cầu giải quyết việc dân sự",
+      "quyền yêu cầu"
+    ],
+    [
+      "khởi kiện",
+      "vụ án dân sự"
+    ],
+    [
+      "yêu cầu",
+      "việc dân sự"
+    ]
+  ]
+}

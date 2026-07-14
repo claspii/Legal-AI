@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "chậm giao sản phẩm",
+    "gia hạn",
+    "chấm dứt thực hiện hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "chậm nhận sản phẩm",
+    "gửi sản phẩm",
+    "báo ngay",
+    "chịu mọi chi phí"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận gia công",
+      "chậm giao sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "gia hạn"
+    ],
+    [
+      "bên đặt gia công",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên đặt gia công",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên đặt gia công",
+      "chậm nhận sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "gửi sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "báo ngay"
+    ],
+    [
+      "bên đặt gia công",
+      "chịu mọi chi phí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chậm giao sản phẩm",
+      "gia hạn"
+    ],
+    [
+      "chậm giao sản phẩm",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "chậm giao sản phẩm",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chậm nhận sản phẩm",
+      "gửi giữ sản phẩm"
+    ],
+    [
+      "gửi giữ sản phẩm",
+      "chi phí phát sinh"
+    ],
+    [
+      "nghĩa vụ giao sản phẩm",
+      "đáp ứng điều kiện đã thỏa thuận"
+    ]
+  ]
+}

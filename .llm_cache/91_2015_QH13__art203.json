@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "nhà nước"
+  ],
+  "actions": [
+    "sử dụng",
+    "khai thác",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "sử dụng đất"
+    ],
+    [
+      "pháp nhân",
+      "sử dụng đất"
+    ],
+    [
+      "cá nhân",
+      "khai thác nguồn lợi thủy sản"
+    ],
+    [
+      "pháp nhân",
+      "khai thác nguồn lợi thủy sản"
+    ],
+    [
+      "cá nhân",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "quyền sử dụng tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "pháp nhân",
+      "quyền sử dụng tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "sử dụng đất"
+    ],
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "khai thác nguồn lợi thủy sản"
+    ],
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "tài nguyên thiên nhiên"
+    ],
+    [
+      "nghĩa vụ",
+      "nhà nước"
+    ]
+  ]
+}

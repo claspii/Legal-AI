@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên có quyền",
+    "người khác"
+  ],
+  "actions": [
+    "chấm dứt",
+    "thỏa thuận thay thế",
+    "tiếp nhận",
+    "thỏa thuận",
+    "bồi thường thiệt hại",
+    "xâm phạm"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận thay thế"
+    ],
+    [
+      "bên có quyền",
+      "tiếp nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ ban đầu",
+      "nghĩa vụ khác"
+    ],
+    [
+      "tài sản",
+      "công việc khác"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "danh dự",
+      "nhân phẩm"
+    ]
+  ]
+}

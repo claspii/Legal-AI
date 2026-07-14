@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ tịch ủy ban nhân dân tỉnh",
+    "bộ trưởng bộ y tế",
+    "thủ tướng chính phủ"
+  ],
+  "actions": [
+    "làm lây lan dịch bệnh truyền nhiễm nguy hiểm cho người",
+    "đưa ra khỏi vùng có dịch bệnh động vật",
+    "cho phép đưa ra khỏi vùng có dịch bệnh động vật",
+    "đưa vào lãnh thổ việt nam động vật",
+    "cho phép đưa vào lãnh thổ việt nam động vật",
+    "làm chết người",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm lây lan dịch bệnh truyền nhiễm nguy hiểm cho người"
+    ],
+    [
+      "người",
+      "đưa ra khỏi vùng có dịch bệnh động vật"
+    ],
+    [
+      "người",
+      "cho phép đưa ra khỏi vùng có dịch bệnh động vật"
+    ],
+    [
+      "người",
+      "đưa vào lãnh thổ việt nam động vật"
+    ],
+    [
+      "người",
+      "cho phép đưa vào lãnh thổ việt nam động vật"
+    ],
+    [
+      "người",
+      "làm chết người"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm lây lan dịch bệnh truyền nhiễm nguy hiểm cho người",
+      "bị phạt tiền"
+    ],
+    [
+      "làm lây lan dịch bệnh truyền nhiễm nguy hiểm cho người",
+      "bị phạt tù"
+    ],
+    [
+      "phạm tội",
+      "dẫn đến phải công bố dịch thuộc thẩm quyền của chủ tịch ủy ban nhân dân tỉnh hoặc bộ trưởng bộ y tế"
+    ],
+    [
+      "phạm tội",
+      "làm chết người"
+    ],
+    [
+      "phạm tội",
+      "dẫn đến phải công bố dịch thuộc thẩm quyền của thủ tướng chính phủ"
+    ],
+    [
+      "phạm tội",
+      "làm chết 02 người trở lên"
+    ]
+  ]
+}

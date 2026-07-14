@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giám hộ",
+    "người giám hộ"
+  ],
+  "actions": [
+    "chấm dứt việc giám hộ",
+    "thanh toán tài sản",
+    "chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "thanh toán tài sản"
+    ],
+    [
+      "người giám hộ",
+      "chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được giám hộ",
+      "năng lực hành vi dân sự đầy đủ"
+    ],
+    [
+      "việc giám hộ",
+      "chấm dứt"
+    ],
+    [
+      "tài sản",
+      "thanh toán"
+    ],
+    [
+      "giao dịch dân sự",
+      "lợi ích của người được giám hộ"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chỉ huy",
+    "người điều khiển phương tiện giao thông đường sắt",
+    "người",
+    "người có thẩm quyền điều khiển, giữ gìn trật tự, an toàn giao thông đường sắt",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về điều khiển phương tiện giao thông đường sắt",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bỏ chạy để trốn tránh trách nhiệm",
+    "cố ý không cứu giúp người bị nạn",
+    "không chấp hành hiệu lệnh"
+  ],
+  "actor_actions": [
+    [
+      "người chỉ huy, điều khiển phương tiện giao thông đường sắt",
+      "vi phạm quy định về an toàn giao thông đường sắt"
+    ],
+    [
+      "người",
+      "không chấp hành hiệu lệnh của người chỉ huy hoặc người có thẩm quyền điều khiển, giữ gìn trật tự, an toàn giao thông đường sắt"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chỉ huy, điều khiển phương tiện giao thông đường sắt",
+      "vi phạm quy định về an toàn giao thông đường sắt"
+    ],
+    [
+      "làm chết người",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "mức phạt"
+    ],
+    [
+      "phương tiện giao thông đường sắt",
+      "an toàn giao thông đường sắt"
+    ]
+  ]
+}

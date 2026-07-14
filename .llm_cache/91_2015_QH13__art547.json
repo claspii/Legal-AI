@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "yêu cầu",
+    "giao",
+    "từ chối",
+    "báo",
+    "trả tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận gia công",
+      "yêu cầu bên đặt gia công giao nguyên vật liệu"
+    ],
+    [
+      "bên nhận gia công",
+      "từ chối sự chỉ dẫn không hợp lý"
+    ],
+    [
+      "bên nhận gia công",
+      "báo ngay"
+    ],
+    [
+      "bên nhận gia công",
+      "yêu cầu bên đặt gia công trả đủ tiền công"
+    ],
+    [
+      "bên đặt gia công",
+      "giao nguyên vật liệu"
+    ],
+    [
+      "bên đặt gia công",
+      "trả đủ tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận gia công",
+      "bên đặt gia công"
+    ],
+    [
+      "nguyên vật liệu",
+      "sản phẩm"
+    ],
+    [
+      "hợp đồng",
+      "gia công"
+    ]
+  ]
+}

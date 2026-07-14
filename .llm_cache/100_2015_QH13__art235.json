@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "gây ô nhiễm môi trường",
+    "chôn",
+    "lấp",
+    "đổ",
+    "thải ra môi trường",
+    "xả thải ra môi trường",
+    "xả nước thải ra môi trường",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "gây ô nhiễm môi trường"
+    ],
+    [
+      "người",
+      "chôn"
+    ],
+    [
+      "người",
+      "lấp"
+    ],
+    [
+      "người",
+      "đổ"
+    ],
+    [
+      "người",
+      "thải ra môi trường"
+    ],
+    [
+      "người",
+      "xả thải ra môi trường"
+    ],
+    [
+      "người",
+      "xả nước thải ra môi trường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải nguy hại",
+      "công ước stockholm"
+    ],
+    [
+      "nước thải",
+      "thông số môi trường nguy hại"
+    ],
+    [
+      "nước thải",
+      "chất phóng xạ"
+    ],
+    [
+      "bụi",
+      "khí thải"
+    ],
+    [
+      "chất thải rắn thông thường",
+      "pháp luật"
+    ],
+    [
+      "bức xạ",
+      "phóng xạ"
+    ],
+    [
+      "quy chuẩn kỹ thuật",
+      "mức giới hạn"
+    ]
+  ]
+}

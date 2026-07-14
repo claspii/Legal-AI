@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "phá thai trái phép"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "phá thai trái phép"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

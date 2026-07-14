@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [
+    "người làm việc không có quan hệ lao động"
+  ],
+  "actors": [
+    "người làm việc"
+  ],
+  "actions": [
+    "làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người làm việc",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người làm việc không có quan hệ lao động",
+      "quan hệ lao động"
+    ],
+    [
+      "người làm việc không có quan hệ lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "thuê mướn",
+      "hợp đồng lao động"
+    ]
+  ]
+}

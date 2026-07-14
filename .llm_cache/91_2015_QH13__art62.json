@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giám hộ",
+    "cha",
+    "mẹ",
+    "người chưa thành niên"
+  ],
+  "actions": [
+    "chấm dứt việc giám hộ",
+    "có năng lực hành vi dân sự đầy đủ",
+    "chết",
+    "thực hiện quyền, nghĩa vụ",
+    "được nhận làm con nuôi"
+  ],
+  "actor_actions": [
+    [
+      "người được giám hộ",
+      "có năng lực hành vi dân sự đầy đủ"
+    ],
+    [
+      "người được giám hộ",
+      "chết"
+    ],
+    [
+      "cha, mẹ của người được giám hộ là người chưa thành niên",
+      "thực hiện quyền, nghĩa vụ"
+    ],
+    [
+      "người được giám hộ",
+      "được nhận làm con nuôi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "việc giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "người được giám hộ",
+      "năng lực hành vi dân sự đầy đủ"
+    ],
+    [
+      "người được giám hộ",
+      "chết"
+    ],
+    [
+      "cha, mẹ",
+      "người được giám hộ là người chưa thành niên"
+    ],
+    [
+      "người được giám hộ",
+      "con nuôi"
+    ],
+    [
+      "việc giám hộ",
+      "pháp luật về hộ tịch"
+    ]
+  ]
+}

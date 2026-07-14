@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chuyển giao quyền yêu cầu",
+    "có biện pháp bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chuyển giao quyền yêu cầu",
+      "biện pháp bảo đảm"
+    ],
+    [
+      "quyền yêu cầu",
+      "biện pháp bảo đảm thực hiện nghĩa vụ"
+    ]
+  ]
+}

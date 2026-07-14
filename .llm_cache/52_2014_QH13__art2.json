@@ -1,0 +1,95 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "công dân việt nam",
+    "người theo tôn giáo",
+    "người không theo tôn giáo",
+    "người có tín ngưỡng",
+    "người nước ngoài",
+    "thành viên gia đình"
+  ],
+  "actions": [
+    "tôn trọng",
+    "bảo vệ",
+    "quan tâm",
+    "chăm sóc",
+    "giúp đỡ",
+    "không phân biệt đối xử",
+    "thực hiện",
+    "kế thừa"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "bình đẳng"
+    ],
+    [
+      "hôn nhân",
+      "được tôn trọng"
+    ],
+    [
+      "hôn nhân",
+      "được pháp luật bảo vệ"
+    ],
+    [
+      "các thành viên gia đình",
+      "tôn trọng"
+    ],
+    [
+      "các thành viên gia đình",
+      "quan tâm"
+    ],
+    [
+      "các thành viên gia đình",
+      "chăm sóc"
+    ],
+    [
+      "các thành viên gia đình",
+      "giúp đỡ nhau"
+    ],
+    [
+      "các thành viên gia đình",
+      "không phân biệt đối xử giữa các con"
+    ],
+    [
+      "nhà nước",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "công dân việt nam",
+      "dân tộc"
+    ],
+    [
+      "công dân việt nam",
+      "tôn giáo"
+    ],
+    [
+      "người theo tôn giáo",
+      "người không theo tôn giáo"
+    ],
+    [
+      "người có tín ngưỡng",
+      "người không có tín ngưỡng"
+    ],
+    [
+      "trẻ em",
+      "người cao tuổi"
+    ],
+    [
+      "trẻ em",
+      "người khuyết tật"
+    ],
+    [
+      "kế hoạch hóa gia đình",
+      "bà mẹ"
+    ]
+  ]
+}

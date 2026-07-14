@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con chưa thành niên",
+    "tòa án",
+    "cá nhân",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "hạn chế quyền",
+    "bị kết án",
+    "xâm phạm",
+    "vi phạm",
+    "phá tán",
+    "xúi giục",
+    "ép buộc",
+    "ra quyết định"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ",
+      "bị hạn chế quyền"
+    ],
+    [
+      "cha, mẹ",
+      "bị kết án"
+    ],
+    [
+      "cha, mẹ",
+      "phá tán tài sản của con"
+    ],
+    [
+      "cha, mẹ",
+      "có lối sống đồi trụy"
+    ],
+    [
+      "cha, mẹ",
+      "xúi giục, ép buộc con làm những việc trái pháp luật, trái đạo đức xã hội"
+    ],
+    [
+      "tòa án",
+      "ra quyết định không cho cha, mẹ trông nom, chăm sóc, giáo dục con"
+    ],
+    [
+      "tòa án",
+      "xem xét việc rút ngắn thời hạn này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "cha, mẹ",
+      "quyền đối với con chưa thành niên"
+    ],
+    [
+      "tòa án",
+      "quyết định không cho cha, mẹ trông nom, chăm sóc, giáo dục con"
+    ],
+    [
+      "tòa án",
+      "quản lý tài sản riêng của con"
+    ]
+  ]
+}

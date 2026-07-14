@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "3.000.000.000 đồng trở lên"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù từ 12 năm đến 20 năm"
+    ]
+  ]
+}

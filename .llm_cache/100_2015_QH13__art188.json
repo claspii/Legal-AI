@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "buôn bán qua biên giới",
+    "buôn bán từ khu phi thuế quan vào nội địa",
+    "buôn bán từ nội địa vào khu phi thuế quan",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản",
+    "thực hiện hành vi",
+    "bị đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "buôn bán qua biên giới"
+    ],
+    [
+      "người",
+      "buôn bán từ khu phi thuế quan vào nội địa"
+    ],
+    [
+      "người",
+      "buôn bán từ nội địa vào khu phi thuế quan"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng hóa",
+      "tiền việt nam"
+    ],
+    [
+      "ngoại tệ",
+      "kim khí quý"
+    ],
+    [
+      "đá quý",
+      "di vật"
+    ],
+    [
+      "cổ vật",
+      "vật có giá trị lịch sử, văn hóa"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "vật phạm pháp",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "phạm tội",
+      "kết án"
+    ]
+  ]
+}

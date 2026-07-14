@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "làm thêm giờ",
+    "sử dụng người lao động",
+    "sản xuất",
+    "gia công xuất khẩu",
+    "cung cấp điện",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm thêm giờ",
+      "thời giờ làm việc"
+    ],
+    [
+      "làm thêm giờ",
+      "300 giờ"
+    ],
+    [
+      "ngành, nghề, công việc",
+      "làm thêm không quá 300 giờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ]
+  ]
+}

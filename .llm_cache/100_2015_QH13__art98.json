@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị áp dụng hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "bị áp dụng hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "phạm tội",
+      "hình phạt"
+    ]
+  ]
+}

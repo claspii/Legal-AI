@@ -1,0 +1,115 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "vợ",
+    "chồng",
+    "cha",
+    "mẹ",
+    "con nuôi",
+    "con dâu",
+    "con rể",
+    "con riêng của vợ",
+    "con riêng của chồng"
+  ],
+  "actions": [
+    "kết hôn giả tạo",
+    "ly hôn giả tạo",
+    "tảo hôn",
+    "cưỡng ép kết hôn",
+    "lừa dối kết hôn",
+    "cản trở kết hôn",
+    "chung sống như vợ chồng",
+    "kết hôn",
+    "yêu sách của cải",
+    "cưỡng ép ly hôn",
+    "lừa dối ly hôn",
+    "cản trở ly hôn",
+    "thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại",
+    "mang thai hộ vì mục đích thương mại",
+    "lựa chọn giới tính thai nhi",
+    "sinh sản vô tính",
+    "bạo lực gia đình",
+    "lợi dụng việc thực hiện quyền về hôn nhân và gia đình",
+    "mua bán người",
+    "bóc lột sức lao động",
+    "xâm phạm tình dục",
+    "hành vi khác nhằm mục đích trục lợi"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "kết hôn giả tạo"
+    ],
+    [
+      "người",
+      "ly hôn giả tạo"
+    ],
+    [
+      "người",
+      "tảo hôn"
+    ],
+    [
+      "người",
+      "cưỡng ép kết hôn"
+    ],
+    [
+      "người",
+      "lừa dối kết hôn"
+    ],
+    [
+      "người",
+      "cản trở kết hôn"
+    ],
+    [
+      "người",
+      "kết hôn"
+    ],
+    [
+      "người",
+      "chung sống như vợ chồng"
+    ],
+    [
+      "cha",
+      "kết hôn"
+    ],
+    [
+      "cha",
+      "chung sống như vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "kết hôn",
+      "ly hôn"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ],
+    [
+      "cha nuôi",
+      "con nuôi"
+    ],
+    [
+      "mẹ nuôi",
+      "con nuôi"
+    ],
+    [
+      "cha chồng",
+      "con dâu"
+    ]
+  ]
+}

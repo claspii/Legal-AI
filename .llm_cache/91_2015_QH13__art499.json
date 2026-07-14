@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho mượn tài sản",
+    "bên mượn",
+    "người khác"
+  ],
+  "actions": [
+    "đòi lại tài sản",
+    "đạt được mục đích",
+    "sử dụng tài sản cho mượn",
+    "báo trước",
+    "sử dụng không đúng mục đích",
+    "cho mượn lại",
+    "yêu cầu bồi thường thiệt hại",
+    "gây ra"
+  ],
+  "actor_actions": [
+    [
+      "bên cho mượn tài sản",
+      "đòi lại tài sản"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "báo trước"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên mượn",
+      "đạt được mục đích"
+    ],
+    [
+      "bên mượn",
+      "sử dụng tài sản cho mượn"
+    ],
+    [
+      "bên mượn",
+      "sử dụng không đúng mục đích"
+    ],
+    [
+      "bên mượn",
+      "cho người khác mượn lại"
+    ],
+    [
+      "bên mượn",
+      "gây ra thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho mượn",
+      "tài sản"
+    ],
+    [
+      "bên mượn",
+      "tài sản"
+    ],
+    [
+      "thỏa thuận về thời hạn mượn",
+      "đòi lại tài sản"
+    ],
+    [
+      "nhu cầu đột xuất và cấp bách",
+      "đòi lại tài sản"
+    ],
+    [
+      "sử dụng không đúng mục đích",
+      "đòi lại tài sản"
+    ],
+    [
+      "cho người khác mượn lại",
+      "đòi lại tài sản"
+    ],
+    [
+      "thiệt hại đối với tài sản",
+      "bồi thường"
+    ]
+  ]
+}

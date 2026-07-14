@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người thứ ba ngay tình",
+    "người đứng tên tài khoản ngân hàng",
+    "người đứng tên tài khoản chứng khoán",
+    "người có quyền xác lập, thực hiện giao dịch",
+    "người đang chiếm hữu động sản"
+  ],
+  "actions": [
+    "giao dịch",
+    "xác lập, thực hiện giao dịch",
+    "chiếm hữu",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "xác lập, thực hiện giao dịch"
+    ],
+    [
+      "vợ, chồng",
+      "chiếm hữu động sản"
+    ],
+    [
+      "bộ luật dân sự",
+      "bảo vệ người thứ ba ngay tình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch với người thứ ba ngay tình",
+      "tài khoản ngân hàng"
+    ],
+    [
+      "giao dịch với người thứ ba ngay tình",
+      "tài khoản chứng khoán"
+    ],
+    [
+      "giao dịch với người thứ ba ngay tình",
+      "động sản khác"
+    ],
+    [
+      "tài khoản ngân hàng",
+      "người đứng tên"
+    ],
+    [
+      "tài khoản chứng khoán",
+      "người đứng tên"
+    ],
+    [
+      "động sản không phải đăng ký quyền sở hữu",
+      "người chiếm hữu"
+    ]
+  ]
+}

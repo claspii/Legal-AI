@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "giao kết",
+    "có hiệu lực",
+    "thỏa thuận",
+    "thực hiện quyền và nghĩa vụ",
+    "sửa đổi",
+    "hủy bỏ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thực hiện quyền và nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "hiệu lực"
+    ],
+    [
+      "hợp đồng",
+      "giao kết"
+    ],
+    [
+      "hợp đồng",
+      "quyền và nghĩa vụ"
+    ],
+    [
+      "hợp đồng",
+      "sửa đổi"
+    ],
+    [
+      "hợp đồng",
+      "hủy bỏ"
+    ]
+  ]
+}

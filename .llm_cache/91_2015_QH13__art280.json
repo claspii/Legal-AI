@@ -1,0 +1,15 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "thực hiện nghĩa vụ trả tiền",
+    "trả tiền"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ trả tiền",
+      "tiền lãi trên nợ gốc"
+    ]
+  ]
+}

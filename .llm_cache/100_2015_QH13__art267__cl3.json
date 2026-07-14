@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "phương tiện giao thông đường sắt"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạm tội",
+    "bị phạt tù",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "người"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "người"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng giả",
+      "thức ăn dùng để chăn nuôi"
+    ],
+    [
+      "hàng giả",
+      "phân bón"
+    ],
+    [
+      "hàng giả",
+      "thuốc thú y"
+    ],
+    [
+      "hàng giả",
+      "thuốc bảo vệ thực vật"
+    ],
+    [
+      "hàng giả",
+      "giống cây trồng"
+    ],
+    [
+      "hàng giả",
+      "vật nuôi"
+    ],
+    [
+      "hàng giả trị giá",
+      "giá bán"
+    ],
+    [
+      "hàng giả trị giá",
+      "giá niêm yết"
+    ]
+  ]
+}

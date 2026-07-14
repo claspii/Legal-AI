@@ -1,0 +1,105 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thế chấp",
+    "người thứ ba",
+    "bên nhận thế chấp",
+    "bên mua",
+    "bên thuê",
+    "bên mượn",
+    "luật"
+  ],
+  "actions": [
+    "khai thác công dụng",
+    "hưởng hoa lợi, lợi tức",
+    "đầu tư",
+    "nhận lại tài sản thế chấp",
+    "bán",
+    "thay thế",
+    "trao đổi",
+    "tặng cho",
+    "cho thuê",
+    "cho mượn",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "bên thế chấp",
+      "khai thác công dụng"
+    ],
+    [
+      "bên thế chấp",
+      "hưởng hoa lợi, lợi tức"
+    ],
+    [
+      "bên thế chấp",
+      "đầu tư"
+    ],
+    [
+      "bên thế chấp",
+      "nhận lại tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "bán"
+    ],
+    [
+      "bên thế chấp",
+      "thay thế"
+    ],
+    [
+      "bên thế chấp",
+      "trao đổi"
+    ],
+    [
+      "bên thế chấp",
+      "tặng cho"
+    ],
+    [
+      "bên thế chấp",
+      "cho thuê"
+    ],
+    [
+      "bên thế chấp",
+      "cho mượn"
+    ],
+    [
+      "bên thế chấp",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thế chấp",
+      "hoa lợi, lợi tức"
+    ],
+    [
+      "nghĩa vụ được bảo đảm bằng thế chấp",
+      "biện pháp bảo đảm khác"
+    ],
+    [
+      "tài sản thế chấp",
+      "hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh"
+    ],
+    [
+      "quyền yêu cầu bên mua thanh toán tiền",
+      "số tiền thu được"
+    ],
+    [
+      "tài sản hình thành từ số tiền thu được",
+      "tài sản được thay thế"
+    ],
+    [
+      "tài sản được thay thế",
+      "tài sản được trao đổi"
+    ],
+    [
+      "tài sản thế chấp là kho hàng",
+      "hàng hóa trong kho"
+    ],
+    [
+      "bên nhận thế chấp",
+      "bên thế chấp"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "vận chuyển trái phép",
+    "lợi dụng chức vụ",
+    "lợi dụng quyền hạn",
+    "sử dụng",
+    "vận chuyển qua biên giới",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan",
+      "lợi dụng danh nghĩa"
+    ],
+    [
+      "tổ chức",
+      "lợi dụng danh nghĩa"
+    ],
+    [
+      "người dưới 16 tuổi",
+      "vào việc phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ]
+  ]
+}

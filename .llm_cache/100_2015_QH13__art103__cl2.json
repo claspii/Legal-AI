@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "tổng hợp hình phạt",
+    "đủ 16 tuổi",
+    "đủ 18 tuổi",
+    "áp dụng",
+    "vượt quá"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "phạm nhiều tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội được thực hiện trước khi đủ 16 tuổi",
+      "tội được thực hiện sau khi đủ 16 tuổi"
+    ],
+    [
+      "mức hình phạt đã tuyên đối với tội được thực hiện trước khi người đó đủ 16 tuổi",
+      "mức hình phạt đã tuyên đối với tội được thực hiện sau khi đủ 16 tuổi"
+    ],
+    [
+      "hình phạt chung",
+      "hình phạt cao nhất đối với người từ đủ 14 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "hình phạt chung",
+      "hình phạt cao nhất đối với người từ đủ 16 tuổi đến dưới 18 tuổi"
+    ]
+  ]
+}

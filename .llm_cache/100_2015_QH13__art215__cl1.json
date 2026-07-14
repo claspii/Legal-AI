@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bệnh"
+  ],
+  "actions": [
+    "chiếm đoạt tiền bảo hiểm y tế",
+    "gây thiệt hại",
+    "lập hồ sơ bệnh án",
+    "kê đơn thuốc khống",
+    "kê tăng số lượng thuốc",
+    "kê thêm loại thuốc",
+    "giả mạo hồ sơ",
+    "sử dụng thẻ bảo hiểm y tế"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt tiền bảo hiểm y tế"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "lập hồ sơ bệnh án"
+    ],
+    [
+      "người",
+      "kê đơn thuốc khống"
+    ],
+    [
+      "người",
+      "giả mạo hồ sơ"
+    ],
+    [
+      "người",
+      "sử dụng thẻ bảo hiểm y tế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền bảo hiểm y tế",
+      "thiệt hại"
+    ],
+    [
+      "hồ sơ bệnh án",
+      "đơn thuốc khống"
+    ],
+    [
+      "thẻ bảo hiểm y tế",
+      "khám chữa bệnh"
+    ]
+  ]
+}

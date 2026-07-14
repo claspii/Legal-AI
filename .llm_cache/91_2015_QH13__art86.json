@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [
+    "năng lực pháp luật dân sự của pháp nhân"
+  ],
+  "actors": [
+    "pháp nhân",
+    "cơ quan nhà nước có thẩm quyền",
+    "bộ luật",
+    "luật khác"
+  ],
+  "actions": [
+    "có các quyền",
+    "có nghĩa vụ dân sự",
+    "thành lập",
+    "cho phép thành lập",
+    "đăng ký hoạt động",
+    "ghi vào sổ đăng ký",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "có các quyền"
+    ],
+    [
+      "pháp nhân",
+      "có nghĩa vụ dân sự"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "thành lập"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "cho phép thành lập"
+    ],
+    [
+      "pháp nhân",
+      "phải đăng ký hoạt động"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực pháp luật dân sự của pháp nhân",
+      "pháp nhân"
+    ],
+    [
+      "năng lực pháp luật dân sự của pháp nhân",
+      "thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập"
+    ],
+    [
+      "năng lực pháp luật dân sự của pháp nhân",
+      "thời điểm ghi vào sổ đăng ký"
+    ],
+    [
+      "năng lực pháp luật dân sự của pháp nhân",
+      "thời điểm chấm dứt pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "đăng ký hoạt động"
+    ]
+  ]
+}

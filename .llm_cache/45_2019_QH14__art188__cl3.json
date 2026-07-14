@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên tranh chấp",
+    "các bên tranh chấp",
+    "người khác",
+    "hòa giải viên lao động"
+  ],
+  "actions": [
+    "có mặt",
+    "ủy quyền",
+    "tham gia phiên họp hòa giải"
+  ],
+  "actor_actions": [
+    [
+      "hai bên tranh chấp",
+      "có mặt"
+    ],
+    [
+      "các bên tranh chấp",
+      "ủy quyền"
+    ],
+    [
+      "người khác",
+      "tham gia phiên họp hòa giải"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hai bên tranh chấp",
+      "phiên họp hòa giải"
+    ],
+    [
+      "các bên tranh chấp",
+      "người khác"
+    ],
+    [
+      "ủy quyền",
+      "tham gia phiên họp hòa giải"
+    ]
+  ]
+}

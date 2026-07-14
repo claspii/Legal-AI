@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "vợ chồng"
+  ],
+  "actions": [
+    "thụ lý",
+    "ly hôn",
+    "đăng ký kết hôn",
+    "tuyên bố không công nhận quan hệ vợ chồng",
+    "giải quyết",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "thụ lý"
+    ],
+    [
+      "tòa án",
+      "tuyên bố không công nhận quan hệ vợ chồng"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "yêu cầu ly hôn",
+      "thụ lý đơn"
+    ],
+    [
+      "không đăng ký kết hôn",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "không đăng ký kết hôn",
+      "không công nhận quan hệ vợ chồng"
+    ],
+    [
+      "yêu cầu về con",
+      "giải quyết"
+    ],
+    [
+      "yêu cầu về tài sản",
+      "giải quyết"
+    ]
+  ]
+}

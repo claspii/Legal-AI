@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người lao động dưới 16 tuổi"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm chết 02 người trở lên",
+      "phạt tù từ 05 năm đến 10 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên với tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên",
+      "phạt tù từ 05 năm đến 10 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này 122% trở lên",
+      "phạt tù từ 05 năm đến 10 năm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ],
+    [
+      "gây thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết 03 người trở lên",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người với tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này 201% trở lên",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "gây thiệt hại về tài sản 1.500.000.000 đồng trở lên",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "tội vi phạm quy định về quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ",
+      "phạm tội"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba",
+    "các bên giao kết hợp đồng"
+  ],
+  "actions": [
+    "đồng ý hưởng lợi ích",
+    "thực hiện",
+    "sửa đổi hợp đồng",
+    "hủy bỏ hợp đồng",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người thứ ba",
+      "đồng ý hưởng lợi ích"
+    ],
+    [
+      "các bên giao kết hợp đồng",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "các bên giao kết hợp đồng",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "người thứ ba",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "lợi ích của người thứ ba"
+    ],
+    [
+      "hợp đồng",
+      "người thứ ba"
+    ],
+    [
+      "sửa đổi hợp đồng",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "thực hiện"
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "nạn nhân",
+    "người khác",
+    "phụ nữ",
+    "người khuyết tật",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con"
+  ],
+  "actions": [
+    "ngăn chặn",
+    "làm giảm bớt",
+    "sửa chữa",
+    "bồi thường",
+    "khắc phục",
+    "phạm tội",
+    "gây ra",
+    "bắt giữ",
+    "đe dọa"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "ngăn chặn"
+    ],
+    [
+      "người phạm tội",
+      "làm giảm bớt"
+    ],
+    [
+      "người phạm tội",
+      "sửa chữa"
+    ],
+    [
+      "người phạm tội",
+      "bồi thường"
+    ],
+    [
+      "người phạm tội",
+      "khắc phục"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "nạn nhân",
+      "gây ra"
+    ],
+    [
+      "người khác",
+      "đe dọa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "ngăn chặn hoặc làm giảm bớt tác hại của tội phạm"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "vượt quá giới hạn phòng vệ chính đáng"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "vượt quá yêu cầu của tình thế cấp thiết"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "bị kích động về tinh thần do hành vi trái pháp luật của nạn nhân gây ra"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "hoàn cảnh đặc biệt khó khăn"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "chưa gây thiệt hại hoặc gây thiệt hại không lớn"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "phạm tội lần đầu và thuộc trường hợp ít nghiêm trọng"
+    ]
+  ]
+}

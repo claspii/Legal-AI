@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "cá nhân",
+    "tòa án",
+    "pháp nhân",
+    "những người được quy định tại điều 52 và điều 53 của bộ luật này",
+    "người giám hộ đương nhiên",
+    "người khác"
+  ],
+  "actions": [
+    "thay đổi người giám hộ",
+    "bị tòa án tuyên bố hạn chế năng lực hành vi dân sự",
+    "bị tòa án tuyên bố mất năng lực hành vi dân sự",
+    "bị tòa án tuyên bố mất tích",
+    "chấm dứt tồn tại",
+    "vi phạm nghiêm trọng nghĩa vụ giám hộ",
+    "đề nghị được thay đổi",
+    "nhận làm giám hộ",
+    "cử",
+    "chỉ định"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "đề nghị được thay đổi"
+    ],
+    [
+      "người giám hộ",
+      "vi phạm nghiêm trọng nghĩa vụ giám hộ"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "cá nhân",
+      "bị tòa án tuyên bố hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "cá nhân",
+      "bị tòa án tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "cá nhân",
+      "bị tòa án tuyên bố mất tích"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người khác",
+      "nhận làm giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ",
+      "thay đổi người giám hộ"
+    ],
+    [
+      "người giám hộ là cá nhân",
+      "chết"
+    ],
+    [
+      "người giám hộ là cá nhân",
+      "bị tòa án tuyên bố hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người giám hộ là cá nhân",
+      "bị tòa án tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "người giám hộ là cá nhân",
+      "bị tòa án tuyên bố mất tích"
+    ],
+    [
+      "pháp nhân làm giám hộ",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người giám hộ",
+      "nghĩa vụ giám hộ"
+    ],
+    [
+      "người giám hộ đương nhiên",
+      "thay đổi người giám hộ đương nhiên"
+    ]
+  ]
+}

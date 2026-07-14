@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "địch",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "đầu hàng",
+    "phạt tù",
+    "giao nộp",
+    "khai báo",
+    "lôi kéo",
+    "gây hậu quả"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đầu hàng"
+    ],
+    [
+      "người",
+      "giao nộp"
+    ],
+    [
+      "người",
+      "khai báo"
+    ],
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "gây hậu quả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đầu hàng địch",
+      "phạt tù"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ],
+    [
+      "vũ khí",
+      "giao nộp"
+    ],
+    [
+      "phương tiện kỹ thuật quân sự",
+      "giao nộp"
+    ],
+    [
+      "tài liệu quan trọng",
+      "giao nộp"
+    ],
+    [
+      "bí mật công tác quân sự",
+      "khai báo"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "gây hậu quả"
+    ]
+  ]
+}

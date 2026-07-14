@@ -1,0 +1,115 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán",
+    "các bên",
+    "bên dùng thử"
+  ],
+  "actions": [
+    "mua",
+    "dùng thử",
+    "trả lời mua",
+    "trả lời không mua",
+    "chấp nhận mua",
+    "thỏa thuận",
+    "xác định theo tập quán",
+    "chịu rủi ro",
+    "bán",
+    "tặng cho",
+    "cho thuê",
+    "trao đổi",
+    "thế chấp",
+    "cầm cố",
+    "trả lại vật",
+    "bồi thường thiệt hại",
+    "làm mất",
+    "hư hỏng vật",
+    "chịu trách nhiệm",
+    "hoàn trả hoa lợi"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên mua",
+      "dùng thử"
+    ],
+    [
+      "bên mua",
+      "trả lời mua"
+    ],
+    [
+      "bên mua",
+      "trả lời không mua"
+    ],
+    [
+      "bên mua",
+      "chấp nhận mua"
+    ],
+    [
+      "bên bán",
+      "chịu mọi rủi ro"
+    ],
+    [
+      "bên bán",
+      "không được bán"
+    ],
+    [
+      "bên dùng thử",
+      "trả lời không mua"
+    ],
+    [
+      "bên dùng thử",
+      "trả lại vật"
+    ],
+    [
+      "bên dùng thử",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên dùng thử",
+      "làm mất"
+    ],
+    [
+      "bên dùng thử",
+      "hư hỏng vật"
+    ],
+    [
+      "bên dùng thử",
+      "không phải chịu trách nhiệm"
+    ],
+    [
+      "bên dùng thử",
+      "không phải hoàn trả hoa lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mua",
+      "bên bán"
+    ],
+    [
+      "mua",
+      "dùng thử"
+    ],
+    [
+      "thời hạn dùng thử",
+      "vật mua"
+    ],
+    [
+      "vật",
+      "sở hữu"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "làm mất"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "hư hỏng vật"
+    ]
+  ]
+}

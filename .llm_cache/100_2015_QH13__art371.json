@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào có thẩm quyền",
+    "người dưới 18 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người bị bắt",
+    "người bị tạm giữ",
+    "bị can",
+    "bị cáo",
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người bị hại",
+    "nguyên đơn",
+    "bị đơn",
+    "người khởi kiện",
+    "người bị khởi kiện",
+    "người phạm tội"
+  ],
+  "actions": [
+    "ra quyết định",
+    "gây thiệt hại về tài sản",
+    "gây thiệt hại đến quyền, lợi ích hợp pháp của nhà nước, tổ chức, cá nhân",
+    "phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "gây rối loạn tâm thần và hành vi",
+    "làm tự sát",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người nào có thẩm quyền",
+      "ra quyết định"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định trái pháp luật",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "quyết định trái pháp luật",
+      "quyền, lợi ích hợp pháp của nhà nước, tổ chức, cá nhân"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "người bị bắt"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "người bị tạm giữ"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "bị can"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "bị cáo"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "người bị kết án"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "người phải chấp hành án"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "người bị hại"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "nguyên đơn"
+    ]
+  ]
+}

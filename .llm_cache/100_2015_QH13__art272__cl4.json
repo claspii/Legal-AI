@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về điều khiển phương tiện giao thông đường thủy",
+    "gây thiệt hại",
+    "ngăn chặn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "tài sản"
+    ],
+    [
+      "sức khỏe",
+      "tài sản"
+    ],
+    [
+      "phạm tội",
+      "khả năng thực tế dẫn đến hậu quả thực tế"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

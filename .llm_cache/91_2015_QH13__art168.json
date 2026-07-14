@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người chiếm hữu ngay tình"
+  ],
+  "actions": [
+    "đòi lại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "đòi lại động sản phải đăng ký quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "đòi lại bất động sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động sản phải đăng ký quyền sở hữu",
+      "người chiếm hữu ngay tình"
+    ],
+    [
+      "bất động sản",
+      "người chiếm hữu ngay tình"
+    ],
+    [
+      "chủ sở hữu",
+      "động sản phải đăng ký quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "bất động sản"
+    ]
+  ]
+}

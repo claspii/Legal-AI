@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế theo di chúc",
+    "người lập di chúc",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "có hiệu lực",
+    "không có hiệu lực",
+    "chết trước",
+    "chết cùng thời điểm",
+    "không còn tồn tại",
+    "để lại"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế theo di chúc",
+      "chết trước"
+    ],
+    [
+      "người thừa kế theo di chúc",
+      "chết cùng thời điểm"
+    ],
+    [
+      "cơ quan",
+      "không còn tồn tại"
+    ],
+    [
+      "tổ chức",
+      "không còn tồn tại"
+    ],
+    [
+      "người lập di chúc",
+      "để lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "di chúc",
+      "hiệu lực"
+    ],
+    [
+      "người thừa kế theo di chúc",
+      "người lập di chúc"
+    ],
+    [
+      "di sản",
+      "người thừa kế"
+    ],
+    [
+      "di chúc",
+      "tài sản"
+    ]
+  ]
+}

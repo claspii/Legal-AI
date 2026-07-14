@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "mua bán người dưới 16 tuổi",
+    "phạm tội",
+    "phạt tù",
+    "gây rối loạn tâm thần và hành vi",
+    "lấy bộ phận cơ thể",
+    "làm chết",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "nạn nhân",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "nạn nhân",
+      "lấy bộ phận cơ thể"
+    ],
+    [
+      "nạn nhân",
+      "làm chết"
+    ],
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": []
+}

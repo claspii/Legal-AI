@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người cai thầu",
+    "người có vai trò trung gian tương tự",
+    "người sử dụng lao động là chủ chính",
+    "người lao động",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "sử dụng",
+    "có danh sách",
+    "bảo đảm việc tuân thủ",
+    "trả lương",
+    "trả lương không đầy đủ",
+    "bảo đảm các quyền lợi",
+    "yêu cầu đền bù",
+    "yêu cầu giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động là chủ chính",
+      "sử dụng người cai thầu"
+    ],
+    [
+      "người sử dụng lao động là chủ chính",
+      "có danh sách"
+    ],
+    [
+      "người sử dụng lao động là chủ chính",
+      "bảo đảm việc tuân thủ"
+    ],
+    [
+      "người cai thầu hoặc người có vai trò trung gian tương tự",
+      "không trả lương"
+    ],
+    [
+      "người cai thầu hoặc người có vai trò trung gian tương tự",
+      "trả lương không đầy đủ"
+    ],
+    [
+      "người sử dụng lao động là chủ chính",
+      "chịu trách nhiệm trả lương"
+    ],
+    [
+      "người sử dụng lao động là chủ chính",
+      "yêu cầu đền bù"
+    ],
+    [
+      "người sử dụng lao động là chủ chính",
+      "yêu cầu cơ quan nhà nước có thẩm quyền giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người cai thầu",
+      "người có vai trò trung gian tương tự"
+    ],
+    [
+      "trả lương",
+      "an toàn, vệ sinh lao động"
+    ],
+    [
+      "trả lương",
+      "quyền lợi"
+    ]
+  ]
+}

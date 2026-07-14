@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba",
+    "bên có nghĩa vụ",
+    "các bên trong hợp đồng",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện hợp đồng",
+    "yêu cầu",
+    "có tranh chấp",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "người thứ ba",
+      "yêu cầu"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "các bên trong hợp đồng",
+      "có tranh chấp"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vì lợi ích của người thứ ba",
+      "người thứ ba"
+    ],
+    [
+      "người thứ ba",
+      "yêu cầu"
+    ],
+    [
+      "các bên trong hợp đồng",
+      "tranh chấp"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ]
+  ]
+}

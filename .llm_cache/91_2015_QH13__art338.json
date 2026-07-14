@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhiều người cùng bảo lãnh",
+    "bên có quyền",
+    "người bảo lãnh liên đới",
+    "bên được bảo lãnh",
+    "những người bảo lãnh còn lại"
+  ],
+  "actions": [
+    "bảo lãnh",
+    "thực hiện việc bảo lãnh",
+    "thỏa thuận",
+    "yêu cầu",
+    "thực hiện toàn bộ nghĩa vụ",
+    "thực hiện phần nghĩa vụ của họ đối với mình"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người cùng bảo lãnh",
+      "liên đới thực hiện việc bảo lãnh"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "thực hiện toàn bộ nghĩa vụ"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "thực hiện toàn bộ nghĩa vụ thay cho bên được bảo lãnh"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "có quyền yêu cầu"
+    ],
+    [
+      "những người bảo lãnh còn lại",
+      "phải thực hiện phần nghĩa vụ của họ đối với mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhiều người cùng bảo lãnh",
+      "nghĩa vụ"
+    ],
+    [
+      "bảo lãnh",
+      "thỏa thuận"
+    ],
+    [
+      "bảo lãnh",
+      "pháp luật"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "nghĩa vụ"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "bên được bảo lãnh"
+    ],
+    [
+      "người bảo lãnh liên đới",
+      "những người bảo lãnh còn lại"
+    ]
+  ]
+}

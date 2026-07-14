@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người phạm tội",
+    "chủ sở hữu",
+    "người quản lý hợp pháp",
+    "người khác"
+  ],
+  "actions": [
+    "tịch thu",
+    "sung vào ngân sách nhà nước",
+    "tiêu hủy",
+    "phạm tội",
+    "mua bán",
+    "đổi chác",
+    "chiếm đoạt",
+    "sử dụng trái phép",
+    "trả lại"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "cấm lưu hành"
+    ],
+    [
+      "người phạm tội",
+      "chiếm đoạt"
+    ],
+    [
+      "người phạm tội",
+      "sử dụng trái phép"
+    ],
+    [
+      "người phạm tội",
+      "sử dụng vào việc thực hiện tội phạm"
+    ],
+    [
+      "chủ sở hữu",
+      "trả lại"
+    ],
+    [
+      "người quản lý hợp pháp",
+      "trả lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tịch thu",
+      "vật, tiền trực tiếp liên quan đến tội phạm"
+    ],
+    [
+      "tịch thu",
+      "công cụ, phương tiện dùng vào việc phạm tội"
+    ],
+    [
+      "tịch thu",
+      "vật hoặc tiền do phạm tội hoặc do mua bán, đổi chác những thứ ấy mà có"
+    ],
+    [
+      "tịch thu",
+      "khoản thu lợi bất chính từ việc phạm tội"
+    ],
+    [
+      "tịch thu",
+      "vật thuộc loại nhà nước cấm lưu hành"
+    ],
+    [
+      "không tịch thu",
+      "vật, tiền bị người phạm tội chiếm đoạt hoặc sử dụng trái phép"
+    ],
+    [
+      "tịch thu",
+      "vật, tiền là tài sản của người khác, nếu người này có lỗi trong việc để cho người phạm tội sử dụng vào việc thực hiện tội phạm"
+    ]
+  ]
+}

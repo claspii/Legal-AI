@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [
+    "phụ lục hợp đồng lao động"
+  ],
+  "actors": [],
+  "actions": [
+    "quy định chi tiết",
+    "sửa đổi",
+    "bổ sung",
+    "thực hiện theo"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phụ lục hợp đồng lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "thời hạn",
+      "hợp đồng lao động"
+    ]
+  ]
+}

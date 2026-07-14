@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "mạng máy tính",
+    "mạng viễn thông"
+  ],
+  "actions": [
+    "cung cấp dịch vụ",
+    "không có giấy phép",
+    "không đúng nội dung được cấp phép",
+    "thu lợi bất chính",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cung cấp dịch vụ"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cung cấp dịch vụ",
+      "mạng máy tính"
+    ],
+    [
+      "cung cấp dịch vụ",
+      "mạng viễn thông"
+    ],
+    [
+      "không có giấy phép",
+      "thu lợi bất chính"
+    ],
+    [
+      "kinh doanh vàng trên tài khoản",
+      "dịch vụ trên mạng máy tính, mạng viễn thông"
+    ],
+    [
+      "sàn giao dịch thương mại điện tử",
+      "dịch vụ trên mạng máy tính, mạng viễn thông"
+    ],
+    [
+      "kinh doanh đa cấp",
+      "dịch vụ trên mạng máy tính, mạng viễn thông"
+    ],
+    [
+      "trung gian thanh toán",
+      "dịch vụ trên mạng máy tính, mạng viễn thông"
+    ],
+    [
+      "trò chơi điện tử trên mạng",
+      "dịch vụ trên mạng máy tính, mạng viễn thông"
+    ]
+  ]
+}

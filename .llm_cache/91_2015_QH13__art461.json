@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên tặng cho",
+    "bên được tặng cho",
+    "người được tặng cho"
+  ],
+  "actions": [
+    "thông báo",
+    "chịu trách nhiệm bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên tặng cho",
+      "thông báo khuyết tật của tài sản tặng cho"
+    ],
+    [
+      "bên tặng cho",
+      "chịu trách nhiệm bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên tặng cho",
+      "bên được tặng cho"
+    ],
+    [
+      "tài sản tặng cho",
+      "khuyết tật của tài sản tặng cho"
+    ],
+    [
+      "thông báo",
+      "khuyết tật của tài sản tặng cho"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "người được tặng cho"
+    ]
+  ]
+}

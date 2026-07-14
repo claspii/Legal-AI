@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người đồng phạm"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "xét đến",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "xét đến"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đồng phạm",
+      "hình phạt"
+    ],
+    [
+      "tính chất của đồng phạm",
+      "quyết định hình phạt"
+    ],
+    [
+      "tính chất tham gia phạm tội",
+      "quyết định hình phạt"
+    ],
+    [
+      "mức độ tham gia phạm tội",
+      "quyết định hình phạt"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "tình tiết tăng nặng",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "tình tiết loại trừ trách nhiệm hình sự",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị giao kết hợp đồng",
+    "bên được đề nghị"
+  ],
+  "actions": [
+    "thay đổi",
+    "rút lại",
+    "nhận được thông báo",
+    "giao kết hợp đồng",
+    "nhận được đề nghị"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị giao kết hợp đồng",
+      "thay đổi"
+    ],
+    [
+      "bên đề nghị giao kết hợp đồng",
+      "rút lại"
+    ],
+    [
+      "bên được đề nghị",
+      "nhận được thông báo"
+    ],
+    [
+      "bên được đề nghị",
+      "nhận được đề nghị"
+    ],
+    [
+      "bên đề nghị",
+      "thay đổi nội dung của đề nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thay đổi đề nghị",
+      "rút lại đề nghị"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "thông báo về việc thay đổi hoặc rút lại đề nghị"
+    ],
+    [
+      "đề nghị mới",
+      "thay đổi nội dung của đề nghị"
+    ]
+  ]
+}

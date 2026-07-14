@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "nhận lại",
+    "có mặt",
+    "tạm hoãn thực hiện hợp đồng lao động",
+    "nhận trở lại làm công việc",
+    "giao kết",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "có mặt"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhận người lao động trở lại làm công việc"
+    ],
+    [
+      "hai bên",
+      "có thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "tạm hoãn thực hiện hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "thời hạn"
+    ],
+    [
+      "người lao động",
+      "nơi làm việc"
+    ],
+    [
+      "người lao động",
+      "công việc theo hợp đồng lao động"
+    ]
+  ]
+}

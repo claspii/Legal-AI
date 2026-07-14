@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ luật này",
+    "luật khác có liên quan",
+    "cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actions": [
+    "điều chỉnh",
+    "áp dụng",
+    "là thành viên",
+    "không được trái",
+    "không quy định",
+    "có quy định",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật này",
+      "là luật chung"
+    ],
+    [
+      "bộ luật này",
+      "điều chỉnh các quan hệ dân sự"
+    ],
+    [
+      "luật khác có liên quan",
+      "điều chỉnh quan hệ dân sự trong các lĩnh vực cụ thể"
+    ],
+    [
+      "luật khác có liên quan",
+      "không được trái với các nguyên tắc cơ bản của pháp luật dân sự"
+    ],
+    [
+      "bộ luật này",
+      "được áp dụng"
+    ],
+    [
+      "cộng hòa xã hội chủ nghĩa việt nam",
+      "là thành viên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bộ luật này",
+      "quan hệ dân sự"
+    ],
+    [
+      "luật khác có liên quan",
+      "quan hệ dân sự"
+    ],
+    [
+      "luật khác có liên quan",
+      "các nguyên tắc cơ bản của pháp luật dân sự"
+    ],
+    [
+      "bộ luật này",
+      "điều ước quốc tế"
+    ]
+  ]
+}

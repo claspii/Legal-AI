@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "những người thừa kế",
+    "vợ",
+    "chồng",
+    "bên còn sống",
+    "Tòa án",
+    "gia đình"
+  ],
+  "actions": [
+    "phân chia di sản",
+    "lập di chúc",
+    "thỏa thuận",
+    "yêu cầu chia di sản thừa kế",
+    "ảnh hưởng nghiêm trọng đến đời sống",
+    "yêu cầu Tòa án",
+    "xác định phần di sản",
+    "gia hạn"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ],
+    [
+      "những người thừa kế",
+      "thỏa thuận"
+    ],
+    [
+      "bên còn sống",
+      "yêu cầu chia di sản thừa kế"
+    ],
+    [
+      "bên còn sống",
+      "yêu cầu Tòa án"
+    ],
+    [
+      "Tòa án",
+      "xác định phần di sản"
+    ],
+    [
+      "bên còn sống",
+      "chứng minh"
+    ],
+    [
+      "bên còn sống",
+      "yêu cầu Tòa án gia hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phân chia di sản",
+      "thời hạn nhất định"
+    ],
+    [
+      "chia di sản",
+      "ảnh hưởng nghiêm trọng đến đời sống"
+    ],
+    [
+      "bên vợ",
+      "bên chồng"
+    ],
+    [
+      "di sản",
+      "thừa kế"
+    ],
+    [
+      "Tòa án",
+      "xác định phần di sản"
+    ],
+    [
+      "chia di sản",
+      "gia hạn"
+    ]
+  ]
+}

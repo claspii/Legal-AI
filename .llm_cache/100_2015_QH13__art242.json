@@ -1,0 +1,98 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "vi phạm",
+    "gây thiệt hại",
+    "thu được",
+    "bị xử phạt",
+    "bị kết án",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "sử dụng",
+    "khai thác",
+    "phá hoại",
+    "gây thương tích",
+    "gây tổn hại",
+    "làm chết người",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về bảo vệ nguồn lợi thủy sản"
+    ],
+    [
+      "người",
+      "gây thiệt hại nguồn lợi thủy sản"
+    ],
+    [
+      "người",
+      "sử dụng chất độc, chất nổ, các hóa chất khác, dòng điện hoặc các phương tiện, ngư cụ bị cấm để khai thác thủy sản"
+    ],
+    [
+      "người",
+      "khai thác thủy sản trong khu vực cấm"
+    ],
+    [
+      "người",
+      "phá hoại nơi cư ngụ của các loài thủy sản"
+    ],
+    [
+      "người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của người khác"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nguồn lợi thủy sản",
+      "thiệt hại"
+    ],
+    [
+      "thủy sản",
+      "trị giá"
+    ],
+    [
+      "vi phạm hành chính",
+      "xử phạt"
+    ],
+    [
+      "án tích",
+      "xóa"
+    ],
+    [
+      "chất độc",
+      "khai thác thủy sản"
+    ],
+    [
+      "khu vực cấm",
+      "khai thác thủy sản"
+    ],
+    [
+      "loài thủy sản bị cấm khai thác",
+      "khai thác"
+    ],
+    [
+      "nơi cư ngụ của các loài thủy sản",
+      "phá hoại"
+    ]
+  ]
+}

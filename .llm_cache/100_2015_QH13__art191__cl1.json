@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "cấm kinh doanh",
+    "cấm lưu hành",
+    "cấm sử dụng",
+    "xử phạt vi phạm hành chính",
+    "kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "nhà nước",
+      "cấm kinh doanh"
+    ],
+    [
+      "nhà nước",
+      "cấm lưu hành"
+    ],
+    [
+      "nhà nước",
+      "cấm sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàng trữ",
+      "hàng cấm"
+    ],
+    [
+      "vận chuyển",
+      "hàng cấm"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "hàng phạm pháp",
+      "trị giá"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng phạm pháp"
+    ]
+  ]
+}

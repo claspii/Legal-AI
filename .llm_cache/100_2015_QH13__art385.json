@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có thẩm quyền",
+    "bị can",
+    "bị cáo",
+    "người bị kết án",
+    "người phải thi hành án",
+    "người có nghĩa vụ thi hành án",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm việc niêm phong, kê biên tài sản, phong tỏa tài khoản",
+    "giữ",
+    "quản lý",
+    "phá hủy niêm phong",
+    "giải tỏa việc phong tỏa tài khoản",
+    "tiêu dùng",
+    "chuyển nhượng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giữ"
+    ],
+    [
+      "người",
+      "quản lý"
+    ],
+    [
+      "người",
+      "phá hủy niêm phong"
+    ],
+    [
+      "người",
+      "giải tỏa việc phong tỏa tài khoản"
+    ],
+    [
+      "người",
+      "tiêu dùng"
+    ],
+    [
+      "người",
+      "chuyển nhượng"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "niêm phong",
+      "kê biên tài sản"
+    ],
+    [
+      "niêm phong",
+      "phong tỏa tài khoản"
+    ],
+    [
+      "tài sản bị kê biên",
+      "vật chứng bị niêm phong"
+    ],
+    [
+      "tài sản bị kê biên",
+      "tài khoản bị phong tỏa"
+    ],
+    [
+      "vụ án",
+      "vụ việc"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "bên thuê lại lao động",
+    "doanh nghiệp cho thuê lại lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "hoạt động cho thuê lại lao động",
+    "sử dụng lao động thuê lại",
+    "chuyển người lao động thuê lại",
+    "thực hiện quyền đình công",
+    "giải quyết tranh chấp lao động",
+    "bồi thường tai nạn lao động",
+    "bồi thường bệnh nghề nghiệp",
+    "thay thế người lao động",
+    "có giấy phép"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê lại lao động",
+      "sử dụng lao động thuê lại"
+    ],
+    [
+      "bên thuê lại lao động",
+      "không được sử dụng lao động thuê lại"
+    ],
+    [
+      "bên thuê lại lao động",
+      "không được chuyển người lao động thuê lại"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "có giấy phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động cho thuê lại lao động",
+      "thời hạn cho thuê lại lao động"
+    ],
+    [
+      "lao động thuê lại",
+      "bên thuê lại lao động"
+    ],
+    [
+      "lao động thuê lại",
+      "doanh nghiệp cho thuê lại lao động"
+    ],
+    [
+      "tai nạn lao động",
+      "bệnh nghề nghiệp"
+    ]
+  ]
+}

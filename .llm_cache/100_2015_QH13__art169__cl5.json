@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "bắt cóc nhằm chiếm đoạt tài sản",
+    "phạm tội",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bắt cóc nhằm chiếm đoạt tài sản",
+      "phạt tù"
+    ]
+  ]
+}

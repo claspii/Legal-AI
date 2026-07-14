@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án",
+    "người bị tòa án tuyên bố mất tích",
+    "người kia"
+  ],
+  "actions": [
+    "yêu cầu ly hôn",
+    "hòa giải",
+    "giải quyết cho ly hôn",
+    "có hành vi bạo lực gia đình",
+    "vi phạm nghiêm trọng quyền, nghĩa vụ",
+    "làm cho hôn nhân lâm vào tình trạng trầm trọng"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "chồng",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "tòa án",
+      "hòa giải"
+    ],
+    [
+      "tòa án",
+      "giải quyết cho ly hôn"
+    ],
+    [
+      "vợ",
+      "có hành vi bạo lực gia đình"
+    ],
+    [
+      "chồng",
+      "có hành vi bạo lực gia đình"
+    ],
+    [
+      "vợ",
+      "vi phạm nghiêm trọng quyền, nghĩa vụ"
+    ],
+    [
+      "chồng",
+      "vi phạm nghiêm trọng quyền, nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "hành vi bạo lực gia đình",
+      "ly hôn"
+    ],
+    [
+      "vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng",
+      "ly hôn"
+    ],
+    [
+      "hôn nhân lâm vào tình trạng trầm trọng",
+      "ly hôn"
+    ],
+    [
+      "mục đích của hôn nhân không đạt được",
+      "ly hôn"
+    ],
+    [
+      "tòa án tuyên bố mất tích",
+      "ly hôn"
+    ],
+    [
+      "bạo lực gia đình",
+      "ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "chậm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thỏa thuận",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "quy định của pháp luật",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "quyết định của cơ quan có thẩm quyền",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "chậm thực hiện nghĩa vụ theo từng kỳ",
+      "chậm thực hiện nghĩa vụ"
+    ]
+  ]
+}

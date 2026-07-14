@@ -1,0 +1,115 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cán bộ",
+    "công chức",
+    "người khác",
+    "tổ chức khủng bố",
+    "tổ chức tài trợ khủng bố",
+    "phần tử khủng bố",
+    "cá nhân nước ngoài"
+  ],
+  "actions": [
+    "xâm phạm tính mạng",
+    "phạt tù",
+    "thành lập tổ chức khủng bố",
+    "tham gia tổ chức khủng bố",
+    "cưỡng ép",
+    "lôi kéo",
+    "tuyển mộ",
+    "đào tạo",
+    "huấn luyện",
+    "chế tạo vũ khí",
+    "cung cấp vũ khí",
+    "xâm phạm tự do thân thể",
+    "xâm phạm sức khỏe",
+    "đe dọa xâm phạm tính mạng",
+    "uy hiếp tinh thần",
+    "khủng bố cá nhân nước ngoài",
+    "khủng bố tổ chức nước ngoài",
+    "khủng bố tổ chức quốc tế",
+    "xử phạt",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xâm phạm tính mạng"
+    ],
+    [
+      "người",
+      "thành lập tổ chức khủng bố"
+    ],
+    [
+      "người",
+      "tham gia tổ chức khủng bố"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "người",
+      "chế tạo vũ khí"
+    ],
+    [
+      "người",
+      "cung cấp vũ khí"
+    ],
+    [
+      "người",
+      "xâm phạm tự do thân thể"
+    ],
+    [
+      "người",
+      "đe dọa xâm phạm tính mạng"
+    ],
+    [
+      "người",
+      "uy hiếp tinh thần"
+    ],
+    [
+      "người",
+      "khủng bố cá nhân nước ngoài"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "xâm phạm tính mạng"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "thành lập tổ chức khủng bố"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "tham gia tổ chức khủng bố"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "cưỡng ép"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "chế tạo vũ khí"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "cung cấp vũ khí"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "xâm phạm tự do thân thể"
+    ],
+    [
+      "khủng bố nhằm chống chính quyền nhân dân",
+      "đe dọa xâm phạm tính mạng"
+    ]
+  ]
+}

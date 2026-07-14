@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án"
+  ],
+  "actions": [
+    "chấp hành xong hình phạt chính",
+    "hết thời hiệu thi hành bản án",
+    "đương nhiên được xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "đương nhiên được xóa án tích"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt chính"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đương nhiên được xóa án tích",
+      "người bị kết án"
+    ],
+    [
+      "đương nhiên được xóa án tích",
+      "hình phạt chính"
+    ],
+    [
+      "đương nhiên được xóa án tích",
+      "thời gian thử thách án treo"
+    ]
+  ]
+}

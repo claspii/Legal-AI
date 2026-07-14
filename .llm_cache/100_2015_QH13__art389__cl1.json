@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "người dưới 01 tuổi",
+    "người từ đủ 13 tuổi đến dưới 16 tuổi",
+    "nhà nước",
+    "người nộp thuế",
+    "người khác"
+  ],
+  "actions": [
+    "che giấu tội phạm",
+    "giết người",
+    "hiếp dâm",
+    "hiếp dâm người dưới 16 tuổi",
+    "cưỡng dâm từ đủ 13 tuổi đến dưới 16 tuổi",
+    "dâm ô đối với người dưới 16 tuổi",
+    "mua bán người",
+    "mua bán người dưới 16 tuổi"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "che giấu tội phạm"
+    ],
+    [
+      "người",
+      "giết người"
+    ],
+    [
+      "người",
+      "hiếp dâm"
+    ],
+    [
+      "người",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "người",
+      "cưỡng dâm từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "người",
+      "dâm ô đối với người dưới 16 tuổi"
+    ],
+    [
+      "người",
+      "mua bán người"
+    ],
+    [
+      "người",
+      "mua bán người dưới 16 tuổi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "che giấu tội phạm",
+      "tội xâm phạm an ninh quốc gia"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội giết người"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội hiếp dâm"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội cưỡng dâm từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội dâm ô đối với người dưới 16 tuổi"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội mua bán người"
+    ],
+    [
+      "che giấu tội phạm",
+      "tội mua bán người dưới 16 tuổi"
+    ]
+  ]
+}

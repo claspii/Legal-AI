@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thực hiện nghĩa vụ",
+    "tác động",
+    "áp dụng quy định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "phải thực hiện"
+    ],
+    [
+      "một bên",
+      "tác động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "điều kiện thực hiện nghĩa vụ"
+    ],
+    [
+      "điều kiện",
+      "phát sinh"
+    ],
+    [
+      "điều kiện",
+      "không xảy ra"
+    ],
+    [
+      "điều kiện",
+      "xảy ra do có sự tác động của một bên"
+    ]
+  ]
+}

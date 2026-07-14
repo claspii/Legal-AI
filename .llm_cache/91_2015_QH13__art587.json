@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhiều người",
+    "người gây thiệt hại",
+    "người bị thiệt hại"
+  ],
+  "actions": [
+    "gây thiệt hại",
+    "bồi thường",
+    "xác định mức độ lỗi"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người",
+      "gây thiệt hại"
+    ],
+    [
+      "những người đó",
+      "liên đới bồi thường"
+    ],
+    [
+      "người gây thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "họ",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhiều người cùng gây thiệt hại",
+      "liên đới bồi thường"
+    ],
+    [
+      "trách nhiệm bồi thường",
+      "mức độ lỗi"
+    ],
+    [
+      "mức độ lỗi",
+      "bồi thường thiệt hại theo phần bằng nhau"
+    ]
+  ]
+}

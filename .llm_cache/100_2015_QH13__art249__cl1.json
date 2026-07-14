@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "tàng trữ trái phép chất ma túy",
+    "mua bán trái phép chất ma túy",
+    "vận chuyển trái phép chất ma túy",
+    "sản xuất trái phép chất ma túy",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tàng trữ trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người",
+      "bị kết án về tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàng trữ trái phép chất ma túy",
+      "nhựa thuốc phiện"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "nhựa cần sa"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "cao côca"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "hêrôin"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "côcain"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "methamphetamine"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "amphetamine"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "mdma"
+    ]
+  ]
+}

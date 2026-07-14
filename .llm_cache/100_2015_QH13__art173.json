@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị hại",
+    "gia đình họ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "trộm cắp tài sản",
+    "bị xử phạt vi phạm hành chính",
+    "chiếm đoạt tài sản",
+    "vi phạm",
+    "bị kết án",
+    "xóa án tích",
+    "gây ảnh hưởng xấu",
+    "tẩu thoát",
+    "hành hung"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trộm cắp tài sản"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "gây ảnh hưởng xấu"
+    ],
+    [
+      "người",
+      "hành hung để tẩu thoát"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trộm cắp tài sản",
+      "giá trị tài sản"
+    ],
+    [
+      "tài sản",
+      "phương tiện kiếm sống chính"
+    ],
+    [
+      "tài sản",
+      "kỷ vật"
+    ],
+    [
+      "tài sản",
+      "di vật"
+    ],
+    [
+      "tài sản",
+      "đồ thờ cúng"
+    ],
+    [
+      "trộm cắp tài sản",
+      "hình phạt"
+    ]
+  ]
+}

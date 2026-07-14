@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người làm chứng",
+    "người giám định",
+    "người định giá tài sản",
+    "người phiên dịch",
+    "người dịch thuật",
+    "người bào chữa",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cung cấp tài liệu sai sự thật",
+    "khai báo gian dối",
+    "kết luận gian dối",
+    "dịch gian dối",
+    "khai gian dối",
+    "cung cấp những tài liệu mà mình biết rõ là sai sự thật",
+    "bị phạt cảnh cáo",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người làm chứng",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người giám định",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người định giá tài sản",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người phiên dịch",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người dịch thuật",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người bào chữa",
+      "kết luận, dịch, khai gian dối hoặc cung cấp những tài liệu mà mình biết rõ là sai sự thật"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cung cấp tài liệu sai sự thật",
+      "khai báo gian dối"
+    ],
+    [
+      "kết án oan người vô tội",
+      "bỏ lọt tội phạm"
+    ],
+    [
+      "giải quyết vụ án",
+      "bị sai lệch"
+    ]
+  ]
+}

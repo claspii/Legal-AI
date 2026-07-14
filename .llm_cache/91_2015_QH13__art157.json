@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "người khởi kiện",
+    "các bên"
+  ],
+  "actions": [
+    "bắt đầu lại",
+    "thừa nhận",
+    "thực hiện xong",
+    "hòa giải"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thừa nhận hoặc thực hiện xong một phần nghĩa vụ của mình đối với người khởi kiện"
+    ],
+    [
+      "các bên",
+      "tự hòa giải với nhau"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu khởi kiện vụ án dân sự",
+      "nghĩa vụ"
+    ],
+    [
+      "thời hiệu khởi kiện vụ án dân sự",
+      "hòa giải"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "nam",
+    "nữ",
+    "cơ quan có thẩm quyền của việt nam"
+  ],
+  "actions": [
+    "áp dụng chế độ tài sản của vợ chồng theo thỏa thuận",
+    "giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài",
+    "chung sống với nhau như vợ chồng",
+    "đăng ký kết hôn",
+    "áp dụng các quy định",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan có thẩm quyền của việt nam",
+      "áp dụng các quy định của luật này và các luật khác có liên quan của việt nam"
+    ],
+    [
+      "cơ quan có thẩm quyền của việt nam",
+      "giải quyết"
+    ],
+    [
+      "nam",
+      "chung sống với nhau như vợ chồng"
+    ],
+    [
+      "nữ",
+      "chung sống với nhau như vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng",
+      "yếu tố nước ngoài"
+    ],
+    [
+      "nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn",
+      "yếu tố nước ngoài"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo thỏa thuận",
+      "giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài"
+    ],
+    [
+      "cơ quan có thẩm quyền của việt nam",
+      "luật này và các luật khác có liên quan của việt nam"
+    ]
+  ]
+}

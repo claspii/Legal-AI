@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "cơ quan nhà nước có thẩm quyền",
+    "chính phủ"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "không hoàn thành công việc",
+    "bị ốm đau",
+    "bị tai nạn",
+    "điều trị",
+    "hồi phục",
+    "xem xét",
+    "tiếp tục giao kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "ban hành quy chế đánh giá mức độ hoàn thành công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "tìm mọi biện pháp khắc phục"
+    ],
+    [
+      "người sử dụng lao động",
+      "báo trước"
+    ],
+    [
+      "người lao động",
+      "không hoàn thành công việc"
+    ],
+    [
+      "người lao động",
+      "bị ốm đau"
+    ],
+    [
+      "người lao động",
+      "bị tai nạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "quyền đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động không xác định thời hạn"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động xác định thời hạn"
+    ],
+    [
+      "người lao động",
+      "không hoàn thành công việc"
+    ],
+    [
+      "người lao động",
+      "ốm đau"
+    ],
+    [
+      "người lao động",
+      "tai nạn"
+    ]
+  ]
+}

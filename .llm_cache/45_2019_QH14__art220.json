@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quốc hội",
+    "người lao động",
+    "cán bộ",
+    "công chức",
+    "viên chức",
+    "người thuộc lực lượng quân đội nhân dân",
+    "công an nhân dân",
+    "tổ chức xã hội"
+  ],
+  "actions": [
+    "có hiệu lực thi hành",
+    "hết hiệu lực thi hành",
+    "tiếp tục thực hiện",
+    "thỏa thuận về việc sửa đổi, bổ sung",
+    "áp dụng quy định",
+    "thông qua"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật này",
+      "có hiệu lực thi hành"
+    ],
+    [
+      "bộ luật lao động số 10/2012/qh13",
+      "hết hiệu lực thi hành"
+    ],
+    [
+      "hợp đồng lao động",
+      "tiếp tục thực hiện"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "tiếp tục thực hiện"
+    ],
+    [
+      "các thỏa thuận hợp pháp",
+      "tiếp tục thực hiện"
+    ],
+    [
+      "các bên",
+      "thỏa thuận về việc sửa đổi, bổ sung"
+    ],
+    [
+      "quốc hội nước cộng hòa xã hội chủ nghĩa việt nam",
+      "thông qua"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiệu lực thi hành",
+      "bộ luật này"
+    ],
+    [
+      "hiệu lực thi hành",
+      "bộ luật lao động số 10/2012/qh13"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "chế độ lao động",
+      "cán bộ"
+    ],
+    [
+      "chế độ lao động",
+      "công chức"
+    ],
+    [
+      "chế độ lao động",
+      "viên chức"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "gây ra thiệt hại",
+    "thực hiện việc nghiên cứu, thử nghiệm, áp dụng tiến bộ khoa học, kỹ thuật và công nghệ mới",
+    "tuân thủ đúng quy trình, quy phạm, áp dụng đầy đủ biện pháp phòng ngừa",
+    "không áp dụng đúng quy trình, quy phạm, không áp dụng đầy đủ biện pháp phòng ngừa",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "không áp dụng đúng quy trình, quy phạm, không áp dụng đầy đủ biện pháp phòng ngừa mà gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi gây ra thiệt hại",
+      "không phải là tội phạm"
+    ],
+    [
+      "rủi ro trong nghiên cứu, thử nghiệm, áp dụng tiến bộ khoa học, kỹ thuật và công nghệ",
+      "loại trừ trách nhiệm hình sự"
+    ],
+    [
+      "tuân thủ đúng quy trình, quy phạm, áp dụng đầy đủ biện pháp phòng ngừa",
+      "không phải là tội phạm"
+    ],
+    [
+      "không áp dụng đúng quy trình, quy phạm, không áp dụng đầy đủ biện pháp phòng ngừa",
+      "chịu trách nhiệm hình sự"
+    ]
+  ]
+}

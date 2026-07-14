@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "sáng lập viên",
+    "thành viên",
+    "pháp nhân"
+  ],
+  "actions": [
+    "bao gồm",
+    "được xác lập quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "bao gồm"
+    ],
+    [
+      "pháp nhân",
+      "được xác lập quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản của pháp nhân",
+      "vốn góp của chủ sở hữu"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "vốn góp của sáng lập viên"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "vốn góp của thành viên"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "tài sản khác"
+    ],
+    [
+      "bộ luật này",
+      "luật khác có liên quan"
+    ]
+  ]
+}

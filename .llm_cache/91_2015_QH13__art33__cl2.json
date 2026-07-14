@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phát hiện",
+    "cá nhân",
+    "cơ quan",
+    "tổ chức khác",
+    "cơ sở khám bệnh, chữa bệnh"
+  ],
+  "actions": [
+    "phát hiện",
+    "đe dọa",
+    "có trách nhiệm",
+    "yêu cầu",
+    "đưa ngay đến",
+    "thực hiện việc khám bệnh, chữa bệnh"
+  ],
+  "actor_actions": [
+    [
+      "người phát hiện",
+      "phát hiện"
+    ],
+    [
+      "tính mạng",
+      "bị đe dọa"
+    ],
+    [
+      "người phát hiện",
+      "có trách nhiệm"
+    ],
+    [
+      "người phát hiện",
+      "yêu cầu"
+    ],
+    [
+      "cá nhân, cơ quan, tổ chức khác",
+      "đưa ngay đến"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh",
+      "thực hiện việc khám bệnh, chữa bệnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị tai nạn, bệnh tật",
+      "tính mạng bị đe dọa"
+    ],
+    [
+      "người phát hiện",
+      "cơ sở khám bệnh, chữa bệnh"
+    ],
+    [
+      "khám bệnh, chữa bệnh",
+      "quy định của pháp luật về khám bệnh, chữa bệnh"
+    ]
+  ]
+}

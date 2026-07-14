@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm giữ",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt cầm giữ",
+    "chiếm giữ tài sản",
+    "thỏa thuận sử dụng biện pháp bảo đảm khác",
+    "thay thế cho cầm giữ",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm giữ",
+      "chiếm giữ tài sản trên thực tế"
+    ],
+    [
+      "các bên",
+      "thỏa thuận sử dụng biện pháp bảo đảm khác"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cầm giữ",
+      "tài sản"
+    ],
+    [
+      "cầm giữ",
+      "biện pháp bảo đảm"
+    ]
+  ]
+}

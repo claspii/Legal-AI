@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "mất việc làm",
+    "thôi việc",
+    "xây dựng phương án",
+    "thực hiện phương án"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "mất việc làm"
+    ],
+    [
+      "người lao động",
+      "thôi việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "xây dựng phương án"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện phương án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lý do kinh tế",
+      "mất việc làm"
+    ],
+    [
+      "lý do kinh tế",
+      "thôi việc"
+    ],
+    [
+      "mất việc làm",
+      "phương án sử dụng lao động"
+    ],
+    [
+      "thôi việc",
+      "phương án sử dụng lao động"
+    ]
+  ]
+}

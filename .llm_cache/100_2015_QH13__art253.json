@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "chiếm đoạt",
+    "sản xuất trái phép chất ma túy",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "sử dụng người dưới 16 tuổi vào việc phạm tội",
+    "vận chuyển, mua bán qua biên giới",
+    "tái phạm nguy hiểm",
+    "truy cứu trách nhiệm hình sự",
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "chiếm đoạt"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền chất ở thể rắn",
+      "khối lượng"
+    ],
+    [
+      "tiền chất ở thể lỏng",
+      "khối lượng"
+    ],
+    [
+      "tiền chất ở thể rắn",
+      "tỷ lệ 01 gam"
+    ],
+    [
+      "tiền chất ở thể lỏng",
+      "tương đương với 1,5 mililít"
+    ]
+  ]
+}

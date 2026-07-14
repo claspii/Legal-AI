@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "sửa đổi",
+    "bổ sung",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "sửa đổi"
+    ],
+    [
+      "vợ chồng",
+      "bổ sung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "sửa đổi, bổ sung",
+      "nội dung của thỏa thuận về chế độ tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên tặng cho",
+    "bên được tặng cho"
+  ],
+  "actions": [
+    "yêu cầu",
+    "thực hiện nghĩa vụ",
+    "giao tài sản",
+    "thanh toán nghĩa vụ",
+    "đòi lại tài sản",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên tặng cho",
+      "yêu cầu"
+    ],
+    [
+      "bên được tặng cho",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên tặng cho",
+      "không giao tài sản"
+    ],
+    [
+      "bên tặng cho",
+      "thanh toán nghĩa vụ"
+    ],
+    [
+      "bên được tặng cho",
+      "không thực hiện"
+    ],
+    [
+      "bên tặng cho",
+      "đòi lại tài sản"
+    ],
+    [
+      "bên tặng cho",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tặng cho tài sản",
+      "điều kiện"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "vi phạm điều cấm của luật",
+      "trái đạo đức xã hội"
+    ],
+    [
+      "không thực hiện nghĩa vụ",
+      "đòi lại tài sản"
+    ],
+    [
+      "không thực hiện nghĩa vụ",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

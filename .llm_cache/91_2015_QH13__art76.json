@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [
+    "pháp nhân phi thương mại"
+  ],
+  "actors": [
+    "pháp nhân phi thương mại",
+    "thành viên",
+    "cơ quan nhà nước",
+    "đơn vị vũ trang nhân dân",
+    "tổ chức chính trị",
+    "tổ chức chính trị - xã hội",
+    "tổ chức chính trị xã hội - nghề nghiệp",
+    "tổ chức xã hội"
+  ],
+  "actions": [
+    "tìm kiếm lợi nhuận",
+    "phân chia",
+    "thành lập",
+    "hoạt động",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân phi thương mại",
+      "tìm kiếm lợi nhuận"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "thành lập"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "hoạt động"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "chấm dứt"
+    ],
+    [
+      "lợi nhuận",
+      "phân chia"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân phi thương mại",
+      "lợi nhuận"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "thành viên"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "cơ quan nhà nước"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "đơn vị vũ trang nhân dân"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "tổ chức chính trị"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "tổ chức chính trị - xã hội"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "tổ chức chính trị xã hội - nghề nghiệp"
+    ],
+    [
+      "pháp nhân phi thương mại",
+      "tổ chức xã hội"
+    ]
+  ]
+}

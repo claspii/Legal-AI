@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động",
+    "tổ chức nghề nghiệp",
+    "tổ chức khác"
+  ],
+  "actions": [
+    "làm việc",
+    "lựa chọn việc làm",
+    "nâng cao trình độ nghề nghiệp",
+    "hưởng lương",
+    "bảo hộ lao động",
+    "thành lập",
+    "gia nhập",
+    "hoạt động",
+    "yêu cầu đối thoại",
+    "tham gia đối thoại",
+    "thực hiện quy chế dân chủ",
+    "thương lượng tập thể",
+    "tham vấn",
+    "tham gia quản lý",
+    "từ chối làm việc",
+    "đơn phương chấm dứt hợp đồng lao động",
+    "đình công"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "tự do lựa chọn việc làm"
+    ],
+    [
+      "người lao động",
+      "nâng cao trình độ nghề nghiệp"
+    ],
+    [
+      "người lao động",
+      "hưởng lương"
+    ],
+    [
+      "người lao động",
+      "được bảo hộ lao động"
+    ],
+    [
+      "người lao động",
+      "thành lập tổ chức đại diện người lao động"
+    ],
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "quyền"
+    ],
+    [
+      "người lao động",
+      "nghĩa vụ"
+    ],
+    [
+      "làm việc",
+      "không bị phân biệt đối xử"
+    ],
+    [
+      "làm việc",
+      "không bị cưỡng bức lao động"
+    ],
+    [
+      "làm việc",
+      "không bị quấy rối tình dục tại nơi làm việc"
+    ],
+    [
+      "lương",
+      "trình độ"
+    ],
+    [
+      "lương",
+      "kỹ năng nghề"
+    ],
+    [
+      "an toàn lao động",
+      "vệ sinh lao động"
+    ]
+  ]
+}

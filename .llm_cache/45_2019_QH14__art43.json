@@ -1,0 +1,94 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "doanh nghiệp",
+    "hợp tác xã",
+    "người lao động",
+    "người sử dụng lao động hiện tại",
+    "người sử dụng lao động kế tiếp"
+  ],
+  "actions": [
+    "chia",
+    "tách",
+    "hợp nhất",
+    "sáp nhập",
+    "bán",
+    "cho thuê",
+    "chuyển đổi loại hình",
+    "chuyển nhượng quyền sở hữu",
+    "chuyển nhượng quyền sử dụng tài sản",
+    "xây dựng phương án sử dụng lao động",
+    "thực hiện phương án sử dụng lao động",
+    "bị thôi việc",
+    "nhận trợ cấp mất việc làm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chia"
+    ],
+    [
+      "người sử dụng lao động",
+      "tách"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp nhất"
+    ],
+    [
+      "người sử dụng lao động",
+      "sáp nhập"
+    ],
+    [
+      "người sử dụng lao động",
+      "xây dựng phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động hiện tại",
+      "thực hiện phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động kế tiếp",
+      "thực hiện phương án sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "nhận trợ cấp mất việc làm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "chia"
+    ],
+    [
+      "người sử dụng lao động",
+      "tách"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp nhất"
+    ],
+    [
+      "người sử dụng lao động",
+      "sáp nhập"
+    ],
+    [
+      "chia",
+      "ảnh hưởng đến việc làm của nhiều người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "phương án sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "trợ cấp mất việc làm"
+    ],
+    [
+      "người lao động bị thôi việc",
+      "trợ cấp mất việc làm"
+    ]
+  ]
+}

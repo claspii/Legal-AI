@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "câu kết",
+    "phạm tội",
+    "thực hiện tội phạm",
+    "lợi dụng",
+    "dùng thủ đoạn",
+    "trốn tránh",
+    "che giấu tội phạm"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "câu kết"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện tội phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tái phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "lợi dụng hoàn cảnh chiến tranh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "dùng thủ đoạn tinh vi để phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "tái phạm",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "dấu hiệu định tội",
+      "định khung hình phạt"
+    ]
+  ]
+}

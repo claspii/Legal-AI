@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sản xuất",
+      "hàng giả"
+    ],
+    [
+      "buôn bán",
+      "hàng giả"
+    ],
+    [
+      "hàng giả",
+      "giá bán"
+    ],
+    [
+      "hàng giả",
+      "giá niêm yết"
+    ],
+    [
+      "hàng giả",
+      "giá ghi trong hóa đơn"
+    ],
+    [
+      "hàng giả",
+      "số lượng của hàng thật"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng giả"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động nước ngoài",
+    "cơ quan nhà nước có thẩm quyền",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "xuất trình giấy phép lao động",
+    "làm việc tại việt nam",
+    "bị buộc xuất cảnh",
+    "trục xuất",
+    "sử dụng người lao động nước ngoài làm việc",
+    "bị xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người lao động nước ngoài",
+      "xuất trình giấy phép lao động"
+    ],
+    [
+      "người lao động nước ngoài",
+      "làm việc tại việt nam"
+    ],
+    [
+      "người lao động nước ngoài",
+      "bị buộc xuất cảnh"
+    ],
+    [
+      "người lao động nước ngoài",
+      "trục xuất"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động nước ngoài làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "bị xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động nước ngoài",
+      "giấy phép lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động nước ngoài"
+    ]
+  ]
+}

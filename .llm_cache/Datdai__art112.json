@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "đồng bào dân tộc thiểu số"
+  ],
+  "actions": [
+    "phát triển quỹ đất",
+    "quản lý quỹ đất",
+    "khai thác quỹ đất",
+    "sử dụng đất đúng mục đích",
+    "hỗ trợ tái định cư",
+    "bố trí đất ở",
+    "bố trí đất sản xuất"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phát triển quỹ đất",
+      "quy hoạch sử dụng đất"
+    ],
+    [
+      "phát triển quỹ đất",
+      "kế hoạch sử dụng đất"
+    ],
+    [
+      "quản lý quỹ đất",
+      "quy hoạch sử dụng đất"
+    ],
+    [
+      "quản lý quỹ đất",
+      "kế hoạch sử dụng đất"
+    ],
+    [
+      "khai thác quỹ đất",
+      "quy hoạch sử dụng đất"
+    ],
+    [
+      "khai thác quỹ đất",
+      "kế hoạch sử dụng đất"
+    ],
+    [
+      "hỗ trợ tái định cư",
+      "an sinh xã hội"
+    ],
+    [
+      "đất ở",
+      "đồng bào dân tộc thiểu số"
+    ]
+  ]
+}

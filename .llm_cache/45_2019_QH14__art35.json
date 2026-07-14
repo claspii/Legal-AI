@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "chính phủ",
+    "lao động nữ",
+    "các bên"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "báo trước",
+    "làm việc",
+    "bố trí",
+    "bảo đảm điều kiện làm việc",
+    "trả lương",
+    "ngược đãi",
+    "đánh đập"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "báo trước"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm điều kiện làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "ngược đãi"
+    ],
+    [
+      "người sử dụng lao động",
+      "đánh đập"
+    ],
+    [
+      "lao động nữ",
+      "nghỉ việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "45 ngày"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng",
+      "30 ngày"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng",
+      "03 ngày làm việc"
+    ],
+    [
+      "ngành, nghề, công việc đặc thù",
+      "thời hạn báo trước"
+    ],
+    [
+      "công việc",
+      "địa điểm làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "ngược đãi"
+    ],
+    [
+      "người sử dụng lao động",
+      "quấy rối tình dục"
+    ],
+    [
+      "lao động nữ mang thai",
+      "nghỉ việc"
+    ]
+  ]
+}

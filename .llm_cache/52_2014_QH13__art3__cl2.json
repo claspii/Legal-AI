@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [
+    "gia đình"
+  ],
+  "actors": [
+    "những người"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gia đình",
+      "hôn nhân"
+    ],
+    [
+      "gia đình",
+      "quan hệ huyết thống"
+    ],
+    [
+      "gia đình",
+      "quan hệ nuôi dưỡng"
+    ],
+    [
+      "gia đình",
+      "quyền"
+    ],
+    [
+      "gia đình",
+      "nghĩa vụ"
+    ]
+  ]
+}

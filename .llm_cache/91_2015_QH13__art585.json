@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người chịu trách nhiệm bồi thường thiệt hại",
+    "bên bị thiệt hại",
+    "bên gây thiệt hại",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "bên có quyền, lợi ích bị xâm phạm"
+  ],
+  "actions": [
+    "bồi thường",
+    "thỏa thuận",
+    "giảm mức bồi thường",
+    "yêu cầu thay đổi mức bồi thường",
+    "ngăn chặn thiệt hại",
+    "hạn chế thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận về mức bồi thường"
+    ],
+    [
+      "người chịu trách nhiệm bồi thường thiệt hại",
+      "được giảm mức bồi thường"
+    ],
+    [
+      "bên bị thiệt hại",
+      "yêu cầu tòa án thay đổi mức bồi thường"
+    ],
+    [
+      "bên gây thiệt hại",
+      "yêu cầu tòa án thay đổi mức bồi thường"
+    ],
+    [
+      "bên bị thiệt hại",
+      "gây thiệt hại"
+    ],
+    [
+      "bên có quyền, lợi ích bị xâm phạm",
+      "áp dụng các biện pháp cần thiết, hợp lý để ngăn chặn, hạn chế thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "thiệt hại thực tế"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "mức bồi thường"
+    ],
+    [
+      "bên bị thiệt hại",
+      "bên gây thiệt hại"
+    ],
+    [
+      "lỗi",
+      "thiệt hại"
+    ],
+    [
+      "mức bồi thường",
+      "khả năng kinh tế"
+    ]
+  ]
+}

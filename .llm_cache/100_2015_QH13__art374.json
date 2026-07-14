@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị lấy lời khai",
+    "người bị hỏi cung",
+    "phụ nữ",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng"
+  ],
+  "actions": [
+    "sử dụng thủ đoạn trái pháp luật",
+    "ép buộc người bị lấy lời khai, hỏi cung phải khai ra thông tin liên quan đến vụ án, vụ việc",
+    "phạm tội",
+    "dùng nhục hình",
+    "đối xử tàn bạo, hạ nhục nhân phẩm",
+    "dùng thủ đoạn tinh vi, xảo quyệt",
+    "làm sai lệch kết quả khởi tố, điều tra, truy tố, xét xử"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng thủ đoạn trái pháp luật"
+    ],
+    [
+      "người",
+      "ép buộc người bị lấy lời khai, hỏi cung phải khai ra thông tin liên quan đến vụ án, vụ việc"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "dùng nhục hình"
+    ],
+    [
+      "người",
+      "đối xử tàn bạo, hạ nhục nhân phẩm"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn tinh vi, xảo quyệt"
+    ],
+    [
+      "người",
+      "làm sai lệch kết quả khởi tố, điều tra, truy tố, xét xử"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị lấy lời khai",
+      "bức cung"
+    ],
+    [
+      "người bị hỏi cung",
+      "bức cung"
+    ],
+    [
+      "bức cung",
+      "tội phạm"
+    ],
+    [
+      "hành vi trái pháp luật",
+      "bức cung"
+    ],
+    [
+      "hoạt động tố tụng",
+      "bức cung"
+    ],
+    [
+      "nhục hình",
+      "bức cung"
+    ],
+    [
+      "làm sai lệch kết quả",
+      "bức cung"
+    ],
+    [
+      "bỏ lọt tội phạm",
+      "bức cung"
+    ]
+  ]
+}

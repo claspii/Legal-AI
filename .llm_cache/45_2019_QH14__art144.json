@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động chưa thành niên",
+    "người sử dụng lao động",
+    "cha",
+    "mẹ",
+    "người giám hộ",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "làm công việc",
+    "quan tâm chăm sóc",
+    "có sự đồng ý",
+    "lập sổ theo dõi riêng",
+    "ghi đầy đủ",
+    "xuất trình",
+    "tạo cơ hội",
+    "học văn hóa"
+  ],
+  "actor_actions": [
+    [
+      "lao động chưa thành niên",
+      "làm công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng lao động chưa thành niên"
+    ],
+    [
+      "người sử dụng lao động",
+      "quan tâm chăm sóc"
+    ],
+    [
+      "người sử dụng lao động",
+      "có sự đồng ý"
+    ],
+    [
+      "người sử dụng lao động",
+      "lập sổ theo dõi riêng"
+    ],
+    [
+      "người sử dụng lao động",
+      "ghi đầy đủ"
+    ],
+    [
+      "người sử dụng lao động",
+      "xuất trình"
+    ],
+    [
+      "người sử dụng lao động",
+      "tạo cơ hội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động chưa thành niên",
+      "công việc phù hợp với sức khỏe"
+    ],
+    [
+      "người sử dụng lao động",
+      "lao động chưa thành niên"
+    ],
+    [
+      "lao động chưa thành niên",
+      "sức khỏe"
+    ],
+    [
+      "lao động chưa thành niên",
+      "học tập"
+    ],
+    [
+      "cha",
+      "người giám hộ"
+    ],
+    [
+      "mẹ",
+      "người giám hộ"
+    ],
+    [
+      "sổ theo dõi riêng",
+      "kiểm tra sức khỏe định kỳ"
+    ],
+    [
+      "lao động chưa thành niên",
+      "giáo dục nghề nghiệp"
+    ]
+  ]
+}

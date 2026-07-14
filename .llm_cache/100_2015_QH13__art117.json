@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "làm",
+    "tàng trữ",
+    "phát tán",
+    "tuyên truyền",
+    "xuyên tạc",
+    "phỉ báng",
+    "bịa đặt",
+    "gây hoang mang",
+    "gây chiến tranh tâm lý"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm thông tin, tài liệu, vật phẩm nhằm chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "người",
+      "tàng trữ thông tin, tài liệu, vật phẩm nhằm chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "người",
+      "phát tán thông tin, tài liệu, vật phẩm nhằm chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "người",
+      "tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin",
+      "chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "tài liệu",
+      "chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "vật phẩm",
+      "chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "thông tin, tài liệu, vật phẩm",
+      "nội dung xuyên tạc, phỉ báng chính quyền nhân dân"
+    ],
+    [
+      "thông tin, tài liệu, vật phẩm",
+      "nội dung bịa đặt, gây hoang mang trong nhân dân"
+    ],
+    [
+      "thông tin, tài liệu, vật phẩm",
+      "gây chiến tranh tâm lý"
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép lái tàu",
+    "người đang trong tình trạng có sử dụng rượu, bia",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật",
+    "người không đủ sức khỏe",
+    "người phạm tội"
+  ],
+  "actions": [
+    "điều động",
+    "giao cho",
+    "điều khiển các phương tiện giao thông đường sắt",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều động"
+    ],
+    [
+      "người",
+      "giao cho"
+    ],
+    [
+      "người không có giấy phép lái tàu",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không đủ sức khỏe",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không có giấy phép lái tàu",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia",
+      "nồng độ cồn vượt quá mức quy định"
+    ],
+    [
+      "gây thiệt hại",
+      "chết 01 người"
+    ],
+    [
+      "gây thiệt hại",
+      "thương tích hoặc gây tổn hại cho sức khỏe của 01 người"
+    ],
+    [
+      "gây thiệt hại",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ]
+  ]
+}

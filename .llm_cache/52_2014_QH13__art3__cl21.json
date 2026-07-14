@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [
+    "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+  ],
+  "actors": [],
+  "actions": [
+    "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "sinh con bằng kỹ thuật thụ tinh nhân tạo"
+    ],
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "thụ tinh trong ống nghiệm"
+    ],
+    [
+      "thụ tinh nhân tạo",
+      "thụ tinh trong ống nghiệm"
+    ]
+  ]
+}

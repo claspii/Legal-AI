@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "rửa tiền",
+    "lợi dụng chức vụ, quyền hạn",
+    "dùng thủ đoạn tinh vi, xảo quyệt",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "rửa tiền"
+    ],
+    [
+      "tiền, tài sản phạm tội",
+      "trị giá"
+    ],
+    [
+      "thu lợi bất chính",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

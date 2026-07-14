@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đó",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con thành niên",
+    "người giám hộ",
+    "người đứng đầu cơ sở khám bệnh, chữa bệnh",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "khám nghiệm tử thi",
+    "có sự đồng ý",
+    "có ý kiến"
+  ],
+  "actor_actions": [
+    [
+      "người đó",
+      "có sự đồng ý"
+    ],
+    [
+      "cha",
+      "có sự đồng ý"
+    ],
+    [
+      "mẹ",
+      "có sự đồng ý"
+    ],
+    [
+      "vợ",
+      "có sự đồng ý"
+    ],
+    [
+      "chồng",
+      "có sự đồng ý"
+    ],
+    [
+      "con thành niên",
+      "có sự đồng ý"
+    ],
+    [
+      "người giám hộ",
+      "có sự đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người đó",
+      "trước khi chết"
+    ],
+    [
+      "cha",
+      "người giám hộ"
+    ],
+    [
+      "mẹ",
+      "người giám hộ"
+    ],
+    [
+      "vợ",
+      "người giám hộ"
+    ],
+    [
+      "chồng",
+      "người giám hộ"
+    ],
+    [
+      "con thành niên",
+      "người giám hộ"
+    ],
+    [
+      "người đứng đầu cơ sở khám bệnh, chữa bệnh",
+      "cơ quan nhà nước có thẩm quyền"
+    ]
+  ]
+}

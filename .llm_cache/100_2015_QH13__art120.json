@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "tổ chức",
+    "cưỡng ép",
+    "xúi giục",
+    "trốn đi nước ngoài",
+    "trốn ở lại nước ngoài",
+    "chống chính quyền nhân dân",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "người",
+      "xúi giục"
+    ],
+    [
+      "người khác",
+      "trốn đi nước ngoài"
+    ],
+    [
+      "người khác",
+      "trốn ở lại nước ngoài"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức",
+      "trốn đi nước ngoài"
+    ],
+    [
+      "cưỡng ép",
+      "trốn đi nước ngoài"
+    ],
+    [
+      "xúi giục",
+      "trốn đi nước ngoài"
+    ],
+    [
+      "trốn đi nước ngoài",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "trốn ở lại nước ngoài",
+      "chống chính quyền nhân dân"
+    ]
+  ]
+}

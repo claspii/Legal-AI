@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "bảo đảm chất lượng vật mua bán",
+    "bảo đảm giá trị sử dụng",
+    "bảo đảm các đặc tính của vật mua bán",
+    "phát hiện khuyết tật",
+    "báo ngay",
+    "yêu cầu sửa chữa",
+    "đổi vật khác",
+    "giảm giá",
+    "bồi thường thiệt hại",
+    "bảo đảm phù hợp với sự mô tả",
+    "bảo đảm phù hợp với mẫu",
+    "chịu trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "bảo đảm giá trị sử dụng"
+    ],
+    [
+      "bên bán",
+      "bảo đảm các đặc tính của vật mua bán"
+    ],
+    [
+      "bên mua",
+      "phát hiện khuyết tật"
+    ],
+    [
+      "bên mua",
+      "báo ngay"
+    ],
+    [
+      "bên mua",
+      "yêu cầu sửa chữa"
+    ],
+    [
+      "bên bán",
+      "bảo đảm vật bán phù hợp với sự mô tả trên bao bì"
+    ],
+    [
+      "bên bán",
+      "bảo đảm vật bán phù hợp với mẫu mà bên mua đã lựa chọn"
+    ],
+    [
+      "bên bán",
+      "không chịu trách nhiệm về khuyết tật của vật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bán",
+      "bên mua"
+    ],
+    [
+      "chất lượng vật mua bán",
+      "khuyết tật"
+    ],
+    [
+      "giá trị sử dụng",
+      "khuyết tật"
+    ],
+    [
+      "sửa chữa",
+      "khuyết tật"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "khuyết tật"
+    ]
+  ]
+}

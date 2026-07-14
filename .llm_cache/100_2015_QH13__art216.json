@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người lao động",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp",
+    "gian dối",
+    "không đóng",
+    "không đóng đầy đủ",
+    "bị xử phạt vi phạm hành chính",
+    "phạm tội",
+    "thu",
+    "khấu trừ",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người lao động"
+    ],
+    [
+      "người",
+      "gian dối"
+    ],
+    [
+      "người",
+      "không đóng"
+    ],
+    [
+      "người",
+      "không đóng đầy đủ"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "thu"
+    ],
+    [
+      "người",
+      "khấu trừ"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "trốn đóng bảo hiểm",
+      "người lao động"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "phạt tiền",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "làm công việc nhất định"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền",
+    "chủ thể"
+  ],
+  "actions": [
+    "chuyển giao vật",
+    "chuyển giao quyền",
+    "trả tiền",
+    "thực hiện công việc",
+    "không được thực hiện công việc"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "chuyển giao vật"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chuyển giao quyền"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "trả tiền"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện công việc"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không được thực hiện công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "chuyển giao vật"
+    ],
+    [
+      "nghĩa vụ",
+      "chuyển giao quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "trả tiền"
+    ],
+    [
+      "nghĩa vụ",
+      "giấy tờ có giá"
+    ],
+    [
+      "nghĩa vụ",
+      "thực hiện công việc"
+    ],
+    [
+      "nghĩa vụ",
+      "không được thực hiện công việc"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "tước quyền công dân",
+    "phạt quản chế",
+    "cấm cư trú",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị tước quyền công dân"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm cư trú"
+    ],
+    [
+      "người phạm tội",
+      "bị tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người phạm tội",
+      "quyền công dân"
+    ],
+    [
+      "người phạm tội",
+      "tài sản"
+    ],
+    [
+      "tước quyền công dân",
+      "hình phạt bổ sung"
+    ],
+    [
+      "phạt quản chế",
+      "hình phạt bổ sung"
+    ],
+    [
+      "cấm cư trú",
+      "hình phạt bổ sung"
+    ],
+    [
+      "tịch thu tài sản",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

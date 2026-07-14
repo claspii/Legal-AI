@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người tổ chức",
+    "người xúi giục",
+    "người hoạt động đắc lực",
+    "người đồng phạm khác",
+    "người chuẩn bị phạm tội này"
+  ],
+  "actions": [
+    "hoạt động thành lập",
+    "tham gia tổ chức",
+    "lật đổ chính quyền nhân dân",
+    "gây hậu quả nghiêm trọng",
+    "phạt tù",
+    "tử hình"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "hoạt động thành lập"
+    ],
+    [
+      "người",
+      "tham gia tổ chức"
+    ],
+    [
+      "người tổ chức",
+      "phạt tù"
+    ],
+    [
+      "người xúi giục",
+      "phạt tù"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "phạt tù"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người đồng phạm khác",
+      "phạt tù"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động nhằm lật đổ chính quyền nhân dân",
+      "tội hoạt động nhằm lật đổ chính quyền nhân dân"
+    ],
+    [
+      "người tổ chức",
+      "phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình"
+    ],
+    [
+      "người xúi giục",
+      "phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình"
+    ],
+    [
+      "người đồng phạm khác",
+      "phạt tù từ 05 năm đến 12 năm"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "phạt tù từ 01 năm đến 05 năm"
+    ]
+  ]
+}

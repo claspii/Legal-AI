@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "con đẻ",
+    "con nuôi",
+    "cha đẻ",
+    "mẹ đẻ",
+    "cha nuôi",
+    "mẹ nuôi",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "nghỉ việc riêng",
+    "hưởng nguyên lương",
+    "thông báo",
+    "kết hôn",
+    "chết",
+    "nghỉ không hưởng lương",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ việc riêng"
+    ],
+    [
+      "người lao động",
+      "hưởng nguyên lương"
+    ],
+    [
+      "người lao động",
+      "thông báo"
+    ],
+    [
+      "người lao động",
+      "nghỉ không hưởng lương"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghỉ việc riêng",
+      "hưởng nguyên lương"
+    ],
+    [
+      "nghỉ việc riêng",
+      "thông báo"
+    ],
+    [
+      "nghỉ không hưởng lương",
+      "thông báo"
+    ],
+    [
+      "nghỉ không hưởng lương",
+      "thỏa thuận"
+    ],
+    [
+      "kết hôn",
+      "nghỉ"
+    ]
+  ]
+}

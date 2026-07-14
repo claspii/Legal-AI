@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người điều động người"
+  ],
+  "actions": [
+    "điều động",
+    "điều khiển",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "phạm tội",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều động"
+    ],
+    [
+      "người",
+      "điều khiển các phương tiện giao thông đường thủy"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người điều động người",
+      "gây thương tích"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện",
+      "điều khiển các phương tiện giao thông đường thủy"
+    ],
+    [
+      "giấy phép",
+      "chứng chỉ chuyên môn"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "mức phạt"
+    ]
+  ]
+}

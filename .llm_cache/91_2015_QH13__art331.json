@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "người thứ ba"
+  ],
+  "actions": [
+    "bảo lưu",
+    "thực hiện nghĩa vụ thanh toán",
+    "lập thành văn bản",
+    "ghi trong hợp đồng",
+    "đăng ký"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "bảo lưu quyền sở hữu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "hợp đồng mua bán"
+    ],
+    [
+      "quyền sở hữu",
+      "nghĩa vụ thanh toán"
+    ],
+    [
+      "bảo lưu quyền sở hữu",
+      "văn bản riêng"
+    ],
+    [
+      "bảo lưu quyền sở hữu",
+      "hợp đồng mua bán"
+    ],
+    [
+      "bảo lưu quyền sở hữu",
+      "người thứ ba"
+    ],
+    [
+      "bảo lưu quyền sở hữu",
+      "đăng ký"
+    ]
+  ]
+}

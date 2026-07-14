@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cán bộ",
+    "công chức",
+    "viên chức"
+  ],
+  "actions": [
+    "từ bỏ nhiệm vụ công tác",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "làm chết người",
+    "lôi kéo người khác đào nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "từ bỏ nhiệm vụ công tác"
+    ],
+    [
+      "cán bộ",
+      "từ bỏ nhiệm vụ công tác"
+    ],
+    [
+      "công chức",
+      "từ bỏ nhiệm vụ công tác"
+    ],
+    [
+      "viên chức",
+      "từ bỏ nhiệm vụ công tác"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "làm chết người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% trở lên"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "300.000.000 đồng đến dưới 1.000.000.000 đồng"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "1.000.000.000 đồng trở lên"
+    ],
+    [
+      "phạm tội",
+      "hoàn cảnh chiến tranh"
+    ],
+    [
+      "phạm tội",
+      "thiên tai"
+    ],
+    [
+      "phạm tội",
+      "dịch bệnh"
+    ],
+    [
+      "phạm tội",
+      "những trường hợp khó khăn đặc biệt khác của xã hội"
+    ]
+  ]
+}

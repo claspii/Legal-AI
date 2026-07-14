@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "tự chấm dứt quyền sở hữu",
+    "tuyên bố công khai",
+    "thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu, sử dụng và định đoạt tài sản đó",
+    "từ bỏ quyền sở hữu",
+    "gây hại đến trật tự, an toàn xã hội, ô nhiễm môi trường",
+    "tuân theo quy định của pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "tự chấm dứt quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "tuyên bố công khai"
+    ],
+    [
+      "chủ sở hữu",
+      "thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu, sử dụng và định đoạt tài sản đó"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "từ bỏ quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "trật tự, an toàn xã hội, ô nhiễm môi trường"
+    ]
+  ]
+}

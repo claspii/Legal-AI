@@ -1,0 +1,106 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cán bộ, công chức, viên chức và người lao động",
+    "doanh nghiệp",
+    "tổ chức",
+    "người phạm tội",
+    "người có chức vụ, quyền hạn"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "chiếm đoạt tài sản",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị kết án",
+    "xóa án tích",
+    "phạm tội",
+    "gây thiệt hại",
+    "gây ảnh hưởng xấu",
+    "dẫn đến bị phá sản",
+    "ngừng hoạt động",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị phạt tiền",
+    "tịch thu tài sản",
+    "tham ô tài sản",
+    "xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "tham ô tài sản"
+    ],
+    [
+      "doanh nghiệp",
+      "bị phá sản"
+    ],
+    [
+      "tổ chức",
+      "ngừng hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "tài sản",
+      "giá trị"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "thiệt hại",
+      "giá trị"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ],
+    [
+      "chức vụ",
+      "đảm nhiệm chức vụ"
+    ]
+  ]
+}

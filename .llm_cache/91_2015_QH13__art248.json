@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thực hiện quyền đối với bất động sản liền kề",
+    "thỏa thuận",
+    "bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền",
+    "không được lạm dụng quyền",
+    "không được thực hiện hành vi ngăn cản",
+    "không được làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thực hiện quyền đối với bất động sản liền kề"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền đối với bất động sản liền kề",
+      "bất động sản liền kề"
+    ],
+    [
+      "bất động sản hưởng quyền",
+      "bất động sản chịu hưởng quyền"
+    ]
+  ]
+}

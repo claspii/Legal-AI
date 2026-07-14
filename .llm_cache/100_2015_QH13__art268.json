@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người",
+    "súc vật"
+  ],
+  "actions": [
+    "đặt chướng ngại vật trên đường sắt",
+    "làm xê dịch ray, tà vẹt",
+    "khoan, đào, xẻ trái phép nền đường sắt",
+    "mở đường ngang",
+    "xây cống hoặc các công trình khác trái phép qua đường sắt",
+    "làm hỏng, thay đổi, chuyển dịch, che khuất tín hiệu, biển hiệu, mốc hiệu của công trình giao thông đường sắt",
+    "để súc vật đi qua đường sắt không theo đúng quy định",
+    "để súc vật kéo xe qua đường sắt mà không có người điều khiển"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "đặt chướng ngại vật trên đường sắt"
+    ],
+    [
+      "người nào",
+      "làm xê dịch ray, tà vẹt"
+    ],
+    [
+      "người nào",
+      "tự ý khoan, đào, xẻ trái phép nền đường sắt"
+    ],
+    [
+      "người nào",
+      "mở đường ngang"
+    ],
+    [
+      "người nào",
+      "xây cống hoặc các công trình khác trái phép qua đường sắt"
+    ],
+    [
+      "người nào",
+      "làm hỏng, thay đổi, chuyển dịch, che khuất tín hiệu, biển hiệu, mốc hiệu của công trình giao thông đường sắt"
+    ],
+    [
+      "người nào",
+      "để súc vật đi qua đường sắt không theo đúng quy định"
+    ],
+    [
+      "người nào",
+      "để súc vật kéo xe qua đường sắt mà không có người điều khiển"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội cản trở giao thông đường sắt",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "tội cản trở giao thông đường sắt",
+      "làm chết người"
+    ],
+    [
+      "tội cản trở giao thông đường sắt",
+      "gây thương tích"
+    ],
+    [
+      "tội cản trở giao thông đường sắt",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ]
+}

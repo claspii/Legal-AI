@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận thế chấp",
+    "tổ chức bảo hiểm",
+    "bên thế chấp"
+  ],
+  "actions": [
+    "thế chấp",
+    "thông báo",
+    "chi trả tiền bảo hiểm",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận thế chấp",
+      "thông báo"
+    ],
+    [
+      "tổ chức bảo hiểm",
+      "chi trả tiền bảo hiểm"
+    ],
+    [
+      "bên thế chấp",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thế chấp",
+      "vật phụ"
+    ],
+    [
+      "quyền sử dụng đất",
+      "tài sản gắn liền với đất"
+    ],
+    [
+      "tài sản thế chấp",
+      "tài sản bảo hiểm"
+    ],
+    [
+      "tài sản bảo hiểm",
+      "tiền bảo hiểm"
+    ]
+  ]
+}

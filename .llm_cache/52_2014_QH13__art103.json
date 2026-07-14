@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên gia đình",
+    "nhà nước",
+    "cá nhân",
+    "tổ chức"
+  ],
+  "actions": [
+    "quan tâm",
+    "chăm sóc",
+    "giúp đỡ",
+    "tôn trọng",
+    "bảo vệ",
+    "tham gia công việc gia đình",
+    "lao động tạo thu nhập",
+    "đóng góp công sức, tiền hoặc tài sản khác"
+  ],
+  "actor_actions": [
+    [
+      "các thành viên gia đình",
+      "quan tâm"
+    ],
+    [
+      "các thành viên gia đình",
+      "chăm sóc"
+    ],
+    [
+      "các thành viên gia đình",
+      "giúp đỡ"
+    ],
+    [
+      "các thành viên gia đình",
+      "tôn trọng nhau"
+    ],
+    [
+      "pháp luật",
+      "bảo vệ"
+    ],
+    [
+      "các thành viên gia đình",
+      "tham gia công việc gia đình"
+    ],
+    [
+      "các thành viên gia đình",
+      "lao động tạo thu nhập"
+    ],
+    [
+      "các thành viên gia đình",
+      "đóng góp công sức, tiền hoặc tài sản khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "nhân thân",
+      "tài sản"
+    ],
+    [
+      "công việc gia đình",
+      "lao động tạo thu nhập"
+    ],
+    [
+      "truyền thống tốt đẹp của gia đình việt nam",
+      "giữ gìn"
+    ],
+    [
+      "truyền thống tốt đẹp của gia đình việt nam",
+      "phát huy"
+    ]
+  ]
+}

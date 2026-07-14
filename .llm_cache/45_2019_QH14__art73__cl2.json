@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "ủy ban nhân dân cấp tỉnh",
+    "chủ tịch hội đồng",
+    "các bên",
+    "các bên thương lượng tập thể"
+  ],
+  "actions": [
+    "thương lượng tập thể",
+    "quyết định thành lập hội đồng",
+    "điều phối hoạt động",
+    "hỗ trợ cho việc thương lượng tập thể",
+    "cử",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "quyết định thành lập hội đồng"
+    ],
+    [
+      "chủ tịch hội đồng",
+      "điều phối hoạt động"
+    ],
+    [
+      "chủ tịch hội đồng",
+      "hỗ trợ cho việc thương lượng tập thể"
+    ],
+    [
+      "các bên",
+      "quyết định"
+    ],
+    [
+      "các bên thương lượng tập thể",
+      "cử"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "hội đồng thương lượng tập thể"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "chủ tịch hội đồng"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "đại diện các bên thương lượng tập thể"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "đại diện ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

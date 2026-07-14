@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "rửa tiền",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tiền, tài sản phạm tội",
+      "trị giá"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây ảnh hưởng xấu"
+    ],
+    [
+      "an toàn hệ thống tài chính",
+      "tiền tệ quốc gia"
+    ]
+  ]
+}

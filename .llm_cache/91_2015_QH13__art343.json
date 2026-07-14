@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt",
+    "hủy bỏ",
+    "thay thế",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "thực hiện nghĩa vụ bảo lãnh"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo lãnh",
+      "nghĩa vụ được bảo lãnh"
+    ],
+    [
+      "bảo lãnh",
+      "biện pháp bảo đảm khác"
+    ]
+  ]
+}

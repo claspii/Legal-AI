@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị tấn công"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực ngay tức khắc",
+    "có hành vi khác làm cho người bị tấn công lâm vào tình trạng không thể chống cự được",
+    "chiếm đoạt tài sản",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực ngay tức khắc"
+    ],
+    [
+      "người",
+      "có hành vi khác làm cho người bị tấn công lâm vào tình trạng không thể chống cự được"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ lực",
+      "đe dọa dùng vũ lực ngay tức khắc"
+    ],
+    [
+      "hành vi khác",
+      "người bị tấn công lâm vào tình trạng không thể chống cự được"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "phạt tù"
+    ],
+    [
+      "tội cướp tài sản",
+      "xâm phạm sở hữu"
+    ]
+  ]
+}

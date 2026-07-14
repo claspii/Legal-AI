@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "hưởng quyền dân sự",
+    "miễn trừ nghĩa vụ dân sự"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "hưởng quyền dân sự"
+    ],
+    [
+      "chủ thể",
+      "miễn trừ nghĩa vụ dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu hưởng quyền dân sự",
+      "hiệu lực của thời hiệu hưởng quyền dân sự"
+    ],
+    [
+      "thời hiệu miễn trừ nghĩa vụ dân sự",
+      "hiệu lực của thời hiệu miễn trừ nghĩa vụ dân sự"
+    ],
+    [
+      "hưởng quyền dân sự",
+      "thời hiệu"
+    ],
+    [
+      "miễn trừ nghĩa vụ dân sự",
+      "thời hiệu"
+    ]
+  ]
+}

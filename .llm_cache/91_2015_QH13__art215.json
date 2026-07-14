@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [
+    "sở hữu chung hỗn hợp"
+  ],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "góp vốn",
+    "sản xuất, kinh doanh",
+    "thu lợi nhuận",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "phân chia lợi nhuận"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "góp vốn"
+    ],
+    [
+      "chủ sở hữu",
+      "sản xuất, kinh doanh"
+    ],
+    [
+      "chủ sở hữu",
+      "thu lợi nhuận"
+    ],
+    [
+      "chủ sở hữu",
+      "chiếm hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "sử dụng"
+    ],
+    [
+      "chủ sở hữu",
+      "định đoạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung hỗn hợp",
+      "tài sản"
+    ],
+    [
+      "góp vốn",
+      "sản xuất, kinh doanh"
+    ],
+    [
+      "tài sản",
+      "nguồn vốn góp"
+    ],
+    [
+      "tài sản",
+      "lợi nhuận hợp pháp"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "sử dụng",
+      "tài sản"
+    ],
+    [
+      "định đoạt",
+      "tài sản"
+    ]
+  ]
+}

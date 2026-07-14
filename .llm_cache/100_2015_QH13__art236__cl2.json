@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "vi phạm quy định về quản lý chất thải nguy hại",
+    "phạt tiền",
+    "phạt tù",
+    "phạm tội có tổ chức",
+    "phạm tội 02 lần trở lên",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất ô nhiễm hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải nguy hại",
+      "chất phóng xạ"
+    ],
+    [
+      "chất phóng xạ",
+      "nguồn phóng xạ loại có mức độ nguy hiểm trung bình"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "02 lần trở lên"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

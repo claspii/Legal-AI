@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quan hệ hôn nhân và gia đình",
+    "người",
+    "cha, mẹ nuôi",
+    "con nuôi",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "tòa án"
+  ],
+  "actions": [
+    "bảo vệ",
+    "kết hôn",
+    "chung sống như vợ chồng",
+    "ly hôn",
+    "cản trở kết hôn",
+    "yêu sách của cải",
+    "bạo lực gia đình",
+    "mua bán người"
+  ],
+  "actor_actions": [
+    [
+      "quan hệ hôn nhân và gia đình",
+      "được tôn trọng và được pháp luật bảo vệ"
+    ],
+    [
+      "người",
+      "kết hôn giả tạo"
+    ],
+    [
+      "người",
+      "ly hôn giả tạo"
+    ],
+    [
+      "người",
+      "kết hôn"
+    ],
+    [
+      "người",
+      "chung sống như vợ chồng"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "tòa án, cơ quan khác có thẩm quyền",
+      "áp dụng biện pháp kịp thời"
+    ],
+    [
+      "người có hành vi vi phạm pháp luật về hôn nhân và gia đình",
+      "bị xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "kết hôn giả tạo",
+      "ly hôn giả tạo"
+    ],
+    [
+      "tảo hôn",
+      "cưỡng ép kết hôn"
+    ],
+    [
+      "lừa dối kết hôn",
+      "cản trở kết hôn"
+    ],
+    [
+      "kết hôn",
+      "chung sống như vợ chồng"
+    ],
+    [
+      "cưỡng ép ly hôn",
+      "lừa dối ly hôn"
+    ],
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "mang thai hộ"
+    ],
+    [
+      "danh dự",
+      "nhân phẩm"
+    ]
+  ]
+}

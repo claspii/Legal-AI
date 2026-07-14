@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "phạt tiền",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "phạt tiền",
+      "cấm kinh doanh"
+    ],
+    [
+      "phạt tiền",
+      "cấm hoạt động"
+    ],
+    [
+      "phạt tiền",
+      "cấm huy động vốn"
+    ],
+    [
+      "sản xuất",
+      "hàng cấm"
+    ],
+    [
+      "buôn bán",
+      "hàng cấm"
+    ]
+  ]
+}

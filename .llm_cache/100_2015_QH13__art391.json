@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "thành viên hội đồng xét xử",
+    "những người khác có mặt tại phiên tòa"
+  ],
+  "actions": [
+    "thóa mạ",
+    "xúc phạm nghiêm trọng danh dự",
+    "xúc phạm nhân phẩm",
+    "đập phá tài sản",
+    "gây náo loạn phiên tòa",
+    "hành hung"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thóa mạ"
+    ],
+    [
+      "người",
+      "xúc phạm nghiêm trọng danh dự"
+    ],
+    [
+      "người",
+      "xúc phạm nhân phẩm"
+    ],
+    [
+      "người",
+      "đập phá tài sản"
+    ],
+    [
+      "người",
+      "gây náo loạn phiên tòa"
+    ],
+    [
+      "người",
+      "hành hung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây rối trật tự phiên tòa",
+      "phiên tòa"
+    ],
+    [
+      "phiên tòa",
+      "thành viên hội đồng xét xử"
+    ],
+    [
+      "phiên tòa",
+      "những người khác có mặt tại phiên tòa"
+    ],
+    [
+      "thóa mạ",
+      "danh dự"
+    ],
+    [
+      "thóa mạ",
+      "nhân phẩm"
+    ],
+    [
+      "gây náo loạn phiên tòa",
+      "dừng phiên tòa"
+    ]
+  ]
+}

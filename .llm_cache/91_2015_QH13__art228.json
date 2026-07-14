@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [
+    "tài sản vô chủ"
+  ],
+  "actors": [
+    "chủ sở hữu",
+    "người đã phát hiện",
+    "người đang quản lý",
+    "nhà nước",
+    "người phát hiện",
+    "ủy ban nhân dân cấp xã",
+    "công an cấp xã",
+    "người giao nộp",
+    "người nhận"
+  ],
+  "actions": [
+    "từ bỏ quyền sở hữu",
+    "có quyền sở hữu",
+    "phát hiện",
+    "quản lý",
+    "thông báo",
+    "giao nộp",
+    "lập biên bản",
+    "ghi rõ",
+    "nhận tài sản",
+    "xác định chủ sở hữu",
+    "hưởng tiền thưởng"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "từ bỏ quyền sở hữu"
+    ],
+    [
+      "người đã phát hiện",
+      "có quyền sở hữu"
+    ],
+    [
+      "người đang quản lý",
+      "có quyền sở hữu"
+    ],
+    [
+      "nhà nước",
+      "thuộc về"
+    ],
+    [
+      "người phát hiện",
+      "thông báo"
+    ],
+    [
+      "người phát hiện",
+      "giao nộp"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "thông báo công khai"
+    ],
+    [
+      "công an cấp xã",
+      "thông báo công khai"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "nhận tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản vô chủ",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản không xác định được chủ sở hữu",
+      "ủy ban nhân dân cấp xã"
+    ],
+    [
+      "tài sản không xác định được chủ sở hữu",
+      "công an cấp xã"
+    ],
+    [
+      "động sản",
+      "quyền sở hữu"
+    ],
+    [
+      "bất động sản",
+      "nhà nước"
+    ],
+    [
+      "tài sản",
+      "người phát hiện"
+    ]
+  ]
+}

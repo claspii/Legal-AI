@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người tiến hành hoạt động sản xuất, kinh doanh hợp pháp",
+    "người tiến hành hoạt động sáng tạo"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "có được tài sản",
+    "có quyền sở hữu",
+    "tiến hành hoạt động sáng tạo"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "có quyền sở hữu đối với tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp"
+    ],
+    [
+      "người tiến hành hoạt động sản xuất, kinh doanh hợp pháp",
+      "có quyền sở hữu đối với tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp"
+    ],
+    [
+      "người tiến hành hoạt động sáng tạo",
+      "có quyền sở hữu đối với tài sản có được từ hoạt động sáng tạo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp"
+    ],
+    [
+      "quyền sở hữu",
+      "tài sản có được từ hoạt động sáng tạo"
+    ],
+    [
+      "hoạt động sáng tạo",
+      "Luật sở hữu trí tuệ"
+    ],
+    [
+      "tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp",
+      "thời điểm có được tài sản đó"
+    ]
+  ]
+}

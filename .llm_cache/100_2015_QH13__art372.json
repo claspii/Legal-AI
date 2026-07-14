@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có thẩm quyền trong hoạt động tố tụng, thi hành án",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "ép buộc",
+    "làm trái pháp luật",
+    "gây thiệt hại",
+    "phạm tội",
+    "bị phạt tù",
+    "dẫn đến ra bản án hoặc quyết định trái pháp luật",
+    "dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn nguy hiểm, xảo quyệt khác",
+    "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội",
+    "dẫn đến làm oan người vô tội hoặc bỏ lọt tội phạm",
+    "cấm đảm nhiệm chức vụ nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "ép buộc người có thẩm quyền trong hoạt động tố tụng, thi hành án làm trái pháp luật"
+    ],
+    [
+      "người",
+      "gây thiệt hại đến lợi ích của nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "người có thẩm quyền trong hoạt động tố tụng, thi hành án"
+    ],
+    [
+      "người",
+      "làm trái pháp luật"
+    ],
+    [
+      "làm trái pháp luật",
+      "gây thiệt hại"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "bị phạt tù"
+    ],
+    [
+      "phạm tội",
+      "dẫn đến ra bản án hoặc quyết định trái pháp luật"
+    ],
+    [
+      "phạm tội",
+      "dẫn đến làm oan người vô tội hoặc bỏ lọt tội phạm"
+    ]
+  ]
+}

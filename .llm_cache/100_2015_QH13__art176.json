@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ sở hữu",
+    "người quản lý hợp pháp",
+    "cơ quan có trách nhiệm"
+  ],
+  "actions": [
+    "cố tình không trả lại",
+    "không giao nộp",
+    "yêu cầu được nhận lại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố tình không trả lại"
+    ],
+    [
+      "người",
+      "không giao nộp"
+    ],
+    [
+      "chủ sở hữu",
+      "yêu cầu được nhận lại"
+    ],
+    [
+      "người quản lý hợp pháp",
+      "yêu cầu được nhận lại"
+    ],
+    [
+      "cơ quan có trách nhiệm",
+      "yêu cầu được nhận lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "người quản lý hợp pháp",
+      "tài sản"
+    ],
+    [
+      "cơ quan có trách nhiệm",
+      "tài sản"
+    ],
+    [
+      "chiếm giữ trái phép",
+      "tài sản"
+    ]
+  ]
+}

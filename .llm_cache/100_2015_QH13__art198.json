@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "khách hàng"
+  ],
+  "actions": [
+    "cân, đong, đo, đếm, tính gian hàng hóa, dịch vụ",
+    "dùng thủ đoạn gian dối khác",
+    "mua, bán hàng hóa",
+    "cung cấp dịch vụ",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "thu lợi bất chính",
+    "phạt cảnh cáo",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cân, đong, đo, đếm, tính gian hàng hóa, dịch vụ"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn gian dối khác"
+    ],
+    [
+      "người",
+      "mua, bán hàng hóa"
+    ],
+    [
+      "người",
+      "cung cấp dịch vụ"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội lừa dối khách hàng",
+      "phạt cảnh cáo"
+    ],
+    [
+      "tội lừa dối khách hàng",
+      "phạt tiền"
+    ],
+    [
+      "tội lừa dối khách hàng",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "tội lừa dối khách hàng",
+      "phạt tù"
+    ],
+    [
+      "tội lừa dối khách hàng",
+      "cấm hành nghề"
+    ],
+    [
+      "tội lừa dối khách hàng",
+      "làm công việc nhất định"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tiền"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ]
+  ]
+}

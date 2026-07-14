@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "giao kết nhiều hợp đồng lao động",
+    "thực hiện đầy đủ các nội dung đã giao kết",
+    "tham gia bảo hiểm xã hội",
+    "tham gia bảo hiểm y tế",
+    "tham gia bảo hiểm thất nghiệp"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "giao kết nhiều hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "thực hiện đầy đủ các nội dung đã giao kết"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm y tế"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm thất nghiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "an toàn, vệ sinh lao động"
+    ]
+  ]
+}

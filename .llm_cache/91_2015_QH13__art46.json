@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [
+    "giám hộ",
+    "người giám hộ",
+    "người được giám hộ"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "ủy ban nhân dân cấp xã",
+    "tòa án",
+    "người giám hộ",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người được giám hộ",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "cử",
+    "chỉ định",
+    "chăm sóc",
+    "bảo vệ",
+    "thể hiện ý chí",
+    "đăng ký",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "giám hộ"
+    ],
+    [
+      "pháp nhân",
+      "giám hộ"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "cử"
+    ],
+    [
+      "tòa án",
+      "chỉ định"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện việc chăm sóc"
+    ],
+    [
+      "người giám hộ",
+      "bảo vệ quyền, lợi ích hợp pháp"
+    ],
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "thể hiện ý chí"
+    ],
+    [
+      "việc giám hộ",
+      "đăng ký"
+    ],
+    [
+      "người giám hộ đương nhiên",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giám hộ",
+      "người giám hộ"
+    ],
+    [
+      "giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "người chưa thành niên"
+    ],
+    [
+      "người giám hộ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người giám hộ",
+      "người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "đăng ký",
+      "hộ tịch"
+    ]
+  ]
+}

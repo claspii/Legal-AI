@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất",
+      "hàng giả là thuốc chữa bệnh"
+    ],
+    [
+      "buôn bán",
+      "hàng giả là thuốc chữa bệnh"
+    ],
+    [
+      "sản xuất",
+      "hàng giả là thuốc phòng bệnh"
+    ],
+    [
+      "buôn bán",
+      "hàng giả là thuốc phòng bệnh"
+    ],
+    [
+      "thuốc chữa bệnh",
+      "thuốc phòng bệnh"
+    ]
+  ]
+}

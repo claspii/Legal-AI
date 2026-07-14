@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "xâm phạm sức khỏe",
+    "xâm phạm danh dự",
+    "xâm phạm tính mạng",
+    "xâm phạm uy tín",
+    "xâm phạm nhân phẩm",
+    "phạt tiền",
+    "cắt lương",
+    "xử lý kỷ luật lao động",
+    "giao kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "người lao động",
+      "có hành vi vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "trách nhiệm vật chất"
+    ],
+    [
+      "kỷ luật lao động",
+      "nội quy lao động"
+    ],
+    [
+      "kỷ luật lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "phạt tiền",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "cắt lương",
+      "xử lý kỷ luật lao động"
+    ]
+  ]
+}

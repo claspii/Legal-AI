@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung"
+  ],
+  "actions": [
+    "chấm dứt sở hữu chung",
+    "chia tài sản chung",
+    "hưởng toàn bộ tài sản chung"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung",
+      "hưởng toàn bộ tài sản chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung",
+      "tài sản chung"
+    ]
+  ]
+}

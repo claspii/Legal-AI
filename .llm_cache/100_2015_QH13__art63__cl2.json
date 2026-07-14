@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị kết án tù chung thân"
+  ],
+  "actions": [
+    "giảm mức hình phạt đã tuyên",
+    "giảm",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "được giảm"
+    ],
+    [
+      "người",
+      "bảo đảm chấp hành"
+    ],
+    [
+      "người bị kết án tù chung thân",
+      "được giảm xuống 30 năm tù"
+    ],
+    [
+      "người bị kết án tù chung thân",
+      "bảo đảm thời hạn thực tế chấp hành hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giảm mức hình phạt đã tuyên",
+      "mức hình phạt đã tuyên"
+    ],
+    [
+      "người bị kết án tù chung thân",
+      "30 năm tù"
+    ],
+    [
+      "người bị kết án tù chung thân",
+      "20 năm"
+    ],
+    [
+      "giảm nhiều lần",
+      "chấp hành được một phần hai mức hình phạt đã tuyên"
+    ]
+  ]
+}

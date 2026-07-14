@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "sở hữu chung của cộng đồng"
+  ],
+  "actors": [
+    "cộng đồng",
+    "thành viên của cộng đồng"
+  ],
+  "actions": [
+    "quản lý",
+    "sử dụng",
+    "định đoạt",
+    "đóng góp",
+    "quyên góp",
+    "tặng cho"
+  ],
+  "actor_actions": [
+    [
+      "các thành viên của cộng đồng",
+      "quản lý"
+    ],
+    [
+      "các thành viên của cộng đồng",
+      "sử dụng"
+    ],
+    [
+      "các thành viên của cộng đồng",
+      "định đoạt"
+    ],
+    [
+      "các thành viên của cộng đồng",
+      "đóng góp"
+    ],
+    [
+      "các thành viên của cộng đồng",
+      "quyên góp"
+    ],
+    [
+      "cộng đồng",
+      "tặng cho"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung của cộng đồng",
+      "tài sản"
+    ],
+    [
+      "tài sản chung của cộng đồng",
+      "tài sản chung hợp nhất không phân chia"
+    ]
+  ]
+}

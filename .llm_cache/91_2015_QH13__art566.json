@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được ủy quyền",
+    "bên ủy quyền"
+  ],
+  "actions": [
+    "yêu cầu",
+    "cung cấp",
+    "thực hiện công việc ủy quyền",
+    "thanh toán chi phí",
+    "hưởng thù lao"
+  ],
+  "actor_actions": [
+    [
+      "bên được ủy quyền",
+      "yêu cầu"
+    ],
+    [
+      "bên ủy quyền",
+      "cung cấp"
+    ],
+    [
+      "bên được ủy quyền",
+      "thực hiện công việc ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên được ủy quyền",
+      "hưởng thù lao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên được ủy quyền",
+      "công việc ủy quyền"
+    ],
+    [
+      "bên ủy quyền",
+      "công việc ủy quyền"
+    ],
+    [
+      "thông tin",
+      "tài liệu"
+    ],
+    [
+      "tài liệu",
+      "phương tiện"
+    ],
+    [
+      "chi phí hợp lý",
+      "thù lao"
+    ]
+  ]
+}

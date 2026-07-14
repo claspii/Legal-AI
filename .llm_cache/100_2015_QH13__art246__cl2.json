@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "có tổ chức",
+    "nhập khẩu trái phép",
+    "phát tán",
+    "gây thiệt hại",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhập khẩu trái phép loài động vật, thực vật ngoại lai xâm hại",
+      "vật phạm pháp trị giá 500.000.000 đồng trở lên"
+    ],
+    [
+      "phát tán loài động vật, thực vật ngoại lai xâm hại",
+      "gây thiệt hại về tài sản 500.000.000 đồng trở lên"
+    ]
+  ]
+}

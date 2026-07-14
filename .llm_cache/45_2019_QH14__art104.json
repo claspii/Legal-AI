@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [
+    "thưởng"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "thưởng",
+    "quyết định",
+    "công bố công khai",
+    "tham khảo ý kiến"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thưởng"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyết định"
+    ],
+    [
+      "người sử dụng lao động",
+      "công bố công khai"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tham khảo ý kiến"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thưởng",
+      "người sử dụng lao động"
+    ],
+    [
+      "thưởng",
+      "người lao động"
+    ],
+    [
+      "thưởng",
+      "kết quả sản xuất, kinh doanh"
+    ],
+    [
+      "thưởng",
+      "mức độ hoàn thành công việc"
+    ],
+    [
+      "quy chế thưởng",
+      "người sử dụng lao động"
+    ],
+    [
+      "quy chế thưởng",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ]
+  ]
+}

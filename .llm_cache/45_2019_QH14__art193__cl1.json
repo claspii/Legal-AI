@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên tranh chấp",
+    "hội đồng trọng tài lao động",
+    "hòa giải viên lao động",
+    "một trong các bên"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động tập thể về quyền",
+    "yêu cầu giải quyết tranh chấp",
+    "hòa giải không thành",
+    "tiến hành hòa giải",
+    "không thực hiện thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên tranh chấp",
+      "yêu cầu giải quyết tranh chấp"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hòa giải viên lao động",
+      "không tiến hành hòa giải"
+    ],
+    [
+      "một trong các bên",
+      "không thực hiện thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giải quyết tranh chấp lao động tập thể về quyền",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "hòa giải không thành",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hết thời hạn hòa giải",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "không tiến hành hòa giải",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "không thực hiện thỏa thuận",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hòa giải"
+    ],
+    [
+      "biên bản hòa giải thành",
+      "thỏa thuận"
+    ]
+  ]
+}

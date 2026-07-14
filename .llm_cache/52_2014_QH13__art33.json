@@ -1,0 +1,113 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng",
+    "gia đình"
+  ],
+  "actions": [
+    "tạo ra",
+    "lao động",
+    "sản xuất",
+    "kinh doanh",
+    "thừa kế",
+    "tặng cho",
+    "thỏa thuận",
+    "sử dụng",
+    "kết hôn",
+    "giao dịch",
+    "bảo đảm",
+    "thực hiện nghĩa vụ",
+    "chứng minh",
+    "tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "tạo ra"
+    ],
+    [
+      "chồng",
+      "tạo ra"
+    ],
+    [
+      "vợ chồng",
+      "thừa kế"
+    ],
+    [
+      "vợ chồng",
+      "tặng cho"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "vợ",
+      "thừa kế riêng"
+    ],
+    [
+      "chồng",
+      "thừa kế riêng"
+    ],
+    [
+      "vợ",
+      "tặng cho riêng"
+    ],
+    [
+      "chồng",
+      "tặng cho riêng"
+    ],
+    [
+      "vợ chồng",
+      "bảo đảm nhu cầu của gia đình"
+    ],
+    [
+      "vợ chồng",
+      "thực hiện nghĩa vụ chung"
+    ],
+    [
+      "vợ",
+      "chứng minh"
+    ],
+    [
+      "chồng",
+      "chứng minh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung của vợ chồng",
+      "tài sản riêng"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "thu nhập do lao động"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "hoạt động sản xuất, kinh doanh"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "hoa lợi, lợi tức phát sinh từ tài sản riêng"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "thu nhập hợp pháp khác trong thời kỳ hôn nhân"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "tài sản thừa kế chung"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "tài sản tặng cho chung"
+    ],
+    [
+      "quyền sử dụng đất",
+      "tài sản chung của vợ chồng"
+    ]
+  ]
+}

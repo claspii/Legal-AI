@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu súc vật",
+    "người chiếm hữu, sử dụng súc vật",
+    "người khác",
+    "người thứ ba"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây ra",
+    "chiếm hữu",
+    "sử dụng",
+    "thỏa thuận",
+    "liên đới bồi thường thiệt hại",
+    "chiếm hữu, sử dụng trái pháp luật",
+    "thả rông"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu súc vật",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu, sử dụng súc vật",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu, sử dụng súc vật",
+      "chiếm hữu"
+    ],
+    [
+      "người chiếm hữu, sử dụng súc vật",
+      "sử dụng"
+    ],
+    [
+      "người thứ ba",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người thứ ba",
+      "liên đới bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "liên đới bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu súc vật",
+      "thả rông"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu súc vật",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu, sử dụng súc vật",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "súc vật",
+      "gây thiệt hại"
+    ],
+    [
+      "người thứ ba",
+      "có lỗi"
+    ],
+    [
+      "súc vật",
+      "bị chiếm hữu, sử dụng trái pháp luật"
+    ],
+    [
+      "tập quán",
+      "gây thiệt hại"
+    ],
+    [
+      "pháp luật",
+      "đạo đức xã hội"
+    ]
+  ]
+}

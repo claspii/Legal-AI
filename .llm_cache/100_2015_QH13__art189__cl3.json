@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "vận chuyển trái phép hàng hóa",
+    "vận chuyển trái phép tiền tệ",
+    "bị phạt tiền",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hàng hóa",
+      "tiền tệ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "vận chuyển trái phép hàng hóa, tiền tệ qua biên giới",
+      "hàng phạm pháp trị giá từ 500.000.000 đồng trở lên"
+    ]
+  ]
+}

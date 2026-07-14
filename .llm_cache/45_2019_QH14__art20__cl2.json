@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "hai bên",
+    "người được thuê làm giám đốc",
+    "doanh nghiệp có vốn nhà nước"
+  ],
+  "actions": [
+    "tiếp tục làm việc",
+    "ký kết hợp đồng lao động mới",
+    "thực hiện",
+    "hết hạn"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "tiếp tục làm việc"
+    ],
+    [
+      "hai bên",
+      "ký kết hợp đồng lao động mới"
+    ],
+    [
+      "hai bên",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động không xác định thời hạn"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động xác định thời hạn"
+    ],
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ]
+  ]
+}

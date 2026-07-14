@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nạn nhân"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị phạt tù",
+    "gây rối loạn tâm thần và hành vi",
+    "làm tự sát"
+  ],
+  "actor_actions": [
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội vu khống",
+      "phạt tù"
+    ],
+    [
+      "nạn nhân",
+      "rối loạn tâm thần và hành vi"
+    ],
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ]
+}

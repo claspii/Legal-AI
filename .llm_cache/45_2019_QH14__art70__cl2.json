@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "đại diện bên người lao động",
+    "người lao động",
+    "thành viên của tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "thương lượng tập thể",
+    "thỏa thuận khác",
+    "tham gia các phiên họp thương lượng tập thể",
+    "tính là thời gian làm việc có hưởng lương",
+    "không tính vào thời gian quy định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận khác"
+    ],
+    [
+      "đại diện bên người lao động",
+      "tham gia các phiên họp thương lượng tập thể"
+    ],
+    [
+      "thời gian tham gia các phiên họp thương lượng tập thể của đại diện bên người lao động",
+      "tính là thời gian làm việc có hưởng lương"
+    ],
+    [
+      "người lao động là thành viên của tổ chức đại diện người lao động",
+      "tham gia các phiên họp thương lượng tập thể"
+    ],
+    [
+      "thời gian tham gia các phiên họp",
+      "không tính vào thời gian quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian thương lượng tập thể",
+      "thỏa thuận khác"
+    ],
+    [
+      "thời gian tham gia các phiên họp thương lượng tập thể của đại diện bên người lao động",
+      "thời gian làm việc có hưởng lương"
+    ],
+    [
+      "người lao động là thành viên của tổ chức đại diện người lao động",
+      "thời gian tham gia các phiên họp"
+    ],
+    [
+      "thời gian tham gia các phiên họp",
+      "thời gian quy định tại khoản 2 Điều 176 của Bộ luật này"
+    ]
+  ]
+}

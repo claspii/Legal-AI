@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "tham gia quan hệ dân sự",
+    "có nghĩa vụ phát sinh"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "tham gia quan hệ dân sự"
+    ],
+    [
+      "cá nhân",
+      "có nghĩa vụ phát sinh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền nhân thân",
+      "tài sản"
+    ],
+    [
+      "quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "quyền thừa kế",
+      "tài sản"
+    ],
+    [
+      "quyền khác",
+      "tài sản"
+    ],
+    [
+      "quyền tham gia quan hệ dân sự",
+      "nghĩa vụ phát sinh từ quan hệ đó"
+    ]
+  ]
+}

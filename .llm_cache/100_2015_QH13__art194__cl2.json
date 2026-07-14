@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "gây thương tích",
+    "tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thuốc chữa bệnh",
+      "thuốc phòng bệnh"
+    ],
+    [
+      "giá bán",
+      "giá niêm yết"
+    ],
+    [
+      "giá niêm yết",
+      "giá ghi trong hóa đơn"
+    ],
+    [
+      "tổn thương cơ thể",
+      "sức khỏe"
+    ]
+  ]
+}

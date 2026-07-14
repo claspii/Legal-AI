@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "tập nghề để làm việc cho người sử dụng lao động"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người"
+  ],
+  "actions": [
+    "tuyển",
+    "hướng dẫn thực hành công việc",
+    "tập làm nghề"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển"
+    ],
+    [
+      "người sử dụng lao động",
+      "hướng dẫn thực hành công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "tập làm nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tập nghề để làm việc cho người sử dụng lao động",
+      "thời hạn tập nghề"
+    ],
+    [
+      "tập nghề để làm việc cho người sử dụng lao động",
+      "vị trí việc làm"
+    ]
+  ]
+}

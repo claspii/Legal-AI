@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [
+    "đại diện theo ủy quyền",
+    "đại diện theo pháp luật"
+  ],
+  "actors": [
+    "người được đại diện",
+    "người đại diện",
+    "cơ quan nhà nước có thẩm quyền",
+    "pháp nhân"
+  ],
+  "actions": [
+    "xác lập quyền đại diện",
+    "ủy quyền"
+  ],
+  "actor_actions": [
+    [
+      "người được đại diện",
+      "ủy quyền"
+    ],
+    [
+      "người đại diện",
+      "ủy quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền đại diện",
+      "ủy quyền"
+    ],
+    [
+      "người được đại diện",
+      "người đại diện"
+    ],
+    [
+      "đại diện theo ủy quyền",
+      "đại diện theo pháp luật"
+    ],
+    [
+      "quyết định của cơ quan nhà nước có thẩm quyền",
+      "quyền đại diện"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "quyền đại diện"
+    ],
+    [
+      "quy định của pháp luật",
+      "quyền đại diện"
+    ]
+  ]
+}

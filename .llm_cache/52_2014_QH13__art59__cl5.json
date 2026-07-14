@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "con",
+    "vợ chồng"
+  ],
+  "actions": [
+    "bảo vệ",
+    "ly hôn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "tài sản",
+      "tự nuôi mình"
+    ]
+  ]
+}

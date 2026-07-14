@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép lái tàu",
+    "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật",
+    "người phạm tội"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+    "điều khiển phương tiện giao thông đường sắt",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không có giấy phép lái tàu",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "thiệt hại"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "số người bị thương tích hoặc tổn hại sức khỏe"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "mức phạt tiền"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "thời gian phạt tù"
+    ],
+    [
+      "số người chết",
+      "thời gian phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thời gian phạt tù"
+    ]
+  ]
+}

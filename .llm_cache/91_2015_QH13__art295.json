@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm"
+  ],
+  "actions": [
+    "cầm giữ tài sản",
+    "bảo lưu quyền sở hữu",
+    "mô tả chung",
+    "xác định",
+    "có quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "có quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bảo đảm",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản bảo đảm",
+      "tài sản hiện có"
+    ],
+    [
+      "tài sản bảo đảm",
+      "tài sản hình thành trong tương lai"
+    ],
+    [
+      "giá trị của tài sản bảo đảm",
+      "giá trị nghĩa vụ được bảo đảm"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm",
+    "bên nhận bảo đảm"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xử lý tài sản cầm cố, thế chấp",
+    "bán đấu giá tài sản",
+    "tự bán tài sản",
+    "nhận chính tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "thỏa thuận"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "thỏa thuận"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "tự bán tài sản"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "nhận chính tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "tài sản thế chấp"
+    ],
+    [
+      "bên bảo đảm",
+      "bên nhận bảo đảm"
+    ],
+    [
+      "phương thức xử lý tài sản cầm cố, thế chấp",
+      "bán đấu giá tài sản"
+    ],
+    [
+      "phương thức xử lý tài sản cầm cố, thế chấp",
+      "bên nhận bảo đảm tự bán tài sản"
+    ],
+    [
+      "phương thức xử lý tài sản cầm cố, thế chấp",
+      "bên nhận bảo đảm nhận chính tài sản"
+    ]
+  ]
+}

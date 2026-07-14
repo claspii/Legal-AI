@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người đó",
+    "người đưa hối lộ",
+    "người phạm tội",
+    "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "nhận",
+    "làm",
+    "không làm",
+    "phạm tội",
+    "bị xử lý theo quy định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "nhận"
+    ],
+    [
+      "người đó",
+      "làm"
+    ],
+    [
+      "người đó",
+      "không làm"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước",
+      "nhận hối lộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "lợi ích vật chất",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "tài sản của nhà nước",
+      "của hối lộ"
+    ]
+  ]
+}

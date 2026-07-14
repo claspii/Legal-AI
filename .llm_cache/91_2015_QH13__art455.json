@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [
+    "hợp đồng trao đổi tài sản"
+  ],
+  "actors": [
+    "các bên",
+    "một bên",
+    "bên kia",
+    "chủ sở hữu",
+    "người bán",
+    "người mua"
+  ],
+  "actions": [
+    "giao tài sản",
+    "chuyển quyền sở hữu",
+    "lập thành văn bản",
+    "công chứng",
+    "chứng thực",
+    "đăng ký",
+    "ủy quyền",
+    "hủy bỏ hợp đồng",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "giao tài sản"
+    ],
+    [
+      "các bên",
+      "chuyển quyền sở hữu"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "được lập thành văn bản"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "có công chứng"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "có chứng thực"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "có đăng ký"
+    ],
+    [
+      "bên kia",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên kia",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng trao đổi tài sản",
+      "tài sản"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "văn bản"
+    ],
+    [
+      "một bên",
+      "chủ sở hữu"
+    ],
+    [
+      "người bán",
+      "tài sản giao cho bên kia"
+    ],
+    [
+      "người mua",
+      "tài sản nhận về"
+    ],
+    [
+      "hợp đồng trao đổi tài sản",
+      "hợp đồng mua bán"
+    ]
+  ]
+}

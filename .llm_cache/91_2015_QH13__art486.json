@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giá thuê khoán",
+      "đấu thầu"
+    ],
+    [
+      "giá thuê khoán",
+      "kết quả đấu thầu"
+    ]
+  ]
+}

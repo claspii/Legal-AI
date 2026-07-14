@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê vận chuyển",
+    "bên vận chuyển",
+    "người thứ ba"
+  ],
+  "actions": [
+    "yêu cầu",
+    "chuyên chở",
+    "nhận lại"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê vận chuyển",
+      "yêu cầu"
+    ],
+    [
+      "bên vận chuyển",
+      "chuyên chở"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "nhận lại"
+    ],
+    [
+      "người thứ ba",
+      "nhận lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê vận chuyển",
+      "bên vận chuyển"
+    ],
+    [
+      "tài sản",
+      "địa điểm"
+    ],
+    [
+      "tài sản",
+      "thời điểm"
+    ]
+  ]
+}

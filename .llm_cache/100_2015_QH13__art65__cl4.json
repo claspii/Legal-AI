@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được hưởng án treo",
+    "cơ quan",
+    "tổ chức",
+    "tòa án"
+  ],
+  "actions": [
+    "chấp hành",
+    "giám sát",
+    "giáo dục",
+    "đề nghị",
+    "quyết định rút ngắn thời gian thử thách"
+  ],
+  "actor_actions": [
+    [
+      "người được hưởng án treo",
+      "chấp hành"
+    ],
+    [
+      "cơ quan",
+      "giám sát"
+    ],
+    [
+      "tổ chức",
+      "giám sát"
+    ],
+    [
+      "cơ quan",
+      "giáo dục"
+    ],
+    [
+      "tổ chức",
+      "giáo dục"
+    ],
+    [
+      "cơ quan",
+      "đề nghị"
+    ],
+    [
+      "tổ chức",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định rút ngắn thời gian thử thách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "án treo",
+      "thời gian thử thách"
+    ]
+  ]
+}

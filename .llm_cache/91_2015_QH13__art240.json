@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người chiếm hữu",
+    "người được lợi về tài sản",
+    "người có tài sản"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "chấm dứt quyền sở hữu",
+    "bị chôn",
+    "bị giấu",
+    "bị vùi lấp",
+    "chìm đắm được tìm thấy",
+    "bị đánh rơi",
+    "bị bỏ quên"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "người được lợi về tài sản",
+      "xác lập quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản không xác định được chủ sở hữu",
+      "quyền sở hữu của những người có tài sản đó chấm dứt"
+    ],
+    [
+      "tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy",
+      "quyền sở hữu của những người có tài sản đó chấm dứt"
+    ],
+    [
+      "tài sản bị đánh rơi, bị bỏ quên",
+      "quyền sở hữu của những người có tài sản đó chấm dứt"
+    ],
+    [
+      "gia súc, gia cầm bị thất lạc",
+      "quyền sở hữu của những người có tài sản đó chấm dứt"
+    ],
+    [
+      "vật nuôi dưới nước di chuyển tự nhiên",
+      "quyền sở hữu của những người có tài sản đó chấm dứt"
+    ],
+    [
+      "quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập",
+      "chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu"
+    ]
+  ]
+}

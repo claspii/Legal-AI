@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "phạm nhiều tội",
+    "cộng lại thành hình phạt chung",
+    "chuyển đổi thành hình phạt tù",
+    "tổng hợp",
+    "xét xử"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "người",
+      "phạm nhiều tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "tù có thời hạn"
+    ],
+    [
+      "hình phạt chung",
+      "hình phạt chính"
+    ],
+    [
+      "tù chung thân",
+      "tử hình"
+    ],
+    [
+      "phạt tiền",
+      "trục xuất"
+    ]
+  ]
+}

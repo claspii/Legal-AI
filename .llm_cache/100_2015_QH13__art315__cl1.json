@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "vi phạm quy định về khám bệnh",
+    "chữa bệnh",
+    "sản xuất",
+    "pha chế thuốc",
+    "cấp phát thuốc",
+    "bán thuốc",
+    "dịch vụ y tế khác",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về khám bệnh"
+    ],
+    [
+      "người nào",
+      "chữa bệnh"
+    ],
+    [
+      "người nào",
+      "sản xuất"
+    ],
+    [
+      "người nào",
+      "pha chế thuốc"
+    ],
+    [
+      "người nào",
+      "cấp phát thuốc"
+    ],
+    [
+      "người nào",
+      "bán thuốc"
+    ],
+    [
+      "người nào",
+      "dịch vụ y tế khác"
+    ],
+    [
+      "người nào",
+      "làm chết"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+      "làm chết 01 người"
+    ],
+    [
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+      "gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+      "gây tổn hại cho sức khỏe của 02 người với tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%"
+    ],
+    [
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+      "gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này là 61% đến 121%"
+    ],
+    [
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ]
+  ]
+}

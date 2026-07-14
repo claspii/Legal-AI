@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "tha tù trước hạn có điều kiện",
+    "chấp hành án phạt tù",
+    "phạm tội lần đầu",
+    "có nhiều tiến bộ",
+    "có ý thức cải tạo tốt",
+    "đã chấp hành được một phần ba thời hạn phạt tù",
+    "có nơi cư trú rõ ràng"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "tha tù trước hạn có điều kiện"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "chấp hành án phạt tù"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "phạm tội lần đầu"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "có nhiều tiến bộ"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "có ý thức cải tạo tốt"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "đã chấp hành được một phần ba thời hạn phạt tù"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "có nơi cư trú rõ ràng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi",
+      "án phạt tù"
+    ],
+    [
+      "tha tù trước hạn có điều kiện",
+      "án phạt tù"
+    ]
+  ]
+}

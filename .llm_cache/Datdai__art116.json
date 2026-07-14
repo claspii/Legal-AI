@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "giao đất",
+    "cho thuê đất",
+    "cho phép chuyển mục đích sử dụng đất",
+    "phê duyệt kết quả trúng đấu giá quyền sử dụng đất"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "phê duyệt kết quả trúng đấu giá quyền sử dụng đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao đất",
+      "văn bản phê duyệt kết quả trúng đấu giá quyền sử dụng đất"
+    ],
+    [
+      "cho thuê đất",
+      "văn bản phê duyệt kết quả trúng đấu giá quyền sử dụng đất"
+    ],
+    [
+      "căn cứ giao đất",
+      "đấu giá quyền sử dụng đất"
+    ],
+    [
+      "căn cứ cho thuê đất",
+      "đấu giá quyền sử dụng đất"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [
+    "hợp đồng thuê khoán tài sản"
+  ],
+  "actors": [
+    "bên cho thuê khoán",
+    "bên thuê khoán",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao",
+    "khai thác",
+    "hưởng",
+    "trả tiền thuê"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên cho thuê khoán",
+      "giao"
+    ],
+    [
+      "bên thuê khoán",
+      "khai thác"
+    ],
+    [
+      "bên thuê khoán",
+      "hưởng"
+    ],
+    [
+      "bên thuê khoán",
+      "trả tiền thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng thuê khoán tài sản",
+      "tài sản"
+    ],
+    [
+      "bên cho thuê khoán",
+      "bên thuê khoán"
+    ],
+    [
+      "công dụng",
+      "hoa lợi"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "tài sản thuê khoán",
+      "tiền thuê"
+    ]
+  ]
+}

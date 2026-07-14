@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "ông bà nội",
+    "ông bà ngoại",
+    "cháu"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "tự nuôi mình"
+  ],
+  "actor_actions": [
+    [
+      "ông bà nội, ông bà ngoại",
+      "cấp dưỡng"
+    ],
+    [
+      "cháu",
+      "cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ông bà nội, ông bà ngoại",
+      "cháu"
+    ],
+    [
+      "cháu chưa thành niên",
+      "cấp dưỡng"
+    ],
+    [
+      "cháu đã thành niên không có khả năng lao động, không có tài sản để tự nuôi mình",
+      "cấp dưỡng"
+    ],
+    [
+      "ông bà không có khả năng lao động, không có tài sản để tự nuôi mình",
+      "cấp dưỡng"
+    ]
+  ]
+}

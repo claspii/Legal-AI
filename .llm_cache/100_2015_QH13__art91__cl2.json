@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "người đồng phạm"
+  ],
+  "actions": [
+    "phạm tội",
+    "có nhiều tình tiết giảm nhẹ",
+    "tự nguyện khắc phục phần lớn hậu quả",
+    "miễn trách nhiệm hình sự",
+    "áp dụng các biện pháp"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "có nhiều tình tiết giảm nhẹ"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "tự nguyện khắc phục phần lớn hậu quả"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "áp dụng các biện pháp"
+    ],
+    [
+      "người dưới 18 tuổi là người đồng phạm",
+      "có vai trò không đáng kể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "áp dụng các biện pháp"
+    ],
+    [
+      "người dưới 16 tuổi",
+      "tội rất nghiêm trọng do cố ý"
+    ]
+  ]
+}

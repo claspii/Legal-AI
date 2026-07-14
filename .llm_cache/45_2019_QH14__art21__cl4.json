@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "người lao động"
+  ],
+  "actions": [
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính phủ",
+      "nội dung hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "giám đốc"
+    ],
+    [
+      "doanh nghiệp",
+      "vốn nhà nước"
+    ],
+    [
+      "hợp đồng lao động",
+      "giám đốc"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "đăng ký",
+    "công khai"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "quyền khác đối với tài sản",
+      "tài sản"
+    ],
+    [
+      "tài sản là bất động sản",
+      "đăng ký"
+    ],
+    [
+      "tài sản là động sản",
+      "không phải đăng ký"
+    ],
+    [
+      "đăng ký tài sản",
+      "công khai"
+    ]
+  ]
+}

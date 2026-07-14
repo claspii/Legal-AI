@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "giết người",
+    "cố ý gây thương tích",
+    "gây tổn hại cho sức khỏe của người khác",
+    "hiếp dâm",
+    "hiếp dâm người dưới 16 tuổi",
+    "cưỡng dâm người từ đủ 13 tuổi đến dưới 16 tuổi",
+    "cướp tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội giết người"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội cố ý gây thương tích"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội hiếp dâm"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội cướp tài sản"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội bắt cóc nhằm chiếm đoạt tài sản"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội cưỡng dâm"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội mua bán người"
+    ],
+    [
+      "người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi",
+      "tội mua bán người dưới 16 tuổi"
+    ]
+  ]
+}

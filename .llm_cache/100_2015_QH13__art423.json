@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cấp trên",
+    "dân thường",
+    "người bị thương",
+    "tù binh"
+  ],
+  "actions": [
+    "ra lệnh",
+    "tiến hành",
+    "giết hại",
+    "cướp phá tài sản",
+    "tàn phá",
+    "sử dụng",
+    "thực hiện hành vi",
+    "ký kết",
+    "tham gia",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "ra lệnh"
+    ],
+    [
+      "người",
+      "tiến hành"
+    ],
+    [
+      "người",
+      "giết hại dân thường"
+    ],
+    [
+      "người",
+      "giết hại người bị thương"
+    ],
+    [
+      "người",
+      "giết hại tù binh"
+    ],
+    [
+      "người",
+      "cướp phá tài sản"
+    ],
+    [
+      "người",
+      "tàn phá các nơi dân cư"
+    ],
+    [
+      "người",
+      "sử dụng các phương tiện hoặc phương pháp chiến tranh bị cấm"
+    ],
+    [
+      "người",
+      "thực hiện hành vi khác vi phạm nghiêm trọng pháp luật quốc tế hoặc các điều ước quốc tế"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "tội phạm chiến tranh"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "pháp luật quốc tế",
+      "điều ước quốc tế"
+    ],
+    [
+      "thời kỳ chiến tranh",
+      "tội phạm chiến tranh"
+    ],
+    [
+      "bị ép buộc",
+      "phạm tội"
+    ],
+    [
+      "thi hành mệnh lệnh của cấp trên",
+      "phạm tội"
+    ]
+  ]
+}

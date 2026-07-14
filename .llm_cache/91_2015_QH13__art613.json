@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "người thừa kế"
+  ],
+  "actors": [
+    "người thừa kế",
+    "cá nhân",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "còn sống",
+    "sinh ra",
+    "thành thai",
+    "chết",
+    "tồn tại"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "còn sống"
+    ],
+    [
+      "cá nhân",
+      "sinh ra"
+    ],
+    [
+      "cá nhân",
+      "thành thai"
+    ],
+    [
+      "người để lại di sản",
+      "chết"
+    ],
+    [
+      "người thừa kế theo di chúc không là cá nhân",
+      "tồn tại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thừa kế",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "người thừa kế là cá nhân",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "người thừa kế theo di chúc không là cá nhân",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "người để lại di sản",
+      "chết"
+    ]
+  ]
+}

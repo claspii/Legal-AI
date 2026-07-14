@@ -1,0 +1,114 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "cơ quan điều tra",
+    "viện kiểm sát",
+    "tòa án",
+    "ủy ban nhân dân cấp xã",
+    "người bị hại",
+    "người đại diện hợp pháp của người bị hại",
+    "người được áp dụng biện pháp hòa giải tại cộng đồng"
+  ],
+  "actions": [
+    "hòa giải tại cộng đồng",
+    "phạm tội ít nghiêm trọng",
+    "phạm tội nghiêm trọng",
+    "phạm tội rất nghiêm trọng",
+    "tổ chức việc hòa giải tại cộng đồng",
+    "đề nghị miễn trách nhiệm hình sự",
+    "thực hiện các nghĩa vụ",
+    "xin lỗi người bị hại",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạm tội ít nghiêm trọng"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạm tội nghiêm trọng"
+    ],
+    [
+      "người từ đủ 14 tuổi đến dưới 16 tuổi",
+      "phạm tội rất nghiêm trọng"
+    ],
+    [
+      "cơ quan điều tra",
+      "tổ chức việc hòa giải tại cộng đồng"
+    ],
+    [
+      "viện kiểm sát",
+      "tổ chức việc hòa giải tại cộng đồng"
+    ],
+    [
+      "tòa án",
+      "tổ chức việc hòa giải tại cộng đồng"
+    ],
+    [
+      "người bị hại",
+      "tự nguyện hòa giải"
+    ],
+    [
+      "người bị hại",
+      "đề nghị miễn trách nhiệm hình sự"
+    ],
+    [
+      "người đại diện hợp pháp của người bị hại",
+      "tự nguyện hòa giải"
+    ],
+    [
+      "người đại diện hợp pháp của người bị hại",
+      "đề nghị miễn trách nhiệm hình sự"
+    ],
+    [
+      "người được áp dụng biện pháp hòa giải tại cộng đồng",
+      "thực hiện các nghĩa vụ"
+    ],
+    [
+      "người được áp dụng biện pháp hòa giải tại cộng đồng",
+      "xin lỗi người bị hại"
+    ],
+    [
+      "người được áp dụng biện pháp hòa giải tại cộng đồng",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải tại cộng đồng",
+      "người dưới 18 tuổi phạm tội"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạm tội ít nghiêm trọng hoặc phạm tội nghiêm trọng"
+    ],
+    [
+      "người từ đủ 14 tuổi đến dưới 16 tuổi",
+      "phạm tội rất nghiêm trọng"
+    ],
+    [
+      "người bị hại",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người được áp dụng biện pháp hòa giải tại cộng đồng",
+      "nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "xin lỗi người bị hại"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

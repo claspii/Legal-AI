@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thành niên",
+    "người có quyền, lợi ích liên quan",
+    "cơ quan, tổ chức hữu quan",
+    "tòa án",
+    "người giám hộ",
+    "người có khó khăn trong nhận thức, làm chủ hành vi"
+  ],
+  "actions": [
+    "tuyên bố người này là người có khó khăn trong nhận thức, làm chủ hành vi",
+    "chỉ định người giám hộ",
+    "xác định quyền, nghĩa vụ của người giám hộ",
+    "hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "ra quyết định tuyên bố người này là người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "tòa án",
+      "chỉ định người giám hộ"
+    ],
+    [
+      "tòa án",
+      "xác định quyền, nghĩa vụ của người giám hộ"
+    ],
+    [
+      "tòa án",
+      "ra quyết định hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "người giám hộ"
+    ],
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "mất năng lực hành vi dân sự"
+    ]
+  ]
+}

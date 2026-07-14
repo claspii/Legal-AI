@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chuyển giao quyền sở hữu",
+    "chuyển giao quyền khác đối với tài sản",
+    "thuê bất động sản",
+    "sử dụng bất động sản để bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "bất động sản"
+    ],
+    [
+      "pháp luật áp dụng",
+      "bất động sản"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "xác định dân tộc",
+    "xác định lại dân tộc"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác định dân tộc"
+    ],
+    [
+      "cá nhân",
+      "xác định lại dân tộc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xác định",
+      "dân tộc"
+    ],
+    [
+      "xác định lại",
+      "dân tộc"
+    ]
+  ]
+}

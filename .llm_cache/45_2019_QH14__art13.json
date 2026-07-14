@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [
+    "hợp đồng lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao kết",
+    "nhận vào làm việc",
+    "quản lý",
+    "điều hành",
+    "giám sát"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhận vào làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "việc làm",
+      "trả công"
+    ],
+    [
+      "việc làm",
+      "tiền lương"
+    ],
+    [
+      "điều kiện lao động",
+      "quyền"
+    ],
+    [
+      "điều kiện lao động",
+      "nghĩa vụ"
+    ]
+  ]
+}

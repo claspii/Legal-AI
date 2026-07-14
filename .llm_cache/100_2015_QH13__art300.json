@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "huy động",
+    "hỗ trợ",
+    "tài trợ khủng bố",
+    "chuẩn bị phạm tội này",
+    "bị phạt tù",
+    "bị phạt quản chế",
+    "cấm cư trú",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "huy động"
+    ],
+    [
+      "người",
+      "hỗ trợ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "cấm cư trú"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức",
+      "khủng bố"
+    ],
+    [
+      "cá nhân",
+      "khủng bố"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "người",
+      "tài trợ khủng bố"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [
+    "tự ý nửa chừng chấm dứt việc phạm tội"
+  ],
+  "actors": [
+    "người",
+    "người tự ý nửa chừng chấm dứt việc phạm tội"
+  ],
+  "actions": [
+    "chấm dứt việc phạm tội",
+    "thực hiện tội phạm",
+    "miễn trách nhiệm hình sự",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tự mình không thực hiện tội phạm đến cùng"
+    ],
+    [
+      "người tự ý nửa chừng chấm dứt việc phạm tội",
+      "được miễn trách nhiệm hình sự về tội định phạm"
+    ],
+    [
+      "người đó",
+      "phải chịu trách nhiệm hình sự về tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tự ý nửa chừng chấm dứt việc phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "hành vi thực tế đã thực hiện",
+      "yếu tố cấu thành của một tội khác"
+    ],
+    [
+      "hành vi thực tế đã thực hiện",
+      "chịu trách nhiệm hình sự"
+    ]
+  ]
+}

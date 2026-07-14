@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không đủ điều kiện"
+  ],
+  "actions": [
+    "giao",
+    "điều khiển",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người không đủ điều kiện",
+      "điều khiển các phương tiện giao thông đường thủy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "sức khỏe"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "người"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

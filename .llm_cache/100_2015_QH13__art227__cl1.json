@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước"
+  ],
+  "actions": [
+    "vi phạm",
+    "nghiên cứu",
+    "thăm dò",
+    "khai thác tài nguyên",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "thu lợi bất chính",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "nghiên cứu"
+    ],
+    [
+      "người",
+      "thăm dò"
+    ],
+    [
+      "người",
+      "khai thác tài nguyên"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghiên cứu",
+      "tài nguyên"
+    ],
+    [
+      "thăm dò",
+      "tài nguyên"
+    ],
+    [
+      "khai thác",
+      "tài nguyên"
+    ],
+    [
+      "giấy phép",
+      "nội dung giấy phép"
+    ],
+    [
+      "thu lợi bất chính",
+      "tài nguyên nước"
+    ],
+    [
+      "thu lợi bất chính",
+      "dầu khí"
+    ],
+    [
+      "thu lợi bất chính",
+      "khoáng sản"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

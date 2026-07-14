@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "lao động nữ",
+    "lao động là người khuyết tật",
+    "người lao động cao tuổi",
+    "lao động chưa thành niên"
+  ],
+  "actions": [
+    "bảo đảm",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo đảm bình đẳng giới"
+    ],
+    [
+      "nhà nước",
+      "quy định chế độ lao động"
+    ],
+    [
+      "nhà nước",
+      "quy định chính sách xã hội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bình đẳng giới",
+      "lao động nữ"
+    ],
+    [
+      "chế độ lao động",
+      "lao động nữ"
+    ],
+    [
+      "chế độ lao động",
+      "lao động là người khuyết tật"
+    ],
+    [
+      "chế độ lao động",
+      "người lao động cao tuổi"
+    ],
+    [
+      "chế độ lao động",
+      "lao động chưa thành niên"
+    ],
+    [
+      "chính sách xã hội",
+      "lao động nữ"
+    ],
+    [
+      "chính sách xã hội",
+      "lao động là người khuyết tật"
+    ],
+    [
+      "chính sách xã hội",
+      "người lao động cao tuổi"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cố ý làm lộ",
+    "mua bán bí mật nhà nước",
+    "chiếm đoạt",
+    "tiêu hủy tài liệu bí mật nhà nước",
+    "gây tổn hại",
+    "phạt tù",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cố ý làm lộ"
+    ],
+    [
+      "người nào",
+      "mua bán bí mật nhà nước"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bí mật nhà nước",
+      "làm lộ"
+    ],
+    [
+      "bí mật nhà nước",
+      "mua bán"
+    ],
+    [
+      "tài liệu bí mật nhà nước",
+      "chiếm đoạt"
+    ],
+    [
+      "tài liệu bí mật nhà nước",
+      "tiêu hủy"
+    ],
+    [
+      "bí mật nhà nước",
+      "độ tối mật"
+    ],
+    [
+      "bí mật nhà nước",
+      "độ tuyệt mật"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ]
+  ]
+}

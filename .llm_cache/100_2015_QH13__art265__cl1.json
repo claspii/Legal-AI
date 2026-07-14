@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "tổ chức đua xe trái phép",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ"
+    ]
+  ],
+  "related_concepts": []
+}

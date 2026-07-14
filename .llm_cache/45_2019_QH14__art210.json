@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp tỉnh",
+    "chính phủ",
+    "người lao động"
+  ],
+  "actions": [
+    "quyết định hoãn, ngừng đình công",
+    "gây thiệt hại",
+    "đe dọa",
+    "quy định chi tiết",
+    "giải quyết quyền lợi"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "quyết định hoãn, ngừng đình công"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "chính phủ",
+      "giải quyết quyền lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoãn, ngừng đình công",
+      "thiệt hại nghiêm trọng cho nền kinh tế quốc dân"
+    ],
+    [
+      "hoãn, ngừng đình công",
+      "lợi ích công cộng"
+    ],
+    [
+      "hoãn, ngừng đình công",
+      "quốc phòng, an ninh, trật tự công cộng"
+    ],
+    [
+      "hoãn, ngừng đình công",
+      "sức khỏe của con người"
+    ],
+    [
+      "hoãn, ngừng đình công",
+      "quyền lợi của người lao động"
+    ]
+  ]
+}

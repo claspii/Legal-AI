@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [
+    "phạm tội chưa đạt"
+  ],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "thực hiện tội phạm",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "thực hiện tội phạm"
+    ],
+    [
+      "người phạm tội",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội chưa đạt",
+      "tội phạm"
+    ],
+    [
+      "phạm tội chưa đạt",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

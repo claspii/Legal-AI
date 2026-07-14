@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "người",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "nhận con",
+    "có quyền",
+    "đã chết",
+    "không cần phải có sự đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cha",
+      "nhận con"
+    ],
+    [
+      "mẹ",
+      "nhận con"
+    ],
+    [
+      "cha",
+      "có quyền"
+    ],
+    [
+      "mẹ",
+      "có quyền"
+    ],
+    [
+      "con",
+      "đã chết"
+    ],
+    [
+      "người",
+      "nhận con"
+    ],
+    [
+      "việc nhận con",
+      "không cần phải có sự đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "nhận con",
+      "sự đồng ý"
+    ]
+  ]
+}

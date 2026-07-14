@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhiều người",
+    "một người",
+    "tòa án"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "thỏa thuận",
+    "đóng góp",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người",
+      "cấp dưỡng"
+    ],
+    [
+      "nhiều người",
+      "thỏa thuận"
+    ],
+    [
+      "nhiều người",
+      "đóng góp"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhiều người",
+      "cấp dưỡng"
+    ],
+    [
+      "nghĩa vụ",
+      "cấp dưỡng"
+    ]
+  ]
+}

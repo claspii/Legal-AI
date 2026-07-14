@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên",
+    "người quản lý doanh nghiệp",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thử việc"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian thử việc",
+      "công việc"
+    ],
+    [
+      "thời gian thử việc",
+      "tính chất công việc"
+    ],
+    [
+      "thời gian thử việc",
+      "mức độ phức tạp của công việc"
+    ],
+    [
+      "công việc",
+      "chức danh nghề nghiệp"
+    ],
+    [
+      "chức danh nghề nghiệp",
+      "trình độ chuyên môn"
+    ],
+    [
+      "chức danh nghề nghiệp",
+      "trình độ kỹ thuật"
+    ]
+  ]
+}

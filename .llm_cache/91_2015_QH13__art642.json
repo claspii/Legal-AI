@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người thừa kế theo di chúc"
+  ],
+  "actions": [
+    "thất lạc",
+    "hư hại",
+    "chứng minh",
+    "áp dụng",
+    "chia di sản",
+    "tìm thấy di chúc",
+    "yêu cầu chia di sản",
+    "chia lại"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "thể hiện được ý chí"
+    ],
+    [
+      "người lập di chúc",
+      "chứng minh được ý nguyện đích thực"
+    ],
+    [
+      "người thừa kế theo di chúc",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "thất lạc"
+    ],
+    [
+      "di chúc",
+      "hư hại"
+    ],
+    [
+      "di chúc",
+      "ý chí của người lập di chúc"
+    ],
+    [
+      "thừa kế theo pháp luật",
+      "không có di chúc"
+    ],
+    [
+      "di sản",
+      "chia theo di chúc"
+    ]
+  ]
+}

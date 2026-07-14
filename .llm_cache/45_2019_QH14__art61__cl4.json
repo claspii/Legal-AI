@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người học nghề",
+    "người tập nghề",
+    "người sử dụng lao động",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "học nghề",
+    "tập nghề",
+    "ban hành"
+  ],
+  "actor_actions": [
+    [
+      "người học nghề",
+      "học nghề"
+    ],
+    [
+      "người tập nghề",
+      "tập nghề"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "ban hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người học nghề",
+      "độ tuổi"
+    ],
+    [
+      "người tập nghề",
+      "độ tuổi"
+    ],
+    [
+      "người học nghề",
+      "sức khỏe"
+    ],
+    [
+      "người tập nghề",
+      "sức khỏe"
+    ],
+    [
+      "nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+      "độ tuổi"
+    ]
+  ]
+}

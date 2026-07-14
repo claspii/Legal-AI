@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đại diện",
+    "người được đại diện",
+    "người đã giao dịch"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "đồng ý",
+    "biết",
+    "phản đối"
+  ],
+  "actor_actions": [
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người được đại diện",
+      "đồng ý"
+    ],
+    [
+      "người được đại diện",
+      "biết"
+    ],
+    [
+      "người được đại diện",
+      "không phản đối"
+    ],
+    [
+      "người được đại diện",
+      "có lỗi"
+    ],
+    [
+      "người đã giao dịch",
+      "không biết về việc người đã xác lập, thực hiện giao dịch dân sự với mình vượt quá phạm vi đại diện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "phạm vi đại diện"
+    ],
+    [
+      "người đại diện",
+      "người được đại diện"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi đại diện",
+      "quyền"
+    ],
+    [
+      "giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi đại diện",
+      "nghĩa vụ"
+    ]
+  ]
+}

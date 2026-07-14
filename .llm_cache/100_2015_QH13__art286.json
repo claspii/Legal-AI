@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "phát tán chương trình tin học gây hại",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm lây nhiễm",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cố ý phát tán chương trình tin học gây hại"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "phương tiện điện tử",
+      "hệ thống thông tin"
+    ],
+    [
+      "hệ thống dữ liệu thuộc bí mật nhà nước",
+      "hệ thống thông tin phục vụ quốc phòng, an ninh"
+    ],
+    [
+      "cơ sở hạ tầng thông tin quốc gia",
+      "hệ thống thông tin điều hành lưới điện quốc gia"
+    ],
+    [
+      "hệ thống thông tin tài chính, ngân hàng",
+      "hệ thống thông tin điều khiển giao thông"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

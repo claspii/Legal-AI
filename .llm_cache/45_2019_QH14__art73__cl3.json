@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng thương lượng tập thể",
+    "các bên"
+  ],
+  "actions": [
+    "tiến hành thương lượng",
+    "tự chấm dứt hoạt động",
+    "ký kết",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "hội đồng thương lượng tập thể",
+      "tiến hành thương lượng"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "tự chấm dứt hoạt động"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp tham gia",
+      "ký kết"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng thương lượng tập thể",
+      "thương lượng"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp tham gia",
+      "ký kết"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "chấm dứt hoạt động"
+    ]
+  ]
+}

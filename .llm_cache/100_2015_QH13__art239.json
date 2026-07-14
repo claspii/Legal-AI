@@ -1,0 +1,114 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "thực hiện hành vi đưa chất thải vào lãnh thổ việt nam",
+    "phạm tội",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định",
+    "bị tạm đình chỉ hoạt động",
+    "bị đình chỉ hoạt động có thời hạn",
+    "bị đình chỉ hoạt động vĩnh viễn",
+    "bị cấm kinh doanh",
+    "bị cấm hoạt động trong một số lĩnh vực nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi đưa chất thải vào lãnh thổ việt nam"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người",
+      "bị cấm làm công việc nhất định"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị tạm đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm hoạt động trong một số lĩnh vực nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải nguy hại",
+      "công ước stockholm"
+    ],
+    [
+      "chất hữu cơ khó phân hủy",
+      "công ước stockholm"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "phạm tội",
+      "cấm hành nghề"
+    ]
+  ]
+}

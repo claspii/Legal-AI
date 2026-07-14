@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [
+    "quan hệ lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện của các bên",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "thuê mướn",
+    "sử dụng lao động",
+    "trả lương"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thuê mướn"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ lao động",
+      "quan hệ lao động cá nhân"
+    ],
+    [
+      "quan hệ lao động",
+      "quan hệ lao động tập thể"
+    ]
+  ]
+}

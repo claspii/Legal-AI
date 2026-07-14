@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có nghĩa vụ cấp dưỡng",
+    "người cấp dưỡng",
+    "người được cấp dưỡng",
+    "tòa án"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "thỏa thuận",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "người có nghĩa vụ cấp dưỡng",
+      "cấp dưỡng"
+    ],
+    [
+      "người cấp dưỡng",
+      "thỏa thuận"
+    ],
+    [
+      "người được cấp dưỡng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người cấp dưỡng",
+      "người được cấp dưỡng"
+    ],
+    [
+      "phương thức cấp dưỡng",
+      "mức cấp dưỡng"
+    ],
+    [
+      "thu nhập",
+      "khả năng thực tế"
+    ],
+    [
+      "người có nghĩa vụ cấp dưỡng",
+      "nhu cầu thiết yếu"
+    ]
+  ]
+}

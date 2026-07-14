@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt bảo lưu quyền sở hữu",
+    "thực hiện nghĩa vụ thanh toán",
+    "nhận lại tài sản bảo lưu quyền sở hữu",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "nhận lại tài sản bảo lưu quyền sở hữu"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo lưu quyền sở hữu",
+      "chấm dứt"
+    ],
+    [
+      "nghĩa vụ thanh toán",
+      "bên bán"
+    ],
+    [
+      "tài sản bảo lưu quyền sở hữu",
+      "bên bán"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giao kết hợp đồng lao động"
+  ],
+  "actions": [
+    "giao kết",
+    "vi phạm",
+    "ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "người giao kết hợp đồng lao động",
+      "giao kết"
+    ],
+    [
+      "người giao kết hợp đồng lao động",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động vô hiệu toàn bộ",
+      "vi phạm pháp luật"
+    ],
+    [
+      "hợp đồng lao động vô hiệu toàn bộ",
+      "không đúng thẩm quyền"
+    ],
+    [
+      "hợp đồng lao động vô hiệu toàn bộ",
+      "công việc mà pháp luật cấm"
+    ],
+    [
+      "hợp đồng lao động vô hiệu từng phần",
+      "nội dung của phần đó vi phạm pháp luật"
+    ]
+  ]
+}

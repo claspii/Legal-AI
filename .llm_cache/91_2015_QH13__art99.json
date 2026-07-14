@@ -1,0 +1,98 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "cơ quan nhà nước ở trung ương",
+    "cơ quan nhà nước ở địa phương",
+    "pháp nhân",
+    "doanh nghiệp nhà nước"
+  ],
+  "actions": [
+    "chịu trách nhiệm",
+    "là đại diện chủ sở hữu",
+    "thống nhất quản lý",
+    "chuyển giao",
+    "thành lập",
+    "bảo lãnh"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "chịu trách nhiệm"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "chịu trách nhiệm"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "chịu trách nhiệm"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "là đại diện chủ sở hữu"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "thống nhất quản lý"
+    ],
+    [
+      "pháp nhân",
+      "không chịu trách nhiệm"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "thành lập"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "thành lập"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "thành lập"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "bảo lãnh"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "bảo lãnh"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "bảo lãnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trách nhiệm về nghĩa vụ dân sự",
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "trách nhiệm về nghĩa vụ dân sự",
+      "cơ quan nhà nước ở trung ương"
+    ],
+    [
+      "trách nhiệm về nghĩa vụ dân sự",
+      "cơ quan nhà nước ở địa phương"
+    ],
+    [
+      "nghĩa vụ dân sự",
+      "tài sản"
+    ],
+    [
+      "pháp nhân",
+      "quan hệ dân sự"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "pháp nhân"
+    ],
+    [
+      "bảo lãnh",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

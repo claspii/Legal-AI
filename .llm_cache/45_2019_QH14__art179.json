@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [
+    "tranh chấp lao động",
+    "tranh chấp lao động tập thể về quyền",
+    "tranh chấp lao động tập thể về lợi ích"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "doanh nghiệp",
+    "tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng",
+    "người lao động thuê lại",
+    "người sử dụng lao động thuê lại",
+    "tổ chức đại diện người lao động",
+    "tổ chức của người sử dụng lao động"
+  ],
+  "actions": [
+    "xác lập quan hệ lao động",
+    "thực hiện quan hệ lao động",
+    "chấm dứt quan hệ lao động",
+    "đi làm việc ở nước ngoài theo hợp đồng",
+    "thương lượng",
+    "từ chối thương lượng",
+    "tiến hành thương lượng",
+    "hiểu quy định",
+    "thực hiện quy định",
+    "có hành vi phân biệt đối xử",
+    "can thiệp tổ chức đại diện người lao động",
+    "thao túng tổ chức đại diện người lao động",
+    "vi phạm nghĩa vụ về thương lượng thiện chí"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đi làm việc ở nước ngoài theo hợp đồng"
+    ],
+    [
+      "người sử dụng lao động",
+      "có hành vi phân biệt đối xử"
+    ],
+    [
+      "người sử dụng lao động",
+      "can thiệp tổ chức đại diện người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thao túng tổ chức đại diện người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "vi phạm nghĩa vụ về thương lượng thiện chí"
+    ],
+    [
+      "một bên",
+      "từ chối thương lượng"
+    ],
+    [
+      "một bên",
+      "không tiến hành thương lượng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động",
+      "quan hệ lao động"
+    ],
+    [
+      "tranh chấp lao động",
+      "tranh chấp lao động cá nhân"
+    ],
+    [
+      "tranh chấp lao động",
+      "tranh chấp lao động tập thể"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "tranh chấp lao động tập thể về lợi ích",
+      "thương lượng tập thể"
+    ]
+  ]
+}

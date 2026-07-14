@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị nạn",
+    "người chỉ huy",
+    "người có thẩm quyền điều khiển, giữ gìn trật tự, an toàn giao thông đường thủy"
+  ],
+  "actions": [
+    "vi phạm quy định về điều khiển phương tiện giao thông đường thủy",
+    "phạm tội",
+    "sử dụng rượu, bia",
+    "sử dụng chất ma túy",
+    "gây tai nạn rồi bỏ chạy để trốn tránh trách nhiệm",
+    "cố ý không cứu giúp",
+    "không chấp hành hiệu lệnh",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về điều khiển phương tiện giao thông đường thủy"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "sử dụng rượu, bia"
+    ],
+    [
+      "người",
+      "sử dụng chất ma túy"
+    ],
+    [
+      "người",
+      "gây tai nạn rồi bỏ chạy để trốn tránh trách nhiệm"
+    ],
+    [
+      "người",
+      "cố ý không cứu giúp"
+    ],
+    [
+      "người",
+      "không chấp hành hiệu lệnh"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nồng độ cồn",
+      "mức quy định"
+    ],
+    [
+      "chất ma túy",
+      "chất kích thích mạnh khác"
+    ],
+    [
+      "bằng, chứng chỉ chuyên môn",
+      "chức danh, loại phương tiện"
+    ],
+    [
+      "hiệu lệnh",
+      "người chỉ huy hoặc người có thẩm quyền điều khiển, giữ gìn trật tự, an toàn giao thông đường thủy"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "người"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "chiếm đoạt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tiền chất",
+      "sản xuất trái phép chất ma túy"
+    ],
+    [
+      "tiền chất",
+      "thể rắn"
+    ],
+    [
+      "tiền chất",
+      "thể lỏng"
+    ],
+    [
+      "phạm tội",
+      "tiền chất"
+    ]
+  ]
+}

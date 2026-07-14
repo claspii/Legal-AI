@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chuyển người lao động làm công việc khác so với hợp đồng lao động",
+    "báo cho người lao động biết",
+    "thông báo thời hạn làm tạm thời",
+    "bố trí công việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "báo cho người lao động biết"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo thời hạn làm tạm thời"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "công việc khác so với hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "sức khỏe"
+    ],
+    [
+      "người lao động",
+      "giới tính"
+    ],
+    [
+      "công việc khác so với hợp đồng lao động",
+      "thời hạn làm tạm thời"
+    ],
+    [
+      "công việc",
+      "sức khỏe"
+    ],
+    [
+      "công việc",
+      "giới tính"
+    ]
+  ]
+}

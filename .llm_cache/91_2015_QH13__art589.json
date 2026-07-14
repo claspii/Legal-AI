@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "thiệt hại do tài sản bị xâm phạm"
+  ],
+  "actors": [],
+  "actions": [
+    "bồi thường thiệt hại",
+    "ngăn chặn",
+    "hạn chế",
+    "khắc phục",
+    "sử dụng",
+    "khai thác"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "tài sản bị mất"
+    ],
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "tài sản bị hủy hoại"
+    ],
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "tài sản bị hư hỏng"
+    ],
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "lợi ích gắn liền với việc sử dụng, khai thác tài sản bị mất, bị giảm sút"
+    ],
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại"
+    ],
+    [
+      "thiệt hại do tài sản bị xâm phạm",
+      "thiệt hại khác do luật quy định"
+    ],
+    [
+      "ngăn chặn",
+      "hạn chế"
+    ],
+    [
+      "hạn chế",
+      "khắc phục"
+    ]
+  ]
+}

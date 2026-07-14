@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người chỉ huy",
+    "người điều khiển phương tiện giao thông đường sắt"
+  ],
+  "actions": [
+    "chỉ huy",
+    "điều khiển phương tiện giao thông đường sắt",
+    "vi phạm quy định về an toàn giao thông đường sắt",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người chỉ huy",
+      "vi phạm quy định về an toàn giao thông đường sắt"
+    ],
+    [
+      "người điều khiển phương tiện giao thông đường sắt",
+      "vi phạm quy định về an toàn giao thông đường sắt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chỉ huy",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "an toàn công cộng",
+      "trật tự công cộng"
+    ],
+    [
+      "làm chết",
+      "gây thương tích"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

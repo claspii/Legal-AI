@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [
+    "nơi cư trú của quân nhân đang thực hiện nghĩa vụ quân sự",
+    "nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng"
+  ],
+  "actors": [
+    "quân nhân",
+    "sĩ quan quân đội",
+    "quân nhân chuyên nghiệp",
+    "công nhân quốc phòng",
+    "viên chức quốc phòng"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ quân sự",
+    "đóng quân"
+  ],
+  "actor_actions": [
+    [
+      "quân nhân",
+      "thực hiện nghĩa vụ quân sự"
+    ],
+    [
+      "đơn vị",
+      "đóng quân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nơi cư trú của quân nhân",
+      "đơn vị"
+    ],
+    [
+      "quân nhân",
+      "nghĩa vụ quân sự"
+    ],
+    [
+      "sĩ quan quân đội",
+      "nơi cư trú"
+    ],
+    [
+      "quân nhân chuyên nghiệp",
+      "nơi cư trú"
+    ]
+  ]
+}

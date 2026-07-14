@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [
+    "hợp đồng dịch vụ"
+  ],
+  "actors": [
+    "các bên",
+    "bên cung ứng dịch vụ",
+    "bên sử dụng dịch vụ"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thực hiện công việc",
+    "trả tiền dịch vụ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "thực hiện công việc"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền dịch vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng dịch vụ",
+      "thỏa thuận"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "thực hiện công việc"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền dịch vụ"
+    ]
+  ]
+}

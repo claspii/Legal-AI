@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "bên",
+    "mỗi bên"
+  ],
+  "actions": [
+    "thực hiện thỏa ước lao động tập thể",
+    "có hiệu lực",
+    "giao kết hợp đồng lao động",
+    "yêu cầu thi hành",
+    "xem xét giải quyết",
+    "yêu cầu giải quyết tranh chấp lao động tập thể"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện đầy đủ thỏa ước lao động tập thể"
+    ],
+    [
+      "người lao động",
+      "thực hiện đầy đủ thỏa ước lao động tập thể"
+    ],
+    [
+      "bên",
+      "thực hiện không đầy đủ thỏa ước lao động tập thể"
+    ],
+    [
+      "bên",
+      "vi phạm thỏa ước lao động tập thể"
+    ],
+    [
+      "bên",
+      "yêu cầu thi hành đúng thỏa ước lao động tập thể"
+    ],
+    [
+      "các bên",
+      "cùng xem xét giải quyết"
+    ],
+    [
+      "mỗi bên",
+      "yêu cầu giải quyết tranh chấp lao động tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "hợp đồng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "quy định của người sử dụng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "tranh chấp lao động tập thể"
+    ]
+  ]
+}

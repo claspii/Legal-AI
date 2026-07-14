@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "ông",
+    "bà",
+    "cha",
+    "mẹ",
+    "người dạy dỗ",
+    "người nuôi dưỡng",
+    "người chăm sóc",
+    "người giáo dục",
+    "người chữa bệnh",
+    "nạn nhân"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây rối loạn tâm thần và hành vi",
+    "vu khống"
+  ],
+  "actor_actions": [],
+  "related_concepts": []
+}

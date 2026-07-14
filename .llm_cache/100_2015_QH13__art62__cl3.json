@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án phạt tù có thời hạn trên 03 năm",
+    "viện trưởng viện kiểm sát",
+    "tòa án"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "quyết định miễn chấp hành toàn bộ hình phạt",
+    "lập công lớn",
+    "mắc bệnh hiểm nghèo"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định miễn chấp hành toàn bộ hình phạt"
+    ],
+    [
+      "người bị kết án phạt tù có thời hạn trên 03 năm",
+      "lập công lớn"
+    ],
+    [
+      "người bị kết án phạt tù có thời hạn trên 03 năm",
+      "mắc bệnh hiểm nghèo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "lập công lớn"
+    ],
+    [
+      "miễn chấp hành hình phạt",
+      "mắc bệnh hiểm nghèo"
+    ],
+    [
+      "người bị kết án phạt tù có thời hạn trên 03 năm",
+      "không còn nguy hiểm cho xã hội"
+    ]
+  ]
+}

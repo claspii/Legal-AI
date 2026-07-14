@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [
+    "tội phạm về chức vụ",
+    "người có chức vụ"
+  ],
+  "actors": [
+    "người có chức vụ",
+    "người"
+  ],
+  "actions": [
+    "xâm phạm hoạt động đúng đắn",
+    "thực hiện công vụ, nhiệm vụ",
+    "bổ nhiệm",
+    "bầu cử",
+    "hợp đồng",
+    "giao thực hiện nhiệm vụ",
+    "có quyền hạn"
+  ],
+  "actor_actions": [
+    [
+      "người có chức vụ",
+      "thực hiện công vụ, nhiệm vụ"
+    ],
+    [
+      "người có chức vụ",
+      "xâm phạm hoạt động đúng đắn"
+    ],
+    [
+      "người",
+      "bổ nhiệm"
+    ],
+    [
+      "người",
+      "bầu cử"
+    ],
+    [
+      "người",
+      "giao thực hiện nhiệm vụ"
+    ],
+    [
+      "người",
+      "có quyền hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội phạm về chức vụ",
+      "người có chức vụ"
+    ],
+    [
+      "người có chức vụ",
+      "công vụ"
+    ],
+    [
+      "người có chức vụ",
+      "nhiệm vụ"
+    ],
+    [
+      "người có chức vụ",
+      "quyền hạn"
+    ]
+  ]
+}

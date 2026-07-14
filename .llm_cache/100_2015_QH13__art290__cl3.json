@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "gây thiệt hại",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "trị giá"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ],
+    [
+      "số lượng thẻ giả",
+      "số thẻ"
+    ]
+  ]
+}

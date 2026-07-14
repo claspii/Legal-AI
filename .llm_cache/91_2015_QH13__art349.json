@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm giữ",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "giữ gìn",
+    "bảo quản",
+    "thay đổi tình trạng",
+    "chuyển giao",
+    "sử dụng",
+    "giao lại",
+    "bồi thường thiệt hại",
+    "làm mất",
+    "hư hỏng"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm giữ",
+      "giữ gìn"
+    ],
+    [
+      "bên cầm giữ",
+      "bảo quản tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "không được thay đổi tình trạng của tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "không được chuyển giao tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "không được sử dụng tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "giao lại tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cầm giữ",
+      "tài sản cầm giữ"
+    ],
+    [
+      "bên cầm giữ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "tài sản cầm giữ",
+      "nghĩa vụ"
+    ]
+  ]
+}

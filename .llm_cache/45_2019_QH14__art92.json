@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [
+    "hội đồng tiền lương quốc gia"
+  ],
+  "actors": [
+    "chính phủ",
+    "người lao động",
+    "thủ tướng chính phủ",
+    "bộ lao động - thương binh và xã hội",
+    "tổng liên đoàn lao động việt nam",
+    "tổ chức đại diện người sử dụng lao động",
+    "chuyên gia độc lập"
+  ],
+  "actions": [
+    "tư vấn",
+    "thành lập",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "hội đồng tiền lương quốc gia",
+      "tư vấn"
+    ],
+    [
+      "thủ tướng chính phủ",
+      "thành lập"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng tiền lương quốc gia",
+      "mức lương tối thiểu"
+    ],
+    [
+      "hội đồng tiền lương quốc gia",
+      "chính sách tiền lương"
+    ],
+    [
+      "chính phủ",
+      "hội đồng tiền lương quốc gia"
+    ],
+    [
+      "chính phủ",
+      "mức lương tối thiểu"
+    ],
+    [
+      "chính phủ",
+      "chính sách tiền lương"
+    ],
+    [
+      "thủ tướng chính phủ",
+      "hội đồng tiền lương quốc gia"
+    ]
+  ]
+}

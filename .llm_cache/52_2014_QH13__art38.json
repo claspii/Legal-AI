@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án"
+  ],
+  "actions": [
+    "thỏa thuận chia tài sản chung",
+    "yêu cầu",
+    "giải quyết",
+    "lập thành văn bản",
+    "công chứng"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "thỏa thuận chia một phần hoặc toàn bộ tài sản chung"
+    ],
+    [
+      "chồng",
+      "thỏa thuận chia một phần hoặc toàn bộ tài sản chung"
+    ],
+    [
+      "vợ",
+      "có quyền yêu cầu tòa án giải quyết"
+    ],
+    [
+      "chồng",
+      "có quyền yêu cầu tòa án giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "vợ",
+      "yêu cầu"
+    ],
+    [
+      "chồng",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "tài sản chung"
+    ],
+    [
+      "chồng",
+      "tài sản chung"
+    ],
+    [
+      "thỏa thuận",
+      "văn bản"
+    ],
+    [
+      "thỏa thuận",
+      "công chứng"
+    ],
+    [
+      "tài sản chung",
+      "thời kỳ hôn nhân"
+    ]
+  ]
+}

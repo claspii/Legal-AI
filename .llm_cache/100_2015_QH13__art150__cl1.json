@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "lừa gạt",
+    "thực hiện",
+    "chuyển giao",
+    "tiếp nhận",
+    "giao",
+    "nhận",
+    "bóc lột tình dục",
+    "cưỡng bức lao động",
+    "lấy bộ phận cơ thể",
+    "tuyển mộ",
+    "vận chuyển",
+    "chứa chấp"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "lừa gạt"
+    ],
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "chuyển giao"
+    ],
+    [
+      "người",
+      "tiếp nhận"
+    ],
+    [
+      "người",
+      "tuyển mộ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "chứa chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuyển giao",
+      "tiếp nhận"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "lợi ích vật chất khác"
+    ],
+    [
+      "bóc lột tình dục",
+      "cưỡng bức lao động"
+    ],
+    [
+      "cưỡng bức lao động",
+      "lấy bộ phận cơ thể của nạn nhân"
+    ]
+  ]
+}

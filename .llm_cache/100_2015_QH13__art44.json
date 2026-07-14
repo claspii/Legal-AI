@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "đại biểu cơ quan quyền lực nhà nước",
+    "cơ quan nhà nước",
+    "lực lượng vũ trang nhân dân",
+    "người bị kết án"
+  ],
+  "actions": [
+    "bị kết án phạt tù",
+    "tước quyền công dân",
+    "ứng cử",
+    "làm việc",
+    "phục vụ",
+    "chấp hành xong hình phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "bị kết án phạt tù"
+    ],
+    [
+      "công dân việt nam",
+      "bị tước một hoặc một số quyền công dân"
+    ],
+    [
+      "công dân việt nam",
+      "ứng cử"
+    ],
+    [
+      "công dân việt nam",
+      "làm việc"
+    ],
+    [
+      "công dân việt nam",
+      "phục vụ"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội xâm phạm an ninh quốc gia",
+      "tước một số quyền công dân"
+    ],
+    [
+      "tội phạm khác",
+      "tước một số quyền công dân"
+    ],
+    [
+      "hình phạt tù",
+      "tước một số quyền công dân"
+    ],
+    [
+      "án treo",
+      "tước một số quyền công dân"
+    ],
+    [
+      "quyền ứng cử đại biểu cơ quan quyền lực nhà nước",
+      "quyền công dân"
+    ],
+    [
+      "quyền làm việc trong các cơ quan nhà nước",
+      "quyền công dân"
+    ],
+    [
+      "quyền phục vụ trong lực lượng vũ trang nhân dân",
+      "quyền công dân"
+    ]
+  ]
+}

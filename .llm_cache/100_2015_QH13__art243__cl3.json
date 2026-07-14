@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạt tù",
+    "hủy hoại rừng",
+    "gây thiệt hại",
+    "bị đốt",
+    "bị phá"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cây trồng chưa thành rừng",
+      "rừng khoanh nuôi tái sinh"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng tự nhiên"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng trồng"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng khoanh nuôi tái sinh"
+    ],
+    [
+      "thực vật thuộc loài nguy cấp, quý hiếm được ưu tiên bảo vệ",
+      "thực vật khác thuộc nhóm IA"
+    ],
+    [
+      "thực vật thuộc nhóm IA",
+      "thực vật thuộc nhóm IIA"
+    ]
+  ]
+}

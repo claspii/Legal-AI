@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "các bên",
+    "bên bị nhầm lẫn",
+    "tòa án"
+  ],
+  "actions": [
+    "tuyên bố giao dịch dân sự vô hiệu",
+    "xác lập giao dịch",
+    "khắc phục sự nhầm lẫn"
+  ],
+  "actor_actions": [
+    [
+      "bên bị nhầm lẫn",
+      "yêu cầu tòa án"
+    ],
+    [
+      "tòa án",
+      "tuyên bố giao dịch dân sự vô hiệu"
+    ],
+    [
+      "một bên",
+      "xác lập giao dịch"
+    ],
+    [
+      "các bên",
+      "xác lập giao dịch"
+    ],
+    [
+      "các bên",
+      "khắc phục sự nhầm lẫn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "nhầm lẫn"
+    ],
+    [
+      "giao dịch dân sự",
+      "vô hiệu"
+    ],
+    [
+      "nhầm lẫn",
+      "mục đích của việc xác lập giao dịch"
+    ]
+  ]
+}

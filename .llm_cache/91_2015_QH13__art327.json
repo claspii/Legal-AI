@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt thế chấp tài sản",
+    "chấm dứt",
+    "hủy bỏ",
+    "thay thế",
+    "xử lý",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thế chấp tài sản",
+      "nghĩa vụ được bảo đảm bằng thế chấp"
+    ],
+    [
+      "thế chấp tài sản",
+      "biện pháp bảo đảm khác"
+    ],
+    [
+      "thế chấp tài sản",
+      "tài sản thế chấp"
+    ]
+  ]
+}

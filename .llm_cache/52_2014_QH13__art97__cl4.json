@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mang thai hộ",
+    "bên nhờ mang thai hộ",
+    "người mang thai hộ"
+  ],
+  "actions": [
+    "yêu cầu",
+    "hỗ trợ",
+    "chăm sóc sức khỏe sinh sản",
+    "quyết định",
+    "tiếp tục mang thai"
+  ],
+  "actor_actions": [
+    [
+      "bên mang thai hộ",
+      "yêu cầu"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "thực hiện việc hỗ trợ"
+    ],
+    [
+      "người mang thai hộ",
+      "quyết định"
+    ],
+    [
+      "người mang thai hộ",
+      "tiếp tục mang thai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mang thai hộ",
+      "bên nhờ mang thai hộ"
+    ],
+    [
+      "số lượng bào thai",
+      "việc tiếp tục hay không tiếp tục mang thai"
+    ],
+    [
+      "sức khỏe sinh sản",
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ]
+  ]
+}

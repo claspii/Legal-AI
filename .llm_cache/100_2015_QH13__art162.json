@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công chức",
+    "viên chức",
+    "người lao động",
+    "gia đình",
+    "phụ nữ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "buộc thôi việc",
+    "sa thải",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "ra quyết định",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "buộc công chức, viên chức thôi việc"
+    ],
+    [
+      "người",
+      "sa thải người lao động trái pháp luật"
+    ],
+    [
+      "người",
+      "ra quyết định buộc thôi việc trái pháp luật"
+    ],
+    [
+      "người",
+      "sa thải trái pháp luật"
+    ],
+    [
+      "người",
+      "cưỡng ép, đe dọa buộc phải thôi việc"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "buộc thôi việc",
+      "công chức"
+    ],
+    [
+      "buộc thôi việc",
+      "viên chức"
+    ],
+    [
+      "sa thải",
+      "người lao động"
+    ],
+    [
+      "buộc thôi việc",
+      "trái pháp luật"
+    ],
+    [
+      "sa thải",
+      "trái pháp luật"
+    ],
+    [
+      "người bị thôi việc",
+      "lâm vào tình trạng khó khăn"
+    ],
+    [
+      "người bị sa thải",
+      "tự sát"
+    ]
+  ]
+}

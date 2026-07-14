@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị thiệt hại",
+    "người chăm sóc",
+    "người chịu trách nhiệm bồi thường",
+    "các bên",
+    "nhà nước"
+  ],
+  "actions": [
+    "cứu chữa",
+    "bồi dưỡng",
+    "phục hồi sức khỏe",
+    "chăm sóc",
+    "bồi thường thiệt hại",
+    "thỏa thuận",
+    "xâm phạm"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm bồi thường",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại do sức khỏe bị xâm phạm",
+      "chi phí hợp lý cho việc cứu chữa"
+    ],
+    [
+      "thiệt hại do sức khỏe bị xâm phạm",
+      "thu nhập thực tế bị mất hoặc bị giảm sút"
+    ],
+    [
+      "thiệt hại do sức khỏe bị xâm phạm",
+      "chi phí hợp lý và phần thu nhập thực tế bị mất của người chăm sóc"
+    ],
+    [
+      "thiệt hại do sức khỏe bị xâm phạm",
+      "tổn thất về tinh thần"
+    ],
+    [
+      "người bị thiệt hại",
+      "thu nhập thực tế"
+    ],
+    [
+      "người bị thiệt hại",
+      "khả năng lao động"
+    ],
+    [
+      "người chịu trách nhiệm bồi thường",
+      "sức khỏe của người khác bị xâm phạm"
+    ],
+    [
+      "mức bồi thường",
+      "mức lương cơ sở"
+    ]
+  ]
+}

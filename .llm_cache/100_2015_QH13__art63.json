@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "cơ quan thi hành án hình sự",
+    "tòa án"
+  ],
+  "actions": [
+    "giảm mức hình phạt đã tuyên",
+    "chấp hành hình phạt",
+    "bồi thường",
+    "đề nghị",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án",
+      "bồi thường"
+    ],
+    [
+      "cơ quan thi hành án hình sự",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "hình phạt"
+    ],
+    [
+      "giảm mức hình phạt đã tuyên",
+      "chấp hành hình phạt"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "hình phạt tù có thời hạn"
+    ],
+    [
+      "tù chung thân",
+      "giảm thời hạn chấp hành hình phạt"
+    ]
+  ]
+}

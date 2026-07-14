@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người lao động",
+    "người lao động có trình độ chuyên môn, kỹ thuật cao"
+  ],
+  "actions": [
+    "phát triển nguồn nhân lực",
+    "phân bố nguồn nhân lực",
+    "nâng cao năng suất lao động",
+    "đào tạo",
+    "bồi dưỡng",
+    "nâng cao trình độ",
+    "nâng cao kỹ năng nghề",
+    "hỗ trợ duy trì nghề nghiệp",
+    "hỗ trợ chuyển đổi nghề nghiệp",
+    "hỗ trợ duy trì việc làm",
+    "hỗ trợ chuyển đổi việc làm",
+    "ưu đãi"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "phát triển nguồn nhân lực"
+    ],
+    [
+      "nhà nước",
+      "phân bố nguồn nhân lực"
+    ],
+    [
+      "nhà nước",
+      "nâng cao năng suất lao động"
+    ],
+    [
+      "nhà nước",
+      "đào tạo"
+    ],
+    [
+      "nhà nước",
+      "bồi dưỡng"
+    ],
+    [
+      "nhà nước",
+      "nâng cao trình độ"
+    ],
+    [
+      "nhà nước",
+      "hỗ trợ duy trì nghề nghiệp"
+    ],
+    [
+      "nhà nước",
+      "ưu đãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính sách",
+      "lao động"
+    ],
+    [
+      "nguồn nhân lực",
+      "năng suất lao động"
+    ],
+    [
+      "trình độ",
+      "kỹ năng nghề"
+    ],
+    [
+      "nghề nghiệp",
+      "việc làm"
+    ],
+    [
+      "cách mạng công nghiệp",
+      "sự nghiệp công nghiệp hóa, hiện đại hóa đất nước"
+    ]
+  ]
+}

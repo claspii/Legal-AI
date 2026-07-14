@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có trách nhiệm bảo đảm trật tự, an toàn giao thông",
+    "người có trách nhiệm giải tán cuộc đua xe trái phép"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "tổ chức đua xe trái phép",
+    "tổ chức cá cược",
+    "tổ chức việc chống lại",
+    "tổ chức đua xe nơi tập trung đông dân cư",
+    "tháo dỡ các thiết bị an toàn khỏi phương tiện đua"
+  ],
+  "actor_actions": [
+    [
+      "người có trách nhiệm bảo đảm trật tự, an toàn giao thông",
+      "chống lại"
+    ],
+    [
+      "người có trách nhiệm giải tán cuộc đua xe trái phép",
+      "chống lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "tái phạm về tội này"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "tội đua xe trái phép"
+    ]
+  ]
+}

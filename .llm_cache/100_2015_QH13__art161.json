@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm",
+    "người phạm tội"
+  ],
+  "actions": [
+    "làm sai lệch kết quả bầu cử",
+    "làm sai lệch kết quả trưng cầu ý dân",
+    "giả mạo giấy tờ",
+    "gian lận phiếu",
+    "dùng thủ đoạn khác"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm sai lệch kết quả bầu cử"
+    ],
+    [
+      "người",
+      "làm sai lệch kết quả trưng cầu ý dân"
+    ],
+    [
+      "người có trách nhiệm",
+      "giả mạo giấy tờ"
+    ],
+    [
+      "người có trách nhiệm",
+      "gian lận phiếu"
+    ],
+    [
+      "người có trách nhiệm",
+      "dùng thủ đoạn khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bầu cử",
+      "trưng cầu ý dân"
+    ],
+    [
+      "giả mạo giấy tờ",
+      "gian lận phiếu"
+    ],
+    [
+      "kết quả bầu cử",
+      "kết quả trưng cầu ý dân"
+    ]
+  ]
+}

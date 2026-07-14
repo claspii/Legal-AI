@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động trái pháp luật",
+    "không muốn nhận lại",
+    "đồng ý",
+    "trả",
+    "thỏa thuận",
+    "bồi thường thêm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không muốn nhận lại"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả"
+    ],
+    [
+      "người lao động",
+      "đồng ý"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "bồi thường thêm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động trái pháp luật"
+    ],
+    [
+      "khoản tiền người sử dụng lao động phải trả",
+      "trợ cấp thôi việc"
+    ],
+    [
+      "trợ cấp thôi việc",
+      "khoản tiền bồi thường thêm"
+    ],
+    [
+      "hợp đồng lao động",
+      "tiền lương"
+    ]
+  ]
+}

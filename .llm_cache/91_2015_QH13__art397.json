@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được đề nghị giao kết hợp đồng",
+    "bên đề nghị"
+  ],
+  "actions": [
+    "rút lại thông báo chấp nhận giao kết hợp đồng",
+    "nhận được trả lời chấp nhận giao kết hợp đồng",
+    "chấp nhận giao kết hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên được đề nghị giao kết hợp đồng",
+      "rút lại thông báo chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "bên đề nghị",
+      "nhận được trả lời chấp nhận giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông báo chấp nhận giao kết hợp đồng",
+      "rút lại thông báo chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "thông báo về việc rút lại",
+      "trả lời chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "bên được đề nghị giao kết hợp đồng",
+      "bên đề nghị"
+    ]
+  ]
+}

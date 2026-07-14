@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên gửi tài sản",
+    "bên giữ"
+  ],
+  "actions": [
+    "yêu cầu lấy lại tài sản",
+    "báo trước",
+    "yêu cầu bồi thường thiệt hại",
+    "làm mất tài sản gửi giữ",
+    "hư hỏng tài sản gửi giữ"
+  ],
+  "actor_actions": [
+    [
+      "bên gửi tài sản",
+      "yêu cầu lấy lại tài sản"
+    ],
+    [
+      "bên gửi tài sản",
+      "báo trước"
+    ],
+    [
+      "bên gửi tài sản",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên giữ",
+      "làm mất tài sản gửi giữ"
+    ],
+    [
+      "bên giữ",
+      "hư hỏng tài sản gửi giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên gửi tài sản",
+      "bên giữ"
+    ],
+    [
+      "hợp đồng gửi giữ",
+      "thời hạn"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "tài sản gửi giữ"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "bất khả kháng"
+    ]
+  ]
+}

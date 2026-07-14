@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào có thẩm quyền",
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người có nghĩa vụ thi hành án",
+    "người phạm tội"
+  ],
+  "actions": [
+    "không ra quyết định thi hành án",
+    "không thi hành quyết định thi hành bản án, quyết định của tòa án",
+    "bị xử lý kỷ luật",
+    "bỏ trốn",
+    "tẩu tán tài sản",
+    "không thi hành được nghĩa vụ thi hành án",
+    "phạm tội",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người nào có thẩm quyền",
+      "không ra quyết định thi hành án"
+    ],
+    [
+      "người nào có thẩm quyền",
+      "không thi hành quyết định thi hành bản án, quyết định của tòa án"
+    ],
+    [
+      "người bị kết án",
+      "bỏ trốn"
+    ],
+    [
+      "người phải chấp hành án",
+      "bỏ trốn"
+    ],
+    [
+      "người bị kết án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người phải chấp hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người có nghĩa vụ thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội không thi hành án",
+      "quyết định thi hành bản án, quyết định của tòa án"
+    ],
+    [
+      "không thi hành án",
+      "hết thời hiệu thi hành án"
+    ],
+    [
+      "không thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "không thi hành án",
+      "nghĩa vụ thi hành án"
+    ]
+  ]
+}

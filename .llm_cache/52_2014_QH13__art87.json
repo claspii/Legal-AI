@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "tòa án",
+    "con chưa thành niên",
+    "người kia",
+    "người giám hộ",
+    "một bên cha, mẹ"
+  ],
+  "actions": [
+    "hạn chế quyền",
+    "thực hiện quyền trông nom, nuôi dưỡng, chăm sóc, giáo dục con",
+    "quản lý tài sản riêng của con",
+    "đại diện theo pháp luật cho con",
+    "thực hiện nghĩa vụ cấp dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cha hoặc mẹ",
+      "bị tòa án hạn chế quyền đối với con chưa thành niên"
+    ],
+    [
+      "người kia",
+      "thực hiện quyền trông nom, nuôi dưỡng, chăm sóc, giáo dục con"
+    ],
+    [
+      "người kia",
+      "quản lý tài sản riêng của con"
+    ],
+    [
+      "người kia",
+      "đại diện theo pháp luật cho con"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện việc trông nom, chăm sóc, giáo dục con"
+    ],
+    [
+      "người giám hộ",
+      "quản lý tài sản riêng của con chưa thành niên"
+    ],
+    [
+      "cha, mẹ đã bị tòa án hạn chế quyền",
+      "thực hiện nghĩa vụ cấp dưỡng cho con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "hạn chế quyền đối với con chưa thành niên",
+      "quyền trông nom, nuôi dưỡng, chăm sóc, giáo dục con"
+    ],
+    [
+      "hạn chế quyền đối với con chưa thành niên",
+      "quản lý tài sản riêng của con"
+    ],
+    [
+      "hạn chế quyền đối với con chưa thành niên",
+      "đại diện theo pháp luật cho con"
+    ],
+    [
+      "người giám hộ",
+      "trông nom, chăm sóc, giáo dục con"
+    ],
+    [
+      "người giám hộ",
+      "quản lý tài sản riêng của con chưa thành niên"
+    ],
+    [
+      "hạn chế quyền đối với con chưa thành niên",
+      "nghĩa vụ cấp dưỡng cho con"
+    ]
+  ]
+}

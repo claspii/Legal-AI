@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người điều động",
+    "người không có giấy phép lái tàu",
+    "người không đủ sức khỏe",
+    "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh khác"
+  ],
+  "actions": [
+    "điều động",
+    "giao cho",
+    "điều khiển phương tiện giao thông đường sắt",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người điều động hoặc giao cho người không có giấy phép lái tàu hoặc người không đủ sức khỏe; người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người điều động hoặc giao cho người không có giấy phép lái tàu hoặc người không đủ sức khỏe; người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "gây thương tích"
+    ],
+    [
+      "người điều động hoặc giao cho người không có giấy phép lái tàu hoặc người không đủ sức khỏe; người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật về hành vi này mà còn vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "điều động"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "giấy phép lái tàu",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "nồng độ cồn",
+      "điều khiển phương tiện giao thông đường sắt"
+    ]
+  ]
+}

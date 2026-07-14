@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người khác"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "chuyển giao",
+    "gây thiệt hại",
+    "làm ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "thực hiện mọi hành vi"
+    ],
+    [
+      "chủ sở hữu",
+      "không được trái với quy định của luật"
+    ],
+    [
+      "chủ sở hữu",
+      "không được gây thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "không được làm ảnh hưởng"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "thực hiện mọi hành vi"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "không được gây thiệt hại"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "không được làm ảnh hưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích dân tộc"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích công cộng"
+    ],
+    [
+      "lợi ích quốc gia",
+      "quyền và lợi ích hợp pháp của người khác"
+    ],
+    [
+      "quyền và lợi ích hợp pháp của chủ sở hữu tài sản",
+      "quyền và lợi ích hợp pháp của người khác"
+    ]
+  ]
+}

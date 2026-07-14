@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ hoặc chồng"
+  ],
+  "actions": [
+    "ly hôn",
+    "lưu cư",
+    "chấm dứt quan hệ hôn nhân"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "vợ hoặc chồng",
+      "lưu cư"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ly hôn",
+      "quyền lưu cư"
+    ],
+    [
+      "sở hữu riêng",
+      "sử dụng chung"
+    ],
+    [
+      "ly hôn",
+      "quan hệ hôn nhân chấm dứt"
+    ],
+    [
+      "khó khăn về chỗ ở",
+      "quyền lưu cư"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận cầm cố",
+    "người thứ ba"
+  ],
+  "actions": [
+    "có hiệu lực",
+    "giao kết",
+    "có hiệu lực đối kháng",
+    "nắm giữ",
+    "đăng ký"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận cầm cố",
+      "nắm giữ tài sản cầm cố"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng cầm cố tài sản",
+      "hiệu lực"
+    ],
+    [
+      "cầm cố tài sản",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "bất động sản",
+      "đối tượng của cầm cố"
+    ],
+    [
+      "cầm cố bất động sản",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "bên nhận cầm cố",
+      "nắm giữ tài sản cầm cố"
+    ]
+  ]
+}

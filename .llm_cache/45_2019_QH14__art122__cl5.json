@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "xử lý kỷ luật lao động"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "xử lý kỷ luật lao động",
+      "người lao động"
+    ],
+    [
+      "vi phạm kỷ luật lao động",
+      "mắc bệnh tâm thần"
+    ],
+    [
+      "vi phạm kỷ luật lao động",
+      "mắc bệnh khác làm mất khả năng nhận thức"
+    ],
+    [
+      "vi phạm kỷ luật lao động",
+      "mắc bệnh khác làm mất khả năng điều khiển hành vi"
+    ]
+  ]
+}

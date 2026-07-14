@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được ủy quyền",
+    "bên ủy quyền",
+    "người thứ ba"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "báo",
+    "bảo quản",
+    "giữ gìn",
+    "giữ bí mật thông tin",
+    "giao lại",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên được ủy quyền",
+      "thực hiện công việc theo ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "báo cho bên ủy quyền về việc thực hiện công việc đó"
+    ],
+    [
+      "bên được ủy quyền",
+      "báo cho người thứ ba trong quan hệ thực hiện ủy quyền về thời hạn, phạm vi ủy quyền và việc sửa đổi, bổ sung phạm vi ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "bảo quản, giữ gìn tài liệu và phương tiện được giao để thực hiện việc ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "giữ bí mật thông tin mà mình biết được trong khi thực hiện việc ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "giao lại cho bên ủy quyền tài sản đã nhận và những lợi ích thu được trong khi thực hiện việc ủy quyền"
+    ],
+    [
+      "bên được ủy quyền",
+      "bồi thường thiệt hại do vi phạm nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên được ủy quyền",
+      "bên ủy quyền"
+    ],
+    [
+      "ủy quyền",
+      "thời hạn ủy quyền"
+    ],
+    [
+      "ủy quyền",
+      "phạm vi ủy quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

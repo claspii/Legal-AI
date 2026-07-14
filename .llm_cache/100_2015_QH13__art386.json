@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người canh gác",
+    "người áp giải"
+  ],
+  "actions": [
+    "tạm giữ",
+    "tạm giam",
+    "áp giải",
+    "xét xử",
+    "chấp hành án phạt tù",
+    "bỏ trốn",
+    "dùng vũ lực"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tạm giữ"
+    ],
+    [
+      "người",
+      "tạm giam"
+    ],
+    [
+      "người",
+      "áp giải"
+    ],
+    [
+      "người",
+      "xét xử"
+    ],
+    [
+      "người",
+      "chấp hành án phạt tù"
+    ],
+    [
+      "người",
+      "bỏ trốn"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nơi giam",
+      "nơi giữ"
+    ],
+    [
+      "trốn khỏi nơi giam",
+      "trốn khi đang bị áp giải"
+    ],
+    [
+      "trốn khi đang bị áp giải",
+      "trốn khi đang bị xét xử"
+    ],
+    [
+      "người canh gác",
+      "người áp giải"
+    ]
+  ]
+}

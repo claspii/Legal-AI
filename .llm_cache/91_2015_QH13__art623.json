@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người đang quản lý di sản",
+    "người đang chiếm hữu",
+    "nhà nước",
+    "người chết"
+  ],
+  "actions": [
+    "yêu cầu chia di sản",
+    "quản lý di sản",
+    "chiếm hữu",
+    "yêu cầu xác nhận quyền thừa kế",
+    "bác bỏ quyền thừa kế",
+    "yêu cầu thực hiện nghĩa vụ về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "yêu cầu chia di sản"
+    ],
+    [
+      "người thừa kế",
+      "yêu cầu xác nhận quyền thừa kế"
+    ],
+    [
+      "người thừa kế",
+      "bác bỏ quyền thừa kế"
+    ],
+    [
+      "người thừa kế",
+      "yêu cầu thực hiện nghĩa vụ về tài sản"
+    ],
+    [
+      "người đang quản lý di sản",
+      "quản lý di sản"
+    ],
+    [
+      "người đang chiếm hữu",
+      "chiếm hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu thừa kế",
+      "di sản"
+    ],
+    [
+      "thời hiệu thừa kế",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "di sản",
+      "bất động sản"
+    ],
+    [
+      "di sản",
+      "động sản"
+    ],
+    [
+      "quyền thừa kế",
+      "người thừa kế"
+    ],
+    [
+      "nghĩa vụ về tài sản",
+      "người chết"
+    ]
+  ]
+}

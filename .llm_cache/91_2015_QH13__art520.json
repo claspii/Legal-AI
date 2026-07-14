@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên sử dụng dịch vụ",
+    "bên cung ứng dịch vụ"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "báo",
+    "trả tiền công",
+    "bồi thường thiệt hại",
+    "vi phạm nghiêm trọng nghĩa vụ",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên sử dụng dịch vụ",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "báo"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền công"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "vi phạm nghiêm trọng nghĩa vụ"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đơn phương chấm dứt thực hiện hợp đồng",
+      "hợp đồng dịch vụ"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "bên cung ứng dịch vụ"
+    ],
+    [
+      "vi phạm nghiêm trọng nghĩa vụ",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

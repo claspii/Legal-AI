@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "lợi dụng chức vụ",
+    "lạm dụng chức vụ",
+    "lợi dụng quyền hạn",
+    "lạm dụng quyền hạn",
+    "giao rừng",
+    "giao đất trồng rừng",
+    "thu hồi rừng",
+    "thu hồi đất trồng rừng",
+    "chuyển mục đích sử dụng rừng",
+    "cho phép khai thác lâm sản",
+    "cho phép vận chuyển lâm sản",
+    "bị xử lý kỷ luật"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng hoặc lạm dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "giao rừng, đất trồng rừng"
+    ],
+    [
+      "người",
+      "thu hồi rừng, đất trồng rừng"
+    ],
+    [
+      "người",
+      "cho phép chuyển mục đích sử dụng rừng, đất trồng rừng"
+    ],
+    [
+      "người",
+      "cho phép khai thác, vận chuyển lâm sản"
+    ],
+    [
+      "người",
+      "đã bị xử lý kỷ luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rừng sản xuất",
+      "mét vuông (m2)"
+    ],
+    [
+      "rừng phòng hộ",
+      "mét vuông (m2)"
+    ],
+    [
+      "rừng đặc dụng",
+      "mét vuông (m2)"
+    ],
+    [
+      "rừng",
+      "đất trồng rừng"
+    ],
+    [
+      "khai thác lâm sản",
+      "vận chuyển lâm sản"
+    ]
+  ]
+}

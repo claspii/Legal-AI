@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "phát tán",
+    "mua bán trái phép",
+    "chiếm đoạt chất phóng xạ",
+    "chiếm đoạt vật liệu hạt nhân",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "phát tán"
+    ],
+    [
+      "người",
+      "mua bán trái phép"
+    ],
+    [
+      "người",
+      "chiếm đoạt chất phóng xạ"
+    ],
+    [
+      "người",
+      "chiếm đoạt vật liệu hạt nhân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất phóng xạ",
+      "vật liệu hạt nhân"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt tù từ 06 tháng đến 03 năm"
+    ]
+  ]
+}

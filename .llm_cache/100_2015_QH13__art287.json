@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "xóa",
+    "làm tổn hại",
+    "thay đổi",
+    "ngăn chặn",
+    "cản trở",
+    "gây rối loạn",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm tê liệt",
+    "gián đoạn",
+    "ngưng trệ",
+    "làm đình trệ",
+    "xử phạt vi phạm hành chính",
+    "kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xóa"
+    ],
+    [
+      "người",
+      "làm tổn hại"
+    ],
+    [
+      "người",
+      "thay đổi"
+    ],
+    [
+      "người",
+      "ngăn chặn"
+    ],
+    [
+      "người",
+      "cản trở"
+    ],
+    [
+      "người",
+      "gây rối loạn"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "làm tê liệt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "làm tê liệt",
+      "gián đoạn"
+    ],
+    [
+      "làm tê liệt",
+      "ngưng trệ"
+    ],
+    [
+      "gián đoạn",
+      "ngưng trệ"
+    ],
+    [
+      "hệ thống dữ liệu thuộc bí mật nhà nước",
+      "hệ thống thông tin phục vụ quốc phòng, an ninh"
+    ]
+  ]
+}

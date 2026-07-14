@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "cấp dưỡng"
+  ],
+  "actors": [
+    "một người",
+    "người không sống chung",
+    "người chưa thành niên",
+    "người đã thành niên",
+    "người gặp khó khăn, túng thiếu"
+  ],
+  "actions": [
+    "đóng góp",
+    "đáp ứng",
+    "tự nuôi mình"
+  ],
+  "actor_actions": [
+    [
+      "một người",
+      "đóng góp"
+    ],
+    [
+      "một người",
+      "đáp ứng"
+    ],
+    [
+      "người",
+      "tự nuôi mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấp dưỡng",
+      "quan hệ hôn nhân"
+    ],
+    [
+      "cấp dưỡng",
+      "quan hệ huyết thống"
+    ],
+    [
+      "cấp dưỡng",
+      "quan hệ nuôi dưỡng"
+    ],
+    [
+      "tiền",
+      "tài sản khác"
+    ],
+    [
+      "người chưa thành niên",
+      "người đã thành niên mà không có khả năng lao động và không có tài sản để tự nuôi mình"
+    ],
+    [
+      "người chưa thành niên",
+      "người gặp khó khăn, túng thiếu"
+    ]
+  ]
+}

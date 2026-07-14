@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "pháp nhân thương mại việt nam",
+    "người không quốc tịch thường trú ở việt nam",
+    "người nước ngoài",
+    "pháp nhân thương mại nước ngoài",
+    "người phạm tội",
+    "cộng hòa xã hội chủ nghĩa việt nam",
+    "việt nam"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị truy cứu trách nhiệm hình sự",
+    "xâm hại quyền, lợi ích hợp pháp",
+    "xâm hại lợi ích"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại việt nam",
+      "phạm tội"
+    ],
+    [
+      "công dân việt nam",
+      "bị truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "pháp nhân thương mại việt nam",
+      "bị truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "người không quốc tịch thường trú ở việt nam",
+      "bị truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "người nước ngoài",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại nước ngoài",
+      "phạm tội"
+    ],
+    [
+      "người nước ngoài",
+      "bị truy cứu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi phạm tội",
+      "truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "công dân việt nam",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại việt nam",
+      "phạm tội"
+    ],
+    [
+      "người nước ngoài",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại nước ngoài",
+      "phạm tội"
+    ],
+    [
+      "hành vi phạm tội",
+      "ở ngoài lãnh thổ nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "hành vi phạm tội",
+      "xâm hại quyền, lợi ích hợp pháp của công dân việt nam"
+    ],
+    [
+      "hành vi phạm tội",
+      "xâm hại lợi ích của nước cộng hòa xã hội chủ nghĩa việt nam"
+    ]
+  ]
+}

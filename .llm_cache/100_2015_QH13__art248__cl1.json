@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất trái phép chất ma túy",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất trái phép chất ma túy",
+      "phạt tù"
+    ]
+  ]
+}

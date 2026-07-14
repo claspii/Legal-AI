@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "thành viên hộ gia đình",
+    "tổ hợp tác",
+    "tổ chức khác không có tư cách pháp nhân",
+    "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi"
+  ],
+  "actions": [
+    "ủy quyền",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "cử đại diện theo ủy quyền"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "ủy quyền"
+    ],
+    [
+      "pháp nhân",
+      "ủy quyền"
+    ],
+    [
+      "thành viên hộ gia đình",
+      "thỏa thuận cử đại diện theo ủy quyền"
+    ],
+    [
+      "tổ hợp tác",
+      "thỏa thuận cử đại diện theo ủy quyền"
+    ],
+    [
+      "tổ chức khác không có tư cách pháp nhân",
+      "thỏa thuận cử đại diện theo ủy quyền"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "có thể là người đại diện theo ủy quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đại diện theo ủy quyền",
+      "giao dịch dân sự"
+    ],
+    [
+      "cá nhân",
+      "đại diện theo ủy quyền"
+    ],
+    [
+      "pháp nhân",
+      "đại diện theo ủy quyền"
+    ],
+    [
+      "hộ gia đình",
+      "tài sản chung"
+    ],
+    [
+      "tổ hợp tác",
+      "tài sản chung"
+    ],
+    [
+      "tổ chức khác không có tư cách pháp nhân",
+      "tài sản chung"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "người đại diện theo ủy quyền"
+    ]
+  ]
+}

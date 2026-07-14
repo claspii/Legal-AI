@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "phụ nữ",
+    "người già yếu",
+    "người không có khả năng tự vệ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cướp giật tài sản",
+    "phạm tội",
+    "có tổ chức",
+    "chiếm đoạt tài sản",
+    "dùng thủ đoạn nguy hiểm",
+    "hành hung để tẩu thoát",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cướp giật tài sản"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội cướp giật tài sản",
+      "phạt tù"
+    ],
+    [
+      "tội cướp giật tài sản",
+      "phạt tiền"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

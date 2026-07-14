@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "áp dụng pháp luật nước ngoài",
+    "có cách hiểu khác nhau",
+    "áp dụng",
+    "giải thích"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan có thẩm quyền",
+      "giải thích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật nước ngoài",
+      "áp dụng pháp luật nước ngoài"
+    ],
+    [
+      "pháp luật nước ngoài",
+      "cách hiểu khác nhau"
+    ],
+    [
+      "cách hiểu khác nhau",
+      "giải thích"
+    ]
+  ]
+}

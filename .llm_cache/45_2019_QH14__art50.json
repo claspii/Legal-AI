@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án nhân dân"
+  ],
+  "actions": [
+    "tuyên bố hợp đồng lao động vô hiệu"
+  ],
+  "actor_actions": [
+    [
+      "tòa án nhân dân",
+      "tuyên bố hợp đồng lao động vô hiệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thẩm quyền",
+      "tuyên bố hợp đồng lao động vô hiệu"
+    ]
+  ]
+}

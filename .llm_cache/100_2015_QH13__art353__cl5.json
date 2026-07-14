@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "bị cấm đảm nhiệm chức vụ",
+    "bị phạt tiền",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": []
+}

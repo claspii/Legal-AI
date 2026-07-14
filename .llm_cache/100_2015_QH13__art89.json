@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "xóa án tích",
+    "bị kết án",
+    "chấp hành xong hình phạt chính",
+    "hết thời hiệu thi hành bản án",
+    "thực hiện hành vi phạm tội mới"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "được xóa án tích"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chấp hành xong hình phạt chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "không thực hiện hành vi phạm tội mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "xóa án tích"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hình phạt chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hình phạt bổ sung"
+    ],
+    [
+      "xóa án tích",
+      "thời hạn 02 năm"
+    ],
+    [
+      "xóa án tích",
+      "hành vi phạm tội mới"
+    ]
+  ]
+}

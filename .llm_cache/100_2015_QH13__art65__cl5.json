@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được hưởng án treo",
+    "tòa án"
+  ],
+  "actions": [
+    "cố ý vi phạm nghĩa vụ",
+    "quyết định buộc chấp hành hình phạt tù",
+    "thực hiện hành vi phạm tội mới",
+    "buộc chấp hành hình phạt của bản án trước",
+    "tổng hợp với hình phạt của bản án mới"
+  ],
+  "actor_actions": [
+    [
+      "người được hưởng án treo",
+      "cố ý vi phạm nghĩa vụ"
+    ],
+    [
+      "người được hưởng án treo",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "quyết định buộc chấp hành hình phạt tù"
+    ],
+    [
+      "tòa án",
+      "buộc chấp hành hình phạt của bản án trước"
+    ],
+    [
+      "tòa án",
+      "tổng hợp với hình phạt của bản án mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "án treo",
+      "thời gian thử thách"
+    ],
+    [
+      "án treo",
+      "hình phạt tù"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "buộc chấp hành hình phạt tù"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "tổng hợp hình phạt"
+    ],
+    [
+      "bản án trước",
+      "bản án mới"
+    ]
+  ]
+}

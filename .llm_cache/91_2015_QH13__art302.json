@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm",
+    "bên nhận bảo đảm"
+  ],
+  "actions": [
+    "nhận lại tài sản bảo đảm",
+    "thực hiện nghĩa vụ",
+    "thanh toán chi phí phát sinh",
+    "xử lý tài sản bảo đảm"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "nhận lại tài sản bảo đảm"
+    ],
+    [
+      "bên bảo đảm",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên bảo đảm",
+      "thanh toán chi phí phát sinh"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "xử lý tài sản bảo đảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bảo đảm",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản bảo đảm",
+      "chi phí phát sinh"
+    ],
+    [
+      "bên bảo đảm",
+      "bên nhận bảo đảm"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "phụ nữ"
+  ],
+  "actions": [
+    "cưỡng bức người khác sử dụng trái phép chất ma túy",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "dùng thủ đoạn khác uy hiếp tinh thần",
+    "buộc họ phải sử dụng trái phép chất ma túy",
+    "phạm tội",
+    "gây tổn hại cho sức khỏe",
+    "gây chết người"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác uy hiếp tinh thần"
+    ],
+    [
+      "người",
+      "buộc họ phải sử dụng trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe của người khác"
+    ],
+    [
+      "người",
+      "gây bệnh nguy hiểm cho người khác"
+    ],
+    [
+      "người",
+      "gây chết người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người khác",
+      "sử dụng trái phép chất ma túy"
+    ],
+    [
+      "phạm tội",
+      "hình phạt tù"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe của người khác"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "tòa án",
+    "cơ quan có thẩm quyền",
+    "người có hành vi vi phạm pháp luật về hôn nhân và gia đình"
+  ],
+  "actions": [
+    "bảo vệ chế độ hôn nhân và gia đình",
+    "vi phạm pháp luật về hôn nhân và gia đình",
+    "xử lý nghiêm minh, đúng pháp luật",
+    "yêu cầu tòa án",
+    "áp dụng biện pháp ngăn chặn kịp thời",
+    "xử lý"
+  ],
+  "actor_actions": [
+    [
+      "mọi hành vi vi phạm pháp luật về hôn nhân và gia đình",
+      "được xử lý nghiêm minh, đúng pháp luật"
+    ],
+    [
+      "cơ quan",
+      "có quyền yêu cầu tòa án"
+    ],
+    [
+      "tổ chức",
+      "có quyền yêu cầu tòa án"
+    ],
+    [
+      "cá nhân",
+      "có quyền yêu cầu tòa án"
+    ],
+    [
+      "tòa án",
+      "áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình"
+    ],
+    [
+      "cơ quan khác có thẩm quyền",
+      "áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ hôn nhân và gia đình",
+      "vi phạm pháp luật về hôn nhân và gia đình"
+    ],
+    [
+      "hành vi vi phạm pháp luật về hôn nhân và gia đình",
+      "xử lý nghiêm minh, đúng pháp luật"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân",
+      "yêu cầu tòa án, cơ quan khác có thẩm quyền"
+    ],
+    [
+      "tòa án, cơ quan khác có thẩm quyền",
+      "áp dụng biện pháp kịp thời ngăn chặn và xử lý"
+    ],
+    [
+      "biện pháp kịp thời ngăn chặn và xử lý",
+      "người có hành vi vi phạm pháp luật về hôn nhân và gia đình"
+    ]
+  ]
+}

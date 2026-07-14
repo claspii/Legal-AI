@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "in",
+    "phát hành",
+    "mua bán trái phép hóa đơn",
+    "mua bán trái phép chứng từ thu nộp ngân sách nhà nước",
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hóa đơn",
+      "chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "hóa đơn",
+      "chứng từ ở dạng phôi"
+    ],
+    [
+      "hóa đơn",
+      "chứng từ đã ghi nội dung"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại cho ngân sách nhà nước"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "phạm tội",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "tài sản trị giá 1.000.000.000 đồng trở lên"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "thiệt hại 5.000.000.000 đồng trở lên"
+    ],
+    [
+      "phạm tội",
+      "20 năm"
+    ],
+    [
+      "phạm tội",
+      "tù chung thân"
+    ],
+    [
+      "tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản",
+      "phạt tù 20 năm hoặc tù chung thân"
+    ]
+  ]
+}

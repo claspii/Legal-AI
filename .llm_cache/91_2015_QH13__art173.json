@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "tôn trọng, bảo đảm trật tự, an toàn xã hội",
+    "lạm dụng quyền",
+    "gây mất trật tự, an toàn xã hội",
+    "làm thiệt hại đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền, lợi ích hợp pháp của người khác"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "tôn trọng, bảo đảm trật tự, an toàn xã hội"
+    ],
+    [
+      "chủ thể",
+      "không được lạm dụng quyền để gây mất trật tự, an toàn xã hội, làm thiệt hại đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền, lợi ích hợp pháp của người khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "trật tự xã hội",
+      "an toàn xã hội"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích dân tộc"
+    ],
+    [
+      "lợi ích công cộng",
+      "quyền, lợi ích hợp pháp của người khác"
+    ]
+  ]
+}

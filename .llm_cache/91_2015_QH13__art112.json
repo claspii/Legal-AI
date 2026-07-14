@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [
+    "vật tiêu hao",
+    "vật không tiêu hao"
+  ],
+  "actors": [],
+  "actions": [
+    "sử dụng",
+    "giữ",
+    "cho thuê",
+    "cho mượn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vật tiêu hao",
+      "hợp đồng cho thuê"
+    ],
+    [
+      "vật tiêu hao",
+      "hợp đồng cho mượn"
+    ],
+    [
+      "tính chất",
+      "hình dáng"
+    ],
+    [
+      "hình dáng",
+      "tính năng sử dụng"
+    ]
+  ]
+}

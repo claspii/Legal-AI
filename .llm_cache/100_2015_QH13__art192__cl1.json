@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người đã bị xử phạt vi phạm hành chính",
+    "người đã bị kết án"
+  ],
+  "actions": [
+    "sản xuất hàng giả",
+    "buôn bán hàng giả",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất hàng giả"
+    ],
+    [
+      "người nào",
+      "buôn bán hàng giả"
+    ],
+    [
+      "người nào",
+      "bị phạt tiền"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "đã bị kết án"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất, buôn bán hàng giả",
+      "bị phạt tiền"
+    ],
+    [
+      "sản xuất, buôn bán hàng giả",
+      "bị phạt tù"
+    ],
+    [
+      "hàng giả",
+      "giá bán"
+    ],
+    [
+      "hàng giả",
+      "giá niêm yết"
+    ],
+    [
+      "hàng giả",
+      "giá ghi trong hóa đơn"
+    ],
+    [
+      "hàng giả",
+      "số lượng của hàng thật"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "hàng giả"
+    ]
+  ]
+}

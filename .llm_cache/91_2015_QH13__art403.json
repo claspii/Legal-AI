@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "có thể có phụ lục",
+    "quy định chi tiết",
+    "có hiệu lực",
+    "không được trái",
+    "chấp nhận",
+    "sửa đổi"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "chấp nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "phụ lục hợp đồng"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [
+    "bảo lãnh"
+  ],
+  "actors": [
+    "người thứ ba",
+    "bên bảo lãnh",
+    "bên có quyền",
+    "bên nhận bảo lãnh",
+    "bên có nghĩa vụ",
+    "bên được bảo lãnh",
+    "các bên"
+  ],
+  "actions": [
+    "cam kết",
+    "thực hiện nghĩa vụ",
+    "không thực hiện nghĩa vụ",
+    "thực hiện không đúng nghĩa vụ",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "cam kết"
+    ],
+    [
+      "bên bảo lãnh",
+      "thực hiện nghĩa vụ thay"
+    ],
+    [
+      "bên được bảo lãnh",
+      "không thực hiện nghĩa vụ"
+    ],
+    [
+      "bên được bảo lãnh",
+      "thực hiện không đúng nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo lãnh",
+      "người thứ ba"
+    ],
+    [
+      "bảo lãnh",
+      "bên có quyền"
+    ],
+    [
+      "bảo lãnh",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "bên bảo lãnh",
+      "bên nhận bảo lãnh"
+    ],
+    [
+      "bên bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "bên được bảo lãnh",
+      "nghĩa vụ"
+    ]
+  ]
+}

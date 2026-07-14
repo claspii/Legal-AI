@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "người được giám hộ"
+  ],
+  "actions": [
+    "đại diện",
+    "quản lý tài sản",
+    "bảo vệ quyền, lợi ích hợp pháp",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "đại diện cho người được giám hộ trong các giao dịch dân sự"
+    ],
+    [
+      "người giám hộ",
+      "quản lý tài sản của người được giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "bảo vệ quyền, lợi ích hợp pháp của người được giám hộ"
+    ],
+    [
+      "người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "tự mình xác lập giao dịch dân sự"
+    ],
+    [
+      "người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "tự mình thực hiện giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "người được giám hộ",
+      "giao dịch dân sự"
+    ],
+    [
+      "người được giám hộ",
+      "tài sản"
+    ],
+    [
+      "người được giám hộ",
+      "quyền, lợi ích hợp pháp"
+    ]
+  ]
+}

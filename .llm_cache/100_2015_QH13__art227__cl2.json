@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "phạm tội",
+    "nghiên cứu",
+    "thăm dò",
+    "khai thác tài nguyên",
+    "thu lợi bất chính",
+    "gây sự cố môi trường",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "làm chết người"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghiên cứu",
+      "tài nguyên"
+    ],
+    [
+      "thăm dò",
+      "tài nguyên"
+    ],
+    [
+      "khai thác",
+      "tài nguyên"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

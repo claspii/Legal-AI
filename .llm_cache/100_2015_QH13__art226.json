@@ -1,0 +1,94 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ sở hữu nhãn hiệu hoặc chỉ dẫn địa lý",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "xâm phạm quyền sở hữu công nghiệp",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định",
+    "thực hiện hành vi",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "đình chỉ hoạt động có thời hạn",
+    "cấm kinh doanh",
+    "cấm hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xâm phạm quyền sở hữu công nghiệp"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhãn hiệu",
+      "chỉ dẫn địa lý"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng hóa vi phạm trị giá"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "cấm làm công việc nhất định"
+    ],
+    [
+      "cấm kinh doanh",
+      "cấm hoạt động trong một số lĩnh vực nhất định"
+    ]
+  ]
+}

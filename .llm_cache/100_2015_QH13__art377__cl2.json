@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị giam, giữ",
+    "gia đình họ",
+    "người dưới 18 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "giam, giữ người trái pháp luật",
+    "bị phạt tù",
+    "làm bị tổn hại về sức khỏe",
+    "lâm vào hoàn cảnh kinh tế đặc biệt khó khăn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "giam, giữ trái pháp luật",
+      "bị tổn hại về sức khỏe"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "lâm vào hoàn cảnh kinh tế đặc biệt khó khăn"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ thể quyền tác giả",
+    "chủ thể quyền liên quan",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "xâm phạm quyền tác giả",
+    "xâm phạm quyền liên quan",
+    "sao chép tác phẩm",
+    "sao chép bản ghi âm",
+    "sao chép bản ghi hình",
+    "phân phối đến công chúng bản sao tác phẩm",
+    "phân phối đến công chúng bản sao bản ghi âm",
+    "phân phối đến công chúng bản sao bản ghi hình",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tác giả",
+      "quyền liên quan"
+    ],
+    [
+      "tác phẩm",
+      "bản ghi âm"
+    ],
+    [
+      "bản ghi âm",
+      "bản ghi hình"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng hóa vi phạm trị giá"
+    ],
+    [
+      "gây thiệt hại",
+      "hàng hóa vi phạm trị giá"
+    ],
+    [
+      "hình phạt tiền",
+      "hình phạt cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt tiền",
+      "hình phạt tù"
+    ]
+  ]
+}

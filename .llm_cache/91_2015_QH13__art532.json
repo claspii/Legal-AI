@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê vận chuyển",
+    "bên vận chuyển"
+  ],
+  "actions": [
+    "giao tài sản",
+    "đóng gói",
+    "chịu chi phí xếp, dỡ tài sản",
+    "thanh toán chi phí chờ đợi và tiền vận chuyển",
+    "tiếp nhận tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê vận chuyển",
+      "giao tài sản"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "đóng gói"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "chịu chi phí xếp, dỡ tài sản"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "thanh toán chi phí chờ đợi và tiền vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "chậm tiếp nhận tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "chịu chi phí phát sinh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao tài sản",
+      "thời hạn"
+    ],
+    [
+      "giao tài sản",
+      "địa điểm"
+    ],
+    [
+      "giao tài sản",
+      "đóng gói"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "chi phí xếp, dỡ tài sản"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "chi phí chờ đợi"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "tiền vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "chi phí phát sinh"
+    ]
+  ]
+}

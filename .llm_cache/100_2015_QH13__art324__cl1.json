@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác"
+  ],
+  "actions": [
+    "thực hiện một trong các hành vi sau đây",
+    "bị phạt tù",
+    "tham gia trực tiếp hoặc gián tiếp vào giao dịch tài chính, ngân hàng hoặc giao dịch khác nhằm che giấu nguồn gốc bất hợp pháp của tiền, tài sản",
+    "sử dụng tiền, tài sản vào việc tiến hành các hoạt động kinh doanh hoặc hoạt động khác",
+    "che giấu thông tin về nguồn gốc, bản chất thực sự, vị trí, quá trình di chuyển hoặc quyền sở hữu đối với tiền, tài sản",
+    "cản trở việc xác minh các thông tin đó"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện một trong các hành vi sau đây"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người nào",
+      "tham gia trực tiếp hoặc gián tiếp vào giao dịch tài chính, ngân hàng hoặc giao dịch khác nhằm che giấu nguồn gốc bất hợp pháp của tiền, tài sản"
+    ],
+    [
+      "người nào",
+      "sử dụng tiền, tài sản vào việc tiến hành các hoạt động kinh doanh hoặc hoạt động khác"
+    ],
+    [
+      "người nào",
+      "che giấu thông tin về nguồn gốc, bản chất thực sự, vị trí, quá trình di chuyển hoặc quyền sở hữu đối với tiền, tài sản"
+    ],
+    [
+      "người nào",
+      "cản trở việc xác minh các thông tin đó"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "nguồn gốc bất hợp pháp",
+      "tiền, tài sản"
+    ],
+    [
+      "giao dịch tài chính",
+      "giao dịch ngân hàng"
+    ],
+    [
+      "phạm tội",
+      "tiền, tài sản có được từ phạm tội"
+    ]
+  ]
+}

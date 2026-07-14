@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "người bị xâm phạm chỗ ở",
+    "chủ nhà",
+    "người quản lý hợp pháp"
+  ],
+  "actions": [
+    "xâm phạm chỗ ở",
+    "khám xét trái pháp luật",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "gây sức ép về tinh thần",
+    "buộc phải rời khỏi chỗ ở hợp pháp",
+    "chiếm, giữ chỗ ở",
+    "cản trở trái phép",
+    "không cho được vào chỗ ở",
+    "tự ý xâm nhập chỗ ở",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xâm phạm chỗ ở"
+    ],
+    [
+      "người",
+      "khám xét trái pháp luật chỗ ở"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "gây sức ép về tinh thần"
+    ],
+    [
+      "người",
+      "buộc người khác phải rời khỏi chỗ ở hợp pháp"
+    ],
+    [
+      "người",
+      "chiếm, giữ chỗ ở"
+    ],
+    [
+      "người",
+      "cản trở trái phép"
+    ],
+    [
+      "người",
+      "không cho người đang ở hoặc quản lý hợp pháp chỗ ở được vào chỗ ở"
+    ],
+    [
+      "người",
+      "tự ý xâm nhập chỗ ở"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chỗ ở",
+      "xâm phạm"
+    ],
+    [
+      "chỗ ở",
+      "khám xét trái pháp luật"
+    ],
+    [
+      "chỗ ở",
+      "chiếm, giữ"
+    ],
+    [
+      "chỗ ở",
+      "cản trở trái phép"
+    ],
+    [
+      "chỗ ở",
+      "tự ý xâm nhập"
+    ]
+  ]
+}

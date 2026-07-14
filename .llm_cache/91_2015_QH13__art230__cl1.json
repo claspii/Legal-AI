@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phát hiện tài sản",
+    "người đánh rơi",
+    "chủ sở hữu",
+    "ủy ban nhân dân cấp xã",
+    "công an cấp xã",
+    "người đã giao nộp"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "đánh rơi",
+    "bỏ quên",
+    "thông báo",
+    "trả lại",
+    "giao nộp",
+    "nhận lại",
+    "xác định chủ sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "người phát hiện tài sản",
+      "thông báo"
+    ],
+    [
+      "người phát hiện tài sản",
+      "trả lại tài sản"
+    ],
+    [
+      "người phát hiện tài sản",
+      "giao nộp"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "thông báo"
+    ],
+    [
+      "công an cấp xã",
+      "thông báo"
+    ],
+    [
+      "chủ sở hữu",
+      "nhận lại"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "xác định chủ sở hữu"
+    ],
+    [
+      "công an cấp xã",
+      "xác định chủ sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản do người khác đánh rơi",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản do người khác bỏ quên",
+      "quyền sở hữu"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "công an cấp xã"
+    ],
+    [
+      "người đánh rơi",
+      "chủ sở hữu"
+    ],
+    [
+      "người bỏ quên",
+      "chủ sở hữu"
+    ]
+  ]
+}

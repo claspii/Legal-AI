@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "tòa án",
+    "người chấp hành án"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "khấu trừ thu nhập",
+    "sung quỹ nhà nước",
+    "miễn việc khấu trừ thu nhập",
+    "ghi rõ lý do"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "cho miễn việc khấu trừ thu nhập"
+    ],
+    [
+      "tòa án",
+      "ghi rõ lý do"
+    ],
+    [
+      "người chấp hành án",
+      "thực hiện nghĩa vụ quân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "khấu trừ thu nhập"
+    ],
+    [
+      "khấu trừ thu nhập",
+      "quỹ nhà nước"
+    ],
+    [
+      "tòa án",
+      "miễn việc khấu trừ thu nhập"
+    ],
+    [
+      "miễn việc khấu trừ thu nhập",
+      "bản án"
+    ],
+    [
+      "người chấp hành án",
+      "nghĩa vụ quân sự"
+    ]
+  ]
+}

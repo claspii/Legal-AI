@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể",
+    "người",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác"
+  ],
+  "actions": [
+    "yêu cầu chấm dứt hành vi cản trở trái pháp luật",
+    "thực hiện quyền sở hữu",
+    "thực hiện quyền khác đối với tài sản",
+    "cản trở trái pháp luật",
+    "chấm dứt hành vi",
+    "buộc chấm dứt hành vi vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "yêu cầu chấm dứt hành vi cản trở trái pháp luật"
+    ],
+    [
+      "chủ thể",
+      "thực hiện quyền sở hữu"
+    ],
+    [
+      "chủ thể",
+      "thực hiện quyền khác đối với tài sản"
+    ],
+    [
+      "người",
+      "cản trở trái pháp luật"
+    ],
+    [
+      "người",
+      "chấm dứt hành vi"
+    ],
+    [
+      "tòa án",
+      "buộc chấm dứt hành vi vi phạm"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền khác",
+      "buộc chấm dứt hành vi vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "hành vi cản trở trái pháp luật",
+      "hành vi vi phạm"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha, mẹ",
+    "người giám hộ",
+    "tòa án",
+    "người thân thích",
+    "cơ quan quản lý nhà nước về gia đình",
+    "cơ quan quản lý nhà nước về trẻ em",
+    "hội liên hiệp phụ nữ",
+    "cá nhân, cơ quan, tổ chức khác"
+  ],
+  "actions": [
+    "hạn chế quyền",
+    "yêu cầu tòa án hạn chế quyền",
+    "phát hiện hành vi vi phạm",
+    "đề nghị"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "người giám hộ",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "người thân thích",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "cơ quan quản lý nhà nước về gia đình",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "cơ quan quản lý nhà nước về trẻ em",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "hội liên hiệp phụ nữ",
+      "yêu cầu tòa án hạn chế quyền"
+    ],
+    [
+      "cá nhân, cơ quan, tổ chức khác",
+      "phát hiện hành vi vi phạm"
+    ],
+    [
+      "cá nhân, cơ quan, tổ chức khác",
+      "đề nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "hạn chế quyền của cha, mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "yêu cầu tòa án",
+      "hạn chế quyền của cha, mẹ"
+    ],
+    [
+      "pháp luật về tố tụng dân sự",
+      "yêu cầu tòa án"
+    ]
+  ]
+}

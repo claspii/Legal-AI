@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà đầu tư"
+  ],
+  "actions": [
+    "cố ý công bố thông tin sai lệch",
+    "che giấu thông tin",
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "nhà đầu tư",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin sai lệch",
+      "hoạt động chứng khoán"
+    ],
+    [
+      "thông tin",
+      "hoạt động chứng khoán"
+    ]
+  ]
+}

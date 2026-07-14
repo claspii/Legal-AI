@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sỹ quan"
+  ],
+  "actions": [
+    "vô ý làm lộ bí mật công tác quân sự",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vô ý làm lộ bí mật công tác quân sự"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bí mật công tác quân sự",
+      "vô ý làm lộ"
+    ],
+    [
+      "phạm tội",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

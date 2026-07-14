@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "tổ chức đại diện người lao động",
+    "ban trọng tài lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "lựa chọn giải quyết tranh chấp",
+    "tiến hành đình công",
+    "không được tiến hành đình công",
+    "tiến hành giải quyết tranh chấp",
+    "không được thành lập",
+    "không ra quyết định giải quyết tranh chấp",
+    "không thực hiện quyết định giải quyết tranh chấp",
+    "tiến hành thủ tục"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "lựa chọn giải quyết tranh chấp"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "không được tiến hành đình công"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "tiến hành giải quyết tranh chấp"
+    ],
+    [
+      "ban trọng tài lao động",
+      "không được thành lập"
+    ],
+    [
+      "ban trọng tài",
+      "không ra quyết định giải quyết tranh chấp"
+    ],
+    [
+      "người sử dụng lao động",
+      "không thực hiện quyết định giải quyết tranh chấp"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tiến hành thủ tục"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "đình công"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyết định giải quyết tranh chấp"
+    ]
+  ]
+}

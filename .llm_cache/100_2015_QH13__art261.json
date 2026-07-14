@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "đào",
+    "khoan",
+    "xẻ",
+    "san lấp",
+    "đặt",
+    "để",
+    "đổ",
+    "tháo dỡ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đào"
+    ],
+    [
+      "người",
+      "khoan"
+    ],
+    [
+      "người",
+      "xẻ"
+    ],
+    [
+      "người",
+      "san lấp"
+    ],
+    [
+      "người",
+      "đặt"
+    ],
+    [
+      "người",
+      "để"
+    ],
+    [
+      "người",
+      "đổ"
+    ],
+    [
+      "người",
+      "tháo dỡ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "giao thông đường bộ",
+      "công trình giao thông đường bộ"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổng tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

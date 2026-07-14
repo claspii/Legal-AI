@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quốc gia",
+    "vùng lãnh thổ",
+    "tổ chức quốc tế",
+    "cơ quan",
+    "cá nhân",
+    "phụ nữ",
+    "người thi hành công vụ"
+  ],
+  "actions": [
+    "bắt giữ",
+    "giam",
+    "đe dọa giết",
+    "làm bị thương",
+    "cưỡng ép",
+    "làm hoặc không làm",
+    "thả con tin",
+    "phạm tội",
+    "gây thương tích",
+    "gây rối loạn tâm thần và hành vi"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bắt giữ"
+    ],
+    [
+      "người",
+      "giam người khác làm con tin"
+    ],
+    [
+      "người",
+      "đe dọa giết"
+    ],
+    [
+      "người",
+      "làm bị thương"
+    ],
+    [
+      "người",
+      "tiếp tục giam, giữ"
+    ],
+    [
+      "người",
+      "cưỡng ép một quốc gia, vùng lãnh thổ, tổ chức quốc tế hoặc cơ quan, tổ chức, cá nhân làm hoặc không làm một việc"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bắt giữ",
+      "giam người khác làm con tin"
+    ],
+    [
+      "đe dọa giết",
+      "làm bị thương"
+    ],
+    [
+      "quốc gia",
+      "vùng lãnh thổ"
+    ],
+    [
+      "tổ chức quốc tế",
+      "cơ quan, tổ chức"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây rối loạn tâm thần",
+      "hành vi của nạn nhân"
+    ]
+  ]
+}

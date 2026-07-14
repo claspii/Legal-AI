@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "đăng ký nội quy lao động",
+    "góp ý",
+    "có quy định liên quan đến kỷ luật lao động và trách nhiệm vật chất"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "góp ý"
+    ],
+    [
+      "người sử dụng lao động",
+      "có quy định liên quan đến kỷ luật lao động và trách nhiệm vật chất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hồ sơ đăng ký nội quy lao động",
+      "văn bản đề nghị đăng ký nội quy lao động"
+    ],
+    [
+      "hồ sơ đăng ký nội quy lao động",
+      "nội quy lao động"
+    ],
+    [
+      "hồ sơ đăng ký nội quy lao động",
+      "văn bản góp ý của tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "hồ sơ đăng ký nội quy lao động",
+      "văn bản của người sử dụng lao động có quy định liên quan đến kỷ luật lao động và trách nhiệm vật chất"
+    ],
+    [
+      "kỷ luật lao động",
+      "trách nhiệm vật chất"
+    ]
+  ]
+}

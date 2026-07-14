@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "thành viên"
+  ],
+  "actions": [
+    "có điều lệ",
+    "có tên gọi",
+    "có mục đích và phạm vi hoạt động",
+    "có trụ sở chính",
+    "có chi nhánh",
+    "có văn phòng đại diện",
+    "có vốn điều lệ",
+    "có đại diện theo pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "có điều lệ"
+    ],
+    [
+      "pháp nhân",
+      "có tên gọi"
+    ],
+    [
+      "pháp nhân",
+      "có mục đích và phạm vi hoạt động"
+    ],
+    [
+      "pháp nhân",
+      "có trụ sở chính"
+    ],
+    [
+      "pháp nhân",
+      "có chi nhánh"
+    ],
+    [
+      "pháp nhân",
+      "có văn phòng đại diện"
+    ],
+    [
+      "pháp nhân",
+      "có vốn điều lệ"
+    ],
+    [
+      "pháp nhân",
+      "có đại diện theo pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "điều lệ của pháp nhân"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "tên gọi của pháp nhân"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "mục đích và phạm vi hoạt động của pháp nhân"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "trụ sở chính"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "vốn điều lệ"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "đại diện theo pháp luật của pháp nhân"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "cơ cấu tổ chức"
+    ],
+    [
+      "pháp nhân",
+      "thành viên"
+    ]
+  ]
+}

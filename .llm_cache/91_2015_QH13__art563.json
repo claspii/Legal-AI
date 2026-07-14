@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quy định",
+    "xác lập việc ủy quyền"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn ủy quyền",
+      "pháp luật"
+    ],
+    [
+      "hợp đồng ủy quyền",
+      "thời hạn ủy quyền"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "ủy ban nhân dân cấp tỉnh",
+    "hội đồng nhân dân cùng cấp"
+  ],
+  "actions": [
+    "quyết định chương trình quốc gia về an toàn, vệ sinh lao động",
+    "trình",
+    "quyết định chương trình an toàn, vệ sinh lao động của địa phương",
+    "đưa vào kế hoạch phát triển kinh tế - xã hội"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quyết định chương trình quốc gia về an toàn, vệ sinh lao động"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "trình"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "đưa vào kế hoạch phát triển kinh tế - xã hội"
+    ],
+    [
+      "hội đồng nhân dân cùng cấp",
+      "quyết định chương trình an toàn, vệ sinh lao động của địa phương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chương trình quốc gia về an toàn, vệ sinh lao động",
+      "chính phủ"
+    ],
+    [
+      "chương trình an toàn, vệ sinh lao động của địa phương",
+      "ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "chương trình an toàn, vệ sinh lao động của địa phương",
+      "hội đồng nhân dân cùng cấp"
+    ],
+    [
+      "kế hoạch phát triển kinh tế - xã hội",
+      "chương trình an toàn, vệ sinh lao động của địa phương"
+    ]
+  ]
+}

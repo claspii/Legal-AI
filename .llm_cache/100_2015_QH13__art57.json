@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "quyết định hình phạt",
+    "chuẩn bị phạm tội",
+    "phạm tội chưa đạt",
+    "áp dụng hình phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chuẩn bị phạm tội",
+      "quyết định hình phạt"
+    ],
+    [
+      "phạm tội chưa đạt",
+      "quyết định hình phạt"
+    ],
+    [
+      "hình phạt tù chung thân",
+      "áp dụng hình phạt tù không quá 20 năm"
+    ],
+    [
+      "tử hình",
+      "áp dụng hình phạt tù không quá 20 năm"
+    ],
+    [
+      "tù có thời hạn",
+      "mức hình phạt không quá ba phần tư mức phạt tù"
+    ]
+  ]
+}

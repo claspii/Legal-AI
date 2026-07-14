@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người giúp việc gia đình",
+    "người lao động"
+  ],
+  "actions": [
+    "thực hiện thỏa thuận",
+    "giao kết hợp đồng lao động",
+    "trả tiền bảo hiểm xã hội",
+    "trả tiền bảo hiểm y tế",
+    "tham gia bảo hiểm xã hội",
+    "tham gia bảo hiểm y tế",
+    "tôn trọng danh dự",
+    "tôn trọng nhân phẩm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả tiền bảo hiểm xã hội"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả tiền bảo hiểm y tế"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm y tế"
+    ],
+    [
+      "người sử dụng lao động",
+      "tôn trọng danh dự"
+    ],
+    [
+      "người sử dụng lao động",
+      "tôn trọng nhân phẩm"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí chỗ ăn, ở hợp vệ sinh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người giúp việc gia đình"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "danh dự",
+      "nhân phẩm"
+    ],
+    [
+      "học văn hóa",
+      "giáo dục nghề nghiệp"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa thuận"
+    ]
+  ]
+}

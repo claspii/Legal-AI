@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "tôn trọng"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền tự do tín ngưỡng",
+      "tôn giáo"
+    ]
+  ]
+}

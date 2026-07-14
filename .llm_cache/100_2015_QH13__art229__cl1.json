@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chức vụ",
+    "quyền hạn"
+  ],
+  "actions": [
+    "lợi dụng chức vụ",
+    "lạm dụng chức vụ",
+    "giao đất",
+    "thu hồi đất",
+    "cho thuê đất",
+    "cho phép chuyển quyền sử dụng đất",
+    "cho phép chuyển mục đích sử dụng đất",
+    "vi phạm các quy định về quản lý đất đai"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ"
+    ],
+    [
+      "người",
+      "lạm dụng chức vụ"
+    ],
+    [
+      "người",
+      "giao đất"
+    ],
+    [
+      "người",
+      "thu hồi đất"
+    ],
+    [
+      "người",
+      "cho thuê đất"
+    ],
+    [
+      "người",
+      "cho phép chuyển quyền sử dụng đất"
+    ],
+    [
+      "người",
+      "cho phép chuyển mục đích sử dụng đất"
+    ],
+    [
+      "người",
+      "vi phạm các quy định về quản lý đất đai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "đất trồng lúa",
+      "đất rừng đặc dụng"
+    ],
+    [
+      "đất rừng đặc dụng",
+      "rừng phòng hộ"
+    ],
+    [
+      "rừng phòng hộ",
+      "rừng sản xuất"
+    ],
+    [
+      "đất nông nghiệp khác",
+      "đất phi nông nghiệp"
+    ]
+  ]
+}

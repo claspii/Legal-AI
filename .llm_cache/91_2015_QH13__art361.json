@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [
+    "thiệt hại về vật chất",
+    "thiệt hại về tinh thần"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "vi phạm nghĩa vụ",
+    "ngăn chặn thiệt hại",
+    "hạn chế thiệt hại",
+    "khắc phục thiệt hại",
+    "bị xâm phạm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thiệt hại",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "thiệt hại về vật chất",
+      "tổn thất vật chất thực tế"
+    ],
+    [
+      "thiệt hại về tinh thần",
+      "tổn thất về tinh thần"
+    ],
+    [
+      "thiệt hại về vật chất",
+      "tổn thất về tài sản"
+    ],
+    [
+      "thiệt hại về vật chất",
+      "chi phí hợp lý"
+    ],
+    [
+      "thiệt hại về vật chất",
+      "thu nhập thực tế bị mất hoặc bị giảm sút"
+    ],
+    [
+      "thiệt hại về tinh thần",
+      "tính mạng"
+    ],
+    [
+      "thiệt hại về tinh thần",
+      "sức khỏe"
+    ]
+  ]
+}

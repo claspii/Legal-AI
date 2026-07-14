@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "nghỉ",
+    "bảo đảm",
+    "quyết định",
+    "ghi",
+    "nghỉ bù"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyết định"
+    ],
+    [
+      "người sử dụng lao động",
+      "ghi"
+    ],
+    [
+      "người lao động",
+      "nghỉ bù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghỉ hằng tuần",
+      "người lao động"
+    ],
+    [
+      "nghỉ hằng tuần",
+      "người sử dụng lao động"
+    ],
+    [
+      "ngày nghỉ hằng tuần",
+      "ngày nghỉ lễ, tết"
+    ],
+    [
+      "chu kỳ lao động",
+      "nghỉ hằng tuần"
+    ],
+    [
+      "nội quy lao động",
+      "ngày nghỉ hằng tuần"
+    ]
+  ]
+}

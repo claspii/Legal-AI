@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu bất động sản",
+    "người sáp nhập"
+  ],
+  "actions": [
+    "sáp nhập tài sản",
+    "yêu cầu dỡ bỏ",
+    "bồi thường thiệt hại",
+    "giữ lại tài sản",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sáp nhập tài sản"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "yêu cầu người sáp nhập dỡ bỏ tài sản sáp nhập trái phép"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "giữ lại tài sản"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "thanh toán cho người sáp nhập giá trị tài sản sáp nhập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản là động sản",
+      "bất động sản"
+    ],
+    [
+      "tài sản sáp nhập",
+      "thiệt hại"
+    ]
+  ]
+}

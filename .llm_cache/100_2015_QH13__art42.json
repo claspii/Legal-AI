@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "cấm cư trú"
+  ],
+  "actors": [
+    "người bị kết án phạt tù"
+  ],
+  "actions": [
+    "cấm cư trú",
+    "tạm trú",
+    "thường trú",
+    "chấp hành xong hình phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án phạt tù",
+      "không được tạm trú hoặc thường trú"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "chấp hành xong hình phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm cư trú",
+      "hình phạt tù"
+    ],
+    [
+      "cấm cư trú",
+      "tạm trú"
+    ],
+    [
+      "cấm cư trú",
+      "thường trú"
+    ]
+  ]
+}

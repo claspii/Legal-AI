@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "nhà nước"
+  ],
+  "actions": [
+    "quy định thời giờ làm việc",
+    "thông báo",
+    "khuyến khích",
+    "thực hiện tuần làm việc",
+    "bảo đảm giới hạn thời gian làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "quy định thời giờ làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ],
+    [
+      "nhà nước",
+      "khuyến khích"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện tuần làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm giới hạn thời gian làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời giờ làm việc bình thường",
+      "08 giờ trong 01 ngày"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "48 giờ trong 01 tuần"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "10 giờ trong 01 ngày"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "40 giờ đối với người lao động"
+    ],
+    [
+      "thời gian làm việc",
+      "yếu tố nguy hiểm"
+    ],
+    [
+      "thời gian làm việc",
+      "yếu tố có hại"
+    ]
+  ]
+}

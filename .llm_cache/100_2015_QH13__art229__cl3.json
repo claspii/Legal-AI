@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "đất trồng lúa",
+      "diện tích 70.000 mét vuông (m2) trở lên"
+    ],
+    [
+      "đất rừng đặc dụng, rừng phòng hộ, rừng sản xuất",
+      "diện tích 100.000 mét vuông (m2) trở lên"
+    ],
+    [
+      "đất nông nghiệp khác và đất phi nông nghiệp",
+      "diện tích 80.000 mét vuông (m2) trở lên"
+    ],
+    [
+      "đất nông nghiệp",
+      "giá trị quyền sử dụng đất được quy thành tiền 7.000.000.000 đồng trở lên"
+    ],
+    [
+      "đất phi nông nghiệp",
+      "giá trị quyền sử dụng đất được quy thành tiền 15.000.000.000 đồng trở lên"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất",
+      "hàng giả"
+    ],
+    [
+      "buôn bán",
+      "hàng giả"
+    ],
+    [
+      "hàng giả",
+      "lương thực"
+    ],
+    [
+      "hàng giả",
+      "thực phẩm"
+    ],
+    [
+      "hàng giả",
+      "phụ gia thực phẩm"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "tạm đình chỉ công việc",
+    "xác minh",
+    "tham khảo ý kiến",
+    "tạm ứng tiền lương",
+    "trả lại tiền lương",
+    "trả đủ tiền lương",
+    "nhận trở lại làm việc",
+    "xử lý kỷ luật lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tạm đình chỉ công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhận trở lại làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả đủ tiền lương"
+    ],
+    [
+      "người lao động",
+      "tạm ứng tiền lương"
+    ],
+    [
+      "người lao động",
+      "trả lại tiền lương"
+    ],
+    [
+      "người lao động",
+      "bị xử lý kỷ luật lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tham khảo ý kiến"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tạm đình chỉ công việc",
+      "tiền lương"
+    ],
+    [
+      "tạm đình chỉ công việc",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ]
+  ]
+}

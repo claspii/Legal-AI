@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên giữ",
+    "bên gửi",
+    "bên nhận giữ tài sản"
+  ],
+  "actions": [
+    "chậm giao tài sản",
+    "yêu cầu trả tiền công",
+    "yêu cầu thanh toán chi phí bảo quản",
+    "chịu rủi ro",
+    "chậm nhận tài sản",
+    "thanh toán chi phí bảo quản",
+    "thanh toán tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên giữ",
+      "chậm giao tài sản"
+    ],
+    [
+      "bên giữ",
+      "không được yêu cầu bên gửi trả tiền công"
+    ],
+    [
+      "bên giữ",
+      "không được yêu cầu bên gửi thanh toán chi phí bảo quản"
+    ],
+    [
+      "bên giữ",
+      "chịu rủi ro"
+    ],
+    [
+      "bên gửi",
+      "chậm nhận tài sản"
+    ],
+    [
+      "bên gửi",
+      "thanh toán chi phí bảo quản"
+    ],
+    [
+      "bên gửi",
+      "thanh toán tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chậm giao tài sản",
+      "không được yêu cầu bên gửi trả tiền công"
+    ],
+    [
+      "chậm giao tài sản",
+      "không được yêu cầu bên gửi thanh toán chi phí bảo quản"
+    ],
+    [
+      "chậm giao tài sản",
+      "chịu rủi ro"
+    ],
+    [
+      "chậm nhận tài sản",
+      "thanh toán chi phí bảo quản"
+    ],
+    [
+      "chậm nhận tài sản",
+      "thanh toán tiền công"
+    ],
+    [
+      "tài sản gửi giữ",
+      "tiền công"
+    ],
+    [
+      "tài sản gửi giữ",
+      "chi phí bảo quản"
+    ]
+  ]
+}

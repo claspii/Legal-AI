@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "cộng đồng",
+    "mỗi người",
+    "các bên",
+    "các dân tộc"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "chấm dứt",
+    "giữ gìn",
+    "tôn trọng",
+    "phát huy",
+    "khuyến khích",
+    "hòa giải"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "chính sách của nhà nước đối với quan hệ dân sự"
+    ],
+    [
+      "việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự",
+      "phải bảo đảm giữ gìn bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái, mỗi người vì cộng đồng, cộng đồng vì mỗi người và các giá trị đạo đức cao đẹp của các dân tộc cùng sinh sống trên đất nước việt nam"
+    ],
+    [
+      "việc hòa giải giữa các bên",
+      "được khuyến khích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính sách của nhà nước",
+      "quan hệ dân sự"
+    ],
+    [
+      "quyền dân sự",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "phong tục",
+      "tập quán"
+    ],
+    [
+      "tình đoàn kết",
+      "tương thân, tương ái"
+    ],
+    [
+      "mỗi người",
+      "cộng đồng"
+    ],
+    [
+      "hòa giải",
+      "pháp luật"
+    ]
+  ]
+}

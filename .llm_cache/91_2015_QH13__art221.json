@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền",
+    "người khác"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "lao động",
+    "sản xuất",
+    "kinh doanh hợp pháp",
+    "sáng tạo ra đối tượng quyền sở hữu trí tuệ",
+    "chuyển quyền sở hữu",
+    "thu hoa lợi, lợi tức",
+    "tạo thành tài sản mới"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quyết định"
+    ],
+    [
+      "người khác",
+      "đánh rơi"
+    ],
+    [
+      "người khác",
+      "bỏ quên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "quyền sở hữu",
+      "quyền sở hữu trí tuệ"
+    ],
+    [
+      "tài sản",
+      "hoa lợi"
+    ],
+    [
+      "tài sản",
+      "lợi tức"
+    ],
+    [
+      "tài sản",
+      "tài sản vô chủ"
+    ],
+    [
+      "tài sản",
+      "tài sản không xác định được chủ sở hữu"
+    ],
+    [
+      "gia súc",
+      "gia cầm"
+    ],
+    [
+      "gia súc",
+      "vật nuôi dưới nước"
+    ]
+  ]
+}

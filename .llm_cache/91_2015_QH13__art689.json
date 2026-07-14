@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii",
+    "chủ tịch quốc hội"
+  ],
+  "actions": [
+    "có hiệu lực thi hành",
+    "hết hiệu lực",
+    "thông qua"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật này",
+      "có hiệu lực thi hành"
+    ],
+    [
+      "bộ luật dân sự số 33/2005/qh11",
+      "hết hiệu lực"
+    ],
+    [
+      "quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii",
+      "thông qua"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bộ luật này",
+      "có hiệu lực thi hành"
+    ],
+    [
+      "bộ luật dân sự số 33/2005/qh11",
+      "hết hiệu lực"
+    ]
+  ]
+}

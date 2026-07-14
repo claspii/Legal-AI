@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "người lãnh đạo đình công"
+  ],
+  "actions": [
+    "cản trở",
+    "kích động",
+    "lôi kéo",
+    "ép buộc",
+    "dùng bạo lực",
+    "hủy hoại",
+    "xâm phạm",
+    "chấm dứt hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "điều động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "người lãnh đạo đình công",
+      "đình công"
+    ],
+    [
+      "người sử dụng lao động",
+      "tài sản"
+    ],
+    [
+      "hợp đồng lao động",
+      "chấm dứt"
+    ],
+    [
+      "kỷ luật lao động",
+      "xử lý"
+    ],
+    [
+      "chuẩn bị đình công",
+      "tham gia đình công"
+    ],
+    [
+      "trù dập",
+      "trả thù"
+    ],
+    [
+      "đình công",
+      "hành vi vi phạm pháp luật"
+    ]
+  ]
+}

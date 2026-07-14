@@ -1,0 +1,103 @@
+{
+  "concepts_defined": [
+    "tranh chấp lao động tập thể về quyền"
+  ],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "người sử dụng lao động",
+    "tổ chức của người sử dụng lao động",
+    "người lao động",
+    "thành viên ban lãnh đạo của tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "hiểu",
+    "thực hiện",
+    "phân biệt đối xử",
+    "thành lập",
+    "gia nhập",
+    "hoạt động",
+    "can thiệp",
+    "thao túng",
+    "vi phạm nghĩa vụ về thương lượng thiện chí"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "hiểu"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thực hiện"
+    ],
+    [
+      "người sử dụng lao động",
+      "hiểu"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện"
+    ],
+    [
+      "người sử dụng lao động",
+      "phân biệt đối xử"
+    ],
+    [
+      "người lao động",
+      "thành lập"
+    ],
+    [
+      "người lao động",
+      "gia nhập"
+    ],
+    [
+      "người lao động",
+      "hoạt động"
+    ],
+    [
+      "người sử dụng lao động",
+      "can thiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "thao túng"
+    ],
+    [
+      "người sử dụng lao động",
+      "vi phạm nghĩa vụ về thương lượng thiện chí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "người sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "phân biệt đối xử"
+    ],
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "nội quy lao động"
+    ],
+    [
+      "quy chế",
+      "thỏa thuận hợp pháp khác"
+    ],
+    [
+      "pháp luật về lao động",
+      "quy định"
+    ],
+    [
+      "người sử dụng lao động",
+      "nghĩa vụ về thương lượng thiện chí"
+    ]
+  ]
+}

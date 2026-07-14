@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "con chưa thành niên",
+    "con đã thành niên",
+    "con đã thành niên mất năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "thương yêu",
+    "tôn trọng",
+    "thực hiện quyền, lợi ích hợp pháp về nhân thân và tài sản",
+    "học tập",
+    "giáo dục",
+    "phát triển lành mạnh về thể chất, trí tuệ và đạo đức",
+    "yêu quý",
+    "kính trọng"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "thương yêu"
+    ],
+    [
+      "cha mẹ",
+      "tôn trọng"
+    ],
+    [
+      "con",
+      "được cha mẹ thương yêu"
+    ],
+    [
+      "con",
+      "được cha mẹ tôn trọng"
+    ],
+    [
+      "con",
+      "thực hiện các quyền, lợi ích hợp pháp về nhân thân và tài sản"
+    ],
+    [
+      "con",
+      "được học tập và giáo dục"
+    ],
+    [
+      "con",
+      "được phát triển lành mạnh về thể chất, trí tuệ và đạo đức"
+    ],
+    [
+      "con",
+      "yêu quý"
+    ],
+    [
+      "con",
+      "kính trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "nhân thân",
+      "tài sản"
+    ],
+    [
+      "học tập",
+      "giáo dục"
+    ]
+  ]
+}

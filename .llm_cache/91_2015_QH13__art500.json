@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [
+    "hợp đồng về quyền sử dụng đất"
+  ],
+  "actors": [
+    "các bên",
+    "người sử dụng đất",
+    "bên kia"
+  ],
+  "actions": [
+    "chuyển đổi",
+    "chuyển nhượng",
+    "cho thuê",
+    "cho thuê lại",
+    "tặng cho",
+    "thế chấp",
+    "góp vốn",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng đất",
+      "chuyển đổi quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "chuyển nhượng quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "cho thuê quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "cho thuê lại quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "tặng cho quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "thế chấp quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "góp vốn quyền sử dụng đất"
+    ],
+    [
+      "bên kia",
+      "thực hiện quyền"
+    ],
+    [
+      "bên kia",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng về quyền sử dụng đất",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng đất",
+      "quyền sử dụng đất"
+    ],
+    [
+      "bên kia",
+      "quyền"
+    ],
+    [
+      "bên kia",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền sử dụng đất",
+      "luật đất đai"
+    ]
+  ]
+}

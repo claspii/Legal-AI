@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [
+    "sở hữu riêng"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sở hữu riêng",
+      "cá nhân"
+    ],
+    [
+      "sở hữu riêng",
+      "pháp nhân"
+    ],
+    [
+      "sở hữu riêng",
+      "tài sản hợp pháp"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc"
+  ],
+  "actions": [
+    "sửa đổi",
+    "bổ sung",
+    "thay thế",
+    "hủy bỏ",
+    "có hiệu lực pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "sửa đổi"
+    ],
+    [
+      "người lập di chúc",
+      "bổ sung"
+    ],
+    [
+      "người lập di chúc",
+      "thay thế"
+    ],
+    [
+      "người lập di chúc",
+      "hủy bỏ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "sửa đổi"
+    ],
+    [
+      "di chúc",
+      "bổ sung"
+    ],
+    [
+      "di chúc",
+      "thay thế"
+    ],
+    [
+      "di chúc",
+      "hủy bỏ"
+    ],
+    [
+      "di chúc đã lập",
+      "phần bổ sung"
+    ]
+  ]
+}

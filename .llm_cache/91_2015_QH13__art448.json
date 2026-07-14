@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "sửa chữa vật",
+    "bảo đảm vật",
+    "chịu chi phí",
+    "yêu cầu",
+    "hoàn thành việc sửa chữa",
+    "giảm giá",
+    "đổi vật có khuyết tật",
+    "trả lại vật",
+    "lấy lại tiền"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "sửa chữa vật"
+    ],
+    [
+      "bên bán",
+      "bảo đảm vật"
+    ],
+    [
+      "bên bán",
+      "chịu chi phí"
+    ],
+    [
+      "bên mua",
+      "yêu cầu"
+    ],
+    [
+      "bên bán",
+      "không thể sửa chữa"
+    ],
+    [
+      "bên bán",
+      "không thể hoàn thành việc sửa chữa"
+    ],
+    [
+      "bên mua",
+      "yêu cầu giảm giá"
+    ],
+    [
+      "bên mua",
+      "đổi vật có khuyết tật"
+    ],
+    [
+      "bên mua",
+      "trả lại vật"
+    ],
+    [
+      "bên mua",
+      "lấy lại tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bán",
+      "vật trong thời hạn bảo hành"
+    ],
+    [
+      "sửa chữa vật",
+      "chi phí sửa chữa"
+    ],
+    [
+      "bên bán không thể sửa chữa",
+      "bên mua yêu cầu giảm giá"
+    ],
+    [
+      "bên bán không thể sửa chữa",
+      "bên mua đổi vật có khuyết tật"
+    ],
+    [
+      "bên bán không thể sửa chữa",
+      "bên mua trả lại vật và lấy lại tiền"
+    ]
+  ]
+}

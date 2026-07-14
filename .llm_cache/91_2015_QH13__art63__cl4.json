@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám sát việc giám hộ"
+  ],
+  "actions": [
+    "thanh toán tài sản",
+    "chuyển giao quyền, nghĩa vụ",
+    "lập thành văn bản",
+    "giám sát"
+  ],
+  "actor_actions": [
+    [
+      "người giám sát việc giám hộ",
+      "giám sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thanh toán tài sản",
+      "chuyển giao quyền, nghĩa vụ"
+    ],
+    [
+      "thanh toán tài sản",
+      "văn bản"
+    ],
+    [
+      "chuyển giao quyền, nghĩa vụ",
+      "văn bản"
+    ]
+  ]
+}

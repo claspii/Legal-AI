@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê",
+    "bên cho thuê",
+    "các bên"
+  ],
+  "actions": [
+    "trả tiền thuê",
+    "trả lại tài sản thuê",
+    "thỏa thuận",
+    "đơn phương chấm dứt thực hiện hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê",
+      "trả đủ tiền thuê"
+    ],
+    [
+      "bên thuê",
+      "trả tiền"
+    ],
+    [
+      "bên thuê",
+      "trả lại tài sản thuê"
+    ],
+    [
+      "các bên",
+      "thỏa thuận việc trả tiền thuê"
+    ],
+    [
+      "bên cho thuê",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê",
+      "tiền thuê"
+    ],
+    [
+      "bên thuê",
+      "tài sản thuê"
+    ],
+    [
+      "bên cho thuê",
+      "hợp đồng"
+    ]
+  ]
+}

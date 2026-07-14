@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "người sử dụng đất",
+    "cơ quan hành chính"
+  ],
+  "actions": [
+    "quy định chi tiết",
+    "thu hồi đất",
+    "giao đất",
+    "cho thuê đất",
+    "chuyển mục đích sử dụng đất",
+    "gia hạn sử dụng đất",
+    "điều chỉnh thời hạn sử dụng đất",
+    "đăng ký đất đai"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định chi tiết điều này"
+    ],
+    [
+      "người sử dụng đất",
+      "thực hiện các quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thủ tục hành chính về đất đai",
+      "thu hồi đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "giao đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "cho thuê đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "chuyển mục đích sử dụng đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "gia hạn sử dụng đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "điều chỉnh thời hạn sử dụng đất"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "đăng ký đất đai"
+    ],
+    [
+      "thủ tục hành chính về đất đai",
+      "tài sản gắn liền với đất"
+    ]
+  ]
+}

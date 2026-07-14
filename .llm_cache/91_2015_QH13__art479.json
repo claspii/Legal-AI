@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê",
+    "bên cho thuê"
+  ],
+  "actions": [
+    "bảo quản tài sản thuê",
+    "bảo dưỡng",
+    "sửa chữa nhỏ",
+    "làm mất",
+    "hư hỏng",
+    "bồi thường",
+    "chịu trách nhiệm",
+    "sử dụng tài sản thuê",
+    "tu sửa",
+    "làm tăng giá trị tài sản thuê",
+    "yêu cầu thanh toán chi phí hợp lý"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê",
+      "bảo quản tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "bảo dưỡng"
+    ],
+    [
+      "bên thuê",
+      "sửa chữa nhỏ"
+    ],
+    [
+      "bên thuê",
+      "làm mất"
+    ],
+    [
+      "bên thuê",
+      "hư hỏng"
+    ],
+    [
+      "bên thuê",
+      "bồi thường"
+    ],
+    [
+      "bên thuê",
+      "không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "có thể tu sửa"
+    ],
+    [
+      "bên thuê",
+      "có thể làm tăng giá trị tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "có quyền yêu cầu bên cho thuê thanh toán chi phí hợp lý"
+    ],
+    [
+      "bên cho thuê",
+      "đồng ý"
+    ],
+    [
+      "bên cho thuê",
+      "thanh toán chi phí hợp lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuê",
+      "bên thuê"
+    ],
+    [
+      "tài sản thuê",
+      "bên cho thuê"
+    ],
+    [
+      "chi phí hợp lý",
+      "tu sửa"
+    ],
+    [
+      "chi phí hợp lý",
+      "làm tăng giá trị tài sản thuê"
+    ],
+    [
+      "làm mất",
+      "bồi thường"
+    ],
+    [
+      "hư hỏng",
+      "bồi thường"
+    ]
+  ]
+}

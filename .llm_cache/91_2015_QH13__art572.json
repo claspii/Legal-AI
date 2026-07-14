@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện công việc",
+    "người",
+    "người hoàn thành đầu tiên",
+    "người hứa thưởng",
+    "những người đó"
+  ],
+  "actions": [
+    "trả thưởng",
+    "hứa thưởng",
+    "thực hiện",
+    "nhận thưởng",
+    "hoàn thành",
+    "chia đều",
+    "cộng tác"
+  ],
+  "actor_actions": [
+    [
+      "người thực hiện công việc",
+      "nhận thưởng"
+    ],
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người hoàn thành đầu tiên",
+      "nhận thưởng"
+    ],
+    [
+      "người hứa thưởng",
+      "yêu cầu"
+    ],
+    [
+      "người hứa thưởng",
+      "hứa thưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công việc được hứa thưởng",
+      "người thực hiện công việc"
+    ],
+    [
+      "công việc được hứa thưởng",
+      "nhận thưởng"
+    ],
+    [
+      "phần thưởng",
+      "phần đóng góp"
+    ]
+  ]
+}

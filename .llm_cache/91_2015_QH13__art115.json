@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [
+    "quyền tài sản"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền tài sản",
+      "quyền trị giá được bằng tiền"
+    ],
+    [
+      "quyền tài sản",
+      "quyền tài sản đối với đối tượng quyền sở hữu trí tuệ"
+    ],
+    [
+      "quyền tài sản",
+      "quyền sử dụng đất"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được tha tù trước thời hạn có điều kiện",
+    "cơ quan thi hành án hình sự có thẩm quyền",
+    "tòa án"
+  ],
+  "actions": [
+    "chấp hành được ít nhất là một phần hai thời gian thử thách",
+    "có nhiều tiến bộ",
+    "đề nghị",
+    "quyết định rút ngắn thời gian thử thách"
+  ],
+  "actor_actions": [
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "chấp hành được ít nhất là một phần hai thời gian thử thách"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "có nhiều tiến bộ"
+    ],
+    [
+      "cơ quan thi hành án hình sự có thẩm quyền",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định rút ngắn thời gian thử thách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "thời gian thử thách"
+    ],
+    [
+      "cơ quan thi hành án hình sự có thẩm quyền",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "rút ngắn thời gian thử thách"
+    ]
+  ]
+}

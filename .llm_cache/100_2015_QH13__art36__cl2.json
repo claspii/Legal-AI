@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người bị phạt cải tạo không giam giữ",
+    "cơ quan",
+    "tổ chức",
+    "ủy ban nhân dân cấp xã",
+    "gia đình người bị kết án"
+  ],
+  "actions": [
+    "giao",
+    "làm việc",
+    "học tập",
+    "cư trú",
+    "giám sát",
+    "giáo dục",
+    "phối hợp"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giao người bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "làm việc"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "học tập"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "cư trú"
+    ],
+    [
+      "cơ quan, tổ chức",
+      "giám sát"
+    ],
+    [
+      "cơ quan, tổ chức",
+      "giáo dục"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "giám sát"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "giáo dục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "giám sát"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "giáo dục"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "tòa án"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "cơ quan, tổ chức"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "ủy ban nhân dân cấp xã"
+    ],
+    [
+      "gia đình người bị kết án",
+      "cơ quan, tổ chức"
+    ],
+    [
+      "gia đình người bị kết án",
+      "ủy ban nhân dân cấp xã"
+    ]
+  ]
+}

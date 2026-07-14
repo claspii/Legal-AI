@@ -1,0 +1,122 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị hại",
+    "người phạm tội",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "vay tài sản",
+    "mượn tài sản",
+    "thuê tài sản",
+    "nhận được tài sản",
+    "dùng thủ đoạn gian dối",
+    "không trả tài sản",
+    "sử dụng tài sản vào mục đích bất hợp pháp",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "vay tài sản"
+    ],
+    [
+      "người",
+      "mượn tài sản"
+    ],
+    [
+      "người",
+      "thuê tài sản"
+    ],
+    [
+      "người",
+      "nhận được tài sản"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn gian dối"
+    ],
+    [
+      "người",
+      "không trả tài sản"
+    ],
+    [
+      "người",
+      "sử dụng tài sản vào mục đích bất hợp pháp"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội lạm dụng tín nhiệm chiếm đoạt tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "tài sản",
+      "vay"
+    ],
+    [
+      "tài sản",
+      "mượn"
+    ],
+    [
+      "tài sản",
+      "thuê"
+    ],
+    [
+      "tài sản",
+      "hợp đồng"
+    ],
+    [
+      "tài sản",
+      "thủ đoạn gian dối"
+    ],
+    [
+      "người bị hại",
+      "tài sản là phương tiện kiếm sống chính"
+    ]
+  ]
+}

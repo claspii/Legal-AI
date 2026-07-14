@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "chiếm đoạt tài sản",
+    "quản lý",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị kết án",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản"
+    ],
+    [
+      "người nào",
+      "quản lý"
+    ],
+    [
+      "người nào",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "xóa án tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "tài sản mà mình có trách nhiệm quản lý"
+    ],
+    [
+      "xử lý kỷ luật",
+      "vi phạm"
+    ],
+    [
+      "kết án",
+      "xóa án tích"
+    ],
+    [
+      "án tích",
+      "vi phạm"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung",
+    "người thừa kế",
+    "nhà nước",
+    "cộng đồng"
+  ],
+  "actions": [
+    "định đoạt tài sản chung",
+    "từ bỏ phần quyền sở hữu",
+    "chết"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung",
+      "định đoạt tài sản chung"
+    ],
+    [
+      "chủ sở hữu chung",
+      "từ bỏ phần quyền sở hữu"
+    ],
+    [
+      "người này",
+      "chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu chung",
+      "bất động sản"
+    ],
+    [
+      "phần quyền sở hữu",
+      "nhà nước"
+    ],
+    [
+      "sở hữu chung của cộng đồng",
+      "chủ sở hữu chung còn lại"
+    ]
+  ]
+}

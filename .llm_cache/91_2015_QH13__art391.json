@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị",
+    "bên được đề nghị"
+  ],
+  "actions": [
+    "chấm dứt đề nghị giao kết hợp đồng",
+    "chấp nhận giao kết hợp đồng",
+    "trả lời không chấp nhận",
+    "thay đổi đề nghị",
+    "rút lại đề nghị",
+    "hủy bỏ đề nghị"
+  ],
+  "actor_actions": [
+    [
+      "bên được đề nghị",
+      "chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "bên được đề nghị",
+      "trả lời không chấp nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đề nghị giao kết hợp đồng",
+      "bên đề nghị"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "bên được đề nghị"
+    ],
+    [
+      "chấm dứt đề nghị giao kết hợp đồng",
+      "hết thời hạn trả lời chấp nhận"
+    ],
+    [
+      "thông báo về việc thay đổi hoặc rút lại đề nghị",
+      "có hiệu lực"
+    ],
+    [
+      "thông báo về việc hủy bỏ đề nghị",
+      "có hiệu lực"
+    ],
+    [
+      "bên đề nghị",
+      "bên được đề nghị"
+    ]
+  ]
+}

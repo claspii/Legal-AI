@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "Tòa án",
+    "các bên"
+  ],
+  "actions": [
+    "ly hôn",
+    "thỏa thuận",
+    "giải quyết tài sản",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "vợ",
+      "yêu cầu"
+    ],
+    [
+      "chồng",
+      "yêu cầu"
+    ],
+    [
+      "hai vợ chồng",
+      "yêu cầu"
+    ],
+    [
+      "Tòa án",
+      "giải quyết tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng theo luật định",
+      "giải quyết tài sản"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo thỏa thuận",
+      "giải quyết tài sản"
+    ],
+    [
+      "ly hôn",
+      "giải quyết tài sản"
+    ]
+  ]
+}

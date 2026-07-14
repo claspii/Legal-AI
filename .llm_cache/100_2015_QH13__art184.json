@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "anh chị em cùng cha mẹ",
+    "anh chị em cùng cha khác mẹ",
+    "anh chị em cùng mẹ khác cha"
+  ],
+  "actions": [
+    "giao cấu",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cấu"
+    ],
+    [
+      "người",
+      "biết rõ người đó cùng dòng máu về trực hệ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cấu",
+      "loạn luân"
+    ],
+    [
+      "người cùng dòng máu về trực hệ",
+      "loạn luân"
+    ],
+    [
+      "anh chị em cùng cha mẹ",
+      "loạn luân"
+    ],
+    [
+      "anh chị em cùng cha khác mẹ",
+      "loạn luân"
+    ],
+    [
+      "anh chị em cùng mẹ khác cha",
+      "loạn luân"
+    ]
+  ]
+}

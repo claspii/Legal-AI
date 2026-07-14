@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "cơ quan nhà nước có thẩm quyền",
+    "hai bên"
+  ],
+  "actions": [
+    "trả lương",
+    "ngừng việc",
+    "thỏa thuận",
+    "di dời địa điểm hoạt động",
+    "bảo đảm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "được trả lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người lao động",
+      "ngừng việc"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền lương ngừng việc",
+      "người lao động"
+    ],
+    [
+      "tiền lương ngừng việc",
+      "người sử dụng lao động"
+    ],
+    [
+      "tiền lương ngừng việc",
+      "mức lương tối thiểu"
+    ],
+    [
+      "ngừng việc",
+      "lỗi của người sử dụng lao động"
+    ],
+    [
+      "ngừng việc",
+      "lỗi của người lao động"
+    ],
+    [
+      "ngừng việc",
+      "sự cố về điện, nước"
+    ],
+    [
+      "ngừng việc",
+      "thiên tai"
+    ],
+    [
+      "ngừng việc",
+      "hỏa hoạn"
+    ]
+  ]
+}

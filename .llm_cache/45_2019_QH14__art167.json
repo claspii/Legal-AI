@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "nhận việc"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "nhận việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "nhận việc về làm tại nhà"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động nữ"
+  ],
+  "actions": [
+    "nghỉ",
+    "hưởng đủ tiền lương"
+  ],
+  "actor_actions": [
+    [
+      "lao động nữ",
+      "nghỉ"
+    ],
+    [
+      "lao động nữ",
+      "hưởng đủ tiền lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian hành kinh",
+      "nghỉ mỗi ngày 30 phút"
+    ],
+    [
+      "thời gian nuôi con dưới 12 tháng tuổi",
+      "nghỉ mỗi ngày 60 phút"
+    ],
+    [
+      "thời gian nghỉ",
+      "hưởng đủ tiền lương"
+    ]
+  ]
+}

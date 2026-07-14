@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan công an",
+    "viện kiểm sát nhân dân",
+    "tòa án nhân dân",
+    "cơ quan hữu quan khác",
+    "cơ quan khác của nhà nước",
+    "tổ chức",
+    "cá nhân",
+    "mọi công dân"
+  ],
+  "actions": [
+    "thực hiện đầy đủ chức năng, nhiệm vụ, quyền hạn",
+    "hướng dẫn, giúp đỡ",
+    "phòng ngừa và đấu tranh chống tội phạm",
+    "giám sát và giáo dục người phạm tội tại cộng đồng",
+    "giáo dục",
+    "nâng cao cảnh giác, ý thức bảo vệ và tuân theo pháp luật",
+    "tôn trọng các quy tắc của cuộc sống xã hội chủ nghĩa",
+    "kịp thời có biện pháp loại trừ nguyên nhân và điều kiện gây ra tội phạm",
+    "tích cực tham gia phòng, chống tội phạm"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan công an",
+      "thực hiện đầy đủ chức năng, nhiệm vụ, quyền hạn"
+    ],
+    [
+      "viện kiểm sát nhân dân",
+      "thực hiện đầy đủ chức năng, nhiệm vụ, quyền hạn"
+    ],
+    [
+      "tòa án nhân dân",
+      "thực hiện đầy đủ chức năng, nhiệm vụ, quyền hạn"
+    ],
+    [
+      "cơ quan hữu quan khác",
+      "thực hiện đầy đủ chức năng, nhiệm vụ, quyền hạn"
+    ],
+    [
+      "cơ quan công an",
+      "hướng dẫn, giúp đỡ"
+    ],
+    [
+      "viện kiểm sát nhân dân",
+      "hướng dẫn, giúp đỡ"
+    ],
+    [
+      "tòa án nhân dân",
+      "hướng dẫn, giúp đỡ"
+    ],
+    [
+      "cơ quan, tổ chức",
+      "giáo dục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phòng ngừa",
+      "đấu tranh chống tội phạm"
+    ],
+    [
+      "giám sát",
+      "giáo dục người phạm tội tại cộng đồng"
+    ],
+    [
+      "cảnh giác",
+      "ý thức bảo vệ và tuân theo pháp luật"
+    ],
+    [
+      "nguyên nhân",
+      "điều kiện gây ra tội phạm"
+    ]
+  ]
+}

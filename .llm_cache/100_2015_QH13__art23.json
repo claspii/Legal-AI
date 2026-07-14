@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [
+    "tình thế cấp thiết"
+  ],
+  "actors": [
+    "người",
+    "nhà nước",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "tránh gây thiệt hại",
+    "gây thiệt hại",
+    "ngăn ngừa",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tránh gây thiệt hại"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình thế cấp thiết",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "tình thế cấp thiết",
+      "tội phạm"
+    ]
+  ]
+}

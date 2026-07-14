@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [
+    "quan hệ dân sự"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "địa vị pháp lý"
+    ],
+    [
+      "pháp nhân",
+      "địa vị pháp lý"
+    ],
+    [
+      "cá nhân",
+      "chuẩn mực pháp lý về cách ứng xử"
+    ],
+    [
+      "pháp nhân",
+      "chuẩn mực pháp lý về cách ứng xử"
+    ],
+    [
+      "cá nhân",
+      "quyền về nhân thân và tài sản"
+    ],
+    [
+      "pháp nhân",
+      "quyền về nhân thân và tài sản"
+    ],
+    [
+      "cá nhân",
+      "nghĩa vụ về nhân thân và tài sản"
+    ],
+    [
+      "pháp nhân",
+      "nghĩa vụ về nhân thân và tài sản"
+    ]
+  ]
+}

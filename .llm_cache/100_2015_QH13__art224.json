@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "nhà thầu",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "quyết định đầu tư xây dựng không đúng quy định",
+    "lập, thẩm định, phê duyệt thiết kế, dự toán, điều chỉnh dự toán, nghiệm thu công trình",
+    "lựa chọn nhà thầu không đủ điều kiện năng lực",
+    "dàn xếp, thông đồng làm sai lệch kết quả lập dự án, khảo sát, thiết kế, giám sát thi công, xây dựng công trình",
+    "gây thiệt hại",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người nào",
+      "quyết định đầu tư xây dựng không đúng quy định"
+    ],
+    [
+      "người nào",
+      "lập, thẩm định, phê duyệt thiết kế, dự toán, điều chỉnh dự toán, nghiệm thu công trình"
+    ],
+    [
+      "người nào",
+      "lựa chọn nhà thầu không đủ điều kiện năng lực để thực hiện hoạt động xây dựng"
+    ],
+    [
+      "người nào",
+      "dàn xếp, thông đồng làm sai lệch kết quả lập dự án, khảo sát, thiết kế, giám sát thi công, xây dựng công trình"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ hoặc làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "thiết kế",
+      "dự toán"
+    ],
+    [
+      "dự án",
+      "khảo sát"
+    ],
+    [
+      "giám sát thi công",
+      "xây dựng công trình"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "tịch thu một phần",
+      "tịch thu toàn bộ tài sản"
+    ]
+  ]
+}

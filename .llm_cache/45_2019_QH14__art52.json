@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [
+    "cho thuê lại lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "doanh nghiệp cho thuê lại lao động"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "chuyển sang làm việc",
+    "chịu sự điều hành",
+    "duy trì quan hệ lao động",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "chuyển sang làm việc"
+    ],
+    [
+      "người lao động",
+      "chịu sự điều hành"
+    ],
+    [
+      "người lao động",
+      "duy trì quan hệ lao động"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cho thuê lại lao động",
+      "người lao động"
+    ],
+    [
+      "cho thuê lại lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "cho thuê lại lao động",
+      "doanh nghiệp cho thuê lại lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "doanh nghiệp cho thuê lại lao động"
+    ],
+    [
+      "hoạt động cho thuê lại lao động",
+      "giấy phép hoạt động cho thuê lại lao động"
+    ]
+  ]
+}

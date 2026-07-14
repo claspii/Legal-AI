@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "bảo đảm việc làm",
+    "nghỉ thai sản",
+    "trở lại làm việc",
+    "cắt giảm tiền lương",
+    "bố trí việc làm khác"
+  ],
+  "actor_actions": [
+    [
+      "lao động",
+      "nghỉ thai sản"
+    ],
+    [
+      "lao động",
+      "trở lại làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí việc làm khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động",
+      "nghỉ thai sản"
+    ],
+    [
+      "việc làm cũ",
+      "việc làm khác"
+    ],
+    [
+      "tiền lương",
+      "quyền, lợi ích"
+    ]
+  ]
+}

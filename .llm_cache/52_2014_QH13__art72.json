@@ -1,0 +1,103 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "nhà trường",
+    "cơ quan",
+    "tổ chức",
+    "cơ quan hữu quan",
+    "tổ chức hữu quan"
+  ],
+  "actions": [
+    "giáo dục",
+    "chăm lo",
+    "tạo điều kiện",
+    "học tập",
+    "sống",
+    "làm gương tốt",
+    "phối hợp",
+    "hướng dẫn",
+    "chọn nghề",
+    "tôn trọng",
+    "tham gia hoạt động",
+    "đề nghị giúp đỡ",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "giáo dục con"
+    ],
+    [
+      "cha mẹ",
+      "chăm lo cho con"
+    ],
+    [
+      "cha mẹ",
+      "tạo điều kiện cho con học tập"
+    ],
+    [
+      "cha mẹ",
+      "tạo điều kiện cho con được sống trong môi trường gia đình đầm ấm, hòa thuận"
+    ],
+    [
+      "cha mẹ",
+      "làm gương tốt cho con về mọi mặt"
+    ],
+    [
+      "cha mẹ",
+      "phối hợp chặt chẽ với nhà trường, cơ quan, tổ chức trong việc giáo dục con"
+    ],
+    [
+      "cha mẹ",
+      "hướng dẫn con chọn nghề"
+    ],
+    [
+      "cha mẹ",
+      "tôn trọng quyền chọn nghề của con"
+    ],
+    [
+      "cha mẹ",
+      "tôn trọng quyền tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội của con"
+    ],
+    [
+      "cha mẹ",
+      "đề nghị cơ quan, tổ chức hữu quan giúp đỡ để thực hiện việc giáo dục con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "nghĩa vụ",
+      "giáo dục con"
+    ],
+    [
+      "quyền",
+      "giáo dục con"
+    ],
+    [
+      "môi trường gia đình đầm ấm",
+      "hòa thuận"
+    ],
+    [
+      "chọn nghề",
+      "quyền chọn nghề"
+    ],
+    [
+      "giáo dục con",
+      "nhà trường"
+    ],
+    [
+      "giáo dục con",
+      "cơ quan"
+    ],
+    [
+      "giáo dục con",
+      "tổ chức"
+    ]
+  ]
+}

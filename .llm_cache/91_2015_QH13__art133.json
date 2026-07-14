@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba ngay tình",
+    "chủ sở hữu",
+    "cơ quan nhà nước có thẩm quyền",
+    "chủ thể có lỗi",
+    "tổ chức có thẩm quyền"
+  ],
+  "actions": [
+    "bảo vệ quyền lợi",
+    "chuyển giao",
+    "đăng ký",
+    "xác lập",
+    "thực hiện",
+    "đòi lại tài sản",
+    "khởi kiện",
+    "yêu cầu hoàn trả"
+  ],
+  "actor_actions": [
+    [
+      "người thứ ba ngay tình",
+      "nhận được tài sản"
+    ],
+    [
+      "người thứ ba ngay tình",
+      "xác lập giao dịch"
+    ],
+    [
+      "chủ sở hữu",
+      "đòi lại tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "khởi kiện"
+    ],
+    [
+      "chủ sở hữu",
+      "yêu cầu hoàn trả"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "đăng ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự vô hiệu",
+      "người thứ ba ngay tình"
+    ],
+    [
+      "tài sản không phải đăng ký",
+      "chuyển giao"
+    ],
+    [
+      "tài sản đã được đăng ký",
+      "giao dịch dân sự khác"
+    ],
+    [
+      "tài sản phải đăng ký",
+      "chưa được đăng ký"
+    ],
+    [
+      "giao dịch dân sự",
+      "có hiệu lực"
+    ],
+    [
+      "giao dịch dân sự",
+      "bị vô hiệu"
+    ]
+  ]
+}

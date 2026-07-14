@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị hại",
+    "gia đình"
+  ],
+  "actions": [
+    "trộm cắp tài sản",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "xử phạt vi phạm hành chính",
+    "chiếm đoạt tài sản",
+    "bị kết án",
+    "xóa án tích",
+    "gây ảnh hưởng xấu"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trộm cắp tài sản"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "gây ảnh hưởng xấu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "người khác"
+    ],
+    [
+      "tài sản",
+      "phương tiện kiếm sống chính"
+    ],
+    [
+      "tài sản",
+      "kỷ vật"
+    ],
+    [
+      "tài sản",
+      "di vật"
+    ],
+    [
+      "tài sản",
+      "đồ thờ cúng"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ]
+  ]
+}

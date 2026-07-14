@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+    "người"
+  ],
+  "actions": [
+    "tổ chức đua xe trái phép",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "người tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+      "gây thương tích"
+    ],
+    [
+      "người tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đua xe trái phép",
+      "đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt tù từ 01 năm đến 06 năm"
+    ]
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người tổ chức đánh bạc hoặc gá bạc",
+    "người canh gác",
+    "người phục vụ",
+    "người tham gia đánh bạc",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tổ chức đánh bạc",
+    "gá bạc",
+    "sử dụng địa điểm",
+    "cho đánh bạc",
+    "cầm cố tài sản",
+    "lắp đặt trang thiết bị",
+    "phân công",
+    "sắp đặt lối thoát",
+    "sử dụng phương tiện",
+    "trợ giúp cho việc đánh bạc",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "phạt tiền",
+    "phạt tù",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "tổ chức đánh bạc"
+    ],
+    [
+      "người nào",
+      "gá bạc"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "tổ chức địa điểm"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "sử dụng địa điểm"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "cho 10 người đánh bạc trở lên"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "tổ chức nơi cầm cố tài sản"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "lắp đặt trang thiết bị"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "phân công người canh gác"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "phân công người phục vụ"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "sắp đặt lối thoát"
+    ],
+    [
+      "người tổ chức đánh bạc hoặc gá bạc",
+      "sử dụng phương tiện để trợ giúp"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đánh bạc",
+      "gá bạc"
+    ],
+    [
+      "số tiền dùng đánh bạc",
+      "hiện vật dùng đánh bạc"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "hành vi này",
+      "điều 321 của bộ luật này"
+    ],
+    [
+      "án tích",
+      "chưa được xóa án tích"
+    ]
+  ]
+}

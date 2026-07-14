@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn gây ảnh hưởng đối với người khác để trục lợi",
+    "phạm tội",
+    "bị phạt tù",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người khác",
+      "lợi dụng chức vụ, quyền hạn gây ảnh hưởng đối với người khác để trục lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ, quyền hạn",
+      "trục lợi"
+    ],
+    [
+      "tiền",
+      "trị giá"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "lợi ích vật chất khác",
+      "trị giá"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "gây thiệt hại"
+    ]
+  ]
+}

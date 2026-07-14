@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ luật hình sự",
+    "quốc gia",
+    "đất nước",
+    "chế độ xã hội chủ nghĩa",
+    "nhà nước",
+    "tổ chức",
+    "đồng bào các dân tộc",
+    "mọi người"
+  ],
+  "actions": [
+    "bảo vệ",
+    "chống",
+    "giáo dục",
+    "phòng ngừa",
+    "đấu tranh",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật hình sự",
+      "bảo vệ chủ quyền quốc gia"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ an ninh của đất nước"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ chế độ xã hội chủ nghĩa"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ quyền con người"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ quyền công dân"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ quyền bình đẳng giữa đồng bào các dân tộc"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ lợi ích của nhà nước"
+    ],
+    [
+      "bộ luật hình sự",
+      "bảo vệ lợi ích của tổ chức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ quyền quốc gia",
+      "an ninh của đất nước"
+    ],
+    [
+      "quyền con người",
+      "quyền công dân"
+    ],
+    [
+      "phòng ngừa",
+      "đấu tranh chống tội phạm"
+    ],
+    [
+      "tội phạm",
+      "hình phạt"
+    ],
+    [
+      "bộ luật hình sự",
+      "nhiệm vụ"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người lao động",
+    "người làm việc không có quan hệ lao động",
+    "người sử dụng lao động",
+    "lao động nữ",
+    "lao động là người khuyết tật",
+    "người lao động cao tuổi",
+    "lao động chưa thành niên"
+  ],
+  "actions": [
+    "bảo đảm",
+    "khuyến khích",
+    "tạo điều kiện thuận lợi",
+    "có chính sách",
+    "thúc đẩy",
+    "quy định chế độ lao động và chính sách xã hội",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo đảm quyền và lợi ích hợp pháp, chính đáng của người lao động"
+    ],
+    [
+      "nhà nước",
+      "khuyến khích những thỏa thuận bảo đảm cho người lao động có điều kiện thuận lợi hơn so với quy định của pháp luật về lao động"
+    ],
+    [
+      "nhà nước",
+      "tạo điều kiện thuận lợi đối với hoạt động tạo việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm"
+    ],
+    [
+      "nhà nước",
+      "có chính sách phát triển, phân bố nguồn nhân lực"
+    ],
+    [
+      "nhà nước",
+      "thúc đẩy người lao động và người sử dụng lao động đối thoại, thương lượng tập thể"
+    ],
+    [
+      "nhà nước",
+      "bảo đảm bình đẳng giới"
+    ],
+    [
+      "nhà nước",
+      "quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền và lợi ích hợp pháp",
+      "người lao động"
+    ],
+    [
+      "quyền và lợi ích hợp pháp",
+      "người sử dụng lao động"
+    ],
+    [
+      "chính sách của nhà nước",
+      "lao động"
+    ],
+    [
+      "tạo việc làm",
+      "tự tạo việc làm"
+    ],
+    [
+      "đào tạo",
+      "bồi dưỡng"
+    ],
+    [
+      "trình độ",
+      "kỹ năng nghề"
+    ],
+    [
+      "thị trường lao động",
+      "hình thức kết nối cung, cầu lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "tiến bộ, hài hòa và ổn định"
+    ]
+  ]
+}

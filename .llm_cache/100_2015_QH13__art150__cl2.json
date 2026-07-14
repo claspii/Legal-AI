@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "phạm tội",
+    "mua bán người",
+    "gây rối loạn tâm thần và hành vi",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "đưa ra khỏi biên giới"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua bán người",
+      "tâm thần"
+    ],
+    [
+      "mua bán người",
+      "hành vi"
+    ],
+    [
+      "mua bán người",
+      "thương tích"
+    ],
+    [
+      "mua bán người",
+      "sức khỏe"
+    ],
+    [
+      "nạn nhân",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "nạn nhân",
+      "rối loạn tâm thần và hành vi"
+    ]
+  ]
+}

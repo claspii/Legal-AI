@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người chịu trách nhiệm trực tiếp",
+    "phương tiện giao thông cơ giới đường bộ",
+    "xe máy chuyên dùng"
+  ],
+  "actions": [
+    "đưa vào sử dụng",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "cho phép đưa vào sử dụng phương tiện giao thông cơ giới đường bộ không bảo đảm tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "cho phép đưa vào sử dụng xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông cơ giới đường bộ",
+      "tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "xe máy chuyên dùng",
+      "tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "doanh nghiệp cho thuê lại lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "ký quỹ",
+    "được cấp giấy phép hoạt động cho thuê lại lao động",
+    "quy định",
+    "cấp lại",
+    "gia hạn",
+    "thu hồi"
+  ],
+  "actor_actions": [
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "ký quỹ"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "được cấp giấy phép hoạt động cho thuê lại lao động"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ký quỹ",
+      "giấy phép hoạt động cho thuê lại lao động"
+    ],
+    [
+      "điều kiện",
+      "giấy phép hoạt động cho thuê lại lao động"
+    ],
+    [
+      "trình tự, thủ tục cấp",
+      "giấy phép hoạt động cho thuê lại lao động"
+    ],
+    [
+      "danh mục công việc",
+      "cho thuê lại lao động"
+    ]
+  ]
+}

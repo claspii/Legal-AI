@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chuyển giao quyền yêu cầu",
+    "người thế quyền"
+  ],
+  "actions": [
+    "cung cấp thông tin cần thiết",
+    "chuyển giao giấy tờ có liên quan",
+    "vi phạm nghĩa vụ",
+    "gây thiệt hại",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người chuyển giao quyền yêu cầu",
+      "cung cấp thông tin cần thiết"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "chuyển giao giấy tờ có liên quan"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "gây thiệt hại"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chuyển giao quyền yêu cầu",
+      "người thế quyền"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thiệt hại",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thông tin cần thiết",
+      "giấy tờ có liên quan"
+    ]
+  ]
+}

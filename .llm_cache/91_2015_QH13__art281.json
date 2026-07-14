@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ phải thực hiện một công việc",
+    "nghĩa vụ không được thực hiện một công việc"
+  ],
+  "actors": [
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "thực hiện công việc"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "phải thực hiện đúng công việc"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không được thực hiện công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ phải thực hiện một công việc",
+      "thực hiện đúng công việc"
+    ],
+    [
+      "nghĩa vụ không được thực hiện một công việc",
+      "không được thực hiện công việc"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan chức năng có thẩm quyền"
+  ],
+  "actions": [
+    "trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+    "giáo dục",
+    "tạo điều kiện ổn định cuộc sống",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạm tội",
+    "phá bỏ",
+    "giao nộp",
+    "thu hoạch",
+    "miễn trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy"
+    ],
+    [
+      "người",
+      "giáo dục"
+    ],
+    [
+      "người",
+      "tạo điều kiện ổn định cuộc sống"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "tự nguyện phá bỏ"
+    ],
+    [
+      "người",
+      "giao nộp"
+    ],
+    [
+      "cơ quan chức năng có thẩm quyền",
+      "thu hoạch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+      "bị phạt tù"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "tự nguyện phá bỏ, giao nộp",
+      "miễn trách nhiệm hình sự"
+    ]
+  ]
+}

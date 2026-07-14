@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phát hiện",
+    "chủ sở hữu",
+    "ủy ban nhân dân cấp xã",
+    "công an cấp xã",
+    "nhà nước",
+    "người nhặt được"
+  ],
+  "actions": [
+    "thông báo",
+    "trả lại",
+    "giao nộp",
+    "nhận lại",
+    "xác định chủ sở hữu",
+    "xác lập quyền sở hữu",
+    "hưởng giá trị"
+  ],
+  "actor_actions": [
+    [
+      "người phát hiện",
+      "thông báo"
+    ],
+    [
+      "người phát hiện",
+      "trả lại"
+    ],
+    [
+      "người phát hiện",
+      "giao nộp"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "thông báo"
+    ],
+    [
+      "công an cấp xã",
+      "thông báo"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "xác định chủ sở hữu"
+    ],
+    [
+      "công an cấp xã",
+      "xác định chủ sở hữu"
+    ],
+    [
+      "người nhặt được",
+      "xác lập quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản do người khác đánh rơi",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản do người khác bỏ quên",
+      "quyền sở hữu"
+    ],
+    [
+      "người phát hiện",
+      "tài sản do người khác đánh rơi, bỏ quên"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "tài sản do người khác đánh rơi, bỏ quên"
+    ],
+    [
+      "công an cấp xã",
+      "tài sản do người khác đánh rơi, bỏ quên"
+    ],
+    [
+      "tài sản có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở",
+      "người nhặt được"
+    ],
+    [
+      "tài sản có giá trị lớn hơn mười lần mức lương cơ sở",
+      "nhà nước"
+    ],
+    [
+      "tài sản bị đánh rơi, bị bỏ quên là tài sản thuộc di tích lịch sử - văn hóa",
+      "nhà nước"
+    ]
+  ]
+}

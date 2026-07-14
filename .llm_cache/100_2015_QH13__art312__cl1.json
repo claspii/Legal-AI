@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc",
+    "làm chết",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc"
+    ],
+    [
+      "người nào",
+      "làm chết"
+    ],
+    [
+      "người nào",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất cháy",
+      "chất độc"
+    ],
+    [
+      "làm chết",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "vi phạm quy định về quản lý chất cháy, chất độc",
+      "phạt tù"
+    ]
+  ]
+}

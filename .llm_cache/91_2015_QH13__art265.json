@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng dụng",
+    "các bên",
+    "chủ sở hữu tài sản",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt",
+    "trở thành",
+    "từ bỏ",
+    "không thực hiện",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người hưởng dụng",
+      "trở thành"
+    ],
+    [
+      "người hưởng dụng",
+      "từ bỏ"
+    ],
+    [
+      "người hưởng dụng",
+      "không thực hiện"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền hưởng dụng",
+      "tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "chủ sở hữu tài sản"
+    ]
+  ]
+}

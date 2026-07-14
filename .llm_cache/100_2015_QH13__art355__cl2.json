@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có công với cách mạng"
+  ],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "lạm dụng chức vụ, quyền hạn"
+    ],
+    [
+      "tài sản",
+      "tiền"
+    ],
+    [
+      "xóa đói",
+      "giảm nghèo"
+    ],
+    [
+      "thiên tai",
+      "dịch bệnh"
+    ]
+  ]
+}

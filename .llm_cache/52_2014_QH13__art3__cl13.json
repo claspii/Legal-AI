@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [
+    "thời kỳ hôn nhân"
+  ],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "tồn tại",
+    "đăng ký kết hôn",
+    "chấm dứt hôn nhân"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thời kỳ hôn nhân",
+      "quan hệ vợ chồng"
+    ],
+    [
+      "thời kỳ hôn nhân",
+      "ngày đăng ký kết hôn"
+    ],
+    [
+      "thời kỳ hôn nhân",
+      "ngày chấm dứt hôn nhân"
+    ]
+  ]
+}

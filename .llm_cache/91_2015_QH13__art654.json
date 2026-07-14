@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con riêng",
+    "bố dượng",
+    "mẹ kế",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "chăm sóc",
+    "nuôi dưỡng",
+    "thừa kế di sản"
+  ],
+  "actor_actions": [
+    [
+      "con riêng",
+      "thừa kế di sản"
+    ],
+    [
+      "bố dượng",
+      "thừa kế di sản"
+    ],
+    [
+      "mẹ kế",
+      "thừa kế di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con riêng",
+      "bố dượng"
+    ],
+    [
+      "con riêng",
+      "mẹ kế"
+    ],
+    [
+      "chăm sóc",
+      "nuôi dưỡng"
+    ],
+    [
+      "bố dượng",
+      "cha"
+    ],
+    [
+      "mẹ kế",
+      "mẹ"
+    ],
+    [
+      "thừa kế di sản",
+      "thừa kế theo pháp luật"
+    ]
+  ]
+}

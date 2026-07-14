@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người mang thai hộ",
+    "bên nhờ mang thai hộ"
+  ],
+  "actions": [
+    "hưởng chế độ thai sản",
+    "giao đứa trẻ",
+    "sinh con",
+    "không tính"
+  ],
+  "actor_actions": [
+    [
+      "người mang thai hộ",
+      "hưởng chế độ thai sản"
+    ],
+    [
+      "người mang thai hộ",
+      "giao đứa trẻ"
+    ],
+    [
+      "người mang thai hộ",
+      "sinh con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người mang thai hộ",
+      "chế độ thai sản"
+    ],
+    [
+      "chế độ thai sản",
+      "pháp luật về lao động"
+    ],
+    [
+      "chế độ thai sản",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "sinh con",
+      "chính sách dân số và kế hoạch hóa gia đình"
+    ]
+  ]
+}

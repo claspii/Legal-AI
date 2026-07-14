@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "vi phạm quy định",
+    "săn bắt",
+    "giết",
+    "nuôi",
+    "nhốt",
+    "vận chuyển",
+    "buôn bán",
+    "tàng trữ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định"
+    ],
+    [
+      "người",
+      "săn bắt"
+    ],
+    [
+      "người",
+      "giết"
+    ],
+    [
+      "người",
+      "nuôi"
+    ],
+    [
+      "người",
+      "nhốt"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động vật nguy cấp, quý, hiếm",
+      "bảo vệ"
+    ],
+    [
+      "động vật nguy cấp, quý, hiếm",
+      "quản lý"
+    ],
+    [
+      "săn bắt",
+      "động vật"
+    ],
+    [
+      "giết",
+      "động vật"
+    ],
+    [
+      "nuôi",
+      "động vật"
+    ],
+    [
+      "nhốt",
+      "động vật"
+    ],
+    [
+      "vận chuyển",
+      "động vật"
+    ],
+    [
+      "buôn bán",
+      "động vật"
+    ]
+  ]
+}

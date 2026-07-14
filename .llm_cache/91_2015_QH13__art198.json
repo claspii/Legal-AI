@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "chính phủ",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "thực hiện quyền",
+    "đại diện",
+    "thống nhất quản lý",
+    "bảo đảm sử dụng đúng mục đích",
+    "bảo đảm sử dụng hiệu quả",
+    "bảo đảm sử dụng tiết kiệm"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "đại diện"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "thực hiện quyền của chủ sở hữu"
+    ],
+    [
+      "chính phủ",
+      "thống nhất quản lý"
+    ],
+    [
+      "chính phủ",
+      "bảo đảm sử dụng đúng mục đích"
+    ],
+    [
+      "chính phủ",
+      "bảo đảm sử dụng hiệu quả"
+    ],
+    [
+      "chính phủ",
+      "bảo đảm sử dụng tiết kiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "chính phủ",
+      "tài sản thuộc sở hữu toàn dân"
+    ]
+  ]
+}

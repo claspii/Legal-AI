@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "người được giám hộ",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "tòa án"
+  ],
+  "actions": [
+    "chăm sóc",
+    "bảo đảm việc điều trị bệnh",
+    "đại diện trong các giao dịch dân sự",
+    "quản lý tài sản",
+    "bảo vệ quyền, lợi ích hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ của người mất năng lực hành vi dân sự",
+      "chăm sóc"
+    ],
+    [
+      "người giám hộ của người mất năng lực hành vi dân sự",
+      "bảo đảm việc điều trị bệnh cho người được giám hộ"
+    ],
+    [
+      "người giám hộ của người mất năng lực hành vi dân sự",
+      "đại diện cho người được giám hộ trong các giao dịch dân sự"
+    ],
+    [
+      "người giám hộ của người mất năng lực hành vi dân sự",
+      "quản lý tài sản của người được giám hộ"
+    ],
+    [
+      "người giám hộ của người mất năng lực hành vi dân sự",
+      "bảo vệ quyền, lợi ích hợp pháp của người được giám hộ"
+    ],
+    [
+      "người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi",
+      "thực hiện nghĩa vụ theo quyết định của tòa án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "người được giám hộ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người được giám hộ",
+      "người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "nghĩa vụ",
+      "người giám hộ"
+    ]
+  ]
+}

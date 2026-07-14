@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán"
+  ],
+  "actions": [
+    "yêu cầu thực hiện các biện pháp bảo hành",
+    "yêu cầu bồi thường thiệt hại",
+    "chứng minh",
+    "giảm mức bồi thường thiệt hại",
+    "áp dụng các biện pháp cần thiết",
+    "ngăn chặn, hạn chế thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên mua",
+      "yêu cầu thực hiện các biện pháp bảo hành"
+    ],
+    [
+      "bên mua",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên bán",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên bán",
+      "chứng minh"
+    ],
+    [
+      "bên bán",
+      "giảm mức bồi thường thiệt hại"
+    ],
+    [
+      "bên mua",
+      "áp dụng các biện pháp cần thiết"
+    ],
+    [
+      "bên mua",
+      "ngăn chặn, hạn chế thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "thời hạn bảo hành"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "khuyết tật về kỹ thuật của vật"
+    ],
+    [
+      "thiệt hại",
+      "lỗi của bên mua"
+    ],
+    [
+      "giảm mức bồi thường thiệt hại",
+      "không áp dụng các biện pháp cần thiết"
+    ]
+  ]
+}

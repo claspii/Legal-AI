@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan chuyên môn về lao động",
+    "ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "xây dựng kế hoạch hằng năm",
+    "dành kinh phí",
+    "đào tạo",
+    "bồi dưỡng",
+    "nâng cao trình độ, kỹ năng nghề",
+    "phát triển kỹ năng nghề",
+    "thông báo kết quả"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "xây dựng kế hoạch hằng năm"
+    ],
+    [
+      "người sử dụng lao động",
+      "dành kinh phí"
+    ],
+    [
+      "người sử dụng lao động",
+      "đào tạo"
+    ],
+    [
+      "người sử dụng lao động",
+      "bồi dưỡng"
+    ],
+    [
+      "người sử dụng lao động",
+      "nâng cao trình độ, kỹ năng nghề"
+    ],
+    [
+      "người sử dụng lao động",
+      "phát triển kỹ năng nghề"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo kết quả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đào tạo",
+      "người lao động"
+    ],
+    [
+      "bồi dưỡng",
+      "người lao động"
+    ],
+    [
+      "nâng cao trình độ, kỹ năng nghề",
+      "người lao động"
+    ],
+    [
+      "phát triển kỹ năng nghề",
+      "người lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động",
+      "ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

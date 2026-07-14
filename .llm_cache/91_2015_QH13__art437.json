@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "giao tài sản",
+    "nhận",
+    "thanh toán",
+    "giao tiếp",
+    "yêu cầu bồi thường thiệt hại",
+    "hủy bỏ hợp đồng",
+    "giao kết hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "giao tài sản"
+    ],
+    [
+      "bên mua",
+      "nhận"
+    ],
+    [
+      "bên mua",
+      "thanh toán"
+    ],
+    [
+      "bên mua",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên mua",
+      "hủy bỏ hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "số lượng nhiều hơn",
+      "thanh toán"
+    ],
+    [
+      "số lượng ít hơn",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "hợp đồng",
+      "bên bán"
+    ],
+    [
+      "hợp đồng",
+      "bên mua"
+    ],
+    [
+      "tài sản",
+      "số lượng"
+    ],
+    [
+      "hợp đồng",
+      "mục đích giao kết"
+    ],
+    [
+      "bên bán",
+      "bên mua"
+    ]
+  ]
+}

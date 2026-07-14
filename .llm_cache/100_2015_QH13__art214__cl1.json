@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "cơ quan bảo hiểm xã hội"
+  ],
+  "actions": [
+    "chiếm đoạt tiền bảo hiểm xã hội",
+    "chiếm đoạt tiền bảo hiểm thất nghiệp",
+    "gây thiệt hại",
+    "lập hồ sơ giả",
+    "làm sai lệch nội dung hồ sơ bảo hiểm xã hội",
+    "làm sai lệch nội dung hồ sơ bảo hiểm thất nghiệp",
+    "dùng hồ sơ giả",
+    "dùng hồ sơ đã bị làm sai lệch nội dung"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chiếm đoạt tiền bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt tiền bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "lập hồ sơ giả"
+    ],
+    [
+      "người nào",
+      "làm sai lệch nội dung hồ sơ bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "làm sai lệch nội dung hồ sơ bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "dùng hồ sơ giả"
+    ],
+    [
+      "người nào",
+      "dùng hồ sơ đã bị làm sai lệch nội dung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "hồ sơ bảo hiểm xã hội",
+      "hồ sơ bảo hiểm thất nghiệp"
+    ],
+    [
+      "tiền bảo hiểm xã hội",
+      "tiền bảo hiểm thất nghiệp"
+    ],
+    [
+      "hồ sơ giả",
+      "hồ sơ đã bị làm sai lệch nội dung"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [
+    "vi phạm nghiêm trọng"
+  ],
+  "actors": [
+    "một bên",
+    "bên kia"
+  ],
+  "actions": [
+    "hủy bỏ hợp đồng",
+    "bồi thường thiệt hại",
+    "thỏa thuận",
+    "vi phạm hợp đồng",
+    "không đạt được mục đích của việc giao kết hợp đồng",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "một bên",
+      "không phải bồi thường thiệt hại"
+    ],
+    [
+      "bên kia",
+      "vi phạm hợp đồng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên hủy bỏ hợp đồng",
+      "thông báo"
+    ],
+    [
+      "bên hủy bỏ hợp đồng",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hủy bỏ hợp đồng",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "vi phạm hợp đồng",
+      "điều kiện hủy bỏ"
+    ],
+    [
+      "vi phạm nghiêm trọng nghĩa vụ hợp đồng",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "vi phạm nghiêm trọng",
+      "không đạt được mục đích của việc giao kết hợp đồng"
+    ],
+    [
+      "không thông báo",
+      "gây thiệt hại"
+    ],
+    [
+      "không thông báo",
+      "phải bồi thường"
+    ]
+  ]
+}

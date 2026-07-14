@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "cướp giật tài sản",
+    "chiếm đoạt tài sản",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "làm chết người",
+    "lợi dụng hoàn cảnh chiến tranh",
+    "lợi dụng tình trạng khẩn cấp"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "trị giá 500.000.000 đồng trở lên"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên",
+      "tỷ lệ tổn thương cơ thể của mỗi người 31% trở lên"
+    ],
+    [
+      "hoàn cảnh chiến tranh",
+      "tình trạng khẩn cấp"
+    ]
+  ]
+}

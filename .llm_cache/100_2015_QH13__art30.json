@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [
+    "hình phạt"
+  ],
+  "actors": [
+    "nhà nước",
+    "tòa án",
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "quyết định áp dụng",
+    "phạm tội",
+    "tước bỏ quyền",
+    "hạn chế quyền",
+    "tước bỏ lợi ích",
+    "hạn chế lợi ích"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định áp dụng"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "biện pháp cưỡng chế"
+    ],
+    [
+      "hình phạt",
+      "tòa án"
+    ],
+    [
+      "hình phạt",
+      "người phạm tội"
+    ],
+    [
+      "hình phạt",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "hình phạt",
+      "tước bỏ quyền"
+    ],
+    [
+      "hình phạt",
+      "hạn chế quyền"
+    ],
+    [
+      "hình phạt",
+      "tước bỏ lợi ích"
+    ],
+    [
+      "hình phạt",
+      "hạn chế lợi ích"
+    ]
+  ]
+}

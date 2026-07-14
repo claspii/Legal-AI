@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt vật liệu nổ",
+    "phạt tù",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chế tạo"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "sử dụng"
+    ],
+    [
+      "người nào",
+      "mua bán trái phép"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt vật liệu nổ"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "phạt quản chế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế tạo",
+      "vật liệu nổ"
+    ],
+    [
+      "tàng trữ",
+      "vật liệu nổ"
+    ],
+    [
+      "vận chuyển",
+      "vật liệu nổ"
+    ],
+    [
+      "sử dụng",
+      "vật liệu nổ"
+    ],
+    [
+      "mua bán trái phép",
+      "vật liệu nổ"
+    ],
+    [
+      "chiếm đoạt",
+      "vật liệu nổ"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ]
+  ]
+}

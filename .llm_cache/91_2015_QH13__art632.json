@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người làm chứng",
+    "người thừa kế theo di chúc",
+    "người thừa kế theo pháp luật",
+    "người lập di chúc",
+    "người có quyền, nghĩa vụ tài sản",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi"
+  ],
+  "actions": [
+    "làm chứng cho việc lập di chúc",
+    "lập di chúc"
+  ],
+  "actor_actions": [
+    [
+      "mọi người",
+      "làm chứng cho việc lập di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người làm chứng cho việc lập di chúc",
+      "người lập di chúc"
+    ],
+    [
+      "người thừa kế theo di chúc",
+      "người lập di chúc"
+    ],
+    [
+      "người thừa kế theo pháp luật",
+      "người lập di chúc"
+    ],
+    [
+      "người có quyền, nghĩa vụ tài sản",
+      "nội dung di chúc"
+    ]
+  ]
+}

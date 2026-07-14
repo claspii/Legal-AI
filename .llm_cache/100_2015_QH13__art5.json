@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ luật hình sự",
+    "người nước ngoài",
+    "cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actions": [
+    "áp dụng",
+    "thực hiện",
+    "xảy ra",
+    "phạm tội",
+    "được hưởng quyền miễn trừ ngoại giao hoặc lãnh sự",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật hình sự",
+      "áp dụng"
+    ],
+    [
+      "người nước ngoài",
+      "phạm tội"
+    ],
+    [
+      "người nước ngoài",
+      "được hưởng quyền miễn trừ ngoại giao hoặc lãnh sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi phạm tội",
+      "lãnh thổ nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "hành vi phạm tội",
+      "tàu bay mang quốc tịch việt nam"
+    ],
+    [
+      "hành vi phạm tội",
+      "tàu biển mang quốc tịch việt nam"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "điều ước quốc tế"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tập quán quốc tế"
+    ],
+    [
+      "quyền miễn trừ ngoại giao hoặc lãnh sự",
+      "pháp luật việt nam"
+    ]
+  ]
+}

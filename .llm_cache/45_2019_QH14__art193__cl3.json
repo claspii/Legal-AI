@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "ban trọng tài",
+    "các bên tranh chấp",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "ra quyết định",
+    "gửi",
+    "lập biên bản",
+    "chuyển hồ sơ, tài liệu",
+    "xem xét, xử lý"
+  ],
+  "actor_actions": [
+    [
+      "ban trọng tài",
+      "ra quyết định về việc giải quyết tranh chấp"
+    ],
+    [
+      "ban trọng tài",
+      "gửi cho các bên tranh chấp"
+    ],
+    [
+      "ban trọng tài lao động",
+      "lập biên bản"
+    ],
+    [
+      "ban trọng tài lao động",
+      "chuyển hồ sơ, tài liệu"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "xem xét, xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể"
+    ],
+    [
+      "ban trọng tài",
+      "ra quyết định giải quyết tranh chấp"
+    ],
+    [
+      "tranh chấp quy định tại điểm b và điểm c khoản 2 điều 179",
+      "hành vi vi phạm pháp luật"
+    ]
+  ]
+}

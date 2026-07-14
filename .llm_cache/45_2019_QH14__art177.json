@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "cản trở",
+    "gây khó khăn",
+    "tiến hành hoạt động hợp pháp",
+    "thành lập",
+    "gia nhập",
+    "tham gia",
+    "công nhận",
+    "tôn trọng",
+    "thỏa thuận",
+    "đơn phương chấm dứt hợp đồng lao động",
+    "chuyển làm công việc khác",
+    "kỷ luật sa thải",
+    "báo cáo",
+    "gia hạn hợp đồng lao động",
+    "yêu cầu giải quyết tranh chấp lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không được cản trở"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được gây khó khăn"
+    ],
+    [
+      "người lao động",
+      "tiến hành các hoạt động hợp pháp"
+    ],
+    [
+      "người sử dụng lao động",
+      "công nhận"
+    ],
+    [
+      "người sử dụng lao động",
+      "tôn trọng"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải thỏa thuận bằng văn bản"
+    ],
+    [
+      "hai bên",
+      "phải báo cáo"
+    ],
+    [
+      "người sử dụng lao động",
+      "mới có quyền quyết định"
+    ],
+    [
+      "người lao động",
+      "có quyền yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "có quyền yêu cầu giải quyết tranh chấp lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người sử dụng lao động",
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "áp dụng pháp luật nước ngoài",
+    "dẫn chiếu",
+    "áp dụng",
+    "không xác định được"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "pháp luật nước ngoài",
+      "áp dụng pháp luật nước ngoài"
+    ],
+    [
+      "pháp luật nước ngoài",
+      "nguyên tắc cơ bản của pháp luật việt nam"
+    ],
+    [
+      "pháp luật nước ngoài",
+      "pháp luật tố tụng"
+    ],
+    [
+      "pháp luật nước ngoài",
+      "pháp luật việt nam"
+    ]
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung theo phần",
+    "chủ sở hữu chung",
+    "người thừa kế",
+    "tòa án",
+    "bên có lỗi",
+    "nhà nước"
+  ],
+  "actions": [
+    "định đoạt phần quyền sở hữu",
+    "định đoạt tài sản chung hợp nhất",
+    "bán phần quyền sở hữu",
+    "mua",
+    "thông báo",
+    "yêu cầu",
+    "chuyển sang quyền và nghĩa vụ",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "mỗi chủ sở hữu chung theo phần",
+      "định đoạt phần quyền sở hữu của mình"
+    ],
+    [
+      "chủ sở hữu chung",
+      "thỏa thuận"
+    ],
+    [
+      "một chủ sở hữu chung theo phần",
+      "bán phần quyền sở hữu của mình"
+    ],
+    [
+      "chủ sở hữu chung khác",
+      "được quyền ưu tiên mua"
+    ],
+    [
+      "chủ sở hữu đó",
+      "được quyền bán cho người khác"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "yêu cầu tòa án chuyển sang cho mình quyền và nghĩa vụ của người mua"
+    ],
+    [
+      "bên có lỗi",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "một trong các chủ sở hữu chung đối với bất động sản",
+      "từ bỏ phần quyền sở hữu của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu chung theo phần",
+      "phần quyền sở hữu của mình"
+    ],
+    [
+      "tài sản chung hợp nhất",
+      "thỏa thuận của các chủ sở hữu chung"
+    ],
+    [
+      "tài sản chung là bất động sản",
+      "03 tháng"
+    ],
+    [
+      "tài sản chung là động sản",
+      "01 tháng"
+    ],
+    [
+      "vi phạm về quyền ưu tiên mua",
+      "03 tháng"
+    ],
+    [
+      "phần quyền sở hữu của mình",
+      "nhà nước"
+    ],
+    [
+      "sở hữu chung của cộng đồng",
+      "sở hữu chung của các chủ sở hữu chung còn lại"
+    ],
+    [
+      "tất cả các chủ sở hữu từ bỏ quyền sở hữu của mình đối với tài sản chung",
+      "xác lập quyền sở hữu được áp dụng theo quy định tại điều 228 của bộ luật này"
+    ]
+  ]
+}

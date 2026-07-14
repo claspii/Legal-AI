@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "tổ chức",
+    "cơ quan"
+  ],
+  "actions": [
+    "vận chuyển trái phép",
+    "sản xuất",
+    "mua bán",
+    "tàng trữ",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa",
+    "sử dụng",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vận chuyển trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "còn vi phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vận chuyển trái phép chất ma túy",
+      "sản xuất"
+    ],
+    [
+      "vận chuyển trái phép chất ma túy",
+      "mua bán"
+    ],
+    [
+      "vận chuyển trái phép chất ma túy",
+      "tàng trữ"
+    ],
+    [
+      "vận chuyển trái phép chất ma túy",
+      "chất ma túy"
+    ],
+    [
+      "chất ma túy",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy",
+      "thể tích"
+    ],
+    [
+      "phạt tù",
+      "thời hạn"
+    ]
+  ]
+}

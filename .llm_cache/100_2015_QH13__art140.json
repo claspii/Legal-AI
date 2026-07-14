@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "phụ nữ",
+    "người già yếu",
+    "người ốm đau",
+    "người không có khả năng tự vệ"
+  ],
+  "actions": [
+    "đối xử tàn ác",
+    "làm nhục",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "gây rối loạn tâm thần và hành vi"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đối xử tàn ác"
+    ],
+    [
+      "người",
+      "làm nhục"
+    ],
+    [
+      "người",
+      "gây rối loạn tâm thần và hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đối xử tàn ác",
+      "làm nhục"
+    ],
+    [
+      "người lệ thuộc",
+      "nạn nhân"
+    ]
+  ]
+}

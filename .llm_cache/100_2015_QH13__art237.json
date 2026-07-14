@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "vi phạm quy định về phòng ngừa sự cố môi trường",
+    "xảy ra sự cố môi trường",
+    "vi phạm quy định về ứng phó, khắc phục sự cố môi trường",
+    "làm môi trường bị ô nhiễm nghiêm trọng",
+    "gây tổn hại cho sức khỏe của người khác",
+    "gây thiệt hại",
+    "làm chết người",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phòng ngừa sự cố môi trường",
+      "sự cố môi trường"
+    ],
+    [
+      "ứng phó",
+      "khắc phục sự cố môi trường"
+    ],
+    [
+      "sức khỏe của người khác",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm kinh doanh",
+      "cấm hoạt động"
+    ]
+  ]
+}

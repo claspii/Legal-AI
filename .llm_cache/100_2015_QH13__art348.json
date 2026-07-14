@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tổ chức",
+    "môi giới",
+    "xuất cảnh",
+    "nhập cảnh",
+    "ở lại việt nam trái phép",
+    "phạm tội",
+    "bị phạt tù",
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức"
+    ],
+    [
+      "người",
+      "môi giới"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức",
+      "môi giới"
+    ],
+    [
+      "xuất cảnh",
+      "nhập cảnh"
+    ],
+    [
+      "xuất cảnh",
+      "ở lại việt nam trái phép"
+    ],
+    [
+      "nhập cảnh",
+      "ở lại việt nam trái phép"
+    ],
+    [
+      "phạt tù",
+      "phạt tiền"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "lợi dụng chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "thu lợi bất chính",
+      "làm chết người"
+    ]
+  ]
+}

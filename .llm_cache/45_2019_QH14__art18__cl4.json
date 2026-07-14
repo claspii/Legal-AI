@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giao kết hợp đồng lao động bên phía người lao động",
+    "người lao động",
+    "người đại diện theo pháp luật",
+    "những người lao động trong nhóm"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "ủy quyền hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "người giao kết hợp đồng lao động bên phía người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "đồng ý bằng văn bản"
+    ],
+    [
+      "người lao động trong nhóm",
+      "ủy quyền hợp pháp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giao kết hợp đồng lao động bên phía người lao động",
+      "người lao động"
+    ],
+    [
+      "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "người lao động",
+      "ủy quyền hợp pháp"
+    ]
+  ]
+}

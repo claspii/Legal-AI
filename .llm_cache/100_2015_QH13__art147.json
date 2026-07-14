@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lôi kéo",
+    "dụ dỗ",
+    "ép buộc",
+    "trình diễn khiêu dâm",
+    "chứng kiến việc trình diễn khiêu dâm",
+    "phạm tội",
+    "gây rối loạn tâm thần và hành vi",
+    "làm nạn nhân tự sát",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "dụ dỗ"
+    ],
+    [
+      "người",
+      "ép buộc"
+    ],
+    [
+      "người",
+      "trình diễn khiêu dâm"
+    ],
+    [
+      "người",
+      "chứng kiến việc trình diễn khiêu dâm"
+    ],
+    [
+      "người phạm tội",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người phạm tội",
+      "làm nạn nhân tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "18 tuổi trở lên"
+    ],
+    [
+      "người",
+      "dưới 16 tuổi"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "02 lần trở lên"
+    ],
+    [
+      "phạm tội",
+      "đối với 02 người trở lên"
+    ],
+    [
+      "phạm tội",
+      "có mục đích thương mại"
+    ],
+    [
+      "rối loạn tâm thần và hành vi",
+      "11% đến 45%"
+    ],
+    [
+      "rối loạn tâm thần và hành vi",
+      "46% trở lên"
+    ]
+  ]
+}

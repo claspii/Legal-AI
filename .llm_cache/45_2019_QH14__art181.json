@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan quản lý nhà nước về lao động",
+    "tổ chức đại diện người lao động",
+    "tổ chức đại diện người sử dụng lao động",
+    "bộ lao động - thương binh và xã hội",
+    "hòa giải viên lao động",
+    "trọng tài viên lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân",
+    "hội đồng trọng tài"
+  ],
+  "actions": [
+    "hướng dẫn",
+    "hỗ trợ",
+    "giúp đỡ",
+    "tổ chức việc tập huấn",
+    "nâng cao năng lực chuyên môn",
+    "tiếp nhận yêu cầu",
+    "phân loại",
+    "chuyển yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan quản lý nhà nước về lao động",
+      "phối hợp với tổ chức đại diện người lao động, tổ chức đại diện người sử dụng lao động hướng dẫn"
+    ],
+    [
+      "cơ quan quản lý nhà nước về lao động",
+      "hỗ trợ"
+    ],
+    [
+      "cơ quan quản lý nhà nước về lao động",
+      "giúp đỡ các bên trong giải quyết tranh chấp lao động"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "tổ chức việc tập huấn"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "nâng cao năng lực chuyên môn của hòa giải viên lao động, trọng tài viên lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân",
+      "tiếp nhận yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân",
+      "phân loại"
+    ],
+    [
+      "cơ quan tiếp nhận yêu cầu giải quyết tranh chấp lao động",
+      "chuyển yêu cầu đến hòa giải viên lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "hòa giải viên lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "trọng tài viên lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "hòa giải lao động",
+      "thủ tục hòa giải lao động"
+    ],
+    [
+      "hội đồng trọng tài",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "cơ quan quản lý nhà nước về lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "nâng cao năng lực chuyên môn"
+    ]
+  ]
+}

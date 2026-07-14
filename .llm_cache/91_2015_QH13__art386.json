@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [
+    "đề nghị giao kết hợp đồng"
+  ],
+  "actors": [
+    "bên đề nghị",
+    "bên được đề nghị",
+    "công chúng",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "thể hiện ý định",
+    "chịu sự ràng buộc",
+    "nêu rõ thời hạn trả lời",
+    "bồi thường thiệt hại",
+    "phát sinh thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị",
+      "thể hiện rõ ý định giao kết hợp đồng"
+    ],
+    [
+      "bên đề nghị",
+      "chịu sự ràng buộc về đề nghị này"
+    ],
+    [
+      "bên đề nghị",
+      "giao kết hợp đồng với người thứ ba"
+    ],
+    [
+      "bên đề nghị",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên được đề nghị",
+      "trả lời"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đề nghị giao kết hợp đồng",
+      "bên đề nghị"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "bên được đề nghị"
+    ],
+    [
+      "giao kết hợp đồng",
+      "người thứ ba"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

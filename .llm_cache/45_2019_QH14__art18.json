@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "nhóm người lao động",
+    "người sử dụng lao động",
+    "người đại diện theo pháp luật của doanh nghiệp",
+    "người đứng đầu cơ quan, tổ chức có tư cách pháp nhân",
+    "người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+    "cá nhân trực tiếp sử dụng lao động",
+    "người được ủy quyền"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "ủy quyền",
+    "ký kết",
+    "kèm theo",
+    "có hiệu lực"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "nhóm người lao động",
+      "ủy quyền"
+    ],
+    [
+      "người được ủy quyền",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người được ủy quyền",
+      "ký kết"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đại diện theo pháp luật của doanh nghiệp",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đứng đầu cơ quan, tổ chức có tư cách pháp nhân",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "giao kết hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "thẩm quyền giao kết hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "nhóm người lao động",
+      "ủy quyền"
+    ],
+    [
+      "công việc theo mùa vụ",
+      "thời hạn dưới 12 tháng"
+    ],
+    [
+      "hợp đồng lao động",
+      "văn bản"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ]
+  ]
+}

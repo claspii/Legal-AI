@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người được hưởng án treo"
+  ],
+  "actions": [
+    "quyết định áp dụng",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "án treo",
+      "hình phạt bổ sung"
+    ],
+    [
+      "án treo",
+      "điều luật áp dụng"
+    ]
+  ]
+}

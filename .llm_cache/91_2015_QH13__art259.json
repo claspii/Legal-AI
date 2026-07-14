@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "nhận chuyển giao tài sản",
+    "có thỏa thuận",
+    "có quy định",
+    "có hiệu lực"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền hưởng dụng",
+      "hiệu lực"
+    ],
+    [
+      "quyền hưởng dụng",
+      "tài sản"
+    ],
+    [
+      "thỏa thuận",
+      "luật liên quan"
+    ]
+  ]
+}

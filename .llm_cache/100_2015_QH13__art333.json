@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân dự bị"
+  ],
+  "actions": [
+    "không chấp hành lệnh gọi nhập ngũ",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "tự gây thương tích",
+    "gây tổn hại cho sức khỏe của mình",
+    "lôi kéo người khác phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không chấp hành lệnh gọi nhập ngũ"
+    ],
+    [
+      "quân nhân dự bị",
+      "không chấp hành lệnh gọi nhập ngũ"
+    ],
+    [
+      "người",
+      "tự gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe của mình"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ]
+  ],
+  "related_concepts": []
+}

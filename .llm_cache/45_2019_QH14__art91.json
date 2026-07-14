@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [
+    "mức lương tối thiểu"
+  ],
+  "actors": [
+    "người lao động",
+    "gia đình họ",
+    "chính phủ",
+    "hội đồng tiền lương quốc gia",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "trả",
+    "bảo đảm",
+    "xác lập",
+    "ấn định",
+    "điều chỉnh",
+    "quy định chi tiết",
+    "quyết định",
+    "công bố"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm công việc giản đơn nhất"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "chính phủ",
+      "quyết định"
+    ],
+    [
+      "chính phủ",
+      "công bố"
+    ],
+    [
+      "hội đồng tiền lương quốc gia",
+      "khuyến nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mức lương tối thiểu",
+      "mức sống tối thiểu"
+    ],
+    [
+      "mức lương tối thiểu",
+      "điều kiện phát triển kinh tế - xã hội"
+    ],
+    [
+      "mức lương tối thiểu",
+      "mức lương trên thị trường"
+    ],
+    [
+      "mức lương tối thiểu",
+      "chỉ số giá tiêu dùng"
+    ],
+    [
+      "mức lương tối thiểu",
+      "tốc độ tăng trưởng kinh tế"
+    ],
+    [
+      "mức lương tối thiểu",
+      "quan hệ cung, cầu lao động"
+    ],
+    [
+      "mức lương tối thiểu",
+      "năng suất lao động"
+    ],
+    [
+      "mức lương tối thiểu",
+      "khả năng chi trả của doanh nghiệp"
+    ]
+  ]
+}

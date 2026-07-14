@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người quản lý tài sản",
+    "người vắng mặt",
+    "tòa án"
+  ],
+  "actions": [
+    "giữ gìn",
+    "bảo quản tài sản",
+    "bán tài sản",
+    "thực hiện nghĩa vụ",
+    "thông báo",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "người quản lý tài sản",
+      "giữ gìn"
+    ],
+    [
+      "người quản lý tài sản",
+      "bảo quản tài sản"
+    ],
+    [
+      "người quản lý tài sản",
+      "bán tài sản"
+    ],
+    [
+      "người quản lý tài sản",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người quản lý tài sản",
+      "giao lại tài sản"
+    ],
+    [
+      "người quản lý tài sản",
+      "thông báo"
+    ],
+    [
+      "người quản lý tài sản",
+      "bồi thường"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người quản lý tài sản",
+      "tài sản của người vắng mặt"
+    ],
+    [
+      "người quản lý tài sản",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản",
+      "hư hỏng"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "người vắng mặt"
+    ],
+    [
+      "tài sản",
+      "thiệt hại"
+    ]
+  ]
+}

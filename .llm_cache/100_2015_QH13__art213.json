@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người thụ hưởng quyền lợi bảo hiểm",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "chiếm đoạt tiền bảo hiểm",
+    "gây thiệt hại",
+    "thông đồng",
+    "giả mạo tài liệu",
+    "cố ý làm sai lệch thông tin",
+    "từ chối bồi thường",
+    "trả tiền bảo hiểm",
+    "tự gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện một trong các hành vi sau đây chiếm đoạt tiền bảo hiểm"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "thông đồng với người thụ hưởng quyền lợi bảo hiểm để giải quyết bồi thường bảo hiểm"
+    ],
+    [
+      "người",
+      "giả mạo tài liệu"
+    ],
+    [
+      "người",
+      "cố ý làm sai lệch thông tin để từ chối bồi thường"
+    ],
+    [
+      "người",
+      "tự gây thiệt hại về tài sản, sức khỏe của mình để hưởng quyền lợi bảo hiểm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt tiền bảo hiểm",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "gây thiệt hại",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "thông đồng",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "giả mạo tài liệu",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "cố ý làm sai lệch thông tin",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "phạt tiền",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "gian lận trong kinh doanh bảo hiểm"
+    ],
+    [
+      "phạt tù",
+      "gian lận trong kinh doanh bảo hiểm"
+    ]
+  ]
+}

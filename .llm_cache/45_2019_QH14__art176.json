@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "người sử dụng lao động",
+    "chính phủ",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "tiếp cận",
+    "thực hiện quyền",
+    "được sử dụng thời gian làm việc",
+    "được trả lương",
+    "được hưởng các bảo đảm khác",
+    "quy định thời gian tối thiểu",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "tiếp cận người lao động"
+    ],
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "tiếp cận người sử dụng lao động"
+    ],
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "được sử dụng thời gian làm việc"
+    ],
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "được hưởng các bảo đảm khác"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "chính phủ",
+      "quy định thời gian tối thiểu"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "quyền"
+    ],
+    [
+      "thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+      "thời gian làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "người sử dụng lao động"
+    ],
+    [
+      "thời gian làm việc",
+      "thời gian tối thiểu"
+    ]
+  ]
+}

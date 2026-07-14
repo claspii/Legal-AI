@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý, bảo vệ động vật nguy cấp, quý, hiếm",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "săn bắt trái phép",
+    "giết trái phép",
+    "nuôi trái phép",
+    "nhốt trái phép",
+    "vận chuyển trái phép",
+    "buôn bán trái phép",
+    "tàng trữ trái phép"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về quản lý, bảo vệ động vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "người",
+      "săn bắt trái phép"
+    ],
+    [
+      "người",
+      "giết trái phép"
+    ],
+    [
+      "người",
+      "nuôi trái phép"
+    ],
+    [
+      "người",
+      "nhốt trái phép"
+    ],
+    [
+      "người",
+      "vận chuyển trái phép"
+    ],
+    [
+      "người",
+      "buôn bán trái phép"
+    ],
+    [
+      "người",
+      "tàng trữ trái phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động vật nguy cấp, quý, hiếm",
+      "tội vi phạm quy định về quản lý, bảo vệ động vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "động vật thuộc danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+      "săn bắt, giết, nuôi, nhốt, vận chuyển, buôn bán trái phép"
+    ],
+    [
+      "cá thể, bộ phận cơ thể hoặc sản phẩm của loài động vật",
+      "tàng trữ, vận chuyển, buôn bán trái phép"
+    ],
+    [
+      "ngà voi",
+      "khối lượng"
+    ],
+    [
+      "sừng tê giác",
+      "khối lượng"
+    ],
+    [
+      "động vật nguy cấp, quý hiếm nhóm IB hoặc thuộc phụ lục I của công ước",
+      "săn bắt, giết, nuôi, nhốt, vận chuyển, buôn bán trái phép"
+    ],
+    [
+      "bộ phận cơ thể không thể tách rời sự sống cùng loại của động vật",
+      "tàng trữ, vận chuyển, buôn bán trái phép"
+    ],
+    [
+      "vi phạm hành chính",
+      "tội này"
+    ]
+  ]
+}

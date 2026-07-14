@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên soạn thảo",
+    "bên kia"
+  ],
+  "actions": [
+    "giải thích hợp đồng",
+    "dựa vào ngôn từ của hợp đồng",
+    "căn cứ vào ý chí của các bên",
+    "hiểu theo nhiều nghĩa khác nhau",
+    "giải thích theo nghĩa phù hợp nhất",
+    "giải thích theo tập quán",
+    "giải thích trong mối liên hệ với nhau",
+    "dùng để giải thích hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thể hiện ý chí"
+    ],
+    [
+      "bên soạn thảo",
+      "đưa vào hợp đồng nội dung bất lợi cho bên kia"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "điều khoản không rõ ràng"
+    ],
+    [
+      "hợp đồng",
+      "ngôn từ"
+    ],
+    [
+      "ý chí của các bên",
+      "ngôn từ sử dụng trong hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "mục đích"
+    ],
+    [
+      "hợp đồng",
+      "tính chất"
+    ],
+    [
+      "hợp đồng",
+      "tập quán tại địa điểm giao kết hợp đồng"
+    ]
+  ]
+}

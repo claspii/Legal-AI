@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người phạm tội"
+  ],
+  "actions": [
+    "xử phạt tù",
+    "bắt chấp hành hình phạt tù",
+    "cho hưởng án treo",
+    "ấn định thời gian thử thách",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xử phạt tù"
+    ],
+    [
+      "tòa án",
+      "cho hưởng án treo"
+    ],
+    [
+      "tòa án",
+      "ấn định thời gian thử thách"
+    ],
+    [
+      "người phạm tội",
+      "bắt chấp hành hình phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "án treo",
+      "hình phạt tù"
+    ],
+    [
+      "án treo",
+      "thời gian thử thách"
+    ],
+    [
+      "nhân thân",
+      "tình tiết giảm nhẹ"
+    ],
+    [
+      "hình phạt tù",
+      "án treo"
+    ]
+  ]
+}

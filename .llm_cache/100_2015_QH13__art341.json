@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "làm giả",
+    "sử dụng",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "thực hiện hành vi trái pháp luật",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm giả con dấu, tài liệu hoặc giấy tờ khác của cơ quan, tổ chức"
+    ],
+    [
+      "người",
+      "sử dụng con dấu, tài liệu, giấy tờ đó thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con dấu",
+      "tài liệu"
+    ],
+    [
+      "con dấu",
+      "giấy tờ"
+    ],
+    [
+      "tài liệu",
+      "giấy tờ"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

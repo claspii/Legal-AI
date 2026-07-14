@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "bị phạt tù",
+    "buôn lậu"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "buôn lậu",
+      "vật phạm pháp trị giá 1.000.000.000 đồng trở lên"
+    ],
+    [
+      "buôn lậu",
+      "thu lợi bất chính 1.000.000.000 đồng trở lên"
+    ],
+    [
+      "buôn lậu",
+      "lợi dụng chiến tranh"
+    ],
+    [
+      "buôn lậu",
+      "lợi dụng thiên tai"
+    ],
+    [
+      "buôn lậu",
+      "lợi dụng dịch bệnh"
+    ],
+    [
+      "buôn lậu",
+      "lợi dụng hoàn cảnh đặc biệt khó khăn khác"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ]
+  ]
+}

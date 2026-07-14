@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng"
+  ],
+  "actions": [
+    "lựa chọn",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "lựa chọn nơi cư trú"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nơi cư trú",
+      "vợ chồng"
+    ],
+    [
+      "phong tục",
+      "nơi cư trú"
+    ],
+    [
+      "tập quán",
+      "nơi cư trú"
+    ],
+    [
+      "địa giới hành chính",
+      "nơi cư trú"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thực hiện",
+    "xây dựng",
+    "khuyến khích"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thực hiện"
+    ],
+    [
+      "doanh nghiệp",
+      "xây dựng"
+    ],
+    [
+      "doanh nghiệp",
+      "thực hiện"
+    ],
+    [
+      "doanh nghiệp",
+      "khuyến khích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "thỏa ước lao động tập thể ngành"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền",
+      "lợi ích"
+    ],
+    [
+      "nghĩa vụ",
+      "lợi ích"
+    ]
+  ]
+}

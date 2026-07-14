@@ -1,0 +1,129 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "lao động nữ",
+    "các bên"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "bố trí",
+    "bảo đảm điều kiện làm việc",
+    "trả lương",
+    "ngược đãi",
+    "đánh đập",
+    "nhục mạ",
+    "làm ảnh hưởng đến sức khỏe",
+    "cưỡng bức lao động",
+    "quấy rối tình dục",
+    "nghỉ việc",
+    "đủ tuổi nghỉ hưu",
+    "cung cấp thông tin không trung thực",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động không cần báo trước"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm điều kiện làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "ngược đãi"
+    ],
+    [
+      "người sử dụng lao động",
+      "đánh đập"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhục mạ"
+    ],
+    [
+      "người sử dụng lao động",
+      "làm ảnh hưởng đến sức khỏe"
+    ],
+    [
+      "người sử dụng lao động",
+      "cưỡng bức lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "quấy rối tình dục"
+    ],
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "lao động nữ",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "đủ tuổi nghỉ hưu"
+    ],
+    [
+      "người sử dụng lao động",
+      "cung cấp thông tin không trung thực"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "công việc",
+      "bố trí"
+    ],
+    [
+      "địa điểm làm việc",
+      "bố trí"
+    ],
+    [
+      "điều kiện làm việc",
+      "bảo đảm"
+    ],
+    [
+      "lương",
+      "trả lương"
+    ],
+    [
+      "sức khỏe",
+      "làm ảnh hưởng"
+    ],
+    [
+      "nhân phẩm",
+      "làm ảnh hưởng"
+    ],
+    [
+      "danh dự",
+      "làm ảnh hưởng"
+    ],
+    [
+      "người lao động",
+      "quấy rối tình dục"
+    ],
+    [
+      "nơi làm việc",
+      "quấy rối tình dục"
+    ]
+  ]
+}

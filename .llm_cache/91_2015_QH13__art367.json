@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chuyển giao quyền yêu cầu",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "chuyển giao quyền yêu cầu",
+    "không phải chịu trách nhiệm",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "người chuyển giao quyền yêu cầu",
+      "chuyển giao quyền yêu cầu"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "không phải chịu trách nhiệm"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chuyển giao quyền yêu cầu",
+      "quyền yêu cầu"
+    ],
+    [
+      "khả năng thực hiện nghĩa vụ",
+      "bên có nghĩa vụ"
+    ]
+  ]
+}

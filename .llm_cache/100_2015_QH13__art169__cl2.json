@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "phạm tội",
+    "bắt làm con tin",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "chiếm đoạt tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bắt làm con tin"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây rối loạn tâm thần và hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "phạm tội",
+      "dùng vũ khí, phương tiện hoặc thủ đoạn nguy hiểm khác"
+    ],
+    [
+      "phạm tội",
+      "đối với người dưới 16 tuổi"
+    ],
+    [
+      "phạm tội",
+      "đối với 02 người trở lên"
+    ],
+    [
+      "phạm tội",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "phạm tội",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạm tội",
+      "gây rối loạn tâm thần và hành vi của nạn nhân"
+    ]
+  ]
+}

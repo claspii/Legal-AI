@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "chia",
+    "chấm dứt tồn tại",
+    "chuyển giao"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "chia"
+    ],
+    [
+      "pháp nhân bị chia",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "quyền, nghĩa vụ dân sự của pháp nhân bị chia",
+      "chuyển giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chia",
+      "pháp nhân"
+    ],
+    [
+      "pháp nhân bị chia",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân bị chia",
+      "quyền, nghĩa vụ dân sự"
+    ],
+    [
+      "quyền, nghĩa vụ dân sự",
+      "pháp nhân mới"
+    ]
+  ]
+}

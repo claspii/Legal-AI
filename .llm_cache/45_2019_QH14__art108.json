@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "yêu cầu làm thêm giờ",
+    "từ chối",
+    "thực hiện lệnh động viên, huy động",
+    "bảo đảm nhiệm vụ quốc phòng, an ninh",
+    "thực hiện các công việc nhằm bảo vệ",
+    "phòng ngừa, khắc phục hậu quả"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "yêu cầu làm thêm giờ"
+    ],
+    [
+      "người lao động",
+      "từ chối"
+    ],
+    [
+      "người lao động",
+      "thực hiện lệnh động viên, huy động"
+    ],
+    [
+      "người lao động",
+      "bảo đảm nhiệm vụ quốc phòng, an ninh"
+    ],
+    [
+      "người lao động",
+      "thực hiện các công việc nhằm bảo vệ"
+    ],
+    [
+      "người lao động",
+      "phòng ngừa, khắc phục hậu quả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm thêm giờ",
+      "thời giờ làm việc"
+    ],
+    [
+      "nhiệm vụ quốc phòng",
+      "an ninh"
+    ],
+    [
+      "tính mạng con người",
+      "tài sản"
+    ],
+    [
+      "phòng ngừa",
+      "khắc phục hậu quả"
+    ],
+    [
+      "thiên tai",
+      "hỏa hoạn"
+    ],
+    [
+      "dịch bệnh nguy hiểm",
+      "thảm họa"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "an toàn",
+      "vệ sinh lao động"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người có quyền khác đối với tài sản"
+  ],
+  "actions": [
+    "xây dựng công trình",
+    "tuân theo pháp luật",
+    "bảo đảm an toàn",
+    "xây vượt quá độ cao",
+    "xâm phạm quyền, lợi ích hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "xây dựng công trình"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "xây dựng công trình"
+    ],
+    [
+      "chủ sở hữu",
+      "tuân theo pháp luật"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tuân theo pháp luật"
+    ],
+    [
+      "chủ sở hữu",
+      "bảo đảm an toàn"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "bảo đảm an toàn"
+    ],
+    [
+      "chủ sở hữu",
+      "xâm phạm quyền, lợi ích hợp pháp"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "xâm phạm quyền, lợi ích hợp pháp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "bất động sản liền kề"
+    ],
+    [
+      "tài sản",
+      "bất động sản xung quanh"
+    ],
+    [
+      "quy tắc xây dựng",
+      "pháp luật về xây dựng"
+    ],
+    [
+      "độ cao",
+      "khoảng cách"
+    ]
+  ]
+}

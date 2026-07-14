@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [
+    "pháp nhân thương mại"
+  ],
+  "actors": [
+    "pháp nhân thương mại",
+    "doanh nghiệp",
+    "tổ chức kinh tế khác",
+    "thành viên"
+  ],
+  "actions": [
+    "tìm kiếm lợi nhuận",
+    "chia lợi nhuận",
+    "thành lập",
+    "hoạt động",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "tìm kiếm lợi nhuận"
+    ],
+    [
+      "lợi nhuận",
+      "được chia"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thành lập"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chấm dứt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "doanh nghiệp"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tổ chức kinh tế khác"
+    ],
+    [
+      "pháp nhân thương mại",
+      "lợi nhuận"
+    ],
+    [
+      "lợi nhuận",
+      "thành viên"
+    ]
+  ]
+}

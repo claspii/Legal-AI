@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "quốc gia",
+    "vùng lãnh thổ"
+  ],
+  "actions": [
+    "làm lính đánh thuê",
+    "chống một quốc gia",
+    "chống một vùng lãnh thổ độc lập, có chủ quyền",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "làm lính đánh thuê"
+    ],
+    [
+      "người nào",
+      "chống một quốc gia"
+    ],
+    [
+      "người nào",
+      "chống một vùng lãnh thổ độc lập, có chủ quyền"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quốc gia",
+      "vùng lãnh thổ độc lập, có chủ quyền"
+    ],
+    [
+      "làm lính đánh thuê",
+      "chống một quốc gia"
+    ],
+    [
+      "làm lính đánh thuê",
+      "chống một vùng lãnh thổ độc lập, có chủ quyền"
+    ]
+  ]
+}

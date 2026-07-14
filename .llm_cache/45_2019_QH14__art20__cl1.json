@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "hợp đồng lao động không xác định thời hạn",
+    "hợp đồng lao động xác định thời hạn"
+  ],
+  "actors": [
+    "hai bên"
+  ],
+  "actions": [
+    "giao kết",
+    "xác định thời hạn",
+    "chấm dứt hiệu lực"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "giao kết"
+    ],
+    [
+      "hai bên",
+      "xác định thời hạn"
+    ],
+    [
+      "hai bên",
+      "chấm dứt hiệu lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "loại hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "hợp đồng lao động xác định thời hạn"
+    ],
+    [
+      "thời hạn",
+      "thời điểm chấm dứt hiệu lực"
+    ]
+  ]
+}

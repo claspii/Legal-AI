@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [
+    "mang thai hộ vì mục đích nhân đạo"
+  ],
+  "actors": [
+    "phụ nữ",
+    "người phụ nữ",
+    "cặp vợ chồng",
+    "người vợ",
+    "người chồng"
+  ],
+  "actions": [
+    "mang thai hộ",
+    "giúp mang thai",
+    "mang thai",
+    "sinh con",
+    "thụ tinh trong ống nghiệm",
+    "cấy vào tử cung"
+  ],
+  "actor_actions": [
+    [
+      "người phụ nữ",
+      "tự nguyện"
+    ],
+    [
+      "người phụ nữ",
+      "không vì mục đích thương mại"
+    ],
+    [
+      "người phụ nữ",
+      "giúp mang thai"
+    ],
+    [
+      "người vợ",
+      "không thể mang thai"
+    ],
+    [
+      "người vợ",
+      "không thể sinh con"
+    ],
+    [
+      "người phụ nữ",
+      "mang thai"
+    ],
+    [
+      "người phụ nữ",
+      "sinh con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mang thai hộ vì mục đích nhân đạo",
+      "phụ nữ"
+    ],
+    [
+      "mang thai hộ vì mục đích nhân đạo",
+      "cặp vợ chồng"
+    ],
+    [
+      "người vợ",
+      "không thể mang thai"
+    ],
+    [
+      "người vợ",
+      "không thể sinh con"
+    ],
+    [
+      "mang thai hộ vì mục đích nhân đạo",
+      "kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "noãn",
+      "người vợ"
+    ],
+    [
+      "tinh trùng",
+      "người chồng"
+    ],
+    [
+      "thụ tinh trong ống nghiệm",
+      "cấy vào tử cung"
+    ]
+  ]
+}

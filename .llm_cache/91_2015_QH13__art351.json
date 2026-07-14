@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [
+    "vi phạm nghĩa vụ"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "vi phạm nghĩa vụ",
+    "chịu trách nhiệm dân sự",
+    "không thực hiện nghĩa vụ đúng thời hạn",
+    "thực hiện không đầy đủ nghĩa vụ",
+    "thực hiện không đúng nội dung của nghĩa vụ",
+    "chứng minh"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chịu trách nhiệm dân sự"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện nghĩa vụ đúng thời hạn"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện không đầy đủ nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện không đúng nội dung của nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không phải chịu trách nhiệm dân sự"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chứng minh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm nghĩa vụ",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "sự kiện bất khả kháng",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "lỗi của bên có quyền",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "nghĩa vụ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "bên có quyền"
+    ]
+  ]
+}

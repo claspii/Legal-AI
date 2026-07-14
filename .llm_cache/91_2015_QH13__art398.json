@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "nội dung của hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "đối tượng của hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "giá"
+    ],
+    [
+      "hợp đồng",
+      "phương thức thanh toán"
+    ],
+    [
+      "hợp đồng",
+      "thời hạn"
+    ],
+    [
+      "hợp đồng",
+      "địa điểm"
+    ],
+    [
+      "hợp đồng",
+      "phương thức thực hiện hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "quyền"
+    ]
+  ]
+}

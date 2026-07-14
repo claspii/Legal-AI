@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [
+    "điều kiện giao dịch chung"
+  ],
+  "actors": [
+    "một bên",
+    "bên được đề nghị giao kết hợp đồng",
+    "bên được đề nghị",
+    "bên xác lập giao dịch",
+    "pháp luật",
+    "bên đưa ra điều kiện giao dịch chung",
+    "bên kia"
+  ],
+  "actions": [
+    "công bố",
+    "áp dụng",
+    "chấp nhận",
+    "giao kết hợp đồng",
+    "xác lập giao dịch",
+    "công khai",
+    "biết",
+    "thực hiện",
+    "bảo đảm",
+    "miễn trách nhiệm",
+    "tăng trách nhiệm",
+    "loại bỏ quyền lợi chính đáng",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "công bố"
+    ],
+    [
+      "một bên",
+      "áp dụng"
+    ],
+    [
+      "bên được đề nghị giao kết hợp đồng",
+      "chấp nhận"
+    ],
+    [
+      "bên được đề nghị",
+      "chấp nhận"
+    ],
+    [
+      "bên xác lập giao dịch",
+      "biết"
+    ],
+    [
+      "pháp luật",
+      "thực hiện"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "bảo đảm"
+    ],
+    [
+      "bên đưa ra điều kiện giao dịch chung",
+      "miễn trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều kiện giao dịch chung",
+      "giao kết hợp đồng"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "hiệu lực"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "công khai"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "bình đẳng"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "miễn trách nhiệm"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "tăng trách nhiệm"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "quyền lợi chính đáng"
+    ],
+    [
+      "điều kiện giao dịch chung",
+      "thỏa thuận"
+    ]
+  ]
+}

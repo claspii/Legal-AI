@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "sử dụng trái phép",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện",
+      "dụng cụ"
+    ],
+    [
+      "sản xuất",
+      "sử dụng trái phép chất ma túy"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "kết án"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tổ chức",
+    "môi giới",
+    "trốn đi nước ngoài trái phép",
+    "ở lại nước ngoài trái phép",
+    "phạt tù",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "tổ chức"
+    ],
+    [
+      "người nào",
+      "môi giới"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức",
+      "trốn đi nước ngoài trái phép"
+    ],
+    [
+      "môi giới",
+      "trốn đi nước ngoài trái phép"
+    ],
+    [
+      "tổ chức",
+      "ở lại nước ngoài trái phép"
+    ],
+    [
+      "môi giới",
+      "ở lại nước ngoài trái phép"
+    ],
+    [
+      "phạt tù",
+      "phạt tiền"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ]
+  ]
+}

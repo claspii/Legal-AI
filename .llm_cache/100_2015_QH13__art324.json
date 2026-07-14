@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "tham gia trực tiếp",
+    "tham gia gián tiếp",
+    "sử dụng",
+    "che giấu thông tin",
+    "cản trở việc xác minh",
+    "thực hiện",
+    "chuẩn bị phạm tội",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "tham gia trực tiếp"
+    ],
+    [
+      "người",
+      "tham gia gián tiếp"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "che giấu thông tin"
+    ],
+    [
+      "người",
+      "cản trở việc xác minh"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "nguồn gốc bất hợp pháp",
+      "tiền"
+    ],
+    [
+      "nguồn gốc bất hợp pháp",
+      "tài sản"
+    ],
+    [
+      "phạm tội",
+      "rửa tiền"
+    ],
+    [
+      "giao dịch tài chính",
+      "giao dịch ngân hàng"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ]
+  ]
+}

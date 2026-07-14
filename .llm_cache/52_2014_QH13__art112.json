@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "anh, chị đã thành niên",
+    "em chưa thành niên",
+    "em đã thành niên",
+    "anh, chị không có khả năng lao động",
+    "em không có khả năng lao động"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "không có khả năng lao động",
+    "không có tài sản để tự nuôi mình",
+    "không sống chung"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "không có khả năng lao động"
+    ],
+    [
+      "cha mẹ",
+      "không có tài sản để cấp dưỡng cho con"
+    ],
+    [
+      "anh, chị đã thành niên",
+      "cấp dưỡng cho em chưa thành niên"
+    ],
+    [
+      "anh, chị đã thành niên",
+      "cấp dưỡng cho em đã thành niên không có khả năng lao động"
+    ],
+    [
+      "em đã thành niên",
+      "cấp dưỡng cho anh, chị không có khả năng lao động"
+    ],
+    [
+      "em chưa thành niên",
+      "không có tài sản để tự nuôi mình"
+    ],
+    [
+      "em đã thành niên",
+      "không có khả năng lao động"
+    ],
+    [
+      "em đã thành niên",
+      "không có tài sản để tự nuôi mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "anh, chị, em"
+    ],
+    [
+      "anh, chị đã thành niên",
+      "em chưa thành niên"
+    ],
+    [
+      "anh, chị đã thành niên",
+      "em đã thành niên không có khả năng lao động"
+    ],
+    [
+      "em đã thành niên",
+      "anh, chị không có khả năng lao động"
+    ],
+    [
+      "không có khả năng lao động",
+      "không có tài sản để tự nuôi mình"
+    ],
+    [
+      "cha mẹ không có khả năng lao động",
+      "cha mẹ không có tài sản để cấp dưỡng cho con"
+    ],
+    [
+      "cấp dưỡng",
+      "không sống chung"
+    ]
+  ]
+}

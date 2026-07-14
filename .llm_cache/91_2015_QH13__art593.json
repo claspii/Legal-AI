@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị thiệt hại",
+    "người",
+    "người chưa thành niên",
+    "người đã thành thai",
+    "con của người chết",
+    "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+    "người thành niên"
+  ],
+  "actions": [
+    "hưởng bồi thường",
+    "mất hoàn toàn khả năng lao động",
+    "chết",
+    "cấp dưỡng",
+    "tham gia lao động"
+  ],
+  "actor_actions": [
+    [
+      "người bị thiệt hại",
+      "hưởng bồi thường"
+    ],
+    [
+      "người bị thiệt hại",
+      "mất hoàn toàn khả năng lao động"
+    ],
+    [
+      "người bị thiệt hại",
+      "chết"
+    ],
+    [
+      "những người mà người này có nghĩa vụ cấp dưỡng",
+      "hưởng tiền cấp dưỡng"
+    ],
+    [
+      "người chưa thành niên",
+      "hưởng tiền cấp dưỡng"
+    ],
+    [
+      "người đã thành thai là con của người chết",
+      "hưởng tiền cấp dưỡng"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "tham gia lao động"
+    ],
+    [
+      "người thành niên nhưng không có khả năng lao động",
+      "hưởng tiền cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tiền cấp dưỡng",
+      "người chưa thành niên"
+    ],
+    [
+      "tiền cấp dưỡng",
+      "người đã thành thai"
+    ],
+    [
+      "tiền cấp dưỡng",
+      "người thành niên nhưng không có khả năng lao động"
+    ],
+    [
+      "mất hoàn toàn khả năng lao động",
+      "hưởng bồi thường"
+    ]
+  ]
+}

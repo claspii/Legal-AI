@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "công dân",
+    "người sử dụng đất"
+  ],
+  "actions": [
+    "quy định",
+    "đại diện chủ sở hữu",
+    "thống nhất quản lý"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "đại diện chủ sở hữu"
+    ],
+    [
+      "nhà nước",
+      "thống nhất quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ sở hữu đất đai",
+      "quyền hạn và trách nhiệm của nhà nước"
+    ],
+    [
+      "chế độ quản lý và sử dụng đất đai",
+      "quyền và nghĩa vụ của công dân"
+    ],
+    [
+      "nhà nước",
+      "chủ sở hữu toàn dân về đất đai"
+    ],
+    [
+      "công dân",
+      "quyền và nghĩa vụ đối với đất đai"
+    ],
+    [
+      "người sử dụng đất",
+      "quyền và nghĩa vụ đối với đất đai"
+    ]
+  ]
+}

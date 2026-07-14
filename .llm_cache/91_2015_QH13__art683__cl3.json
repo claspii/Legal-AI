@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chứng minh",
+    "có mối liên hệ gắn bó"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "pháp luật của nước khác",
+      "hợp đồng"
+    ],
+    [
+      "pháp luật của nước khác",
+      "pháp luật được nêu tại khoản 2 điều này"
+    ],
+    [
+      "pháp luật áp dụng",
+      "pháp luật của nước đó"
+    ]
+  ]
+}

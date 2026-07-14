@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "pháp nhân thương mại phạm tội"
+  ],
+  "actions": [
+    "tịch thu vật, tiền trực tiếp liên quan đến tội phạm",
+    "trả lại tài sản",
+    "sửa chữa hoặc bồi thường thiệt hại",
+    "buộc công khai xin lỗi",
+    "bắt buộc chữa bệnh",
+    "khôi phục lại tình trạng ban đầu",
+    "thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "tịch thu vật, tiền trực tiếp liên quan đến tội phạm"
+    ],
+    [
+      "người phạm tội",
+      "trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại"
+    ],
+    [
+      "người phạm tội",
+      "buộc công khai xin lỗi"
+    ],
+    [
+      "người phạm tội",
+      "bắt buộc chữa bệnh"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "tịch thu vật, tiền trực tiếp liên quan đến tội phạm"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "buộc công khai xin lỗi"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khôi phục lại tình trạng ban đầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "biện pháp tư pháp",
+      "người phạm tội"
+    ],
+    [
+      "biện pháp tư pháp",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "tịch thu vật, tiền",
+      "tội phạm"
+    ],
+    [
+      "trả lại tài sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "sửa chữa",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "khắc phục",
+      "ngăn chặn hậu quả"
+    ]
+  ]
+}

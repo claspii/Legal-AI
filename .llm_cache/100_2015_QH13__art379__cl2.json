@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người phải thi hành án",
+    "người có nghĩa vụ thi hành án"
+  ],
+  "actions": [
+    "không thi hành án",
+    "phạm tội",
+    "tiếp tục thực hiện tội phạm",
+    "tẩu tán tài sản",
+    "không thi hành được nghĩa vụ thi hành án"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người phải chấp hành án",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người bị kết án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người phải thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người có nghĩa vụ thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người bị kết án",
+      "không thi hành được nghĩa vụ thi hành án"
+    ],
+    [
+      "người phải thi hành án",
+      "không thi hành được nghĩa vụ thi hành án"
+    ],
+    [
+      "người có nghĩa vụ thi hành án",
+      "không thi hành được nghĩa vụ thi hành án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người phải chấp hành án",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người bị kết án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người phải thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người có nghĩa vụ thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "tẩu tán tài sản",
+      "không thi hành được nghĩa vụ thi hành án"
+    ]
+  ]
+}

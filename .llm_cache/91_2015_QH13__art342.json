@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên được bảo lãnh",
+    "bên nhận bảo lãnh"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "thực hiện không đúng nghĩa vụ",
+    "thực hiện không đúng nghĩa vụ bảo lãnh",
+    "yêu cầu thanh toán",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên được bảo lãnh",
+      "không thực hiện hoặc thực hiện không đúng nghĩa vụ"
+    ],
+    [
+      "bên bảo lãnh",
+      "phải thực hiện nghĩa vụ đó"
+    ],
+    [
+      "bên bảo lãnh",
+      "không thực hiện đúng nghĩa vụ bảo lãnh"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "yêu cầu bên bảo lãnh thanh toán giá trị nghĩa vụ vi phạm"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "yêu cầu bên bảo lãnh bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trách nhiệm dân sự",
+      "bên bảo lãnh"
+    ],
+    [
+      "nghĩa vụ",
+      "bên được bảo lãnh"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "bên bảo lãnh"
+    ],
+    [
+      "giá trị nghĩa vụ vi phạm",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

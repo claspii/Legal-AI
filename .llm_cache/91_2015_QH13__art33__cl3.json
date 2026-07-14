@@ -1,0 +1,106 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tổ chức có thẩm quyền",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con thành niên",
+    "người giám hộ",
+    "bệnh nhân bất tỉnh",
+    "bệnh nhân",
+    "người có thẩm quyền của cơ sở khám bệnh, chữa bệnh"
+  ],
+  "actions": [
+    "gây mê",
+    "mổ",
+    "cắt bỏ",
+    "cấy ghép mô, bộ phận cơ thể người",
+    "thực hiện kỹ thuật, phương pháp khám, chữa bệnh mới",
+    "thử nghiệm y học, dược học, khoa học",
+    "được sự đồng ý",
+    "thực hiện",
+    "đồng ý",
+    "có quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "được sự đồng ý"
+    ],
+    [
+      "tổ chức có thẩm quyền",
+      "thực hiện"
+    ],
+    [
+      "cha",
+      "đồng ý"
+    ],
+    [
+      "mẹ",
+      "đồng ý"
+    ],
+    [
+      "vợ",
+      "đồng ý"
+    ],
+    [
+      "chồng",
+      "đồng ý"
+    ],
+    [
+      "con thành niên",
+      "đồng ý"
+    ],
+    [
+      "người giám hộ",
+      "đồng ý"
+    ],
+    [
+      "người có thẩm quyền của cơ sở khám bệnh, chữa bệnh",
+      "có quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "gây mê"
+    ],
+    [
+      "người",
+      "mổ"
+    ],
+    [
+      "người",
+      "cắt bỏ"
+    ],
+    [
+      "người",
+      "cấy ghép mô, bộ phận cơ thể người"
+    ],
+    [
+      "người",
+      "thực hiện kỹ thuật, phương pháp khám, chữa bệnh mới"
+    ],
+    [
+      "người",
+      "thử nghiệm y học, dược học, khoa học"
+    ],
+    [
+      "người chưa thành niên",
+      "cha"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "người giám hộ"
+    ],
+    [
+      "bệnh nhân bất tỉnh",
+      "người có thẩm quyền của cơ sở khám bệnh, chữa bệnh"
+    ]
+  ]
+}

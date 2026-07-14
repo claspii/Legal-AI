@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [
+    "quấy rối tình dục tại nơi làm việc",
+    "nơi làm việc"
+  ],
+  "actors": [
+    "người",
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thực tế làm việc",
+    "mong muốn",
+    "chấp nhận"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "có tính chất tình dục"
+    ],
+    [
+      "người lao động",
+      "thực tế làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "phân công"
+    ],
+    [
+      "người",
+      "mong muốn"
+    ],
+    [
+      "người",
+      "chấp nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quấy rối tình dục tại nơi làm việc",
+      "nơi làm việc"
+    ],
+    [
+      "người lao động",
+      "nơi làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "nơi làm việc"
+    ]
+  ]
+}

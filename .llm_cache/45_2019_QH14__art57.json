@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê lại lao động",
+    "người lao động thuê lại",
+    "người lao động của mình",
+    "doanh nghiệp cho thuê lại lao động"
+  ],
+  "actions": [
+    "thông báo",
+    "hướng dẫn",
+    "phân biệt đối xử",
+    "thỏa thuận",
+    "tuyển dụng chính thức",
+    "trả lại",
+    "cung cấp"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê lại lao động",
+      "thông báo"
+    ],
+    [
+      "bên thuê lại lao động",
+      "hướng dẫn"
+    ],
+    [
+      "bên thuê lại lao động",
+      "không được phân biệt đối xử"
+    ],
+    [
+      "bên thuê lại lao động",
+      "thỏa thuận"
+    ],
+    [
+      "bên thuê lại lao động",
+      "trả lại"
+    ],
+    [
+      "bên thuê lại lao động",
+      "cung cấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê lại lao động",
+      "người lao động thuê lại"
+    ],
+    [
+      "bên thuê lại lao động",
+      "doanh nghiệp cho thuê lại lao động"
+    ],
+    [
+      "người lao động thuê lại",
+      "doanh nghiệp cho thuê lại lao động"
+    ],
+    [
+      "nội quy lao động",
+      "quy chế khác"
+    ],
+    [
+      "điều kiện lao động",
+      "người lao động thuê lại"
+    ],
+    [
+      "làm việc vào ban đêm",
+      "làm thêm giờ"
+    ],
+    [
+      "hành vi vi phạm kỷ luật lao động",
+      "chứng cứ"
+    ]
+  ]
+}

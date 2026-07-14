@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hộ gia đình",
+    "thành viên tổ hợp tác",
+    "thành viên của tổ chức khác không có tư cách pháp nhân",
+    "hộ gia đình",
+    "tổ hợp tác",
+    "tổ chức khác không có tư cách pháp nhân",
+    "pháp luật"
+  ],
+  "actions": [
+    "xác định tài sản chung",
+    "xác định quyền",
+    "xác định nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hộ gia đình",
+      "xác định tài sản chung"
+    ],
+    [
+      "thành viên hộ gia đình",
+      "xác định quyền"
+    ],
+    [
+      "thành viên hộ gia đình",
+      "xác định nghĩa vụ"
+    ],
+    [
+      "thành viên tổ hợp tác",
+      "xác định tài sản chung"
+    ],
+    [
+      "thành viên tổ hợp tác",
+      "xác định quyền"
+    ],
+    [
+      "thành viên tổ hợp tác",
+      "xác định nghĩa vụ"
+    ],
+    [
+      "thành viên của tổ chức khác không có tư cách pháp nhân",
+      "xác định tài sản chung"
+    ],
+    [
+      "thành viên của tổ chức khác không có tư cách pháp nhân",
+      "xác định quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hộ gia đình",
+      "tài sản chung"
+    ],
+    [
+      "tổ hợp tác",
+      "tài sản chung"
+    ],
+    [
+      "tổ chức khác không có tư cách pháp nhân",
+      "tài sản chung"
+    ],
+    [
+      "tài sản chung",
+      "quyền"
+    ],
+    [
+      "tài sản chung",
+      "nghĩa vụ"
+    ]
+  ]
+}

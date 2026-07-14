@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "người đại diện",
+    "sáng lập viên",
+    "đại diện của sáng lập viên",
+    "người của pháp nhân"
+  ],
+  "actions": [
+    "chịu trách nhiệm dân sự",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ dân sự",
+    "xác lập",
+    "thành lập",
+    "đăng ký"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "chịu trách nhiệm dân sự"
+    ],
+    [
+      "người đại diện",
+      "xác lập"
+    ],
+    [
+      "người đại diện",
+      "thực hiện"
+    ],
+    [
+      "sáng lập viên",
+      "xác lập"
+    ],
+    [
+      "sáng lập viên",
+      "thực hiện"
+    ],
+    [
+      "đại diện của sáng lập viên",
+      "xác lập"
+    ],
+    [
+      "đại diện của sáng lập viên",
+      "thực hiện"
+    ],
+    [
+      "người của pháp nhân",
+      "xác lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "pháp nhân",
+      "người đại diện"
+    ],
+    [
+      "pháp nhân",
+      "sáng lập viên"
+    ],
+    [
+      "pháp nhân",
+      "tài sản của mình"
+    ],
+    [
+      "người đại diện",
+      "quyền"
+    ],
+    [
+      "người đại diện",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "sáng lập viên",
+      "nghĩa vụ"
+    ],
+    [
+      "người của pháp nhân",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

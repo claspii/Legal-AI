@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người tham gia giao thông đường bộ"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn giao thông đường bộ",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người tham gia giao thông đường bộ",
+      "vi phạm quy định về an toàn giao thông đường bộ"
+    ],
+    [
+      "người tham gia giao thông đường bộ",
+      "gây thương tích"
+    ],
+    [
+      "người tham gia giao thông đường bộ",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về an toàn giao thông đường bộ",
+      "gây thương tích"
+    ],
+    [
+      "vi phạm quy định về an toàn giao thông đường bộ",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

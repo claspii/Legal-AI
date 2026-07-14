@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạm tội",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rượu",
+      "mất khả năng nhận thức"
+    ],
+    [
+      "bia",
+      "mất khả năng nhận thức"
+    ],
+    [
+      "chất kích thích mạnh khác",
+      "mất khả năng nhận thức"
+    ],
+    [
+      "rượu",
+      "mất khả năng điều khiển hành vi"
+    ],
+    [
+      "bia",
+      "mất khả năng điều khiển hành vi"
+    ],
+    [
+      "chất kích thích mạnh khác",
+      "mất khả năng điều khiển hành vi"
+    ],
+    [
+      "mất khả năng nhận thức",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "mất khả năng điều khiển hành vi",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

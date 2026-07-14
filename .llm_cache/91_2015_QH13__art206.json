@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người khác"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "gây thiệt hại",
+    "làm ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chiếm hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "sử dụng"
+    ],
+    [
+      "chủ sở hữu",
+      "định đoạt"
+    ],
+    [
+      "chủ sở hữu",
+      "không được gây thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "không được làm ảnh hưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "tài sản thuộc sở hữu riêng"
+    ],
+    [
+      "sử dụng",
+      "tài sản thuộc sở hữu riêng"
+    ],
+    [
+      "định đoạt",
+      "tài sản thuộc sở hữu riêng"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích dân tộc"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích công cộng"
+    ],
+    [
+      "lợi ích công cộng",
+      "quyền và lợi ích hợp pháp của người khác"
+    ]
+  ]
+}

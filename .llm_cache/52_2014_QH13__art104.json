@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "ông bà nội",
+    "ông bà ngoại",
+    "cháu",
+    "cháu chưa thành niên",
+    "cháu đã thành niên",
+    "người nuôi dưỡng"
+  ],
+  "actions": [
+    "trông nom",
+    "chăm sóc",
+    "giáo dục",
+    "sống mẫu mực",
+    "nêu gương tốt",
+    "nuôi dưỡng",
+    "kính trọng",
+    "phụng dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "ông bà nội",
+      "trông nom"
+    ],
+    [
+      "ông bà nội",
+      "chăm sóc"
+    ],
+    [
+      "ông bà nội",
+      "giáo dục"
+    ],
+    [
+      "ông bà nội",
+      "sống mẫu mực"
+    ],
+    [
+      "ông bà nội",
+      "nêu gương tốt"
+    ],
+    [
+      "ông bà nội",
+      "nuôi dưỡng"
+    ],
+    [
+      "ông bà ngoại",
+      "trông nom"
+    ],
+    [
+      "ông bà ngoại",
+      "chăm sóc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ông bà nội",
+      "cháu"
+    ],
+    [
+      "ông bà ngoại",
+      "cháu"
+    ],
+    [
+      "cháu chưa thành niên",
+      "nuôi dưỡng"
+    ],
+    [
+      "cháu đã thành niên",
+      "nuôi dưỡng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có quyền",
+    "người có nghĩa vụ",
+    "tòa án"
+  ],
+  "actions": [
+    "yêu cầu bồi thường thiệt hại",
+    "chi trả chi phí",
+    "quyết định",
+    "buộc bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "người có quyền",
+      "yêu cầu chi trả chi phí"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "tòa án",
+      "buộc bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại được bồi thường",
+      "vi phạm hợp đồng"
+    ],
+    [
+      "người có quyền",
+      "lợi ích được hưởng"
+    ],
+    [
+      "người có nghĩa vụ",
+      "chi phí phát sinh"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "tinh thần"
+    ]
+  ]
+}

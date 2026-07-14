@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "kinh doanh",
+    "lưu hành",
+    "sử dụng",
+    "thu lợi bất chính",
+    "xử phạt vi phạm hành chính",
+    "kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "nhà nước",
+      "cấm kinh doanh"
+    ],
+    [
+      "nhà nước",
+      "cấm lưu hành"
+    ],
+    [
+      "nhà nước",
+      "cấm sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất",
+      "hàng cấm"
+    ],
+    [
+      "buôn bán",
+      "hàng cấm"
+    ],
+    [
+      "hàng hóa",
+      "nhà nước cấm kinh doanh"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "hàng phạm pháp",
+      "hóa chất"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng phạm pháp"
+    ]
+  ]
+}

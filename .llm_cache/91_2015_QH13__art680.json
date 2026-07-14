@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người để lại di sản thừa kế"
+  ],
+  "actions": [
+    "thừa kế",
+    "xác định",
+    "thực hiện quyền thừa kế"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thừa kế",
+      "di sản thừa kế"
+    ],
+    [
+      "thừa kế",
+      "pháp luật của nước"
+    ],
+    [
+      "quyền thừa kế",
+      "bất động sản"
+    ],
+    [
+      "bất động sản",
+      "pháp luật của nước nơi có bất động sản"
+    ]
+  ]
+}

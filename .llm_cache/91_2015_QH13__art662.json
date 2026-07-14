@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế mới",
+    "người thừa kế",
+    "người thừa kế bị bác bỏ quyền thừa kế"
+  ],
+  "actions": [
+    "phân chia di sản",
+    "thanh toán",
+    "chia thừa kế",
+    "trả lại di sản"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "thanh toán"
+    ],
+    [
+      "người thừa kế bị bác bỏ quyền thừa kế",
+      "trả lại di sản"
+    ],
+    [
+      "người thừa kế bị bác bỏ quyền thừa kế",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phân chia di sản",
+      "người thừa kế mới"
+    ],
+    [
+      "phân chia di sản",
+      "người thừa kế bị bác bỏ quyền thừa kế"
+    ],
+    [
+      "di sản",
+      "chia thừa kế"
+    ],
+    [
+      "di sản",
+      "thanh toán"
+    ]
+  ]
+}

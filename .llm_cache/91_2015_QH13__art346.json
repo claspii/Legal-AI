@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [
+    "cầm giữ tài sản"
+  ],
+  "actors": [
+    "bên có quyền",
+    "bên cầm giữ",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "cầm giữ tài sản",
+    "nắm giữ hợp pháp tài sản",
+    "chiếm giữ tài sản",
+    "không thực hiện nghĩa vụ",
+    "thực hiện không đúng nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "nắm giữ hợp pháp tài sản"
+    ],
+    [
+      "bên cầm giữ",
+      "nắm giữ hợp pháp tài sản"
+    ],
+    [
+      "bên cầm giữ",
+      "chiếm giữ tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện không đúng nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cầm giữ tài sản",
+      "bên có quyền"
+    ],
+    [
+      "cầm giữ tài sản",
+      "bên cầm giữ"
+    ],
+    [
+      "cầm giữ tài sản",
+      "tài sản"
+    ],
+    [
+      "cầm giữ tài sản",
+      "hợp đồng song vụ"
+    ],
+    [
+      "cầm giữ tài sản",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "bên cầm giữ"
+    ],
+    [
+      "hợp đồng song vụ",
+      "bên có nghĩa vụ"
+    ]
+  ]
+}

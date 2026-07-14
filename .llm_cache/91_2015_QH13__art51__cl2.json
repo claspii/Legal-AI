@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thân thích của người được giám hộ",
+    "người giám hộ",
+    "cá nhân",
+    "pháp nhân",
+    "ủy ban nhân dân cấp xã",
+    "tòa án"
+  ],
+  "actions": [
+    "giám sát việc giám hộ",
+    "cử",
+    "chọn",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người thân thích của người được giám hộ",
+      "cử"
+    ],
+    [
+      "người thân thích của người được giám hộ",
+      "chọn"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "cử cá nhân hoặc pháp nhân giám sát việc giám hộ"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được giám hộ",
+      "người giám hộ"
+    ],
+    [
+      "giám sát việc giám hộ",
+      "người giám sát việc giám hộ"
+    ]
+  ]
+}

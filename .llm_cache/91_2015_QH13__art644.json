@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người lập di chúc",
+    "con chưa thành niên",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con thành niên mà không có khả năng lao động"
+  ],
+  "actions": [
+    "hưởng phần di sản",
+    "chia theo pháp luật",
+    "từ chối nhận di sản"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "hưởng phần di sản"
+    ],
+    [
+      "người lập di chúc",
+      "cho hưởng di sản"
+    ],
+    [
+      "người thừa kế",
+      "từ chối nhận di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di sản",
+      "di chúc"
+    ],
+    [
+      "người thừa kế không phụ thuộc vào nội dung của di chúc",
+      "người thừa kế theo pháp luật"
+    ]
+  ]
+}

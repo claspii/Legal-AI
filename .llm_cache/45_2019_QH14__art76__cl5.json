@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên ký kết",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "gửi",
+    "nhận"
+  ],
+  "actor_actions": [
+    [
+      "thỏa ước lao động tập thể",
+      "gửi"
+    ],
+    [
+      "bên ký kết",
+      "nhận"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "nhận"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhận"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "bên ký kết"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "người sử dụng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "tổ chức đại diện người lao động"
+    ]
+  ]
+}

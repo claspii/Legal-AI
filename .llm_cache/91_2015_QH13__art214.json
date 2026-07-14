@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu các căn hộ",
+    "chủ sở hữu căn hộ chung cư"
+  ],
+  "actions": [
+    "quản lý",
+    "sử dụng tài sản",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu các căn hộ",
+      "quản lý"
+    ],
+    [
+      "chủ sở hữu các căn hộ",
+      "sử dụng tài sản"
+    ],
+    [
+      "tất cả các chủ sở hữu",
+      "có thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phần diện tích",
+      "sở hữu chung hợp nhất"
+    ],
+    [
+      "trang thiết bị",
+      "sở hữu chung hợp nhất"
+    ],
+    [
+      "tài sản khác dùng chung",
+      "sở hữu chung hợp nhất"
+    ],
+    [
+      "nhà chung cư",
+      "sở hữu chung"
+    ],
+    [
+      "chủ sở hữu căn hộ",
+      "quyền"
+    ],
+    [
+      "chủ sở hữu căn hộ",
+      "nghĩa vụ"
+    ]
+  ]
+}

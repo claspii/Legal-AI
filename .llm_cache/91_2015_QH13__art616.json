@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [
+    "người quản lý di sản"
+  ],
+  "actors": [
+    "người quản lý di sản",
+    "người thừa kế",
+    "cơ quan nhà nước có thẩm quyền",
+    "người đang chiếm hữu, sử dụng, quản lý di sản"
+  ],
+  "actions": [
+    "chỉ định",
+    "thỏa thuận",
+    "cử ra",
+    "chiếm hữu",
+    "sử dụng",
+    "quản lý",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "người quản lý di sản",
+      "quản lý"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận"
+    ],
+    [
+      "người thừa kế",
+      "cử ra"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "chiếm hữu"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "sử dụng"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng, quản lý di sản",
+      "quản lý"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người quản lý di sản",
+      "di chúc"
+    ],
+    [
+      "người quản lý di sản",
+      "người thừa kế"
+    ],
+    [
+      "di sản",
+      "người quản lý di sản"
+    ],
+    [
+      "di sản",
+      "người thừa kế"
+    ],
+    [
+      "di sản",
+      "cơ quan nhà nước có thẩm quyền"
+    ]
+  ]
+}

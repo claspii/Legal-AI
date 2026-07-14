@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "xóa kỷ luật",
+    "giảm thời hạn chấp hành kỷ luật lao động",
+    "bị khiển trách",
+    "bị xử lý kỷ luật kéo dài thời hạn nâng lương",
+    "bị xử lý kỷ luật cách chức",
+    "vi phạm kỷ luật lao động",
+    "xét giảm thời hạn"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "bị khiển trách"
+    ],
+    [
+      "người lao động",
+      "bị xử lý kỷ luật kéo dài thời hạn nâng lương"
+    ],
+    [
+      "người lao động",
+      "bị xử lý kỷ luật cách chức"
+    ],
+    [
+      "người lao động",
+      "vi phạm kỷ luật lao động"
+    ],
+    [
+      "người lao động",
+      "được xóa kỷ luật"
+    ],
+    [
+      "người lao động",
+      "chấp hành được một nửa thời hạn"
+    ],
+    [
+      "người lao động",
+      "sửa chữa tiến bộ"
+    ],
+    [
+      "người lao động",
+      "có thể được người sử dụng lao động xét giảm thời hạn"
+    ],
+    [
+      "người sử dụng lao động",
+      "xét giảm thời hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "xóa kỷ luật"
+    ],
+    [
+      "kỷ luật lao động",
+      "giảm thời hạn chấp hành kỷ luật lao động"
+    ],
+    [
+      "kỷ luật lao động",
+      "bị khiển trách"
+    ],
+    [
+      "kỷ luật lao động",
+      "kéo dài thời hạn nâng lương"
+    ],
+    [
+      "kỷ luật lao động",
+      "cách chức"
+    ],
+    [
+      "vi phạm kỷ luật lao động",
+      "xóa kỷ luật"
+    ],
+    [
+      "kỷ luật kéo dài thời hạn nâng lương",
+      "giảm thời hạn"
+    ]
+  ]
+}

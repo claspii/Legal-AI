@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "trục xuất"
+  ],
+  "actors": [
+    "người nước ngoài",
+    "tòa án"
+  ],
+  "actions": [
+    "bị kết án",
+    "rời khỏi",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "người nước ngoài",
+      "bị kết án"
+    ],
+    [
+      "người nước ngoài",
+      "rời khỏi"
+    ],
+    [
+      "tòa án",
+      "áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trục xuất",
+      "hình phạt chính"
+    ],
+    [
+      "trục xuất",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

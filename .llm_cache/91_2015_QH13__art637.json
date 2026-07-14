@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công chứng viên",
+    "người có thẩm quyền của ủy ban nhân dân cấp xã",
+    "người thừa kế theo di chúc",
+    "người thừa kế theo pháp luật",
+    "người lập di chúc",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con",
+    "người có quyền, nghĩa vụ về tài sản"
+  ],
+  "actions": [
+    "công chứng",
+    "chứng thực"
+  ],
+  "actor_actions": [
+    [
+      "công chứng viên",
+      "không được công chứng, chứng thực"
+    ],
+    [
+      "người có thẩm quyền của ủy ban nhân dân cấp xã",
+      "không được công chứng, chứng thực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công chứng",
+      "di chúc"
+    ],
+    [
+      "chứng thực",
+      "di chúc"
+    ],
+    [
+      "người thừa kế theo di chúc",
+      "di chúc"
+    ],
+    [
+      "người thừa kế theo pháp luật",
+      "di chúc"
+    ],
+    [
+      "cha",
+      "người thừa kế theo di chúc"
+    ],
+    [
+      "mẹ",
+      "người thừa kế theo di chúc"
+    ],
+    [
+      "vợ",
+      "người thừa kế theo di chúc"
+    ],
+    [
+      "chồng",
+      "người thừa kế theo di chúc"
+    ],
+    [
+      "con",
+      "người thừa kế theo di chúc"
+    ],
+    [
+      "cha",
+      "người thừa kế theo pháp luật"
+    ],
+    [
+      "mẹ",
+      "người thừa kế theo pháp luật"
+    ],
+    [
+      "vợ",
+      "người thừa kế theo pháp luật"
+    ],
+    [
+      "chồng",
+      "người thừa kế theo pháp luật"
+    ],
+    [
+      "con",
+      "người thừa kế theo pháp luật"
+    ],
+    [
+      "quyền",
+      "tài sản"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "di chúc"
+    ]
+  ]
+}

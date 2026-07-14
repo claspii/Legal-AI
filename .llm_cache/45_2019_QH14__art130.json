@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "xem xét bồi thường thiệt hại",
+    "quyết định bồi thường thiệt hại",
+    "quy định trình tự",
+    "quy định thủ tục",
+    "quy định thời hiệu xử lý việc bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định trình tự"
+    ],
+    [
+      "chính phủ",
+      "quy định thủ tục"
+    ],
+    [
+      "chính phủ",
+      "quy định thời hiệu xử lý việc bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "lỗi"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "mức độ thiệt hại thực tế"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "hoàn cảnh thực tế gia đình"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "nhân thân của người lao động"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "tài sản của người lao động"
+    ]
+  ]
+}

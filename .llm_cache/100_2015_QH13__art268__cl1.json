@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "súc vật"
+  ],
+  "actions": [
+    "đặt chướng ngại vật trên đường sắt",
+    "làm xê dịch ray, tà vẹt",
+    "khoan, đào, xẻ trái phép nền đường sắt",
+    "mở đường ngang",
+    "xây cống hoặc các công trình khác trái phép qua đường sắt",
+    "làm hỏng, thay đổi, chuyển dịch, che khuất tín hiệu, biển hiệu, mốc hiệu của công trình giao thông đường sắt",
+    "để súc vật đi qua đường sắt không theo đúng quy định",
+    "để súc vật kéo xe qua đường sắt mà không có người điều khiển"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đặt chướng ngại vật trên đường sắt"
+    ],
+    [
+      "người",
+      "làm xê dịch ray, tà vẹt"
+    ],
+    [
+      "người",
+      "khoan, đào, xẻ trái phép nền đường sắt"
+    ],
+    [
+      "người",
+      "mở đường ngang"
+    ],
+    [
+      "người",
+      "xây cống hoặc các công trình khác trái phép qua đường sắt"
+    ],
+    [
+      "người",
+      "làm hỏng, thay đổi, chuyển dịch, che khuất tín hiệu, biển hiệu, mốc hiệu của công trình giao thông đường sắt"
+    ],
+    [
+      "người",
+      "để súc vật đi qua đường sắt không theo đúng quy định"
+    ],
+    [
+      "người",
+      "để súc vật kéo xe qua đường sắt mà không có người điều khiển"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cản trở giao thông đường sắt",
+      "thiệt hại"
+    ],
+    [
+      "chướng ngại vật",
+      "đường sắt"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thiệt hại về sức khỏe"
+    ],
+    [
+      "hình phạt",
+      "hành vi"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "anh, chị, em",
+    "ông bà nội, ông bà ngoại",
+    "cháu",
+    "cô, dì, chú, cậu, bác ruột",
+    "cháu ruột",
+    "vợ",
+    "chồng",
+    "người có nghĩa vụ nuôi dưỡng",
+    "cá nhân",
+    "cơ quan",
+    "tổ chức",
+    "tòa án"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "thực hiện nghĩa vụ cấp dưỡng",
+    "chuyển giao",
+    "trốn tránh nghĩa vụ",
+    "buộc thực hiện nghĩa vụ cấp dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "anh, chị, em",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "ông bà nội, ông bà ngoại",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "vợ",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "chồng",
+      "thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "người có nghĩa vụ nuôi dưỡng",
+      "trốn tránh nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "buộc thực hiện nghĩa vụ cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "cha, mẹ và con"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "anh, chị, em"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "ông bà nội, ông bà ngoại và cháu"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "cô, dì, chú, cậu, bác ruột và cháu ruột"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "vợ và chồng"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "nghĩa vụ nuôi dưỡng"
+    ]
+  ]
+}

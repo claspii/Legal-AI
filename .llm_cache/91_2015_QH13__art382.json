@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền",
+    "cá nhân",
+    "pháp nhân",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt tồn tại",
+    "chấm dứt nghĩa vụ",
+    "thỏa thuận",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "nghĩa vụ",
+      "chấm dứt"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "chấm dứt"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "bên có quyền",
+      "cá nhân"
+    ],
+    [
+      "bên có quyền",
+      "pháp nhân"
+    ],
+    [
+      "thỏa thuận",
+      "quy định"
+    ]
+  ]
+}

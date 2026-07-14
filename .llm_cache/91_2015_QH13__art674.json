@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người đó",
+    "người nước ngoài"
+  ],
+  "actions": [
+    "xác định",
+    "xác lập",
+    "thực hiện",
+    "mất năng lực hành vi dân sự",
+    "có khó khăn trong nhận thức, làm chủ hành vi",
+    "bị hạn chế năng lực hành vi dân sự"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "cá nhân",
+      "có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "cá nhân",
+      "bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người nước ngoài",
+      "xác lập"
+    ],
+    [
+      "người nước ngoài",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực hành vi dân sự của cá nhân",
+      "pháp luật của nước mà người đó có quốc tịch"
+    ],
+    [
+      "năng lực hành vi dân sự của người nước ngoài",
+      "pháp luật việt nam"
+    ],
+    [
+      "người nước ngoài",
+      "giao dịch dân sự"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [
+    "ly hôn giả tạo"
+  ],
+  "actors": [],
+  "actions": [
+    "trốn tránh nghĩa vụ tài sản",
+    "vi phạm chính sách, pháp luật về dân số",
+    "đạt được mục đích khác",
+    "chấm dứt hôn nhân"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "ly hôn giả tạo",
+      "nghĩa vụ tài sản"
+    ],
+    [
+      "ly hôn giả tạo",
+      "chính sách, pháp luật về dân số"
+    ],
+    [
+      "ly hôn giả tạo",
+      "mục đích khác"
+    ],
+    [
+      "ly hôn giả tạo",
+      "hôn nhân"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "nạn nhân"
+  ],
+  "actions": [
+    "hiếp dâm",
+    "làm nạn nhân có thai",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "chăm sóc",
+    "giáo dục",
+    "chữa bệnh"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "hiếp dâm"
+    ],
+    [
+      "người phạm tội",
+      "làm nạn nhân có thai"
+    ],
+    [
+      "người phạm tội",
+      "gây thương tích"
+    ],
+    [
+      "người phạm tội",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người phạm tội",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người phạm tội",
+      "chăm sóc"
+    ],
+    [
+      "người phạm tội",
+      "giáo dục"
+    ],
+    [
+      "người phạm tội",
+      "chữa bệnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tính chất loạn luân",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "nạn nhân có thai",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "tỷ lệ rối loạn tâm thần và hành vi"
+    ],
+    [
+      "trách nhiệm chăm sóc, giáo dục, chữa bệnh",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "phạm tội 02 lần trở lên",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "phạm tội đối với 02 người trở lên",
+      "hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "hiếp dâm người dưới 16 tuổi"
+    ]
+  ]
+}

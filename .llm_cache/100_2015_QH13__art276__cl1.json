@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn",
+    "người không đủ các điều kiện khác theo quy định của pháp luật"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường thủy",
+    "điều khiển phương tiện giao thông đường thủy",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cho người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển phương tiện giao thông đường thủy gây thiệt hại"
+    ],
+    [
+      "người",
+      "giao cho người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển phương tiện giao thông đường thủy đã bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "giao cho người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển phương tiện giao thông đường thủy đã bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người",
+      "giao cho người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển phương tiện giao thông đường thủy đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm"
+    ],
+    [
+      "người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện giao thông đường thủy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường thủy",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "làm chết 01 người"
+    ],
+    [
+      "thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người với tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%"
+    ],
+    [
+      "thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 61% đến 121%"
+    ],
+    [
+      "thiệt hại",
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng"
+    ],
+    [
+      "người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "giấy phép"
+    ],
+    [
+      "người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "giấy chứng nhận hoặc chứng chỉ chuyên môn"
+    ]
+  ]
+}

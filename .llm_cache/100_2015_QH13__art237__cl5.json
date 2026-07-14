@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị phạt tiền",
+    "bị đình chỉ hoạt động vĩnh viễn",
+    "cấm kinh doanh",
+    "cấm hoạt động trong một số lĩnh vực nhất định"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm hoạt động trong một số lĩnh vực nhất định"
+    ]
+  ],
+  "related_concepts": []
+}

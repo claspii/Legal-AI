@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "nghỉ hằng năm",
+    "thanh toán tiền lương"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thanh toán tiền lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thôi việc",
+      "mất việc làm"
+    ],
+    [
+      "chưa nghỉ hằng năm",
+      "chưa nghỉ hết số ngày nghỉ hằng năm"
+    ],
+    [
+      "nghỉ hằng năm",
+      "tiền lương"
+    ]
+  ]
+}

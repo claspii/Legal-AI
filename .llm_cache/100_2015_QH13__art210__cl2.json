@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà đầu tư"
+  ],
+  "actions": [
+    "mua bán chứng khoán",
+    "phạt tiền",
+    "phạt tù",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thông tin nội bộ",
+      "mua bán chứng khoán"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "gây thiệt hại"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

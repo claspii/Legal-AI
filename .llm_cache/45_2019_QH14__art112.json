@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "lao động là người nước ngoài",
+    "Thủ tướng Chính phủ"
+  ],
+  "actions": [
+    "nghỉ làm việc",
+    "hưởng nguyên lương",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ làm việc"
+    ],
+    [
+      "người lao động",
+      "hưởng nguyên lương"
+    ],
+    [
+      "lao động là người nước ngoài",
+      "nghỉ"
+    ],
+    [
+      "Thủ tướng Chính phủ",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "nghỉ lễ, tết"
+    ],
+    [
+      "nghỉ làm việc",
+      "hưởng nguyên lương"
+    ],
+    [
+      "Tết Dương lịch",
+      "nghỉ 01 ngày"
+    ],
+    [
+      "Tết Âm lịch",
+      "nghỉ 05 ngày"
+    ],
+    [
+      "Ngày Chiến thắng",
+      "nghỉ 01 ngày"
+    ],
+    [
+      "Ngày Quốc tế lao động",
+      "nghỉ 01 ngày"
+    ],
+    [
+      "Quốc khánh",
+      "nghỉ 02 ngày"
+    ],
+    [
+      "Ngày Giỗ Tổ Hùng Vương",
+      "nghỉ 01 ngày"
+    ]
+  ]
+}

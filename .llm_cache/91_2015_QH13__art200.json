@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thực hiện quyền của chủ sở hữu",
+    "quản lý",
+    "sử dụng",
+    "đầu tư"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thực hiện quyền của chủ sở hữu"
+    ],
+    [
+      "nhà nước",
+      "đầu tư"
+    ],
+    [
+      "doanh nghiệp",
+      "thực hiện việc quản lý"
+    ],
+    [
+      "doanh nghiệp",
+      "sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu toàn dân",
+      "tài sản được đầu tư vào doanh nghiệp"
+    ],
+    [
+      "nhà nước",
+      "quyền của chủ sở hữu"
+    ],
+    [
+      "doanh nghiệp",
+      "vốn nhà nước"
+    ],
+    [
+      "doanh nghiệp",
+      "đất đai"
+    ],
+    [
+      "doanh nghiệp",
+      "tài nguyên"
+    ],
+    [
+      "doanh nghiệp",
+      "tài sản khác do nhà nước đầu tư"
+    ]
+  ]
+}

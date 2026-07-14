@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "gây thiệt hại",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại",
+      "tài sản"
+    ],
+    [
+      "phạt cảnh cáo",
+      "vô ý gây thiệt hại nghiêm trọng đến tài sản"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "vô ý gây thiệt hại nghiêm trọng đến tài sản"
+    ],
+    [
+      "phạt tù",
+      "vô ý gây thiệt hại nghiêm trọng đến tài sản"
+    ]
+  ]
+}

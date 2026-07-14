@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người điều khiển phương tiện giao thông đường thủy",
+    "người chỉ huy",
+    "người có thẩm quyền điều khiển, giữ gìn trật tự, an toàn giao thông đường thủy",
+    "người bị nạn",
+    "người phạm tội"
+  ],
+  "actions": [
+    "điều khiển phương tiện giao thông đường thủy",
+    "vi phạm quy định về an toàn giao thông đường thủy",
+    "gây thiệt hại",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạm tội",
+    "bỏ chạy để trốn tránh trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều khiển phương tiện giao thông đường thủy"
+    ],
+    [
+      "người",
+      "vi phạm quy định về an toàn giao thông đường thủy"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người điều khiển phương tiện giao thông đường thủy",
+      "phạm tội"
+    ],
+    [
+      "người điều khiển phương tiện giao thông đường thủy",
+      "bỏ chạy để trốn tránh trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về an toàn giao thông đường thủy",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt tiền"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt tù"
+    ],
+    [
+      "làm chết người",
+      "gây thương tích"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "không có bằng, chứng chỉ chuyên môn phù hợp",
+      "phạm tội"
+    ],
+    [
+      "sử dụng rượu, bia, chất ma túy, chất kích thích mạnh khác",
+      "phạm tội"
+    ]
+  ]
+}

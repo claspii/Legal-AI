@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "tôn trọng",
+    "bảo vệ",
+    "giải quyết vụ việc về hôn nhân và gia đình"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "danh dự",
+      "nhân phẩm"
+    ],
+    [
+      "nhân phẩm",
+      "uy tín"
+    ],
+    [
+      "uy tín",
+      "bí mật đời tư"
+    ],
+    [
+      "bí mật đời tư",
+      "các quyền riêng tư khác"
+    ],
+    [
+      "các quyền riêng tư khác",
+      "hôn nhân và gia đình"
+    ]
+  ]
+}

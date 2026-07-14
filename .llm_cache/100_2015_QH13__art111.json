@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người tổ chức",
+    "người hoạt động đắc lực",
+    "người đồng phạm khác",
+    "người chuẩn bị phạm tội này"
+  ],
+  "actions": [
+    "xâm phạm an ninh lãnh thổ",
+    "xâm nhập lãnh thổ",
+    "làm sai lệch đường biên giới quốc gia",
+    "gây phương hại cho an ninh lãnh thổ",
+    "phạt tù",
+    "tổ chức",
+    "gây hậu quả nghiêm trọng",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xâm nhập lãnh thổ"
+    ],
+    [
+      "người",
+      "làm sai lệch đường biên giới quốc gia"
+    ],
+    [
+      "người",
+      "gây phương hại cho an ninh lãnh thổ của nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "người tổ chức",
+      "tổ chức"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "hoạt động đắc lực"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "chuẩn bị phạm tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xâm phạm an ninh lãnh thổ",
+      "xâm nhập lãnh thổ"
+    ],
+    [
+      "xâm phạm an ninh lãnh thổ",
+      "làm sai lệch đường biên giới quốc gia"
+    ],
+    [
+      "xâm phạm an ninh lãnh thổ",
+      "gây phương hại cho an ninh lãnh thổ"
+    ],
+    [
+      "người tổ chức",
+      "gây hậu quả nghiêm trọng"
+    ]
+  ]
+}

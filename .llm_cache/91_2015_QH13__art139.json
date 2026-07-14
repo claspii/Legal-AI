@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đại diện",
+    "người thứ ba",
+    "người được đại diện"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "làm phát sinh quyền",
+    "làm phát sinh nghĩa vụ",
+    "xác lập hành vi cần thiết",
+    "thực hiện hành vi cần thiết",
+    "biết",
+    "phải biết"
+  ],
+  "actor_actions": [
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "xác lập hành vi cần thiết"
+    ],
+    [
+      "người đại diện",
+      "thực hiện hành vi cần thiết"
+    ],
+    [
+      "người đại diện",
+      "biết"
+    ],
+    [
+      "người đại diện",
+      "phải biết"
+    ],
+    [
+      "người được đại diện",
+      "biết"
+    ],
+    [
+      "người được đại diện",
+      "phải biết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người đại diện",
+      "người được đại diện"
+    ],
+    [
+      "giao dịch dân sự",
+      "phạm vi đại diện"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "nhầm lẫn",
+      "lừa dối"
+    ],
+    [
+      "bị đe dọa",
+      "cưỡng ép"
+    ],
+    [
+      "hành vi đại diện",
+      "hậu quả pháp lý"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hứa thưởng"
+  ],
+  "actions": [
+    "rút lại tuyên bố hứa thưởng",
+    "công bố"
+  ],
+  "actor_actions": [
+    [
+      "người hứa thưởng",
+      "rút lại tuyên bố hứa thưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hứa thưởng",
+      "rút lại tuyên bố hứa thưởng"
+    ],
+    [
+      "tuyên bố hứa thưởng",
+      "công việc"
+    ]
+  ]
+}

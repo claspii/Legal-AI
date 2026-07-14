@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hành khách",
+    "bên vận chuyển"
+  ],
+  "actions": [
+    "yêu cầu chuyên chở",
+    "yêu cầu miễn cước phí vận chuyển",
+    "yêu cầu thanh toán chi phí phát sinh",
+    "bồi thường thiệt hại",
+    "nhận lại cước phí vận chuyển",
+    "nhận hành lý",
+    "yêu cầu tạm dừng hành trình"
+  ],
+  "actor_actions": [
+    [
+      "hành khách",
+      "yêu cầu chuyên chở"
+    ],
+    [
+      "hành khách",
+      "yêu cầu miễn cước phí vận chuyển"
+    ],
+    [
+      "hành khách",
+      "yêu cầu thanh toán chi phí phát sinh"
+    ],
+    [
+      "hành khách",
+      "nhận lại cước phí vận chuyển"
+    ],
+    [
+      "hành khách",
+      "nhận hành lý"
+    ],
+    [
+      "hành khách",
+      "yêu cầu tạm dừng hành trình"
+    ],
+    [
+      "bên vận chuyển",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành khách",
+      "bên vận chuyển"
+    ],
+    [
+      "cước phí vận chuyển",
+      "hành lý ký gửi"
+    ],
+    [
+      "cước phí vận chuyển",
+      "hành lý xách tay"
+    ],
+    [
+      "chi phí phát sinh",
+      "thiệt hại"
+    ]
+  ]
+}

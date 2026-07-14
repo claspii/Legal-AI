@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "cản trở giao thông đường bộ",
+    "đào",
+    "khoan",
+    "xẻ",
+    "san lấp trái phép các công trình giao thông đường bộ",
+    "đặt, để trái phép vật liệu, phế thải, rác thải, đổ chất gây trơn, vật sắc nhọn hoặc các chướng ngại vật khác gây cản trở giao thông đường bộ",
+    "tháo dỡ, di chuyển trái phép, làm sai lệch, che khuất hoặc phá hủy biển báo hiệu, đèn tín hiệu, cọc tiêu, gương cầu, dải phân cách hoặc các thiết bị an toàn giao thông đường bộ khác",
+    "mở đường giao cắt trái phép qua đường bộ, đường có dải phân cách"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cản trở giao thông đường bộ"
+    ],
+    [
+      "người",
+      "đào"
+    ],
+    [
+      "người",
+      "khoan"
+    ],
+    [
+      "người",
+      "xẻ"
+    ],
+    [
+      "người",
+      "san lấp trái phép các công trình giao thông đường bộ"
+    ],
+    [
+      "người",
+      "đặt, để trái phép vật liệu, phế thải, rác thải, đổ chất gây trơn, vật sắc nhọn hoặc các chướng ngại vật khác gây cản trở giao thông đường bộ"
+    ],
+    [
+      "người",
+      "tháo dỡ, di chuyển trái phép, làm sai lệch, che khuất hoặc phá hủy biển báo hiệu, đèn tín hiệu, cọc tiêu, gương cầu, dải phân cách hoặc các thiết bị an toàn giao thông đường bộ khác"
+    ],
+    [
+      "người",
+      "mở đường giao cắt trái phép qua đường bộ, đường có dải phân cách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cản trở giao thông đường bộ",
+      "công trình giao thông đường bộ"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "lề đường"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "hè phố"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "phần đường xe chạy"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "hành lang an toàn đường bộ"
+    ],
+    [
+      "cản trở giao thông đường bộ",
+      "an toàn giao thông"
+    ],
+    [
+      "người",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

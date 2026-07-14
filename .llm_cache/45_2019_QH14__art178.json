@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "người sử dụng lao động",
+    "cơ quan, tổ chức đăng ký hoạt động hợp pháp tại việt nam",
+    "người lao động là thành viên"
+  ],
+  "actions": [
+    "thương lượng tập thể",
+    "đối thoại tại nơi làm việc",
+    "tiếp nhận hỗ trợ kỹ thuật",
+    "tổ chức và lãnh đạo đình công",
+    "được tham khảo ý kiến xây dựng và giám sát",
+    "đại diện",
+    "bố trí nơi làm việc",
+    "cung cấp thông tin, bảo đảm các điều kiện cần thiết"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "thương lượng tập thể"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "đối thoại tại nơi làm việc"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "được tham khảo ý kiến xây dựng và giám sát"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "đại diện cho người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tổ chức và lãnh đạo đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tiếp nhận hỗ trợ kỹ thuật"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí nơi làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "cung cấp thông tin, bảo đảm các điều kiện cần thiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "người sử dụng lao động"
+    ],
+    [
+      "thương lượng tập thể",
+      "người sử dụng lao động"
+    ],
+    [
+      "đối thoại tại nơi làm việc",
+      "người sử dụng lao động"
+    ],
+    [
+      "giải quyết khiếu nại, tranh chấp lao động cá nhân",
+      "người lao động"
+    ],
+    [
+      "đình công",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "thành lập tổ chức đại diện người lao động",
+      "hoạt động hợp pháp tại việt nam"
+    ]
+  ]
+}

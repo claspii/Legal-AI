@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng"
+  ],
+  "actions": [
+    "phạm tội",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "người dưới 16 tuổi"
+    ],
+    [
+      "phạm tội",
+      "phụ nữ mà biết là có thai"
+    ],
+    [
+      "phạm tội",
+      "người già yếu"
+    ],
+    [
+      "phạm tội",
+      "người khuyết tật nặng"
+    ],
+    [
+      "phạm tội",
+      "người khuyết tật đặc biệt nặng"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "người"
+    ]
+  ]
+}

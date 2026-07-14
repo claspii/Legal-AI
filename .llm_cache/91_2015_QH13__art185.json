@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người khác",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "người có hành vi xâm phạm"
+  ],
+  "actions": [
+    "xâm phạm",
+    "yêu cầu",
+    "chấm dứt hành vi",
+    "khôi phục tình trạng ban đầu",
+    "trả lại tài sản",
+    "bồi thường thiệt hại",
+    "buộc"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "yêu cầu"
+    ],
+    [
+      "người có hành vi xâm phạm",
+      "xâm phạm"
+    ],
+    [
+      "người có hành vi xâm phạm",
+      "chấm dứt hành vi"
+    ],
+    [
+      "người có hành vi xâm phạm",
+      "khôi phục tình trạng ban đầu"
+    ],
+    [
+      "người có hành vi xâm phạm",
+      "trả lại tài sản"
+    ],
+    [
+      "người có hành vi xâm phạm",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "tòa án",
+      "buộc"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền khác",
+      "buộc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "bảo vệ việc chiếm hữu"
+    ],
+    [
+      "chiếm hữu",
+      "xâm phạm"
+    ],
+    [
+      "xâm phạm",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

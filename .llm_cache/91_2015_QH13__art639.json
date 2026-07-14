@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "công chứng viên",
+    "tổ chức hành nghề công chứng"
+  ],
+  "actions": [
+    "lập di chúc",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "yêu cầu"
+    ],
+    [
+      "công chứng viên",
+      "lập di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "chỗ ở"
+    ],
+    [
+      "thủ tục lập di chúc tại chỗ ở",
+      "thủ tục lập di chúc tại tổ chức hành nghề công chứng"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "sản xuất trái phép chất cháy",
+    "tàng trữ trái phép chất cháy",
+    "vận chuyển trái phép chất cháy",
+    "sử dụng trái phép chất cháy",
+    "mua bán trái phép chất cháy",
+    "sản xuất trái phép chất độc",
+    "tàng trữ trái phép chất độc",
+    "vận chuyển trái phép chất độc",
+    "sử dụng trái phép chất độc",
+    "mua bán trái phép chất độc",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất trái phép chất cháy"
+    ],
+    [
+      "người nào",
+      "tàng trữ trái phép chất cháy"
+    ],
+    [
+      "người nào",
+      "vận chuyển trái phép chất cháy"
+    ],
+    [
+      "người nào",
+      "sử dụng trái phép chất cháy"
+    ],
+    [
+      "người nào",
+      "mua bán trái phép chất cháy"
+    ],
+    [
+      "người nào",
+      "sản xuất trái phép chất độc"
+    ],
+    [
+      "người nào",
+      "tàng trữ trái phép chất độc"
+    ],
+    [
+      "người nào",
+      "vận chuyển trái phép chất độc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất cháy",
+      "chất độc"
+    ],
+    [
+      "sản xuất",
+      "tàng trữ"
+    ],
+    [
+      "sản xuất",
+      "vận chuyển"
+    ],
+    [
+      "sản xuất",
+      "sử dụng"
+    ],
+    [
+      "sản xuất",
+      "mua bán"
+    ],
+    [
+      "tàng trữ",
+      "vận chuyển"
+    ],
+    [
+      "tàng trữ",
+      "sử dụng"
+    ],
+    [
+      "tàng trữ",
+      "mua bán"
+    ]
+  ]
+}

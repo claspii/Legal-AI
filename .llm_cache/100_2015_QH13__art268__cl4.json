@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "súc vật"
+  ],
+  "actions": [
+    "đặt chướng ngại vật trên đường sắt",
+    "làm xê dịch ray",
+    "làm xê dịch tà vẹt",
+    "khoan trái phép nền đường sắt",
+    "đào trái phép nền đường sắt",
+    "xẻ trái phép nền đường sắt",
+    "mở đường ngang trái phép qua đường sắt",
+    "xây cống trái phép qua đường sắt",
+    "xây công trình khác trái phép qua đường sắt",
+    "làm hỏng tín hiệu của công trình giao thông đường sắt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đặt chướng ngại vật trên đường sắt"
+    ],
+    [
+      "người",
+      "làm xê dịch ray"
+    ],
+    [
+      "người",
+      "làm xê dịch tà vẹt"
+    ],
+    [
+      "người",
+      "khoan trái phép nền đường sắt"
+    ],
+    [
+      "người",
+      "đào trái phép nền đường sắt"
+    ],
+    [
+      "người",
+      "xẻ trái phép nền đường sắt"
+    ],
+    [
+      "người",
+      "mở đường ngang trái phép qua đường sắt"
+    ],
+    [
+      "người",
+      "xây cống trái phép qua đường sắt"
+    ],
+    [
+      "người",
+      "xây công trình khác trái phép qua đường sắt"
+    ],
+    [
+      "người",
+      "làm hỏng tín hiệu của công trình giao thông đường sắt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "hành lang an toàn giao thông đường sắt",
+      "phạm vi bảo vệ công trình giao thông đường sắt"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

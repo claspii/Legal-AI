@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [
+    "đình chỉ hoạt động vĩnh viễn"
+  ],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "chấm dứt hoạt động",
+    "gây thiệt hại",
+    "gây sự cố môi trường",
+    "gây ảnh hưởng xấu",
+    "khắc phục hậu quả",
+    "được thành lập",
+    "thực hiện tội phạm",
+    "bị đình chỉ vĩnh viễn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây thiệt hại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây sự cố môi trường"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây ảnh hưởng xấu"
+    ],
+    [
+      "pháp nhân thương mại",
+      "không có khả năng khắc phục hậu quả"
+    ],
+    [
+      "pháp nhân thương mại",
+      "được thành lập chỉ để thực hiện tội phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ vĩnh viễn toàn bộ hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình chỉ hoạt động vĩnh viễn",
+      "pháp nhân thương mại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "gây thiệt hại",
+      "tính mạng của nhiều người"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "an ninh"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "trật tự"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "an toàn xã hội"
+    ]
+  ]
+}

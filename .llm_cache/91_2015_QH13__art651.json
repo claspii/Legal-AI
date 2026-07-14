@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "cha đẻ",
+    "mẹ đẻ",
+    "cha nuôi",
+    "mẹ nuôi",
+    "con đẻ",
+    "con nuôi"
+  ],
+  "actions": [
+    "hưởng thừa kế",
+    "hưởng di sản",
+    "từ chối nhận di sản"
+  ],
+  "actor_actions": [
+    [
+      "những người thừa kế",
+      "hưởng phần di sản"
+    ],
+    [
+      "những người ở hàng thừa kế sau",
+      "hưởng thừa kế"
+    ],
+    [
+      "những người ở hàng thừa kế sau",
+      "từ chối nhận di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thừa kế theo pháp luật",
+      "thừa kế theo pháp luật"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "vợ"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "chồng"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "cha đẻ"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "mẹ đẻ"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "cha nuôi"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "mẹ nuôi"
+    ],
+    [
+      "hàng thừa kế thứ nhất",
+      "con đẻ"
+    ]
+  ]
+}

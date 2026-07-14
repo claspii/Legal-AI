@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết",
+      "02 người trở lên"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe",
+      "02 người trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "61% trở lên"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe",
+      "03 người trở lên"
+    ],
+    [
+      "tổng tỷ lệ tổn thương cơ thể",
+      "122% trở lên"
+    ]
+  ]
+}

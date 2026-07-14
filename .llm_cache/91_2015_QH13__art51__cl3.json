@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám sát việc giám hộ",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "giám sát việc giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "người giám sát việc giám hộ",
+      "giám sát việc giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám sát việc giám hộ",
+      "cá nhân"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "pháp nhân"
+    ],
+    [
+      "cá nhân",
+      "năng lực hành vi dân sự đầy đủ"
+    ],
+    [
+      "pháp nhân",
+      "năng lực pháp luật dân sự"
+    ]
+  ]
+}

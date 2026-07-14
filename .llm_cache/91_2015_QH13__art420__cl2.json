@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có lợi ích bị ảnh hưởng",
+    "bên kia"
+  ],
+  "actions": [
+    "yêu cầu đàm phán lại",
+    "thực hiện hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên có lợi ích bị ảnh hưởng",
+      "yêu cầu đàm phán lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoàn cảnh thay đổi cơ bản",
+      "hợp đồng"
+    ],
+    [
+      "bên có lợi ích bị ảnh hưởng",
+      "yêu cầu đàm phán lại"
+    ]
+  ]
+}

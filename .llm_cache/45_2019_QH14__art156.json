@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động là người nước ngoài",
+    "phía nước ngoài",
+    "doanh nghiệp",
+    "tổ chức",
+    "đối tác phía việt nam",
+    "tổ chức nước ngoài tại việt nam"
+  ],
+  "actions": [
+    "hết hiệu lực",
+    "hết thời hạn",
+    "chấm dứt",
+    "thu hồi"
+  ],
+  "actor_actions": [
+    [
+      "lao động là người nước ngoài",
+      "làm việc"
+    ],
+    [
+      "phía nước ngoài",
+      "thôi cử lao động"
+    ],
+    [
+      "doanh nghiệp",
+      "sử dụng lao động"
+    ],
+    [
+      "doanh nghiệp",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "tổ chức",
+      "sử dụng lao động"
+    ],
+    [
+      "tổ chức",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "đối tác phía việt nam",
+      "sử dụng lao động"
+    ],
+    [
+      "đối tác phía việt nam",
+      "chấm dứt hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép lao động",
+      "thời hạn"
+    ],
+    [
+      "giấy phép lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "nội dung"
+    ],
+    [
+      "giấy phép lao động",
+      "nội dung"
+    ],
+    [
+      "hợp đồng",
+      "giấy phép lao động"
+    ],
+    [
+      "lao động là người nước ngoài",
+      "giấy phép lao động"
+    ]
+  ]
+}

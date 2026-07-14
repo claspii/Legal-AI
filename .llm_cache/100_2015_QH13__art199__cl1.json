@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "cắt điện",
+    "từ chối cung cấp điện",
+    "trì hoãn việc xử lý sự cố điện"
+  ],
+  "actor_actions": [
+    [
+      "người có trách nhiệm",
+      "gây thương tích"
+    ],
+    [
+      "người có trách nhiệm",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người có trách nhiệm",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người có trách nhiệm",
+      "cắt điện"
+    ],
+    [
+      "người có trách nhiệm",
+      "từ chối cung cấp điện"
+    ],
+    [
+      "người có trách nhiệm",
+      "trì hoãn việc xử lý sự cố điện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "hành vi",
+      "vi phạm các quy định về cung ứng điện"
+    ],
+    [
+      "xử lý kỷ luật",
+      "hành vi này"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "hành vi này"
+    ]
+  ]
+}

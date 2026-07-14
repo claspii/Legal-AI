@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "những người này"
+  ],
+  "actions": [
+    "khoan, đào trái phép làm hư hại kết cấu của các công trình giao thông đường thủy",
+    "tạo ra chướng ngại vật gây cản trở giao thông đường thủy mà không đặt và duy trì báo hiệu",
+    "di chuyển làm giảm hiệu lực, tác dụng của báo hiệu",
+    "tháo dỡ báo hiệu hoặc phá hoại công trình giao thông đường thủy",
+    "lấn chiếm luồng hoặc hành lang bảo vệ luồng giao thông đường thủy",
+    "cản trở giao thông đường thủy gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+    "cản trở giao thông đường thủy gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%",
+    "bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "khoan, đào trái phép làm hư hại kết cấu của các công trình giao thông đường thủy"
+    ],
+    [
+      "người",
+      "tạo ra chướng ngại vật gây cản trở giao thông đường thủy mà không đặt và duy trì báo hiệu"
+    ],
+    [
+      "người",
+      "di chuyển làm giảm hiệu lực, tác dụng của báo hiệu"
+    ],
+    [
+      "người",
+      "tháo dỡ báo hiệu hoặc phá hoại công trình giao thông đường thủy"
+    ],
+    [
+      "người",
+      "lấn chiếm luồng hoặc hành lang bảo vệ luồng giao thông đường thủy"
+    ],
+    [
+      "người",
+      "cản trở giao thông đường thủy gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "người",
+      "cản trở giao thông đường thủy gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+    ],
+    [
+      "người",
+      "bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khoan, đào trái phép",
+      "hư hại kết cấu của các công trình giao thông đường thủy"
+    ],
+    [
+      "tạo ra chướng ngại vật",
+      "gây cản trở giao thông đường thủy"
+    ],
+    [
+      "di chuyển",
+      "làm giảm hiệu lực, tác dụng của báo hiệu"
+    ],
+    [
+      "tháo dỡ báo hiệu",
+      "phá hoại công trình giao thông đường thủy"
+    ],
+    [
+      "lấn chiếm luồng",
+      "hành lang bảo vệ luồng giao thông đường thủy"
+    ],
+    [
+      "hành vi khác cản trở giao thông đường thủy",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "hành vi khác cản trở giao thông đường thủy",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+    ]
+  ]
+}

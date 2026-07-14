@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc"
+  ],
+  "actions": [
+    "lập di chúc",
+    "thay đổi",
+    "hủy bỏ di chúc",
+    "có quốc tịch",
+    "cư trú",
+    "chết",
+    "được công nhận"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "thay đổi"
+    ],
+    [
+      "người lập di chúc",
+      "hủy bỏ di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "cư trú"
+    ],
+    [
+      "người lập di chúc",
+      "chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực lập di chúc",
+      "pháp luật của nước mà người lập di chúc có quốc tịch"
+    ],
+    [
+      "hình thức của di chúc",
+      "pháp luật của nước nơi di chúc được lập"
+    ],
+    [
+      "di chúc",
+      "bất động sản"
+    ],
+    [
+      "di sản thừa kế",
+      "bất động sản"
+    ]
+  ]
+}

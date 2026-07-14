@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu nhà"
+  ],
+  "actions": [
+    "trổ cửa ra vào",
+    "trổ cửa sổ",
+    "quay sang nhà bên cạnh",
+    "quay sang nhà đối diện",
+    "quay ra đường đi chung",
+    "cách mặt đất"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu nhà",
+      "trổ cửa ra vào"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "trổ cửa sổ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cửa ra vào",
+      "cửa sổ"
+    ],
+    [
+      "nhà bên cạnh",
+      "nhà đối diện"
+    ],
+    [
+      "nhà bên cạnh",
+      "đường đi chung"
+    ],
+    [
+      "nhà đối diện",
+      "đường đi chung"
+    ],
+    [
+      "mặt dưới mái che trên cửa ra vào",
+      "mặt dưới mái che cửa sổ"
+    ]
+  ]
+}

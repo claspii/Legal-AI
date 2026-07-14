@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên thương lượng tập thể",
+    "doanh nghiệp",
+    "ủy ban nhân dân cấp tỉnh",
+    "hội đồng thương lượng tập thể"
+  ],
+  "actions": [
+    "yêu cầu",
+    "thành lập",
+    "tiến hành thương lượng tập thể"
+  ],
+  "actor_actions": [
+    [
+      "các bên thương lượng tập thể",
+      "yêu cầu"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "thành lập"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "tiến hành thương lượng tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "doanh nghiệp"
+    ],
+    [
+      "thương lượng tập thể",
+      "hội đồng thương lượng tập thể"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "hội đồng thương lượng tập thể"
+    ]
+  ]
+}

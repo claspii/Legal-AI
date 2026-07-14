@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có công việc được thực hiện",
+    "người thực hiện công việc không có ủy quyền"
+  ],
+  "actions": [
+    "tiếp nhận công việc",
+    "bàn giao công việc",
+    "thanh toán chi phí hợp lý",
+    "trả thù lao",
+    "thực hiện công việc",
+    "từ chối"
+  ],
+  "actor_actions": [
+    [
+      "người có công việc được thực hiện",
+      "tiếp nhận công việc"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "thanh toán các chi phí hợp lý"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "trả cho người thực hiện công việc không có ủy quyền một khoản thù lao"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "bàn giao công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "bỏ ra để thực hiện công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "thực hiện công việc chu đáo"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "từ chối"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công việc",
+      "ủy quyền"
+    ],
+    [
+      "chi phí hợp lý",
+      "thanh toán"
+    ],
+    [
+      "công việc chu đáo",
+      "thù lao"
+    ]
+  ]
+}

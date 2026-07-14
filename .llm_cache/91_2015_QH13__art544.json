@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đặt gia công",
+    "bên nhận gia công"
+  ],
+  "actions": [
+    "cung cấp nguyên vật liệu",
+    "cung cấp giấy tờ",
+    "chỉ dẫn",
+    "thực hiện hợp đồng",
+    "trả tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên đặt gia công",
+      "cung cấp nguyên vật liệu"
+    ],
+    [
+      "bên đặt gia công",
+      "cung cấp giấy tờ"
+    ],
+    [
+      "bên đặt gia công",
+      "chỉ dẫn"
+    ],
+    [
+      "bên đặt gia công",
+      "trả tiền công"
+    ],
+    [
+      "bên nhận gia công",
+      "thực hiện hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên đặt gia công",
+      "bên nhận gia công"
+    ],
+    [
+      "nguyên vật liệu",
+      "gia công"
+    ],
+    [
+      "tiền công",
+      "gia công"
+    ]
+  ]
+}

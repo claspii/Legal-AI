@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "người của pháp nhân",
+    "người có lỗi"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây ra",
+    "thực hiện nhiệm vụ",
+    "giao",
+    "yêu cầu",
+    "hoàn trả"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người của pháp nhân",
+      "gây ra"
+    ],
+    [
+      "người của pháp nhân",
+      "thực hiện nhiệm vụ"
+    ],
+    [
+      "pháp nhân",
+      "giao"
+    ],
+    [
+      "pháp nhân",
+      "yêu cầu"
+    ],
+    [
+      "người có lỗi",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "người của pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "người có lỗi"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "hoàn trả"
+    ]
+  ]
+}

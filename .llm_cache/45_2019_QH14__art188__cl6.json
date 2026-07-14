@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một trong các bên",
+    "bên kia",
+    "hội đồng trọng tài lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "thực hiện thỏa thuận",
+    "yêu cầu giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "một trong các bên",
+      "không thực hiện các thỏa thuận trong biên bản hòa giải thành"
+    ],
+    [
+      "bên kia",
+      "yêu cầu hội đồng trọng tài lao động giải quyết"
+    ],
+    [
+      "bên kia",
+      "yêu cầu tòa án giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa thuận trong biên bản hòa giải thành",
+      "không thực hiện"
+    ],
+    [
+      "bên kia",
+      "yêu cầu giải quyết"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ]
+}

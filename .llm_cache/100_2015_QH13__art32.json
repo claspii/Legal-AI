@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "bị áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt chính",
+      "cảnh cáo"
+    ],
+    [
+      "hình phạt chính",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt chính",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt chính",
+      "trục xuất"
+    ],
+    [
+      "hình phạt chính",
+      "tù có thời hạn"
+    ],
+    [
+      "hình phạt chính",
+      "tù chung thân"
+    ],
+    [
+      "hình phạt chính",
+      "tử hình"
+    ],
+    [
+      "hình phạt bổ sung",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ]
+}

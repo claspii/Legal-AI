@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "người giám hộ",
+    "cơ quan đăng ký hộ tịch",
+    "tòa án",
+    "cơ quan quản lý nhà nước về gia đình",
+    "cơ quan quản lý nhà nước về trẻ em",
+    "hội liên hiệp phụ nữ",
+    "cá nhân",
+    "tổ chức"
+  ],
+  "actions": [
+    "yêu cầu",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "cha",
+      "yêu cầu"
+    ],
+    [
+      "mẹ",
+      "yêu cầu"
+    ],
+    [
+      "con",
+      "yêu cầu"
+    ],
+    [
+      "người giám hộ",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan quản lý nhà nước về gia đình",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan quản lý nhà nước về trẻ em",
+      "yêu cầu"
+    ],
+    [
+      "hội liên hiệp phụ nữ",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan đăng ký hộ tịch",
+      "xác định"
+    ],
+    [
+      "tòa án",
+      "xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ],
+    [
+      "cha, mẹ, con",
+      "người có quyền yêu cầu xác định cha, mẹ, con"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "cha, mẹ chưa thành niên",
+      "cha, mẹ mất năng lực hành vi dân sự"
+    ]
+  ]
+}

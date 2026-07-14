@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con dâu",
+    "con rể",
+    "cha mẹ chồng",
+    "cha mẹ vợ",
+    "các bên"
+  ],
+  "actions": [
+    "sống chung",
+    "tôn trọng",
+    "quan tâm",
+    "chăm sóc",
+    "giúp đỡ"
+  ],
+  "actor_actions": [
+    [
+      "con dâu",
+      "sống chung"
+    ],
+    [
+      "con rể",
+      "sống chung"
+    ],
+    [
+      "các bên",
+      "tôn trọng"
+    ],
+    [
+      "các bên",
+      "quan tâm"
+    ],
+    [
+      "các bên",
+      "chăm sóc"
+    ],
+    [
+      "các bên",
+      "giúp đỡ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con dâu",
+      "cha mẹ chồng"
+    ],
+    [
+      "con rể",
+      "cha mẹ vợ"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

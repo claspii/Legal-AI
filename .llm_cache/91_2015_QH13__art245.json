@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [
+    "quyền đối với bất động sản liền kề"
+  ],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "thực hiện",
+    "khai thác"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền đối với bất động sản liền kề",
+      "bất động sản chịu hưởng quyền"
+    ],
+    [
+      "quyền đối với bất động sản liền kề",
+      "bất động sản hưởng quyền"
+    ],
+    [
+      "bất động sản chịu hưởng quyền",
+      "bất động sản hưởng quyền"
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người được bảo vệ",
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về bảo vệ",
+    "không chấp hành nghiêm chỉnh quy định về tuần tra, canh gác, áp tải, hộ tổng",
+    "làm tổn thương cơ thể",
+    "làm hư hỏng phương tiện kỹ thuật, thiết bị quân sự",
+    "làm thiệt hại về tài sản",
+    "gây hậu quả nghiêm trọng",
+    "làm chết",
+    "làm mất phương tiện kỹ thuật, thiết bị quân sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không chấp hành nghiêm chỉnh quy định về tuần tra, canh gác, áp tải, hộ tổng"
+    ],
+    [
+      "người",
+      "làm người được bảo vệ, hộ tổng bị tổn thương cơ thể"
+    ],
+    [
+      "người",
+      "làm hư hỏng phương tiện kỹ thuật, thiết bị quân sự"
+    ],
+    [
+      "người",
+      "làm thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người",
+      "làm người được bảo vệ, hộ tổng chết"
+    ],
+    [
+      "người",
+      "làm mất phương tiện kỹ thuật, thiết bị quân sự"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không chấp hành nghiêm chỉnh quy định về tuần tra, canh gác, áp tải, hộ tổng",
+      "vi phạm quy định về bảo vệ"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "100.000.000 đồng"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "500.000.000 đồng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ],
+    [
+      "trong chiến đấu",
+      "trong khu vực có chiến sự"
+    ]
+  ]
+}

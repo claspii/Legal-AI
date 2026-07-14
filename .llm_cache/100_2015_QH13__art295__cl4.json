@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người vi phạm"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn lao động",
+    "vi phạm quy định về vệ sinh lao động",
+    "vi phạm quy định về an toàn ở những nơi đông người",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người vi phạm",
+      "vi phạm quy định về an toàn lao động"
+    ],
+    [
+      "người vi phạm",
+      "vi phạm quy định về vệ sinh lao động"
+    ],
+    [
+      "người vi phạm",
+      "vi phạm quy định về an toàn ở những nơi đông người"
+    ],
+    [
+      "người vi phạm",
+      "gây thương tích"
+    ],
+    [
+      "người vi phạm",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "an toàn lao động",
+      "vệ sinh lao động"
+    ],
+    [
+      "an toàn lao động",
+      "an toàn ở những nơi đông người"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

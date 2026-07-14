@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "thu lợi bất chính",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lương thực",
+      "thực phẩm"
+    ],
+    [
+      "thực phẩm",
+      "phụ gia thực phẩm"
+    ],
+    [
+      "giá bán",
+      "giá niêm yết"
+    ],
+    [
+      "giá niêm yết",
+      "giá ghi trong hóa đơn"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "hàng giả",
+      "hàng thật"
+    ]
+  ]
+}

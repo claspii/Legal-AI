@@ -1,0 +1,109 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận cầm cố",
+    "bên cầm cố"
+  ],
+  "actions": [
+    "bảo quản",
+    "giữ gìn",
+    "làm mất",
+    "thất lạc",
+    "hư hỏng",
+    "bồi thường thiệt hại",
+    "bán",
+    "trao đổi",
+    "tặng cho",
+    "sử dụng",
+    "cho thuê",
+    "cho mượn",
+    "khai thác công dụng",
+    "hưởng hoa lợi",
+    "hưởng lợi tức",
+    "trả lại"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận cầm cố",
+      "bảo quản"
+    ],
+    [
+      "bên nhận cầm cố",
+      "giữ gìn"
+    ],
+    [
+      "bên nhận cầm cố",
+      "làm mất"
+    ],
+    [
+      "bên nhận cầm cố",
+      "thất lạc"
+    ],
+    [
+      "bên nhận cầm cố",
+      "hư hỏng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được bán"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được trao đổi"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được tặng cho"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được sử dụng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được cho thuê"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được cho mượn"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được khai thác công dụng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được hưởng hoa lợi"
+    ],
+    [
+      "bên nhận cầm cố",
+      "không được hưởng lợi tức"
+    ],
+    [
+      "bên nhận cầm cố",
+      "trả lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "bên nhận cầm cố"
+    ],
+    [
+      "tài sản cầm cố",
+      "bên cầm cố"
+    ],
+    [
+      "nghĩa vụ được bảo đảm bằng cầm cố",
+      "chấm dứt"
+    ],
+    [
+      "nghĩa vụ được bảo đảm bằng cầm cố",
+      "biện pháp bảo đảm khác"
+    ]
+  ]
+}

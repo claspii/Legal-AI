@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận bảo đảm",
+    "bên bảo đảm",
+    "các bên cùng nhận bảo đảm khác"
+  ],
+  "actions": [
+    "thông báo bằng văn bản",
+    "xử lý tài sản bảo đảm",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận bảo đảm",
+      "thông báo bằng văn bản"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "xử lý tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "thông báo về việc xử lý tài sản đó"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "gây thiệt hại"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông báo về việc xử lý tài sản bảo đảm",
+      "xử lý tài sản bảo đảm"
+    ],
+    [
+      "không thông báo về việc xử lý tài sản bảo đảm",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "tài sản bảo đảm có nguy cơ bị hư hỏng",
+      "xử lý ngay"
+    ]
+  ]
+}

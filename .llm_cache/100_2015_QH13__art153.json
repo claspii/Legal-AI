@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "chiếm giữ",
+    "giao cho người khác chiếm giữ",
+    "phạt tù",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "chiếm giữ"
+    ],
+    [
+      "người",
+      "giao cho người khác chiếm giữ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt người",
+      "người dưới 16 tuổi"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "nạn nhân"
+    ],
+    [
+      "gây thương tích",
+      "nạn nhân"
+    ],
+    [
+      "gây tổn hại sức khỏe",
+      "nạn nhân"
+    ],
+    [
+      "làm nạn nhân chết",
+      "nạn nhân"
+    ],
+    [
+      "phạt tù",
+      "người phạm tội"
+    ],
+    [
+      "phạt tiền",
+      "người phạm tội"
+    ]
+  ]
+}

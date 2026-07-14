@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể có quyền sử dụng đất",
+    "chủ thể có quyền bề mặt",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "chuyển giao",
+    "có hiệu lực"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể có quyền sử dụng đất",
+      "chuyển giao"
+    ],
+    [
+      "quyền bề mặt",
+      "có hiệu lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền bề mặt",
+      "quyền sử dụng đất"
+    ],
+    [
+      "mặt đất",
+      "mặt nước"
+    ],
+    [
+      "mặt đất",
+      "khoảng không gian trên mặt đất, mặt nước"
+    ],
+    [
+      "mặt đất",
+      "lòng đất"
+    ]
+  ]
+}

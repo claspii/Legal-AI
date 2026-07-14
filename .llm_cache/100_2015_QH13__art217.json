@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "doanh nghiệp",
+    "người khác",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "trực tiếp tham gia",
+    "thực hiện các hành vi vi phạm quy định về cạnh tranh",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "thỏa thuận ngăn cản",
+    "thỏa thuận kìm hãm",
+    "thỏa thuận loại bỏ",
+    "thỏa thuận hạn chế cạnh tranh",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "phạm tội",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định",
+    "bị đình chỉ hoạt động",
+    "bị cấm kinh doanh",
+    "bị cấm hoạt động trong một số lĩnh vực nhất định",
+    "bị cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trực tiếp tham gia"
+    ],
+    [
+      "người",
+      "thực hiện các hành vi vi phạm quy định về cạnh tranh"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "doanh nghiệp",
+      "thỏa thuận ngăn cản"
+    ],
+    [
+      "doanh nghiệp",
+      "thỏa thuận kìm hãm"
+    ],
+    [
+      "doanh nghiệp",
+      "thỏa thuận loại bỏ"
+    ],
+    [
+      "doanh nghiệp",
+      "thỏa thuận hạn chế cạnh tranh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "thỏa thuận ngăn cản",
+      "thỏa thuận kìm hãm"
+    ],
+    [
+      "thỏa thuận ngăn cản",
+      "tham gia thị trường"
+    ],
+    [
+      "thỏa thuận ngăn cản",
+      "phát triển kinh doanh"
+    ],
+    [
+      "thỏa thuận hạn chế cạnh tranh",
+      "thị phần kết hợp trên thị trường liên quan"
+    ],
+    [
+      "thỏa thuận ấn định giá hàng hóa",
+      "dịch vụ"
+    ],
+    [
+      "thỏa thuận phân chia thị trường tiêu thụ",
+      "nguồn cung cấp hàng hóa"
+    ],
+    [
+      "thỏa thuận phân chia thị trường tiêu thụ",
+      "nguồn cung dịch vụ"
+    ]
+  ]
+}

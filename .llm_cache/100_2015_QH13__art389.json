@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "người dưới 01 tuổi",
+    "người từ đủ 13 tuổi đến dưới 16 tuổi",
+    "nhà nước",
+    "người nộp thuế"
+  ],
+  "actions": [
+    "che giấu tội phạm",
+    "giết người",
+    "hiếp dâm",
+    "cưỡng dâm",
+    "dâm ô",
+    "mua bán người",
+    "đánh tráo người",
+    "chiếm đoạt người"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "che giấu tội phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội che giấu tội phạm",
+      "không hứa hẹn trước"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội xâm phạm an ninh quốc gia"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội giết người"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội hiếp dâm"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội mua bán người"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội cướp tài sản"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội buôn lậu"
+    ],
+    [
+      "tội che giấu tội phạm",
+      "tội sản xuất trái phép chất ma túy"
+    ]
+  ]
+}

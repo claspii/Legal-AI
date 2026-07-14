@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt",
+    "gây thiệt hại",
+    "phạt tiền",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chiếm đoạt"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "số tiền chiếm đoạt",
+      "phạt tiền"
+    ],
+    [
+      "thiệt hại",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "cấm kinh doanh"
+    ],
+    [
+      "phạm tội",
+      "cấm hoạt động"
+    ],
+    [
+      "phạm tội",
+      "cấm huy động vốn"
+    ]
+  ]
+}

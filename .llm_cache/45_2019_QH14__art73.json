@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "Ủy ban nhân dân cấp tỉnh",
+    "các bên thương lượng tập thể",
+    "Hội đồng thương lượng tập thể",
+    "Chủ tịch Hội đồng",
+    "đại diện các bên thương lượng tập thể",
+    "đại diện Ủy ban nhân dân cấp tỉnh",
+    "Bộ trưởng Bộ Lao động - Thương binh và Xã hội",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "yêu cầu",
+    "thành lập",
+    "quyết định",
+    "tổ chức",
+    "điều phối hoạt động",
+    "hỗ trợ",
+    "cử",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên thương lượng tập thể",
+      "yêu cầu"
+    ],
+    [
+      "Ủy ban nhân dân cấp tỉnh",
+      "thành lập"
+    ],
+    [
+      "Ủy ban nhân dân cấp tỉnh",
+      "quyết định"
+    ],
+    [
+      "Ủy ban nhân dân cấp tỉnh",
+      "tổ chức"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "tiến hành thương lượng"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "tự chấm dứt hoạt động"
+    ],
+    [
+      "Chủ tịch Hội đồng",
+      "điều phối hoạt động"
+    ],
+    [
+      "Chủ tịch Hội đồng",
+      "hỗ trợ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "Hội đồng thương lượng tập thể"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "Chủ tịch Hội đồng"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "đại diện các bên thương lượng tập thể"
+    ],
+    [
+      "Hội đồng thương lượng tập thể",
+      "đại diện Ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "thương lượng tập thể",
+      "doanh nghiệp"
+    ]
+  ]
+}

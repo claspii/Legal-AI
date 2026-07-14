@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [
+    "sở hữu chung của vợ chồng"
+  ],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án"
+  ],
+  "actions": [
+    "tạo lập",
+    "phát triển",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "thỏa thuận",
+    "ủy quyền",
+    "phân chia",
+    "lựa chọn"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "tạo lập"
+    ],
+    [
+      "vợ chồng",
+      "phát triển"
+    ],
+    [
+      "vợ chồng",
+      "chiếm hữu"
+    ],
+    [
+      "vợ chồng",
+      "sử dụng"
+    ],
+    [
+      "vợ chồng",
+      "định đoạt"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "vợ chồng",
+      "ủy quyền"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung của vợ chồng",
+      "sở hữu chung hợp nhất"
+    ],
+    [
+      "tài sản chung",
+      "chiếm hữu"
+    ],
+    [
+      "tài sản chung",
+      "sử dụng"
+    ],
+    [
+      "tài sản chung",
+      "định đoạt"
+    ],
+    [
+      "tài sản chung",
+      "phân chia"
+    ],
+    [
+      "chế độ tài sản",
+      "thỏa thuận"
+    ],
+    [
+      "pháp luật",
+      "hôn nhân và gia đình"
+    ]
+  ]
+}

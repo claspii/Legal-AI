@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "lao động là người giúp việc gia đình",
+    "người giúp việc gia đình",
+    "người lao động"
+  ],
+  "actions": [
+    "ngược đãi",
+    "quấy rối tình dục",
+    "cưỡng bức lao động",
+    "dùng vũ lực",
+    "giao việc",
+    "giữ giấy tờ tùy thân"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "ngược đãi"
+    ],
+    [
+      "người sử dụng lao động",
+      "quấy rối tình dục"
+    ],
+    [
+      "người sử dụng lao động",
+      "cưỡng bức lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "dùng vũ lực"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "giữ giấy tờ tùy thân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "lao động là người giúp việc gia đình"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "giao việc",
+      "hợp đồng lao động"
+    ]
+  ]
+}

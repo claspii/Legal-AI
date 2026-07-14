@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có trách nhiệm trực tiếp bảo đảm an toàn giao thông đường không",
+    "người trực tiếp quản lý các thiết bị an toàn giao thông đường không"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ]
+}

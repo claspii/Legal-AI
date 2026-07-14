@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn"
+  ],
+  "actions": [
+    "thiếu trách nhiệm",
+    "không thực hiện nhiệm vụ được giao",
+    "thực hiện không đúng nhiệm vụ được giao",
+    "làm chết người",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người có chức vụ, quyền hạn",
+      "thiếu trách nhiệm"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "không thực hiện nhiệm vụ được giao"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "thực hiện không đúng nhiệm vụ được giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

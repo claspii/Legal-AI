@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "cá nhân",
+    "tổ chức",
+    "tòa án",
+    "người trực tiếp nuôi con",
+    "người giám hộ",
+    "người thân thích",
+    "cơ quan quản lý nhà nước về gia đình"
+  ],
+  "actions": [
+    "yêu cầu",
+    "quyết định việc thay đổi người trực tiếp nuôi con",
+    "giải quyết",
+    "có thỏa thuận",
+    "trông nom, chăm sóc, nuôi dưỡng, giáo dục con",
+    "xem xét nguyện vọng",
+    "giao con",
+    "có quyền yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "cha",
+      "yêu cầu"
+    ],
+    [
+      "mẹ",
+      "yêu cầu"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "tổ chức",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "quyết định việc thay đổi người trực tiếp nuôi con"
+    ],
+    [
+      "người trực tiếp nuôi con",
+      "không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con"
+    ],
+    [
+      "tòa án",
+      "quyết định giao con cho người giám hộ"
+    ],
+    [
+      "cá nhân",
+      "có quyền yêu cầu thay đổi người trực tiếp nuôi con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "thay đổi người trực tiếp nuôi con",
+      "lợi ích của con"
+    ],
+    [
+      "người trực tiếp nuôi con",
+      "trông nom, chăm sóc, nuôi dưỡng, giáo dục con"
+    ],
+    [
+      "nguyện vọng của con",
+      "từ đủ 07 tuổi trở lên"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "người giám hộ",
+      "bộ luật dân sự"
+    ]
+  ]
+}

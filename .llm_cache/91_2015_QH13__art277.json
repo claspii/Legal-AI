@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên có quyền",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thực hiện nghĩa vụ",
+    "xác định",
+    "thay đổi nơi cư trú",
+    "thay đổi trụ sở",
+    "báo",
+    "chịu chi phí tăng lên"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên có quyền",
+      "thay đổi nơi cư trú"
+    ],
+    [
+      "bên có quyền",
+      "thay đổi trụ sở"
+    ],
+    [
+      "bên có quyền",
+      "báo"
+    ],
+    [
+      "bên có quyền",
+      "chịu chi phí tăng lên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "địa điểm thực hiện nghĩa vụ",
+      "thỏa thuận"
+    ],
+    [
+      "địa điểm thực hiện nghĩa vụ",
+      "bất động sản"
+    ],
+    [
+      "địa điểm thực hiện nghĩa vụ",
+      "nơi cư trú"
+    ],
+    [
+      "địa điểm thực hiện nghĩa vụ",
+      "trụ sở"
+    ],
+    [
+      "bên có quyền",
+      "nơi cư trú"
+    ],
+    [
+      "bên có quyền",
+      "trụ sở"
+    ],
+    [
+      "thay đổi nơi cư trú",
+      "chi phí tăng lên"
+    ]
+  ]
+}

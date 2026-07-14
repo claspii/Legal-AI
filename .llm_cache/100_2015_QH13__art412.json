@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "vi phạm quy định về sử dụng vũ khí quân dụng, trang bị kỹ thuật quân sự",
+    "gây hậu quả nghiêm trọng",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về sử dụng vũ khí quân dụng, trang bị kỹ thuật quân sự"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về sử dụng vũ khí quân dụng, trang bị kỹ thuật quân sự",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "phạt tù"
+    ],
+    [
+      "phạm tội",
+      "trong chiến đấu"
+    ],
+    [
+      "phạm tội",
+      "trong khu vực có chiến sự"
+    ],
+    [
+      "phạm tội",
+      "gây hậu quả rất nghiêm trọng hoặc đặc biệt nghiêm trọng"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "thỏa ước lao động tập thể"
+  ],
+  "actors": [
+    "các bên",
+    "người lao động"
+  ],
+  "actions": [
+    "ký kết",
+    "đạt được",
+    "khuyến khích"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "ký kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "thương lượng tập thể"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "thỏa ước lao động tập thể doanh nghiệp"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "thỏa ước lao động tập thể ngành"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "pháp luật"
+    ]
+  ]
+}

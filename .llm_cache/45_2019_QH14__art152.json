@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "doanh nghiệp",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "nhà thầu",
+    "người lao động nước ngoài",
+    "người lao động việt nam",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "tuyển dụng",
+    "sử dụng",
+    "giải trình nhu cầu sử dụng lao động",
+    "được sự chấp thuận bằng văn bản",
+    "kê khai"
+  ],
+  "actor_actions": [
+    [
+      "doanh nghiệp",
+      "tuyển dụng"
+    ],
+    [
+      "cơ quan",
+      "tuyển dụng"
+    ],
+    [
+      "tổ chức",
+      "tuyển dụng"
+    ],
+    [
+      "cá nhân",
+      "tuyển dụng"
+    ],
+    [
+      "nhà thầu",
+      "tuyển dụng"
+    ],
+    [
+      "doanh nghiệp",
+      "giải trình nhu cầu sử dụng lao động"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "chấp thuận bằng văn bản"
+    ],
+    [
+      "nhà thầu",
+      "kê khai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tuyển dụng người lao động nước ngoài",
+      "điều kiện tuyển dụng"
+    ],
+    [
+      "người lao động nước ngoài",
+      "vị trí công việc"
+    ],
+    [
+      "nhu cầu sử dụng lao động",
+      "chấp thuận bằng văn bản"
+    ],
+    [
+      "nhà thầu",
+      "sử dụng lao động nước ngoài"
+    ],
+    [
+      "vị trí công việc",
+      "trình độ chuyên môn"
+    ]
+  ]
+}

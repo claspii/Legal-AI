@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "hủy hoại tài sản",
+    "cố ý làm hư hỏng tài sản",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hủy hoại tài sản",
+      "cố ý làm hư hỏng tài sản"
+    ],
+    [
+      "hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "gây thiệt hại"
+    ]
+  ]
+}

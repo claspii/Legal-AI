@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "bộ lao động - thương binh và xã hội",
+    "quân nhân chuyên nghiệp",
+    "công nhân",
+    "viên chức quốc phòng"
+  ],
+  "actions": [
+    "nghỉ việc",
+    "đóng bảo hiểm xã hội",
+    "hưởng lương hưu",
+    "làm nghề",
+    "làm việc",
+    "ban hành"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "đóng bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "hưởng lương hưu"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "ban hành"
+    ],
+    [
+      "người lao động",
+      "làm nghề"
+    ],
+    [
+      "người lao động",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "lương hưu"
+    ],
+    [
+      "tuổi nghỉ hưu",
+      "bộ luật lao động"
+    ],
+    [
+      "nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+      "danh mục"
+    ],
+    [
+      "vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+      "phụ cấp khu vực"
+    ],
+    [
+      "người bị nhiễm HIV",
+      "tai nạn rủi ro nghề nghiệp"
+    ]
+  ]
+}

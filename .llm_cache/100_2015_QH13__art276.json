@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn",
+    "người không đủ các điều kiện khác theo quy định của pháp luật",
+    "người phạm tội"
+  ],
+  "actions": [
+    "giao",
+    "điều khiển",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao"
+    ],
+    [
+      "người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện giao thông đường thủy"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cho người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "gây thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "số người chết"
+    ],
+    [
+      "thiệt hại",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thiệt hại",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "giao cho người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "hình phạt tiền"
+    ],
+    [
+      "giao cho người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "hình phạt cải tạo không giam giữ"
+    ],
+    [
+      "giao cho người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "hình phạt tù"
+    ],
+    [
+      "giao cho người không đủ điều kiện điều khiển phương tiện giao thông đường thủy",
+      "cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ]
+}

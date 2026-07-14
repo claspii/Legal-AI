@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê",
+    "bên cho thuê"
+  ],
+  "actions": [
+    "cho thuê lại",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê",
+      "cho thuê lại"
+    ],
+    [
+      "bên cho thuê",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê",
+      "bên cho thuê"
+    ],
+    [
+      "cho thuê lại",
+      "tài sản"
+    ]
+  ]
+}

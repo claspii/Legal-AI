@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "làm",
+    "tàng trữ",
+    "vận chuyển",
+    "lưu hành",
+    "phạt tù",
+    "phạt tiền",
+    "tịch thu"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "làm"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "lưu hành"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công cụ chuyển nhượng giả",
+      "giấy tờ có giá giả khác"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "tịch thu tài sản"
+    ]
+  ]
+}

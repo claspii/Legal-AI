@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có nghĩa vụ giao vật"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ giao vật",
+    "bảo quản",
+    "giữ gìn vật",
+    "giao vật",
+    "giao đúng vật đó",
+    "giao đúng số lượng",
+    "giao đúng chất lượng",
+    "chịu mọi chi phí"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ giao vật",
+      "bảo quản"
+    ],
+    [
+      "bên có nghĩa vụ giao vật",
+      "giữ gìn vật"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "giao đúng vật đó"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "giao đúng số lượng"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "giao đúng chất lượng"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "giao đồng bộ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chịu mọi chi phí về việc giao vật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ giao vật",
+      "bên có nghĩa vụ giao vật"
+    ],
+    [
+      "vật phải giao",
+      "vật đặc định"
+    ],
+    [
+      "vật phải giao",
+      "vật cùng loại"
+    ],
+    [
+      "vật phải giao",
+      "vật đồng bộ"
+    ],
+    [
+      "vật đặc định",
+      "tình trạng như đã cam kết"
+    ],
+    [
+      "vật cùng loại",
+      "số lượng như đã thỏa thuận"
+    ],
+    [
+      "vật cùng loại",
+      "chất lượng như đã thỏa thuận"
+    ],
+    [
+      "chất lượng",
+      "chất lượng trung bình"
+    ]
+  ]
+}

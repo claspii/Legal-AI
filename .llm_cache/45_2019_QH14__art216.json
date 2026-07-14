@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thanh tra lao động",
+    "người có thẩm quyền",
+    "người lao động"
+  ],
+  "actions": [
+    "thanh tra",
+    "điều tra",
+    "báo trước"
+  ],
+  "actor_actions": [
+    [
+      "thanh tra lao động",
+      "thanh tra"
+    ],
+    [
+      "thanh tra lao động",
+      "điều tra"
+    ],
+    [
+      "thanh tra lao động",
+      "không cần báo trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thanh tra lao động",
+      "quyền"
+    ],
+    [
+      "thanh tra đột xuất",
+      "quyết định của người có thẩm quyền"
+    ],
+    [
+      "nguy cơ đe dọa an toàn",
+      "tính mạng"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "sức khỏe",
+      "danh dự"
+    ],
+    [
+      "danh dự",
+      "nhân phẩm của người lao động"
+    ]
+  ]
+}

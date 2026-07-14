@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhờ mang thai hộ",
+    "người mẹ nhờ mang thai hộ",
+    "con",
+    "bên mang thai hộ",
+    "tòa án",
+    "gia đình bên nhờ mang thai hộ"
+  ],
+  "actions": [
+    "chi trả",
+    "hưởng chế độ thai sản",
+    "nhận con",
+    "nuôi dưỡng",
+    "chăm sóc con",
+    "cấp dưỡng",
+    "bồi thường",
+    "hưởng thừa kế"
+  ],
+  "actor_actions": [
+    [
+      "bên nhờ mang thai hộ",
+      "chi trả"
+    ],
+    [
+      "người mẹ nhờ mang thai hộ",
+      "hưởng chế độ thai sản"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "từ chối nhận con"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "cấp dưỡng"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "bồi thường"
+    ],
+    [
+      "con",
+      "hưởng thừa kế"
+    ],
+    [
+      "bên mang thai hộ",
+      "từ chối giao con"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "yêu cầu tòa án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhờ mang thai hộ",
+      "chi phí thực tế"
+    ],
+    [
+      "người mẹ nhờ mang thai hộ",
+      "chế độ thai sản"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "nghĩa vụ nuôi dưỡng"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "bồi thường"
+    ],
+    [
+      "con",
+      "thừa kế"
+    ]
+  ]
+}

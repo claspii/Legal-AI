@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "các bên"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "xâm phạm",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "bị xâm phạm"
+    ],
+    [
+      "pháp nhân",
+      "bị xâm phạm"
+    ],
+    [
+      "cá nhân",
+      "được bồi thường toàn bộ thiệt hại"
+    ],
+    [
+      "pháp nhân",
+      "được bồi thường toàn bộ thiệt hại"
+    ],
+    [
+      "các bên",
+      "thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền dân sự",
+      "bị xâm phạm"
+    ],
+    [
+      "quyền dân sự bị xâm phạm",
+      "bồi thường toàn bộ thiệt hại"
+    ],
+    [
+      "các bên",
+      "thỏa thuận khác"
+    ]
+  ]
+}

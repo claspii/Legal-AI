@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền",
+    "thực hiện công việc không có ủy quyền"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật áp dụng",
+      "thực hiện công việc không có ủy quyền"
+    ]
+  ]
+}

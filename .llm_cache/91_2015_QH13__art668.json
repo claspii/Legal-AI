@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "pháp luật được dẫn chiếu đến"
+  ],
+  "actors": [
+    "các bên tham gia quan hệ dân sự"
+  ],
+  "actions": [
+    "dẫn chiếu",
+    "áp dụng",
+    "lựa chọn"
+  ],
+  "actor_actions": [
+    [
+      "các bên tham gia quan hệ dân sự",
+      "lựa chọn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật được dẫn chiếu đến",
+      "pháp luật việt nam"
+    ],
+    [
+      "pháp luật được dẫn chiếu đến",
+      "pháp luật của nước thứ ba"
+    ],
+    [
+      "pháp luật áp dụng",
+      "quyền"
+    ],
+    [
+      "pháp luật áp dụng",
+      "nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [
+    "cưỡng ép kết hôn, ly hôn"
+  ],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "đe dọa",
+    "uy hiếp tinh thần",
+    "hành hạ",
+    "ngược đãi",
+    "yêu sách của cải",
+    "kết hôn",
+    "ly hôn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "đe dọa"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "uy hiếp tinh thần"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "hành hạ"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "ngược đãi"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "yêu sách của cải"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "kết hôn trái với ý muốn"
+    ],
+    [
+      "cưỡng ép kết hôn, ly hôn",
+      "ly hôn trái với ý muốn"
+    ]
+  ]
+}

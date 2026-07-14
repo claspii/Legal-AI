@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị phạt cấm cư trú",
+    "người bị phạt quản chế",
+    "cơ quan thi hành án hình sự cấp huyện",
+    "tòa án"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "chấp hành hình phạt",
+    "cải tạo tốt",
+    "đề nghị",
+    "quyết định miễn chấp hành phần hình phạt còn lại"
+  ],
+  "actor_actions": [
+    [
+      "người bị phạt cấm cư trú",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị phạt quản chế",
+      "chấp hành hình phạt"
+    ],
+    [
+      "cơ quan thi hành án hình sự cấp huyện",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định miễn chấp hành phần hình phạt còn lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị phạt cấm cư trú",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "người bị phạt quản chế",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "chấp hành hình phạt",
+      "cải tạo tốt"
+    ]
+  ]
+}

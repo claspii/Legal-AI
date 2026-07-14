@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "ủy ban nhân dân cấp tỉnh",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp huyện"
+  ],
+  "actions": [
+    "đăng ký nội quy lao động",
+    "nộp hồ sơ đăng ký nội quy lao động",
+    "ban hành nội quy lao động",
+    "sửa đổi nội quy lao động",
+    "bổ sung nội quy lao động",
+    "thông báo",
+    "hướng dẫn",
+    "ủy quyền"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đăng ký nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "ban hành nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "nộp hồ sơ đăng ký nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "sửa đổi nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "bổ sung nội quy lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "thông báo"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "hướng dẫn"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "ủy quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "nội quy lao động"
+    ],
+    [
+      "nội quy lao động",
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "hồ sơ đăng ký nội quy lao động",
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp huyện"
+    ]
+  ]
+}

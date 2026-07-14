@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "lập thành văn bản",
+    "xác lập bằng hành vi cụ thể",
+    "giao kết"
+  ],
+  "actor_actions": [
+    [
+      "hợp đồng vận chuyển hành khách",
+      "lập thành văn bản"
+    ],
+    [
+      "hợp đồng vận chuyển hành khách",
+      "xác lập bằng hành vi cụ thể"
+    ],
+    [
+      "các bên",
+      "giao kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vận chuyển hành khách",
+      "văn bản"
+    ],
+    [
+      "hợp đồng vận chuyển hành khách",
+      "lời nói"
+    ],
+    [
+      "hợp đồng vận chuyển hành khách",
+      "hành vi cụ thể"
+    ],
+    [
+      "vé",
+      "bằng chứng của việc giao kết hợp đồng vận chuyển hành khách"
+    ]
+  ]
+}

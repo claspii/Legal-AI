@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "đào, khoan, xẻ, san lấp trái phép các công trình giao thông đường bộ",
+    "đặt, để trái phép vật liệu, phế thải, rác thải, đổ chất gây trơn, vật sắc nhọn hoặc các chướng ngại vật khác gây cản trở giao thông đường bộ",
+    "tháo dỡ, di chuyển trái phép, làm sai lệch, che khuất hoặc phá hủy biển báo hiệu, đèn tín hiệu, cọc tiêu, gương cầu, dải phân cách hoặc các thiết bị an toàn giao thông đường bộ khác",
+    "mở đường giao cắt trái phép qua đường bộ, đường có dải phân cách",
+    "sử dụng trái phép lề đường, hè phố, phần đường xe chạy",
+    "sử dụng trái phép hành lang an toàn đường bộ hoặc vi phạm quy định về bảo đảm an toàn giao thông khi thi công trên đường bộ",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đào, khoan, xẻ, san lấp trái phép các công trình giao thông đường bộ"
+    ],
+    [
+      "người",
+      "đặt, để trái phép vật liệu, phế thải, rác thải, đổ chất gây trơn, vật sắc nhọn hoặc các chướng ngại vật khác gây cản trở giao thông đường bộ"
+    ],
+    [
+      "người",
+      "tháo dỡ, di chuyển trái phép, làm sai lệch, che khuất hoặc phá hủy biển báo hiệu, đèn tín hiệu, cọc tiêu, gương cầu, dải phân cách hoặc các thiết bị an toàn giao thông đường bộ khác"
+    ],
+    [
+      "người",
+      "mở đường giao cắt trái phép qua đường bộ, đường có dải phân cách"
+    ],
+    [
+      "người",
+      "sử dụng trái phép lề đường, hè phố, phần đường xe chạy"
+    ],
+    [
+      "người",
+      "sử dụng trái phép hành lang an toàn đường bộ hoặc vi phạm quy định về bảo đảm an toàn giao thông khi thi công trên đường bộ"
+    ],
+    [
+      "người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao thông đường bộ",
+      "cản trở giao thông đường bộ"
+    ],
+    [
+      "công trình giao thông đường bộ",
+      "đào, khoan, xẻ, san lấp trái phép"
+    ],
+    [
+      "biển báo hiệu",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "đèn tín hiệu",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "cọc tiêu",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "gương cầu",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "dải phân cách",
+      "thiết bị an toàn giao thông đường bộ"
+    ],
+    [
+      "hành lang an toàn đường bộ",
+      "sử dụng trái phép"
+    ]
+  ]
+}

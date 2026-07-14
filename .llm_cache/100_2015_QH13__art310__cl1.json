@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển, mua bán chất phóng xạ, vật liệu hạt nhân",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển, mua bán chất phóng xạ, vật liệu hạt nhân"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất phóng xạ",
+      "vật liệu hạt nhân"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

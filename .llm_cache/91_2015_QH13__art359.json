@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "chậm tiếp nhận việc thực hiện nghĩa vụ",
+    "làm phát sinh thiệt hại",
+    "bồi thường thiệt hại",
+    "chịu rủi ro",
+    "chịu chi phí phát sinh"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "chậm tiếp nhận việc thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "làm phát sinh thiệt hại"
+    ],
+    [
+      "bên có quyền",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên có quyền",
+      "chịu rủi ro"
+    ],
+    [
+      "bên có quyền",
+      "chịu chi phí phát sinh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên có quyền",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "chậm tiếp nhận việc thực hiện nghĩa vụ",
+      "thiệt hại"
+    ],
+    [
+      "chậm tiếp nhận việc thực hiện nghĩa vụ",
+      "rủi ro"
+    ],
+    [
+      "chậm tiếp nhận việc thực hiện nghĩa vụ",
+      "chi phí phát sinh"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

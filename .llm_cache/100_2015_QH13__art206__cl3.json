@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại về tài sản",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tù"
+    ]
+  ]
+}

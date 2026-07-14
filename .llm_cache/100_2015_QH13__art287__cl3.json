@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "cản trở hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử",
+    "gây rối loạn hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm tê liệt hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử",
+    "gián đoạn hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử",
+    "ngưng trệ hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử",
+    "làm đình trệ hoạt động của cơ quan, tổ chức"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hệ thống dữ liệu thuộc bí mật nhà nước",
+      "hệ thống thông tin phục vụ quốc phòng, an ninh"
+    ],
+    [
+      "cơ sở hạ tầng thông tin quốc gia",
+      "hệ thống thông tin điều hành lưới điện quốc gia"
+    ],
+    [
+      "hệ thống thông tin, giao dịch tài chính",
+      "ngân hàng"
+    ],
+    [
+      "hệ thống thông tin điều khiển giao thông",
+      "mạng máy tính"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ]
+  ]
+}

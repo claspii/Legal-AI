@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đó",
+    "thành viên gia đình",
+    "cá nhân",
+    "người khác",
+    "các bên trong hợp đồng"
+  ],
+  "actions": [
+    "thu thập",
+    "lưu giữ",
+    "sử dụng",
+    "công khai",
+    "bóc mở",
+    "kiểm soát",
+    "thu giữ",
+    "tiết lộ thông tin",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người đó",
+      "đồng ý"
+    ],
+    [
+      "thành viên gia đình",
+      "đồng ý"
+    ],
+    [
+      "các bên trong hợp đồng",
+      "không được tiết lộ thông tin"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đời sống riêng tư",
+      "bí mật cá nhân"
+    ],
+    [
+      "bí mật cá nhân",
+      "bí mật gia đình"
+    ],
+    [
+      "thư tín",
+      "điện thoại"
+    ],
+    [
+      "điện thoại",
+      "điện tín"
+    ],
+    [
+      "điện tín",
+      "cơ sở dữ liệu điện tử"
+    ]
+  ]
+}

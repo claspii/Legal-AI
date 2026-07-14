@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phân chia di sản",
+    "người quản lý di sản",
+    "người thừa kế",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "phân chia di sản",
+    "chỉ định",
+    "thỏa thuận cử ra",
+    "chia di sản",
+    "hưởng thù lao",
+    "cho phép"
+  ],
+  "actor_actions": [
+    [
+      "người phân chia di sản",
+      "phân chia di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "được chỉ định"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận cử ra"
+    ],
+    [
+      "người phân chia di sản",
+      "chia di sản"
+    ],
+    [
+      "người phân chia di sản",
+      "hưởng thù lao"
+    ],
+    [
+      "người để lại di sản",
+      "cho phép"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người phân chia di sản",
+      "di chúc"
+    ],
+    [
+      "người phân chia di sản",
+      "người quản lý di sản"
+    ],
+    [
+      "người phân chia di sản",
+      "người thừa kế"
+    ],
+    [
+      "phân chia di sản",
+      "di chúc"
+    ],
+    [
+      "phân chia di sản",
+      "thỏa thuận của những người thừa kế"
+    ],
+    [
+      "thù lao",
+      "di chúc"
+    ],
+    [
+      "thù lao",
+      "thỏa thuận của những người thừa kế"
+    ]
+  ]
+}

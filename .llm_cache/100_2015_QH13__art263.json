@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có thẩm quyền",
+    "người không có giấy phép lái xe",
+    "người không đủ sức khỏe",
+    "người không đủ độ tuổi",
+    "người đang trong tình trạng có sử dụng rượu, bia",
+    "người có sử dụng chất ma túy",
+    "người có sử dụng các chất kích thích mạnh khác",
+    "người phạm tội"
+  ],
+  "actions": [
+    "điều động người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+    "làm chết người",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người có thẩm quyền",
+      "điều động người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện điều khiển phương tiện",
+      "điều động người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "nồng độ cồn",
+      "vượt quá mức quy định"
+    ],
+    [
+      "chất ma túy",
+      "chất kích thích mạnh khác"
+    ]
+  ]
+}

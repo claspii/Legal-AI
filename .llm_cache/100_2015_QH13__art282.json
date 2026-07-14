@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chiếm đoạt tàu bay",
+    "chiếm đoạt tàu thủy",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "dùng thủ đoạn khác",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác"
+    ],
+    [
+      "người",
+      "chiếm đoạt tàu bay"
+    ],
+    [
+      "người",
+      "chiếm đoạt tàu thủy"
+    ],
+    [
+      "người phạm tội",
+      "phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "cấm cư trú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt tàu bay",
+      "chiếm đoạt tàu thủy"
+    ],
+    [
+      "dùng vũ lực",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt quản chế",
+      "cấm cư trú"
+    ],
+    [
+      "tàu bay",
+      "tàu thủy"
+    ]
+  ]
+}

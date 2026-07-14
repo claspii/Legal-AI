@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng",
+    "cha",
+    "mẹ",
+    "con"
+  ],
+  "actions": [
+    "thỏa thuận xác lập",
+    "bồi thường thiệt hại",
+    "chịu trách nhiệm",
+    "thực hiện",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "gây ra"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "thỏa thuận xác lập"
+    ],
+    [
+      "vợ chồng",
+      "chịu trách nhiệm"
+    ],
+    [
+      "vợ",
+      "thực hiện"
+    ],
+    [
+      "chồng",
+      "thực hiện"
+    ],
+    [
+      "vợ chồng",
+      "chiếm hữu"
+    ],
+    [
+      "vợ chồng",
+      "sử dụng"
+    ],
+    [
+      "vợ chồng",
+      "định đoạt"
+    ],
+    [
+      "con",
+      "gây ra"
+    ],
+    [
+      "cha",
+      "bồi thường"
+    ],
+    [
+      "mẹ",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ chung về tài sản",
+      "vợ chồng"
+    ],
+    [
+      "nghĩa vụ",
+      "giao dịch"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "nghĩa vụ",
+      "nhu cầu thiết yếu của gia đình"
+    ],
+    [
+      "nghĩa vụ",
+      "chiếm hữu, sử dụng, định đoạt tài sản chung"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản riêng"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản chung"
+    ],
+    [
+      "cha mẹ",
+      "con"
+    ]
+  ]
+}

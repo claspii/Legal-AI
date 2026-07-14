@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "tòa án",
+    "người đó"
+  ],
+  "actions": [
+    "xóa án tích",
+    "quyết định xóa án tích",
+    "thực hiện hành vi phạm tội mới"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "được tòa án quyết định xóa án tích"
+    ],
+    [
+      "tòa án",
+      "quyết định xóa án tích"
+    ],
+    [
+      "người đó",
+      "không thực hiện hành vi phạm tội mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xóa án tích",
+      "quyết định của tòa án"
+    ],
+    [
+      "xóa án tích",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "xóa án tích",
+      "không thực hiện hành vi phạm tội mới"
+    ]
+  ]
+}

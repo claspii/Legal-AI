@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ có đối tượng tùy ý lựa chọn"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "lựa chọn",
+    "thông báo",
+    "xác định thời hạn",
+    "hoàn thành",
+    "giao",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "lựa chọn"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thông báo"
+    ],
+    [
+      "bên có quyền",
+      "xác định thời hạn"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "hoàn thành"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "giao"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ có đối tượng tùy ý lựa chọn",
+      "tài sản"
+    ],
+    [
+      "nghĩa vụ có đối tượng tùy ý lựa chọn",
+      "công việc"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "tài sản",
+      "công việc"
+    ]
+  ]
+}

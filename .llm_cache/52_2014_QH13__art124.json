@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan có thẩm quyền của nước ngoài",
+    "cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actions": [
+    "lập",
+    "cấp",
+    "xác nhận",
+    "sử dụng",
+    "giải quyết",
+    "hợp pháp hóa lãnh sự",
+    "miễn hợp pháp hóa lãnh sự"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan có thẩm quyền của nước ngoài",
+      "lập"
+    ],
+    [
+      "cơ quan có thẩm quyền của nước ngoài",
+      "cấp"
+    ],
+    [
+      "cơ quan có thẩm quyền của nước ngoài",
+      "xác nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp pháp hóa lãnh sự",
+      "điều ước quốc tế"
+    ],
+    [
+      "hợp pháp hóa lãnh sự",
+      "nguyên tắc có đi có lại"
+    ],
+    [
+      "giấy tờ",
+      "hôn nhân và gia đình"
+    ],
+    [
+      "vụ việc",
+      "hôn nhân và gia đình"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [
+    "thời gian làm thêm giờ"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thời gian làm thêm giờ",
+      "thời giờ làm việc bình thường"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "quy định của pháp luật"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "thời giờ làm việc bình thường",
+      "nội quy lao động"
+    ]
+  ]
+}

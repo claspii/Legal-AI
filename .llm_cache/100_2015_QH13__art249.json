@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "tàng trữ trái phép",
+    "mua bán",
+    "vận chuyển",
+    "sản xuất trái phép",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa",
+    "sử dụng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tàng trữ trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "người",
+      "sử dụng người dưới 16 tuổi vào việc phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàng trữ trái phép chất ma túy",
+      "nhựa thuốc phiện"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "hêrôin"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "lá cây cần sa"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "quả thuốc phiện khô"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "quả thuốc phiện tươi"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "chất ma túy khác ở thể rắn"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "chất ma túy khác ở thể lỏng"
+    ],
+    [
+      "tàng trữ trái phép chất ma túy",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

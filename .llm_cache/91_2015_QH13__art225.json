@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ sở hữu vật chính",
+    "chủ sở hữu vật phụ",
+    "người sáp nhập tài sản",
+    "chủ sở hữu tài sản bị sáp nhập",
+    "chủ sở hữu bất động sản"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "sáp nhập",
+    "thanh toán",
+    "yêu cầu",
+    "giao tài sản mới",
+    "bồi thường thiệt hại",
+    "dỡ bỏ tài sản sáp nhập trái phép",
+    "giữ lại tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu vật chính",
+      "thanh toán"
+    ],
+    [
+      "người sáp nhập tài sản",
+      "sáp nhập"
+    ],
+    [
+      "chủ sở hữu tài sản bị sáp nhập",
+      "yêu cầu"
+    ],
+    [
+      "chủ sở hữu tài sản bị sáp nhập",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "yêu cầu"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "dỡ bỏ tài sản sáp nhập trái phép"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "giữ lại tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "vật không chia được"
+    ],
+    [
+      "tài sản",
+      "vật chính"
+    ],
+    [
+      "tài sản",
+      "vật phụ"
+    ],
+    [
+      "tài sản",
+      "sở hữu chung"
+    ],
+    [
+      "động sản",
+      "tài sản của người khác"
+    ],
+    [
+      "động sản",
+      "bất động sản"
+    ],
+    [
+      "quyền sở hữu",
+      "sáp nhập"
+    ],
+    [
+      "tài sản mới",
+      "giá trị"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "nhà nước"
+  ],
+  "actions": [
+    "thừa kế",
+    "hưởng di sản",
+    "từ chối nhận di sản",
+    "thực hiện nghĩa vụ",
+    "nhận thừa kế"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "hưởng di sản"
+    ],
+    [
+      "người thừa kế",
+      "từ chối nhận di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản không có người nhận thừa kế",
+      "nhà nước"
+    ],
+    [
+      "người thừa kế",
+      "di chúc"
+    ],
+    [
+      "người thừa kế",
+      "pháp luật"
+    ],
+    [
+      "tài sản",
+      "nghĩa vụ về tài sản"
+    ]
+  ]
+}

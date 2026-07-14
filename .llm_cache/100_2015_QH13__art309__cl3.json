@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "phát tán",
+    "mua bán trái phép",
+    "chiếm đoạt",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất phóng xạ",
+      "vật liệu hạt nhân"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

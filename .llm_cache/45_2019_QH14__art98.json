@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "trả lương",
+    "làm thêm giờ",
+    "làm việc vào ban đêm",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm thêm giờ"
+    ],
+    [
+      "người lao động",
+      "làm việc vào ban đêm"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết điều này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền lương làm thêm giờ",
+      "tiền lương làm việc vào ban đêm"
+    ],
+    [
+      "làm thêm giờ",
+      "trả lương"
+    ],
+    [
+      "làm việc vào ban đêm",
+      "trả lương"
+    ]
+  ]
+}

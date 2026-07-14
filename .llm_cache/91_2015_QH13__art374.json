@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền"
+  ],
+  "actions": [
+    "chậm tiếp nhận đối tượng của nghĩa vụ",
+    "hoàn thành nghĩa vụ",
+    "gửi giữ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "chậm tiếp nhận đối tượng của nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "nghĩa vụ",
+      "hoàn thành nghĩa vụ"
+    ],
+    [
+      "tài sản",
+      "nơi nhận gửi giữ"
+    ]
+  ]
+}

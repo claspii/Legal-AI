@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vận chuyển trái phép chất ma túy",
+    "sản xuất",
+    "mua bán",
+    "tàng trữ trái phép chất ma túy",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vận chuyển trái phép chất ma túy"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất ma túy",
+      "vận chuyển trái phép"
+    ],
+    [
+      "chất ma túy",
+      "sản xuất"
+    ],
+    [
+      "chất ma túy",
+      "mua bán"
+    ],
+    [
+      "chất ma túy",
+      "tàng trữ trái phép"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ],
+    [
+      "hành vi",
+      "vi phạm hành chính"
+    ],
+    [
+      "chất ma túy",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy",
+      "thể tích"
+    ]
+  ]
+}

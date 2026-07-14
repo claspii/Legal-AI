@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm cố",
+    "bên nhận cầm cố",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao tài sản cầm cố",
+    "báo",
+    "hủy hợp đồng cầm cố tài sản",
+    "yêu cầu bồi thường thiệt hại",
+    "duy trì hợp đồng",
+    "chấp nhận quyền",
+    "thanh toán chi phí hợp lý để bảo quản tài sản cầm cố"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm cố",
+      "giao tài sản cầm cố"
+    ],
+    [
+      "bên cầm cố",
+      "báo"
+    ],
+    [
+      "bên cầm cố",
+      "thanh toán chi phí hợp lý để bảo quản tài sản cầm cố"
+    ],
+    [
+      "bên nhận cầm cố",
+      "hủy hợp đồng cầm cố tài sản"
+    ],
+    [
+      "bên nhận cầm cố",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên nhận cầm cố",
+      "duy trì hợp đồng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "chấp nhận quyền của người thứ ba"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cầm cố",
+      "bên nhận cầm cố"
+    ],
+    [
+      "tài sản cầm cố",
+      "hợp đồng cầm cố tài sản"
+    ],
+    [
+      "bên cầm cố",
+      "người thứ ba"
+    ],
+    [
+      "bên nhận cầm cố",
+      "hợp đồng cầm cố tài sản"
+    ],
+    [
+      "tài sản cầm cố",
+      "chi phí hợp lý để bảo quản tài sản cầm cố"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "phạm tội",
+    "phạt tiền",
+    "phạt tù",
+    "có tổ chức",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa",
+    "gây ảnh hưởng xấu"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "phạm tội",
+      "hàng hóa trị giá từ 1.500.000.000 đồng đến dưới 3.000.000.000 đồng"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính từ 500.000.000 đồng đến dưới 1.000.000.000 đồng"
+    ],
+    [
+      "phạm tội",
+      "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

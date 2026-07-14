@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan cấp giấy phép xuất bản"
+  ],
+  "actions": [
+    "vi phạm các quy định về hoạt động xuất bản",
+    "xuất bản xuất bản phẩm",
+    "bị xử phạt vi phạm hành chính",
+    "in",
+    "đăng ký xuất bản",
+    "có quyết định xuất bản",
+    "phát hành xuất bản phẩm",
+    "đăng tải trên phương tiện điện tử",
+    "phạm tội",
+    "bị kết án",
+    "thay đổi",
+    "làm sai lệch nội dung bản thảo",
+    "có tổ chức"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về hoạt động xuất bản"
+    ],
+    [
+      "người",
+      "xuất bản xuất bản phẩm"
+    ],
+    [
+      "người",
+      "in"
+    ],
+    [
+      "người",
+      "phát hành xuất bản phẩm"
+    ],
+    [
+      "người",
+      "đăng tải trên phương tiện điện tử"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "thay đổi"
+    ],
+    [
+      "người",
+      "làm sai lệch nội dung bản thảo"
+    ],
+    [
+      "cơ quan cấp giấy phép xuất bản",
+      "có dấu của cơ quan cấp giấy phép xuất bản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xuất bản phẩm",
+      "hoạt động xuất bản"
+    ],
+    [
+      "bản thảo",
+      "xuất bản phẩm"
+    ],
+    [
+      "vi phạm hành chính",
+      "xử phạt"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ]
+  ]
+}

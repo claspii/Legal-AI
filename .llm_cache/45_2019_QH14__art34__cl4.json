@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "bị kết án phạt tù",
+    "hưởng án treo",
+    "được trả tự do",
+    "tử hình",
+    "bị cấm làm công việc"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "bị kết án phạt tù"
+    ],
+    [
+      "người lao động",
+      "không được hưởng án treo"
+    ],
+    [
+      "người lao động",
+      "không thuộc trường hợp được trả tự do"
+    ],
+    [
+      "người lao động",
+      "tử hình"
+    ],
+    [
+      "người lao động",
+      "bị cấm làm công việc"
+    ],
+    [
+      "tòa án",
+      "có bản án, quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "bản án",
+      "quyết định của tòa án"
+    ],
+    [
+      "kết án phạt tù",
+      "án treo"
+    ],
+    [
+      "tử hình",
+      "chấm dứt hợp đồng lao động"
+    ]
+  ]
+}

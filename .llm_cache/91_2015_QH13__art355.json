@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [
+    "chậm tiếp nhận việc thực hiện nghĩa vụ"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "tiếp nhận việc thực hiện nghĩa vụ",
+    "gửi tài sản",
+    "áp dụng biện pháp cần thiết khác để bảo quản tài sản",
+    "yêu cầu thanh toán chi phí hợp lý",
+    "thông báo",
+    "bán tài sản",
+    "trả khoản tiền"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "không tiếp nhận việc thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "gửi tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "áp dụng biện pháp cần thiết khác để bảo quản tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "yêu cầu thanh toán chi phí hợp lý"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thông báo"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bán tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "trả khoản tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chậm tiếp nhận việc thực hiện nghĩa vụ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "chậm tiếp nhận việc thực hiện nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chi phí hợp lý"
+    ],
+    [
+      "tài sản",
+      "bị hư hỏng"
+    ]
+  ]
+}

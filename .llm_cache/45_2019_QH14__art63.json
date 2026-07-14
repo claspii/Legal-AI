@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [
+    "đối thoại tại nơi làm việc"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động",
+    "các bên",
+    "chính phủ"
+  ],
+  "actions": [
+    "chia sẻ thông tin",
+    "tham khảo",
+    "thảo luận",
+    "trao đổi ý kiến",
+    "tổ chức đối thoại",
+    "tiến hành đối thoại",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chia sẻ thông tin"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo"
+    ],
+    [
+      "người sử dụng lao động",
+      "thảo luận"
+    ],
+    [
+      "người sử dụng lao động",
+      "trao đổi ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức đối thoại"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiến hành đối thoại"
+    ],
+    [
+      "người lao động",
+      "tiến hành đối thoại"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đối thoại tại nơi làm việc",
+      "người sử dụng lao động"
+    ],
+    [
+      "đối thoại tại nơi làm việc",
+      "người lao động"
+    ],
+    [
+      "đối thoại tại nơi làm việc",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "quyền",
+      "lợi ích"
+    ],
+    [
+      "quyền",
+      "mối quan tâm"
+    ],
+    [
+      "lợi ích",
+      "mối quan tâm"
+    ],
+    [
+      "đối thoại tại nơi làm việc",
+      "quy chế dân chủ ở cơ sở tại nơi làm việc"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động",
+    "các bên"
+  ],
+  "actions": [
+    "tiến hành đối thoại",
+    "lựa chọn",
+    "quan tâm"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "lựa chọn"
+    ],
+    [
+      "các bên",
+      "tiến hành đối thoại"
+    ],
+    [
+      "một hoặc các bên",
+      "quan tâm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đối thoại tại nơi làm việc",
+      "nội dung đối thoại"
+    ],
+    [
+      "người sử dụng lao động",
+      "tình hình sản xuất, kinh doanh"
+    ],
+    [
+      "người lao động",
+      "yêu cầu"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "yêu cầu"
+    ]
+  ]
+}

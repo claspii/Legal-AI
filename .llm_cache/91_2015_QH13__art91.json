@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "pháp nhân bị tách",
+    "pháp nhân được tách"
+  ],
+  "actions": [
+    "tách",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ dân sự"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "tách"
+    ],
+    [
+      "pháp nhân bị tách",
+      "thực hiện quyền"
+    ],
+    [
+      "pháp nhân bị tách",
+      "thực hiện nghĩa vụ dân sự"
+    ],
+    [
+      "pháp nhân được tách",
+      "thực hiện quyền"
+    ],
+    [
+      "pháp nhân được tách",
+      "thực hiện nghĩa vụ dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "tách pháp nhân"
+    ],
+    [
+      "pháp nhân bị tách",
+      "pháp nhân được tách"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

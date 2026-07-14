@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [
+    "quyền định đoạt"
+  ],
+  "actors": [],
+  "actions": [
+    "chuyển giao quyền sở hữu",
+    "từ bỏ quyền sở hữu",
+    "tiêu dùng tài sản",
+    "tiêu hủy tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền định đoạt",
+      "quyền sở hữu tài sản"
+    ],
+    [
+      "quyền định đoạt",
+      "tài sản"
+    ]
+  ]
+}

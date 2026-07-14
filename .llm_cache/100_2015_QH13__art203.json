@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "in trái phép",
+    "phát hành trái phép",
+    "mua bán trái phép",
+    "thu nộp ngân sách nhà nước",
+    "phạm tội",
+    "phạt tiền",
+    "cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn",
+    "bị đình chỉ hoạt động vĩnh viễn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "in trái phép"
+    ],
+    [
+      "người",
+      "phát hành trái phép"
+    ],
+    [
+      "người",
+      "mua bán trái phép"
+    ],
+    [
+      "người",
+      "thu nộp ngân sách nhà nước"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hóa đơn",
+      "chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "hóa đơn",
+      "dạng phôi"
+    ],
+    [
+      "chứng từ",
+      "dạng phôi"
+    ],
+    [
+      "hóa đơn",
+      "ghi nội dung"
+    ],
+    [
+      "chứng từ",
+      "ghi nội dung"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại cho ngân sách nhà nước"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "cấm làm công việc nhất định"
+    ],
+    [
+      "cấm kinh doanh",
+      "cấm hoạt động"
+    ],
+    [
+      "cấm hoạt động",
+      "cấm huy động vốn"
+    ]
+  ]
+}

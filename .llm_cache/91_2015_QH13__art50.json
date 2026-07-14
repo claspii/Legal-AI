@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "người giám hộ"
+  ],
+  "actions": [
+    "làm người giám hộ",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "làm người giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện quyền"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "người giám hộ"
+    ],
+    [
+      "năng lực pháp luật dân sự",
+      "việc giám hộ"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

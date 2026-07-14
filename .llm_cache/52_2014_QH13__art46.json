@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng"
+  ],
+  "actions": [
+    "nhập tài sản riêng",
+    "thực hiện thỏa thuận",
+    "bảo đảm hình thức",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "nhập tài sản riêng"
+    ],
+    [
+      "vợ chồng",
+      "thực hiện thỏa thuận"
+    ],
+    [
+      "vợ chồng",
+      "bảo đảm hình thức"
+    ],
+    [
+      "nghĩa vụ",
+      "thực hiện bằng tài sản chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản riêng",
+      "tài sản chung"
+    ],
+    [
+      "thỏa thuận",
+      "hình thức"
+    ],
+    [
+      "tài sản riêng",
+      "nghĩa vụ"
+    ]
+  ]
+}

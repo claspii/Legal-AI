@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều khiển phương tiện giao thông đường thủy"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn giao thông đường thủy",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người điều khiển phương tiện giao thông đường thủy",
+      "vi phạm quy định về an toàn giao thông đường thủy"
+    ],
+    [
+      "người điều khiển phương tiện giao thông đường thủy",
+      "gây thương tích"
+    ],
+    [
+      "người điều khiển phương tiện giao thông đường thủy",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

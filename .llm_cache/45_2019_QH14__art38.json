@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "mỗi bên",
+    "bên kia"
+  ],
+  "actions": [
+    "hủy bỏ việc đơn phương chấm dứt hợp đồng lao động",
+    "thông báo bằng văn bản",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "mỗi bên",
+      "hủy bỏ việc đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "mỗi bên",
+      "thông báo bằng văn bản"
+    ],
+    [
+      "bên kia",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hủy bỏ việc đơn phương chấm dứt hợp đồng lao động",
+      "thông báo bằng văn bản"
+    ]
+  ]
+}

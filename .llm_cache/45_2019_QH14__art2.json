@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người học nghề",
+    "người tập nghề",
+    "người làm việc không có quan hệ lao động",
+    "người sử dụng lao động",
+    "người lao động nước ngoài",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "làm việc",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "người lao động nước ngoài",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người học nghề",
+      "người tập nghề"
+    ],
+    [
+      "người làm việc",
+      "quan hệ lao động"
+    ],
+    [
+      "người lao động nước ngoài",
+      "việt nam"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ],
+    [
+      "tổ chức",
+      "cá nhân"
+    ],
+    [
+      "cá nhân",
+      "quan hệ lao động"
+    ]
+  ]
+}

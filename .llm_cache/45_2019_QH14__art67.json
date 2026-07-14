@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên thương lượng",
+    "người lao động",
+    "tổ chức đại diện người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "lựa chọn",
+    "tiến hành thương lượng tập thể",
+    "bảo đảm việc làm",
+    "bảo đảm an toàn",
+    "thực hiện nội quy lao động",
+    "phòng ngừa tranh chấp lao động",
+    "giải quyết tranh chấp lao động",
+    "bảo đảm bình đẳng giới",
+    "bảo vệ thai sản",
+    "phòng chống bạo lực và quấy rối tình dục"
+  ],
+  "actor_actions": [
+    [
+      "các bên thương lượng",
+      "lựa chọn"
+    ],
+    [
+      "các bên thương lượng",
+      "tiến hành thương lượng tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "tiền lương"
+    ],
+    [
+      "thương lượng tập thể",
+      "trợ cấp"
+    ],
+    [
+      "thương lượng tập thể",
+      "nâng lương"
+    ],
+    [
+      "thương lượng tập thể",
+      "thưởng"
+    ],
+    [
+      "thương lượng tập thể",
+      "bữa ăn"
+    ],
+    [
+      "thương lượng tập thể",
+      "mức lao động"
+    ],
+    [
+      "thương lượng tập thể",
+      "thời giờ làm việc"
+    ],
+    [
+      "thương lượng tập thể",
+      "thời giờ nghỉ ngơi"
+    ]
+  ]
+}

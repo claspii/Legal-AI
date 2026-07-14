@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về bảo vệ nguồn lợi thủy sản",
+    "gây thiệt hại nguồn lợi thủy sản",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "sử dụng chất độc",
+    "khai thác thủy sản",
+    "làm hủy hoại nguồn lợi thủy sản",
+    "phá hoại nơi cư ngụ",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về bảo vệ nguồn lợi thủy sản"
+    ],
+    [
+      "người",
+      "gây thiệt hại nguồn lợi thủy sản"
+    ],
+    [
+      "người",
+      "sử dụng chất độc"
+    ],
+    [
+      "người",
+      "khai thác thủy sản"
+    ],
+    [
+      "người",
+      "làm hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "người",
+      "phá hoại nơi cư ngụ"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe của người khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về bảo vệ nguồn lợi thủy sản",
+      "gây thiệt hại nguồn lợi thủy sản"
+    ],
+    [
+      "nguồn lợi thủy sản",
+      "thủy sản"
+    ],
+    [
+      "khai thác thủy sản",
+      "hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "chất độc",
+      "hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "chất nổ",
+      "hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "hóa chất khác",
+      "hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "dòng điện",
+      "hủy hoại nguồn lợi thủy sản"
+    ],
+    [
+      "ngư cụ bị cấm",
+      "hủy hoại nguồn lợi thủy sản"
+    ]
+  ]
+}

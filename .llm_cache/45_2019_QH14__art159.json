@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động là người khuyết tật"
+  ],
+  "actions": [
+    "bảo đảm",
+    "tổ chức khám sức khỏe định kỳ",
+    "tham khảo ý kiến",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "bảo đảm"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức khám sức khỏe định kỳ"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "điều kiện lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "công cụ lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "an toàn lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "vệ sinh lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "khám sức khỏe định kỳ"
+    ],
+    [
+      "người lao động là người khuyết tật",
+      "quyền và lợi ích"
+    ]
+  ]
+}

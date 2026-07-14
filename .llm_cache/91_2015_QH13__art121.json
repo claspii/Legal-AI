@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "giải thích giao dịch dân sự",
+    "xác lập giao dịch",
+    "giải thích hợp đồng",
+    "giải thích nội dung di chúc"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "xác lập giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "hợp đồng"
+    ],
+    [
+      "giao dịch dân sự",
+      "di chúc"
+    ],
+    [
+      "giải thích giao dịch dân sự",
+      "ý chí đích thực"
+    ],
+    [
+      "giải thích giao dịch dân sự",
+      "mục đích của giao dịch"
+    ],
+    [
+      "giải thích giao dịch dân sự",
+      "tập quán nơi giao dịch được xác lập"
+    ]
+  ]
+}

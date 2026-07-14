@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người bị hại",
+    "gia đình họ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "hủy hoại",
+    "cố ý làm hư hỏng tài sản",
+    "bị xử phạt vi phạm hành chính",
+    "chiếm đoạt tài sản",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "phạm tội",
+    "gây thiệt hại",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "hủy hoại"
+    ],
+    [
+      "người nào",
+      "cố ý làm hư hỏng tài sản"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "di vật"
+    ],
+    [
+      "tài sản",
+      "cổ vật"
+    ],
+    [
+      "tài sản",
+      "vật có giá trị lịch sử"
+    ],
+    [
+      "tài sản",
+      "vật có giá trị văn hóa"
+    ],
+    [
+      "tài sản",
+      "phương tiện kiếm sống chính"
+    ],
+    [
+      "tài sản",
+      "kỷ vật"
+    ],
+    [
+      "tài sản",
+      "đồ thờ cúng"
+    ],
+    [
+      "tài sản",
+      "bảo vật quốc gia"
+    ]
+  ]
+}

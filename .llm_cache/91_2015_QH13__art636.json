@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "công chứng viên",
+    "người có thẩm quyền chứng thực của ủy ban nhân dân cấp xã",
+    "người làm chứng"
+  ],
+  "actions": [
+    "tuyên bố nội dung của di chúc",
+    "ghi chép lại nội dung",
+    "ký",
+    "điểm chỉ",
+    "xác nhận bản di chúc",
+    "nhờ người làm chứng",
+    "ký xác nhận",
+    "chứng nhận bản di chúc"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "tuyên bố nội dung của di chúc"
+    ],
+    [
+      "công chứng viên",
+      "ghi chép lại nội dung"
+    ],
+    [
+      "người có thẩm quyền chứng thực của ủy ban nhân dân cấp xã",
+      "ghi chép lại nội dung"
+    ],
+    [
+      "người lập di chúc",
+      "ký"
+    ],
+    [
+      "người lập di chúc",
+      "điểm chỉ"
+    ],
+    [
+      "người lập di chúc",
+      "xác nhận bản di chúc"
+    ],
+    [
+      "công chứng viên",
+      "ký vào bản di chúc"
+    ],
+    [
+      "người có thẩm quyền chứng thực của ủy ban nhân dân cấp xã",
+      "ký vào bản di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "nhờ người làm chứng"
+    ],
+    [
+      "người làm chứng",
+      "ký xác nhận"
+    ],
+    [
+      "công chứng viên",
+      "chứng nhận bản di chúc"
+    ],
+    [
+      "người có thẩm quyền chứng thực của ủy ban nhân dân cấp xã",
+      "chứng nhận bản di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "tổ chức hành nghề công chứng"
+    ],
+    [
+      "di chúc",
+      "ủy ban nhân dân cấp xã"
+    ],
+    [
+      "công chứng viên",
+      "người có thẩm quyền chứng thực của ủy ban nhân dân cấp xã"
+    ],
+    [
+      "người lập di chúc",
+      "người làm chứng"
+    ]
+  ]
+}

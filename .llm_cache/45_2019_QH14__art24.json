@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "ghi",
+    "giao kết",
+    "không áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thử việc",
+      "hợp đồng lao động"
+    ],
+    [
+      "thử việc",
+      "hợp đồng thử việc"
+    ],
+    [
+      "nội dung chủ yếu của hợp đồng thử việc",
+      "thời gian thử việc"
+    ]
+  ]
+}

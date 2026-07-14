@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [
+    "đối tượng của nghĩa vụ"
+  ],
+  "actors": [],
+  "actions": [
+    "thực hiện",
+    "xác định"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "đối tượng của nghĩa vụ",
+      "tài sản"
+    ],
+    [
+      "đối tượng của nghĩa vụ",
+      "công việc phải thực hiện"
+    ],
+    [
+      "đối tượng của nghĩa vụ",
+      "công việc không được thực hiện"
+    ]
+  ]
+}

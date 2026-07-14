@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "thu thập",
+    "tàng trữ",
+    "trao đổi",
+    "mua bán",
+    "công khai hóa",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thu thập"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "trao đổi"
+    ],
+    [
+      "người nào",
+      "mua bán"
+    ],
+    [
+      "người nào",
+      "công khai hóa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin về tài khoản ngân hàng",
+      "thu thập"
+    ],
+    [
+      "thông tin về tài khoản ngân hàng",
+      "tàng trữ"
+    ],
+    [
+      "thông tin về tài khoản ngân hàng",
+      "trao đổi"
+    ],
+    [
+      "thông tin về tài khoản ngân hàng",
+      "mua bán"
+    ],
+    [
+      "thông tin về tài khoản ngân hàng",
+      "công khai hóa"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tiền"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

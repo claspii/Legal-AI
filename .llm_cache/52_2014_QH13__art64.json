@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án"
+  ],
+  "actions": [
+    "chia tài sản chung",
+    "kinh doanh",
+    "được nhận tài sản",
+    "thanh toán",
+    "chết",
+    "tuyên bố là đã chết"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "thực hiện hoạt động kinh doanh liên quan đến tài sản chung"
+    ],
+    [
+      "vợ, chồng",
+      "được nhận tài sản đó"
+    ],
+    [
+      "vợ, chồng",
+      "thanh toán cho bên kia phần giá trị tài sản mà họ được hưởng"
+    ],
+    [
+      "tòa án",
+      "tuyên bố là đã chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung",
+      "kinh doanh"
+    ],
+    [
+      "vợ, chồng",
+      "tài sản chung"
+    ],
+    [
+      "chết",
+      "hôn nhân chấm dứt"
+    ],
+    [
+      "tuyên bố là đã chết",
+      "hôn nhân chấm dứt"
+    ]
+  ]
+}

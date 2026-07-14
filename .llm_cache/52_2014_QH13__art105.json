@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "anh, chị, em",
+    "cha mẹ",
+    "con"
+  ],
+  "actions": [
+    "thương yêu",
+    "chăm sóc",
+    "giúp đỡ",
+    "nuôi dưỡng",
+    "trông nom",
+    "giáo dục"
+  ],
+  "actor_actions": [
+    [
+      "anh, chị, em",
+      "thương yêu"
+    ],
+    [
+      "anh, chị, em",
+      "chăm sóc"
+    ],
+    [
+      "anh, chị, em",
+      "giúp đỡ"
+    ],
+    [
+      "anh, chị, em",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha mẹ",
+      "trông nom"
+    ],
+    [
+      "cha mẹ",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha mẹ",
+      "chăm sóc"
+    ],
+    [
+      "cha mẹ",
+      "giáo dục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "anh, chị, em",
+      "quyền"
+    ],
+    [
+      "anh, chị, em",
+      "nghĩa vụ"
+    ],
+    [
+      "cha mẹ",
+      "trông nom"
+    ],
+    [
+      "cha mẹ",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha mẹ",
+      "chăm sóc"
+    ],
+    [
+      "cha mẹ",
+      "giáo dục"
+    ]
+  ]
+}

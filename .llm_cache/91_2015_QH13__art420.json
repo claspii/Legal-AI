@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [
+    "hoàn cảnh thay đổi cơ bản"
+  ],
+  "actors": [
+    "bên",
+    "bên có lợi ích bị ảnh hưởng",
+    "tòa án"
+  ],
+  "actions": [
+    "thực hiện hợp đồng",
+    "giao kết hợp đồng",
+    "ngăn chặn",
+    "giảm thiểu",
+    "đàm phán lại hợp đồng",
+    "thỏa thuận",
+    "sửa đổi hợp đồng",
+    "chấm dứt hợp đồng",
+    "cân bằng quyền và lợi ích hợp pháp",
+    "giải quyết vụ việc"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "giao kết hợp đồng"
+    ],
+    [
+      "bên",
+      "biết trước"
+    ],
+    [
+      "bên",
+      "tiếp tục thực hiện hợp đồng"
+    ],
+    [
+      "bên có lợi ích bị ảnh hưởng",
+      "áp dụng mọi biện pháp cần thiết"
+    ],
+    [
+      "bên có lợi ích bị ảnh hưởng",
+      "yêu cầu bên kia đàm phán lại hợp đồng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận được"
+    ],
+    [
+      "một trong các bên",
+      "yêu cầu tòa án"
+    ],
+    [
+      "tòa án",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "tòa án",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "tòa án",
+      "cân bằng quyền và lợi ích hợp pháp"
+    ],
+    [
+      "tòa án",
+      "quyết định việc sửa đổi hợp đồng"
+    ],
+    [
+      "tòa án",
+      "giải quyết vụ việc"
+    ],
+    [
+      "các bên",
+      "tiếp tục thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoàn cảnh thay đổi cơ bản",
+      "hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "lợi ích",
+      "thiệt hại"
+    ],
+    [
+      "đàm phán",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "đàm phán",
+      "chấm dứt hợp đồng"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên",
+    "bên không thực hiện được nghĩa vụ",
+    "bên kia"
+  ],
+  "actions": [
+    "không thực hiện được nghĩa vụ",
+    "không có lỗi",
+    "yêu cầu",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "không thực hiện được nghĩa vụ"
+    ],
+    [
+      "bên",
+      "không có lỗi"
+    ],
+    [
+      "bên không thực hiện được nghĩa vụ",
+      "không có quyền yêu cầu"
+    ],
+    [
+      "bên kia",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên",
+      "đã thực hiện được một phần nghĩa vụ"
+    ],
+    [
+      "bên",
+      "có quyền yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng song vụ",
+      "nghĩa vụ"
+    ],
+    [
+      "không thực hiện được nghĩa vụ",
+      "không do lỗi"
+    ],
+    [
+      "không thực hiện được nghĩa vụ",
+      "không có quyền yêu cầu"
+    ],
+    [
+      "thực hiện một phần nghĩa vụ",
+      "quyền yêu cầu phần nghĩa vụ tương ứng"
+    ]
+  ]
+}

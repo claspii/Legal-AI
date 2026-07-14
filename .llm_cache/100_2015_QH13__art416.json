@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "lạm dụng nhu cầu quân sự",
+    "thực hiện nhiệm vụ",
+    "vượt quá phạm vi cần thiết",
+    "gây thiệt hại",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện nhiệm vụ"
+    ],
+    [
+      "người",
+      "vượt quá phạm vi cần thiết của nhu cầu quân sự"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lạm dụng nhu cầu quân sự",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt tù"
+    ],
+    [
+      "nhu cầu quân sự",
+      "thực hiện nhiệm vụ"
+    ]
+  ]
+}

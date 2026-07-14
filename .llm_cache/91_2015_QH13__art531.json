@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "vận chuyển tài sản",
+    "xác lập"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vận chuyển tài sản",
+      "văn bản"
+    ],
+    [
+      "hợp đồng vận chuyển tài sản",
+      "lời nói"
+    ],
+    [
+      "hợp đồng vận chuyển tài sản",
+      "hành vi cụ thể"
+    ],
+    [
+      "vận đơn",
+      "bằng chứng của việc giao kết hợp đồng"
+    ],
+    [
+      "chứng từ vận chuyển tương đương khác",
+      "bằng chứng của việc giao kết hợp đồng"
+    ]
+  ]
+}

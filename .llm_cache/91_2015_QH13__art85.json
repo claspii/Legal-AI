@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "đại diện của pháp nhân",
+    "người đại diện của pháp nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "tuân theo quy định về đại diện"
+  ],
+  "actor_actions": [
+    [
+      "người đại diện của pháp nhân",
+      "tuân theo quy định về đại diện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đại diện của pháp nhân",
+      "đại diện theo pháp luật"
+    ],
+    [
+      "đại diện của pháp nhân",
+      "đại diện theo ủy quyền"
+    ],
+    [
+      "người đại diện của pháp nhân",
+      "đại diện"
+    ]
+  ]
+}

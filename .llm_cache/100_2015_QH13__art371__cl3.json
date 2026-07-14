@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị bắt",
+    "người bị tạm giữ",
+    "bị can",
+    "bị cáo",
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người bị hại",
+    "nguyên đơn",
+    "bị đơn",
+    "người khởi kiện",
+    "người bị khởi kiện"
+  ],
+  "actions": [
+    "gây rối loạn tâm thần và hành vi",
+    "tự sát",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": []
+}

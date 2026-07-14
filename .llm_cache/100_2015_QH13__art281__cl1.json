@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "những người này"
+  ],
+  "actions": [
+    "duy tu",
+    "sửa chữa",
+    "quản lý",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "không thực hiện",
+    "thực hiện không đúng quy định",
+    "không khắc phục",
+    "không thường xuyên kiểm tra"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "không thực hiện"
+    ],
+    [
+      "người",
+      "thực hiện không đúng quy định"
+    ],
+    [
+      "người",
+      "không khắc phục"
+    ],
+    [
+      "người",
+      "không thường xuyên kiểm tra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "duy tu",
+      "sửa chữa"
+    ],
+    [
+      "duy tu",
+      "quản lý"
+    ],
+    [
+      "sửa chữa",
+      "quản lý"
+    ],
+    [
+      "công trình giao thông",
+      "an toàn giao thông"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

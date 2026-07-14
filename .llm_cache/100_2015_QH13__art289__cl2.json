@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "xâm nhập trái phép vào mạng máy tính",
+    "xâm nhập trái phép vào mạng viễn thông",
+    "xâm nhập trái phép vào phương tiện điện tử",
+    "phạm tội",
+    "có tổ chức",
+    "lợi dụng chức vụ quyền hạn",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "người khác",
+      "xâm nhập trái phép vào mạng máy tính"
+    ],
+    [
+      "người khác",
+      "xâm nhập trái phép vào mạng viễn thông"
+    ],
+    [
+      "người khác",
+      "xâm nhập trái phép vào phương tiện điện tử"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "hệ thống cơ sở dữ liệu tên miền",
+      "hệ thống máy chủ tên miền quốc gia"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hợp tác"
+  ],
+  "actions": [
+    "chịu trách nhiệm dân sự chung",
+    "chịu trách nhiệm bằng tài sản riêng",
+    "thực hiện nghĩa vụ chung"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "chịu trách nhiệm dân sự chung"
+    ],
+    [
+      "thành viên hợp tác",
+      "chịu trách nhiệm bằng tài sản riêng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trách nhiệm dân sự",
+      "thành viên hợp tác"
+    ],
+    [
+      "tài sản chung",
+      "nghĩa vụ chung"
+    ],
+    [
+      "tài sản riêng",
+      "phần đóng góp"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "luật"
+    ]
+  ]
+}

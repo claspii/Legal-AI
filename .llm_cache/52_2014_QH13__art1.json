@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "tổ chức",
+    "nhà nước",
+    "xã hội"
+  ],
+  "actions": [
+    "quy định",
+    "xây dựng",
+    "củng cố"
+  ],
+  "actor_actions": [
+    [
+      "luật này",
+      "quy định"
+    ],
+    [
+      "cá nhân",
+      "xây dựng"
+    ],
+    [
+      "cá nhân",
+      "củng cố"
+    ],
+    [
+      "tổ chức",
+      "xây dựng"
+    ],
+    [
+      "tổ chức",
+      "củng cố"
+    ],
+    [
+      "nhà nước",
+      "xây dựng"
+    ],
+    [
+      "nhà nước",
+      "củng cố"
+    ],
+    [
+      "xã hội",
+      "xây dựng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ hôn nhân",
+      "gia đình"
+    ],
+    [
+      "chuẩn mực pháp lý",
+      "cách ứng xử giữa các thành viên gia đình"
+    ],
+    [
+      "trách nhiệm",
+      "cá nhân"
+    ],
+    [
+      "trách nhiệm",
+      "tổ chức"
+    ],
+    [
+      "trách nhiệm",
+      "nhà nước"
+    ],
+    [
+      "trách nhiệm",
+      "xã hội"
+    ],
+    [
+      "xây dựng",
+      "chế độ hôn nhân và gia đình"
+    ],
+    [
+      "củng cố",
+      "chế độ hôn nhân và gia đình"
+    ]
+  ]
+}

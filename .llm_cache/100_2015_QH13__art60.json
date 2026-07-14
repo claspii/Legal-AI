@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [
+    "thời hiệu thi hành bản án hình sự"
+  ],
+  "actors": [
+    "người bị kết án",
+    "pháp nhân thương mại bị kết án",
+    "người bị kết án cố tình trốn tránh"
+  ],
+  "actions": [
+    "chấp hành bản án",
+    "xử phạt tiền",
+    "cải tạo không giam giữ",
+    "xử phạt tù",
+    "thực hiện hành vi phạm tội mới",
+    "trình diện",
+    "bị bắt giữ"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "không phải chấp hành bản án đã tuyên"
+    ],
+    [
+      "pháp nhân thương mại bị kết án",
+      "không phải chấp hành bản án đã tuyên"
+    ],
+    [
+      "người bị kết án",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "pháp nhân thương mại bị kết án",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "người bị kết án cố tình trốn tránh",
+      "trình diện"
+    ],
+    [
+      "người bị kết án cố tình trốn tránh",
+      "bị bắt giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu thi hành bản án hình sự",
+      "bản án có hiệu lực pháp luật"
+    ],
+    [
+      "thời hiệu thi hành bản án hình sự",
+      "người bị kết án"
+    ],
+    [
+      "thời hiệu thi hành bản án hình sự",
+      "pháp nhân thương mại bị kết án"
+    ],
+    [
+      "thời hiệu thi hành bản án hình sự",
+      "hành vi phạm tội mới"
+    ],
+    [
+      "thời hiệu thi hành bản án hình sự",
+      "quyết định truy nã"
+    ]
+  ]
+}

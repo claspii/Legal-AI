@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "tòa án",
+    "người không được nhận là cha, mẹ",
+    "người được nhận là cha, mẹ",
+    "con"
+  ],
+  "actions": [
+    "yêu cầu tòa án xác định",
+    "xác định con",
+    "xác định không phải là con"
+  ],
+  "actor_actions": [
+    [
+      "người không được nhận là cha, mẹ",
+      "yêu cầu tòa án xác định"
+    ],
+    [
+      "người được nhận là cha, mẹ",
+      "yêu cầu tòa án xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ]
+  ]
+}

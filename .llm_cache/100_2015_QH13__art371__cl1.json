@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có thẩm quyền trong hoạt động tố tụng, thi hành án",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "ra quyết định",
+    "gây thiệt hại",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người có thẩm quyền trong hoạt động tố tụng, thi hành án",
+      "ra quyết định"
+    ],
+    [
+      "người có thẩm quyền trong hoạt động tố tụng, thi hành án",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ra quyết định",
+      "trái pháp luật"
+    ],
+    [
+      "quyết định trái pháp luật",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "quyết định trái pháp luật",
+      "quyền, lợi ích hợp pháp"
+    ]
+  ]
+}

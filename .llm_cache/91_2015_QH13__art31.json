@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người không quốc tịch"
+  ],
+  "actions": [
+    "có quốc tịch",
+    "xác định quốc tịch",
+    "thay đổi quốc tịch",
+    "nhập quốc tịch",
+    "thôi quốc tịch",
+    "trở lại quốc tịch việt nam",
+    "cư trú",
+    "sinh sống"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quốc tịch"
+    ],
+    [
+      "người không quốc tịch",
+      "cư trú"
+    ],
+    [
+      "người không quốc tịch",
+      "sinh sống"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "quốc tịch"
+    ],
+    [
+      "quốc tịch việt nam",
+      "luật quốc tịch việt nam"
+    ],
+    [
+      "người không quốc tịch",
+      "lãnh thổ việt nam"
+    ]
+  ]
+}

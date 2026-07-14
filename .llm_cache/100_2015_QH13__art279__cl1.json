@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "cho đưa vào sử dụng phương tiện giao thông đường không không bảo đảm an toàn kỹ thuật"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cho đưa vào sử dụng phương tiện giao thông đường không không bảo đảm an toàn kỹ thuật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường không",
+      "an toàn kỹ thuật"
+    ]
+  ]
+}

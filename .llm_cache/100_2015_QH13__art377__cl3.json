@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị giam, giữ",
+    "gia đình người bị giam, giữ"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn giam, giữ người trái pháp luật",
+    "giam, giữ trái pháp luật",
+    "làm tổn hại về sức khỏe",
+    "làm chết",
+    "làm tự sát",
+    "làm ly tán"
+  ],
+  "actor_actions": [
+    [
+      "người bị giam, giữ",
+      "tổn hại về sức khỏe"
+    ],
+    [
+      "người bị giam, giữ",
+      "chết"
+    ],
+    [
+      "người bị giam, giữ",
+      "tự sát"
+    ],
+    [
+      "gia đình người bị giam, giữ",
+      "ly tán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giam, giữ trái pháp luật",
+      "tổn hại về sức khỏe"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "chết"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "tự sát"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "ly tán"
+    ]
+  ]
+}

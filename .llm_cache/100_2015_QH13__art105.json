@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi phạm tội",
+    "tòa án",
+    "viện trưởng viện kiểm sát"
+  ],
+  "actions": [
+    "giảm",
+    "xét giảm",
+    "miễn chấp hành",
+    "quyết định giảm",
+    "quyết định miễn"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ],
+    [
+      "viện trưởng viện kiểm sát",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định giảm"
+    ],
+    [
+      "tòa án",
+      "quyết định miễn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "giảm mức hình phạt"
+    ],
+    [
+      "tiến bộ",
+      "xét giảm"
+    ],
+    [
+      "lập công",
+      "xét giảm ngay"
+    ],
+    [
+      "mắc bệnh hiểm nghèo",
+      "xét giảm ngay"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn kéo dài",
+      "quyết định giảm"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn kéo dài",
+      "quyết định miễn"
+    ],
+    [
+      "lập công lớn",
+      "quyết định giảm"
+    ],
+    [
+      "lập công lớn",
+      "quyết định miễn"
+    ]
+  ]
+}

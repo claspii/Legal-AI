@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [
+    "pháp nhân"
+  ],
+  "actors": [
+    "tổ chức",
+    "cá nhân",
+    "pháp nhân khác"
+  ],
+  "actions": [
+    "được công nhận",
+    "có cơ cấu tổ chức",
+    "có tài sản độc lập",
+    "tự chịu trách nhiệm",
+    "tham gia quan hệ pháp luật",
+    "thành lập pháp nhân"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức",
+      "được công nhận là pháp nhân"
+    ],
+    [
+      "tổ chức",
+      "có cơ cấu tổ chức"
+    ],
+    [
+      "tổ chức",
+      "có tài sản độc lập với cá nhân, pháp nhân khác"
+    ],
+    [
+      "tổ chức",
+      "tự chịu trách nhiệm bằng tài sản của mình"
+    ],
+    [
+      "tổ chức",
+      "nhân danh mình tham gia quan hệ pháp luật một cách độc lập"
+    ],
+    [
+      "cá nhân",
+      "có quyền thành lập pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "có quyền thành lập pháp nhân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "tổ chức"
+    ],
+    [
+      "pháp nhân",
+      "tài sản độc lập"
+    ],
+    [
+      "pháp nhân",
+      "quan hệ pháp luật"
+    ],
+    [
+      "pháp nhân",
+      "cá nhân"
+    ]
+  ]
+}

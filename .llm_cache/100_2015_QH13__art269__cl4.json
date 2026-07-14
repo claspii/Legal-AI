@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường sắt",
+    "người"
+  ],
+  "actions": [
+    "đưa vào sử dụng các phương tiện, thiết bị giao thông đường sắt không bảo đảm an toàn",
+    "cho phép đưa vào sử dụng các phương tiện, thiết bị không có giấy chứng nhận đăng ký, đăng kiểm",
+    "cho phép đưa vào sử dụng các phương tiện, thiết bị có giấy chứng nhận đăng ký, đăng kiểm nhưng biết là các phương tiện, thiết bị đó không bảo đảm tiêu chuẩn kỹ thuật, an toàn",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường sắt",
+      "cho phép đưa vào sử dụng các phương tiện, thiết bị không có giấy chứng nhận đăng ký, đăng kiểm"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường sắt",
+      "cho phép đưa vào sử dụng các phương tiện, thiết bị có giấy chứng nhận đăng ký, đăng kiểm nhưng biết là các phương tiện, thiết bị đó không bảo đảm tiêu chuẩn kỹ thuật, an toàn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện, thiết bị giao thông đường sắt",
+      "an toàn"
+    ],
+    [
+      "phương tiện, thiết bị giao thông đường sắt",
+      "giấy chứng nhận đăng ký, đăng kiểm"
+    ],
+    [
+      "phương tiện, thiết bị giao thông đường sắt",
+      "tiêu chuẩn kỹ thuật"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

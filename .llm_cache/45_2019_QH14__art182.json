@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên",
+    "đại diện",
+    "người tiến hành giải quyết tranh chấp lao động",
+    "ban trọng tài lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "tham gia vào quá trình giải quyết",
+    "rút yêu cầu",
+    "thay đổi nội dung yêu cầu",
+    "yêu cầu thay đổi",
+    "cung cấp tài liệu, chứng cứ",
+    "chấp hành thỏa thuận",
+    "chấp hành quyết định của ban trọng tài lao động"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "hai bên",
+      "tham gia vào quá trình giải quyết"
+    ],
+    [
+      "hai bên",
+      "rút yêu cầu"
+    ],
+    [
+      "hai bên",
+      "thay đổi nội dung yêu cầu"
+    ],
+    [
+      "hai bên",
+      "yêu cầu thay đổi"
+    ],
+    [
+      "hai bên",
+      "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ"
+    ],
+    [
+      "hai bên",
+      "chấp hành thỏa thuận đã đạt được"
+    ],
+    [
+      "hai bên",
+      "chấp hành quyết định của ban trọng tài lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giải quyết tranh chấp lao động",
+      "quyền"
+    ],
+    [
+      "giải quyết tranh chấp lao động",
+      "nghĩa vụ"
+    ],
+    [
+      "yêu cầu",
+      "tài liệu, chứng cứ"
+    ],
+    [
+      "quyết định của ban trọng tài lao động",
+      "bản án, quyết định của tòa án"
+    ]
+  ]
+}

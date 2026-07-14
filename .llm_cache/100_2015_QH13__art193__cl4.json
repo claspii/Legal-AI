@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất",
+    "buôn bán hàng giả",
+    "thu lợi bất chính",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sản xuất",
+      "buôn bán hàng giả"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "người"
+    ],
+    [
+      "thu lợi bất chính",
+      "đồng"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "đồng"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "người được giám hộ",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người giám sát việc giám hộ",
+    "tòa án",
+    "người có khó khăn trong nhận thức, làm chủ hành vi"
+  ],
+  "actions": [
+    "quản lý tài sản",
+    "thực hiện giao dịch dân sự",
+    "bán",
+    "trao đổi",
+    "cho thuê",
+    "cho mượn",
+    "cho vay",
+    "cầm cố"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "quản lý tài sản của người được giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người giám hộ",
+      "không được đem tài sản của người được giám hộ tặng cho người khác"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "đồng ý việc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm cố, thế chấp, đặt cọc và giao dịch dân sự khác đối với tài sản có giá trị lớn"
+    ],
+    [
+      "tòa án",
+      "quyết định phạm vi quản lý tài sản"
+    ],
+    [
+      "người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi",
+      "được quản lý tài sản của người được giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "tài sản của người được giám hộ"
+    ],
+    [
+      "người chưa thành niên",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người giám hộ",
+      "người giám sát việc giám hộ"
+    ],
+    [
+      "giao dịch dân sự",
+      "lợi ích của người được giám hộ"
+    ],
+    [
+      "tài sản có giá trị lớn",
+      "sự đồng ý của người giám sát việc giám hộ"
+    ],
+    [
+      "giao dịch dân sự giữa người giám hộ với người được giám hộ",
+      "vô hiệu"
+    ],
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "quyết định của tòa án"
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên",
+    "chính phủ",
+    "người lao động"
+  ],
+  "actions": [
+    "giải quyết",
+    "tiến hành sửa đổi",
+    "bổ sung",
+    "ký lại",
+    "tuyên bố vô hiệu",
+    "áp dụng",
+    "thực hiện",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "giải quyết"
+    ],
+    [
+      "hai bên",
+      "tiến hành sửa đổi"
+    ],
+    [
+      "hai bên",
+      "bổ sung"
+    ],
+    [
+      "hai bên",
+      "ký lại"
+    ],
+    [
+      "người lao động",
+      "giải quyết quyền, nghĩa vụ và lợi ích"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "hợp đồng lao động vô hiệu từng phần",
+      "hợp đồng lao động vô hiệu toàn bộ"
+    ],
+    [
+      "hợp đồng lao động",
+      "pháp luật"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền",
+      "lợi ích"
+    ],
+    [
+      "nghĩa vụ",
+      "lợi ích"
+    ],
+    [
+      "ký sai thẩm quyền",
+      "ký lại"
+    ]
+  ]
+}

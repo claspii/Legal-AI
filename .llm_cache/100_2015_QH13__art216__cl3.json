@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "trốn đóng bảo hiểm xã hội",
+    "trốn đóng bảo hiểm y tế",
+    "trốn đóng bảo hiểm thất nghiệp",
+    "phạt tiền",
+    "phạt tù",
+    "không đóng số tiền bảo hiểm đã thu hoặc đã khấu trừ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội trốn đóng bảo hiểm xã hội",
+      "phạt tiền"
+    ],
+    [
+      "tội trốn đóng bảo hiểm xã hội",
+      "phạt tù"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "trốn đóng bảo hiểm",
+      "số tiền bảo hiểm đã thu hoặc đã khấu trừ"
+    ],
+    [
+      "số tiền bảo hiểm đã thu hoặc đã khấu trừ",
+      "người lao động"
+    ]
+  ]
+}

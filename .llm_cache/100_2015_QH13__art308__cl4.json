@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giao vũ khí quân dụng",
+    "người khác"
+  ],
+  "actions": [
+    "thiếu trách nhiệm",
+    "sử dụng",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người được giao vũ khí quân dụng",
+      "thiếu trách nhiệm"
+    ],
+    [
+      "người khác",
+      "sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ khí quân dụng",
+      "vật liệu nổ"
+    ],
+    [
+      "súng săn",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "vũ khí thể thao",
+      "vật liệu nổ"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

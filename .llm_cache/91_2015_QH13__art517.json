@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cung ứng dịch vụ",
+    "người khác",
+    "bên sử dụng dịch vụ"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "giao cho người khác thực hiện thay công việc",
+    "bảo quản",
+    "giao lại",
+    "báo ngay",
+    "giữ bí mật thông tin",
+    "bồi thường thiệt hại",
+    "làm mất",
+    "hư hỏng",
+    "tiết lộ bí mật thông tin"
+  ],
+  "actor_actions": [
+    [
+      "bên cung ứng dịch vụ",
+      "thực hiện công việc"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "không được giao cho người khác thực hiện thay công việc"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "bảo quản"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "giao lại"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "báo ngay"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "giữ bí mật thông tin"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "làm mất"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "hư hỏng"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "tiết lộ bí mật thông tin"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cung ứng dịch vụ",
+      "bên sử dụng dịch vụ"
+    ],
+    [
+      "tài liệu",
+      "phương tiện"
+    ],
+    [
+      "bảo quản",
+      "giao lại"
+    ],
+    [
+      "làm mất",
+      "hư hỏng"
+    ],
+    [
+      "thông tin",
+      "tài liệu"
+    ],
+    [
+      "bí mật thông tin",
+      "tiết lộ bí mật thông tin"
+    ]
+  ]
+}

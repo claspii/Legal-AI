@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "giao rừng",
+    "thu hồi rừng",
+    "giao đất trồng rừng",
+    "thu hồi đất trồng rừng",
+    "cho phép chuyển mục đích sử dụng rừng",
+    "cho phép chuyển mục đích sử dụng đất trồng rừng"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "rừng",
+      "đất trồng rừng"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng phòng hộ"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng đặc dụng"
+    ],
+    [
+      "rừng phòng hộ",
+      "rừng đặc dụng"
+    ]
+  ]
+}

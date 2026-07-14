@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên bị thiệt hại",
+    "bên kia",
+    "bên hủy bỏ hợp đồng"
+  ],
+  "actions": [
+    "hủy bỏ hợp đồng",
+    "thực hiện nghĩa vụ",
+    "hoàn trả",
+    "bảo quản tài sản",
+    "phát triển tài sản",
+    "bồi thường thiệt hại",
+    "giải quyết tranh chấp",
+    "vi phạm nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "hoàn trả"
+    ],
+    [
+      "bên bị thiệt hại",
+      "được bồi thường"
+    ],
+    [
+      "bên hủy bỏ hợp đồng",
+      "xác định là bên vi phạm nghĩa vụ"
+    ],
+    [
+      "bên hủy bỏ hợp đồng",
+      "thực hiện trách nhiệm dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hủy bỏ hợp đồng",
+      "không có hiệu lực từ thời điểm giao kết"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "hoàn trả những gì đã nhận"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "hủy bỏ hợp đồng không có căn cứ",
+      "bên vi phạm nghĩa vụ"
+    ],
+    [
+      "hoàn trả bằng hiện vật",
+      "trị giá thành tiền để hoàn trả"
+    ],
+    [
+      "chi phí hợp lý",
+      "chi phí bảo quản, phát triển tài sản"
+    ]
+  ]
+}

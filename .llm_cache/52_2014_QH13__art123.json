@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "tòa án",
+    "tòa án nhân dân cấp huyện",
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "công dân của nước láng giềng"
+  ],
+  "actions": [
+    "đăng ký hộ tịch",
+    "giải quyết vụ việc",
+    "hủy việc kết hôn trái pháp luật",
+    "giải quyết việc ly hôn",
+    "giải quyết tranh chấp về quyền và nghĩa vụ",
+    "nhận cha, mẹ, con",
+    "nuôi con nuôi",
+    "giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết vụ việc"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "giải quyết việc ly hôn"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "giải quyết tranh chấp về quyền và nghĩa vụ"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "nhận cha, mẹ, con"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "nuôi con nuôi"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình",
+      "yếu tố nước ngoài"
+    ],
+    [
+      "thẩm quyền",
+      "giải quyết các vụ việc hôn nhân và gia đình có yếu tố nước ngoài"
+    ],
+    [
+      "tòa án nhân dân cấp huyện",
+      "công dân việt nam"
+    ],
+    [
+      "công dân việt nam",
+      "công dân của nước láng giềng"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ]
+  ]
+}

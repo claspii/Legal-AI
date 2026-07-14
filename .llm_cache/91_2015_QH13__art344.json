@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức chính trị - xã hội ở cơ sở",
+    "cá nhân",
+    "hộ gia đình nghèo",
+    "tổ chức tín dụng"
+  ],
+  "actions": [
+    "bảo đảm bằng tín chấp",
+    "vay",
+    "sản xuất",
+    "kinh doanh",
+    "tiêu dùng"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức chính trị - xã hội ở cơ sở",
+      "bảo đảm bằng tín chấp"
+    ],
+    [
+      "cá nhân",
+      "vay"
+    ],
+    [
+      "hộ gia đình nghèo",
+      "vay"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo đảm bằng tín chấp",
+      "tổ chức chính trị - xã hội ở cơ sở"
+    ],
+    [
+      "vay",
+      "tổ chức tín dụng"
+    ],
+    [
+      "cá nhân",
+      "vay"
+    ],
+    [
+      "hộ gia đình nghèo",
+      "vay"
+    ]
+  ]
+}

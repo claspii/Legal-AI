@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [
+    "năng lực pháp luật dân sự của cá nhân"
+  ],
+  "actors": [
+    "cá nhân",
+    "người đó"
+  ],
+  "actions": [
+    "có quyền dân sự",
+    "có nghĩa vụ dân sự",
+    "có năng lực pháp luật dân sự",
+    "chấm dứt",
+    "chết",
+    "sinh ra"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quyền dân sự"
+    ],
+    [
+      "cá nhân",
+      "có nghĩa vụ dân sự"
+    ],
+    [
+      "mọi cá nhân",
+      "có năng lực pháp luật dân sự"
+    ],
+    [
+      "người đó",
+      "chấm dứt"
+    ],
+    [
+      "người đó",
+      "chết"
+    ],
+    [
+      "người đó",
+      "sinh ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "quyền dân sự"
+    ],
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "sinh ra"
+    ],
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "chết"
+    ]
+  ]
+}

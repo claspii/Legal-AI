@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp luật"
+  ],
+  "actions": [
+    "bảo vệ",
+    "được tôn trọng",
+    "xác lập",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "pháp luật",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ hôn nhân và gia đình",
+      "luật này"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình",
+      "pháp luật"
+    ]
+  ]
+}

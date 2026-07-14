@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án",
+    "chánh án tòa án"
+  ],
+  "actions": [
+    "chấp hành bản án",
+    "xét xử",
+    "quyết định hình phạt",
+    "quyết định hình phạt chung",
+    "thực hiện hành vi phạm tội mới",
+    "ra quyết định tổng hợp hình phạt",
+    "tổng hợp hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chấp hành bản án"
+    ],
+    [
+      "người",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt chung"
+    ],
+    [
+      "tòa án",
+      "xét xử"
+    ],
+    [
+      "chánh án tòa án",
+      "ra quyết định tổng hợp hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "bản án"
+    ],
+    [
+      "hình phạt chung",
+      "bản án"
+    ],
+    [
+      "chấp hành hình phạt",
+      "thời hạn chấp hành hình phạt chung"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "bản án"
+    ],
+    [
+      "hình phạt của các bản án",
+      "tổng hợp hình phạt"
+    ]
+  ]
+}

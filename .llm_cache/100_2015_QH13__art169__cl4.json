@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "bắt cóc nhằm chiếm đoạt tài sản",
+    "chiếm đoạt tài sản",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "làm chết người"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "giá 500.000.000 đồng trở lên"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây thương tích",
+      "02 người trở lên"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "02 người trở lên"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "02 người trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% trở lên"
+    ],
+    [
+      "tỷ lệ rối loạn tâm thần và hành vi",
+      "46% trở lên"
+    ]
+  ]
+}

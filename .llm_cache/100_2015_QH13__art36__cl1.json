@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [
+    "cải tạo không giam giữ"
+  ],
+  "actors": [
+    "người phạm tội",
+    "người bị kết án"
+  ],
+  "actions": [
+    "áp dụng",
+    "tạm giữ",
+    "tạm giam",
+    "trừ vào",
+    "chấp hành hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị áp dụng cải tạo không giam giữ"
+    ],
+    [
+      "người bị kết án",
+      "bị tạm giữ"
+    ],
+    [
+      "người bị kết án",
+      "bị tạm giam"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành hình phạt cải tạo không giam giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "phạm tội ít nghiêm trọng"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạm tội nghiêm trọng"
+    ],
+    [
+      "thời gian tạm giữ",
+      "thời gian tạm giam"
+    ],
+    [
+      "thời gian tạm giữ, tạm giam",
+      "thời gian chấp hành hình phạt cải tạo không giam giữ"
+    ]
+  ]
+}

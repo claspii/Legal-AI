@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng"
+  ],
+  "actions": [
+    "phát tán",
+    "gây hại",
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm lây nhiễm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chương trình tin học",
+      "mạng máy tính"
+    ],
+    [
+      "chương trình tin học",
+      "mạng viễn thông"
+    ],
+    [
+      "chương trình tin học",
+      "phương tiện điện tử"
+    ],
+    [
+      "hệ thống dữ liệu",
+      "bí mật nhà nước"
+    ],
+    [
+      "hệ thống thông tin",
+      "quốc phòng"
+    ],
+    [
+      "hệ thống thông tin",
+      "an ninh"
+    ],
+    [
+      "cơ sở hạ tầng thông tin",
+      "quốc gia"
+    ],
+    [
+      "hệ thống thông tin",
+      "tài chính"
+    ]
+  ]
+}

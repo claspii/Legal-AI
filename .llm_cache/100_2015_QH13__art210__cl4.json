@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sử dụng thông tin nội bộ để mua bán chứng khoán",
+    "phạm tội",
+    "bị phạt tiền",
+    "bị cấm kinh doanh",
+    "hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội quy định tại điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội thuộc trường hợp quy định tại khoản 1 điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội thuộc trường hợp quy định tại khoản 2 điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền từ 1.000.000.000 đồng đến 5.000.000.000 đồng"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền từ 5.000.000.000 đồng đến 10.000.000.000 đồng"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "tội sử dụng thông tin nội bộ để mua bán chứng khoán"
+    ],
+    [
+      "tội sử dụng thông tin nội bộ để mua bán chứng khoán",
+      "phạt tiền"
+    ],
+    [
+      "tội sử dụng thông tin nội bộ để mua bán chứng khoán",
+      "cấm kinh doanh"
+    ],
+    [
+      "tội sử dụng thông tin nội bộ để mua bán chứng khoán",
+      "cấm huy động vốn"
+    ],
+    [
+      "phạt tiền",
+      "cấm kinh doanh"
+    ],
+    [
+      "phạt tiền",
+      "cấm huy động vốn"
+    ]
+  ]
+}

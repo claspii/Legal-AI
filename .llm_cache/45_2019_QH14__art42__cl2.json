@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [
+    "lý do kinh tế"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "nhà nước"
+  ],
+  "actions": [
+    "thay đổi cơ cấu, công nghệ",
+    "thực hiện chính sách, pháp luật",
+    "cơ cấu lại nền kinh tế",
+    "thực hiện cam kết quốc tế"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thay đổi cơ cấu, công nghệ"
+    ],
+    [
+      "nhà nước",
+      "thực hiện chính sách, pháp luật"
+    ],
+    [
+      "nhà nước",
+      "cơ cấu lại nền kinh tế"
+    ],
+    [
+      "nhà nước",
+      "thực hiện cam kết quốc tế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lý do kinh tế",
+      "khủng hoảng"
+    ],
+    [
+      "lý do kinh tế",
+      "suy thoái kinh tế"
+    ],
+    [
+      "lý do kinh tế",
+      "chính sách, pháp luật của nhà nước"
+    ],
+    [
+      "lý do kinh tế",
+      "cơ cấu lại nền kinh tế"
+    ],
+    [
+      "lý do kinh tế",
+      "cam kết quốc tế"
+    ]
+  ]
+}

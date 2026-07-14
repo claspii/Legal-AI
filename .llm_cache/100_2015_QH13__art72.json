@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "cơ quan, tổ chức nơi người đó công tác",
+    "chính quyền địa phương nơi người đó cư trú",
+    "tòa án"
+  ],
+  "actions": [
+    "xóa án tích",
+    "đề nghị",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "xóa án tích"
+    ],
+    [
+      "cơ quan, tổ chức nơi người đó công tác",
+      "đề nghị"
+    ],
+    [
+      "chính quyền địa phương nơi người đó cư trú",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "xóa án tích"
+    ],
+    [
+      "cơ quan, tổ chức nơi người đó công tác",
+      "đề nghị"
+    ],
+    [
+      "chính quyền địa phương nơi người đó cư trú",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ]
+}

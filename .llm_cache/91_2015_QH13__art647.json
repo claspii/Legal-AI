@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công chứng viên",
+    "người để lại di chúc",
+    "người thừa kế",
+    "người có liên quan đến nội dung di chúc"
+  ],
+  "actions": [
+    "công bố di chúc",
+    "sao gửi di chúc",
+    "yêu cầu đối chiếu",
+    "dịch ra tiếng việt",
+    "có công chứng hoặc chứng thực"
+  ],
+  "actor_actions": [
+    [
+      "công chứng viên",
+      "công bố di chúc"
+    ],
+    [
+      "người để lại di chúc",
+      "chỉ định người công bố di chúc"
+    ],
+    [
+      "người công bố di chúc",
+      "công bố di chúc"
+    ],
+    [
+      "người công bố di chúc",
+      "sao gửi di chúc"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận cử người công bố di chúc"
+    ],
+    [
+      "người nhận được bản sao di chúc",
+      "yêu cầu đối chiếu với bản gốc của di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc bằng văn bản",
+      "tổ chức hành nghề công chứng"
+    ],
+    [
+      "người để lại di chúc",
+      "người công bố di chúc"
+    ],
+    [
+      "di chúc được lập bằng tiếng nước ngoài",
+      "bản di chúc đó phải được dịch ra tiếng việt"
+    ]
+  ]
+}

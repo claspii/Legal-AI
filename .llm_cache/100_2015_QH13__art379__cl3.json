@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người phải thi hành án",
+    "người có nghĩa vụ thi hành án"
+  ],
+  "actions": [
+    "không thi hành án",
+    "thực hiện tội phạm",
+    "tẩu tán tài sản",
+    "không thi hành được nghĩa vụ thi hành án"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "tiếp tục thực hiện tội phạm rất nghiêm trọng"
+    ],
+    [
+      "người bị kết án",
+      "tiếp tục thực hiện tội phạm đặc biệt nghiêm trọng"
+    ],
+    [
+      "người phải chấp hành án",
+      "tiếp tục thực hiện tội phạm rất nghiêm trọng"
+    ],
+    [
+      "người phải chấp hành án",
+      "tiếp tục thực hiện tội phạm đặc biệt nghiêm trọng"
+    ],
+    [
+      "người bị kết án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người bị kết án",
+      "không thi hành được nghĩa vụ thi hành án"
+    ],
+    [
+      "người phải thi hành án",
+      "tẩu tán tài sản"
+    ],
+    [
+      "người phải thi hành án",
+      "không thi hành được nghĩa vụ thi hành án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không thi hành án",
+      "tội phạm rất nghiêm trọng"
+    ],
+    [
+      "không thi hành án",
+      "tội phạm đặc biệt nghiêm trọng"
+    ],
+    [
+      "tẩu tán tài sản",
+      "không thi hành được nghĩa vụ thi hành án"
+    ],
+    [
+      "không thi hành được nghĩa vụ thi hành án",
+      "1.000.000.000 đồng trở lên"
+    ]
+  ]
+}

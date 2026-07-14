@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "nhận cha",
+    "nhận mẹ",
+    "có sự đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "con",
+      "nhận cha"
+    ],
+    [
+      "con",
+      "nhận mẹ"
+    ],
+    [
+      "mẹ",
+      "có sự đồng ý"
+    ],
+    [
+      "cha",
+      "có sự đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con",
+      "cha"
+    ],
+    [
+      "con",
+      "mẹ"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "con đã thành niên",
+      "nhận cha"
+    ],
+    [
+      "con đã thành niên",
+      "nhận mẹ"
+    ]
+  ]
+}

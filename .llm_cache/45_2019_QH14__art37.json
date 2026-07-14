@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+  ],
+  "actions": [
+    "không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động",
+    "đang điều trị",
+    "điều dưỡng",
+    "nghỉ hằng năm",
+    "nghỉ việc riêng",
+    "nghỉ thai sản",
+    "nuôi con dưới 12 tháng tuổi",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "đang điều trị"
+    ],
+    [
+      "người lao động",
+      "điều dưỡng"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+      "chỉ định"
+    ],
+    [
+      "người lao động",
+      "đang nghỉ hằng năm"
+    ],
+    [
+      "người lao động",
+      "nghỉ việc riêng"
+    ],
+    [
+      "người sử dụng lao động",
+      "đồng ý"
+    ],
+    [
+      "người lao động nữ",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "đang nghỉ thai sản"
+    ],
+    [
+      "người lao động",
+      "nuôi con dưới 12 tháng tuổi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động ốm đau hoặc bị tai nạn, bệnh nghề nghiệp",
+      "đang điều trị, điều dưỡng theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+    ],
+    [
+      "người lao động đang nghỉ hằng năm, nghỉ việc riêng",
+      "trường hợp nghỉ khác được người sử dụng lao động đồng ý"
+    ],
+    [
+      "người lao động nữ mang thai",
+      "người lao động đang nghỉ thai sản"
+    ],
+    [
+      "người lao động đang nghỉ thai sản",
+      "nuôi con dưới 12 tháng tuổi"
+    ]
+  ]
+}

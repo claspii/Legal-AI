@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "có hiệu lực",
+    "được chuyển giao"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền đối với bất động sản liền kề",
+      "cá nhân"
+    ],
+    [
+      "quyền đối với bất động sản liền kề",
+      "pháp nhân"
+    ],
+    [
+      "quyền đối với bất động sản liền kề",
+      "bất động sản"
+    ]
+  ]
+}

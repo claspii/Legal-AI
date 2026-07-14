@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "vi phạm quy chế về khu vực biên giới",
+    "vi phạm quy định về cư trú, đi lại hoặc các quy định khác về khu vực biên giới",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "phạt tiền",
+    "phạt tù",
+    "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội khu vực biên giới",
+    "cấm cư trú"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về cư trú, đi lại hoặc các quy định khác về khu vực biên giới"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người nào",
+      "còn vi phạm"
+    ],
+    [
+      "người nào",
+      "tái phạm"
+    ],
+    [
+      "người nào",
+      "phạm tội gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội khu vực biên giới"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về cư trú, đi lại hoặc các quy định khác về khu vực biên giới",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "vi phạm quy định về cư trú, đi lại hoặc các quy định khác về khu vực biên giới",
+      "bị kết án về tội này"
+    ],
+    [
+      "bị kết án về tội này",
+      "chưa được xóa án tích"
+    ],
+    [
+      "vi phạm",
+      "phạt tiền"
+    ],
+    [
+      "vi phạm",
+      "phạt tù"
+    ],
+    [
+      "tái phạm",
+      "phạt tù"
+    ],
+    [
+      "phạm tội gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội khu vực biên giới",
+      "phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "cấm cư trú"
+    ]
+  ]
+}

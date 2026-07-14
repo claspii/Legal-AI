@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng bên nhờ mang thai hộ",
+    "vợ chồng bên mang thai hộ",
+    "bên mang thai hộ",
+    "bên nhờ mang thai hộ",
+    "người thứ ba",
+    "cơ sở y tế",
+    "người có thẩm quyền của cơ sở y tế này"
+  ],
+  "actions": [
+    "thỏa thuận về mang thai hộ",
+    "ủy quyền",
+    "lập thành văn bản",
+    "có công chứng",
+    "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+    "xác nhận"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng bên nhờ mang thai hộ",
+      "ủy quyền cho nhau"
+    ],
+    [
+      "vợ chồng bên mang thai hộ",
+      "ủy quyền cho nhau"
+    ],
+    [
+      "bên mang thai hộ",
+      "thỏa thuận về mang thai hộ"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "thỏa thuận về mang thai hộ"
+    ],
+    [
+      "cơ sở y tế",
+      "thực hiện việc sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "người có thẩm quyền của cơ sở y tế này",
+      "xác nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa thuận về mang thai hộ",
+      "văn bản có công chứng"
+    ],
+    [
+      "ủy quyền",
+      "văn bản có công chứng"
+    ],
+    [
+      "thỏa thuận về mang thai hộ",
+      "cơ sở y tế thực hiện việc sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "ủy quyền cho người thứ ba",
+      "không có giá trị pháp lý"
+    ]
+  ]
+}

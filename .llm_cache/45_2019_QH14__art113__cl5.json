@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "nghỉ hằng năm",
+    "tạm ứng tiền lương"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "người lao động",
+      "tạm ứng tiền lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghỉ hằng năm",
+      "tạm ứng tiền lương"
+    ],
+    [
+      "tiền lương",
+      "kỳ trả lương"
+    ]
+  ]
+}

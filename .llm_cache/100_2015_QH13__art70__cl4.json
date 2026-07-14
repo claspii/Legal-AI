@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+    "người bị kết án"
+  ],
+  "actions": [
+    "cập nhật thông tin về tình hình án tích",
+    "cấp phiếu lý lịch tư pháp",
+    "xác nhận không có án tích"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "cập nhật thông tin về tình hình án tích"
+    ],
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "cấp phiếu lý lịch tư pháp"
+    ],
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "xác nhận không có án tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin về tình hình án tích",
+      "người bị kết án"
+    ],
+    [
+      "phiếu lý lịch tư pháp",
+      "không có án tích"
+    ]
+  ]
+}

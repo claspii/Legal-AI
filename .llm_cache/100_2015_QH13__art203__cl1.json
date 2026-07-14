@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "in",
+    "phát hành",
+    "mua bán trái phép",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "in"
+    ],
+    [
+      "người",
+      "phát hành"
+    ],
+    [
+      "người",
+      "mua bán trái phép"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "in",
+      "hóa đơn, chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "phát hành",
+      "hóa đơn, chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "mua bán trái phép",
+      "hóa đơn, chứng từ thu nộp ngân sách nhà nước"
+    ],
+    [
+      "hóa đơn, chứng từ thu nộp ngân sách nhà nước",
+      "dạng phôi"
+    ],
+    [
+      "hóa đơn, chứng từ thu nộp ngân sách nhà nước",
+      "đã ghi nội dung"
+    ]
+  ]
+}

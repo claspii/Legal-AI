@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "hoàn trả",
+    "chấm dứt",
+    "có thỏa thuận khác",
+    "có quy định khác"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "quyền hưởng dụng"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "quyền hưởng dụng",
+      "chấm dứt"
+    ],
+    [
+      "chấm dứt quyền hưởng dụng",
+      "hoàn trả tài sản"
+    ]
+  ]
+}

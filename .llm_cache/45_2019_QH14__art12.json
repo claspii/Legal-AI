@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "cơ quan nhà nước có thẩm quyền",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "cơ quan bảo hiểm xã hội",
+    "chính phủ"
+  ],
+  "actions": [
+    "lập sổ quản lý lao động",
+    "cập nhật sổ quản lý lao động",
+    "quản lý sổ quản lý lao động",
+    "sử dụng sổ quản lý lao động",
+    "xuất trình",
+    "khai trình việc sử dụng lao động",
+    "báo cáo tình hình thay đổi về lao động",
+    "thông báo",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "lập sổ quản lý lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "cập nhật sổ quản lý lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "quản lý sổ quản lý lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng sổ quản lý lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "xuất trình"
+    ],
+    [
+      "người sử dụng lao động",
+      "khai trình việc sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "báo cáo tình hình thay đổi về lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "sổ quản lý lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "việc sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tình hình thay đổi về lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "tình hình thay đổi về lao động"
+    ],
+    [
+      "cơ quan bảo hiểm xã hội",
+      "tình hình thay đổi về lao động"
+    ]
+  ]
+}

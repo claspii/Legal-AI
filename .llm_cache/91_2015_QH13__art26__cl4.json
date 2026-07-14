@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ dân sự"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác lập"
+    ],
+    [
+      "cá nhân",
+      "thực hiện quyền"
+    ],
+    [
+      "cá nhân",
+      "thực hiện nghĩa vụ dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "họ",
+      "tên"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

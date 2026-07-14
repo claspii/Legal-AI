@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà đầu tư",
+    "người khác",
+    "thành viên trong nhóm",
+    "tổ chức phát hành chứng khoán"
+  ],
+  "actions": [
+    "thực hiện",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "sử dụng tài khoản giao dịch",
+    "thông đồng",
+    "mua, bán chứng khoán"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "sử dụng một hoặc nhiều tài khoản giao dịch của mình"
+    ],
+    [
+      "người",
+      "sử dụng một hoặc nhiều tài khoản giao dịch của người khác"
+    ],
+    [
+      "người",
+      "thông đồng với nhau liên tục mua, bán chứng khoán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "thao túng thị trường chứng khoán"
+    ],
+    [
+      "gây thiệt hại",
+      "thao túng thị trường chứng khoán"
+    ],
+    [
+      "tài khoản giao dịch",
+      "chứng khoán"
+    ],
+    [
+      "cung cầu giả tạo",
+      "chứng khoán"
+    ],
+    [
+      "giao dịch mua bán",
+      "chuyển nhượng quyền sở hữu"
+    ],
+    [
+      "giá chứng khoán",
+      "thao túng giá chứng khoán"
+    ]
+  ]
+}

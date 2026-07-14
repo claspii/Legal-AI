@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "tòa án",
+    "vợ",
+    "chồng",
+    "con thành niên",
+    "cha",
+    "mẹ",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "bảo vệ",
+    "yêu cầu",
+    "bác bỏ thông tin",
+    "gỡ bỏ",
+    "cải chính",
+    "hủy bỏ",
+    "tuyên bố",
+    "xin lỗi"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "yêu cầu tòa án bác bỏ thông tin"
+    ],
+    [
+      "vợ",
+      "yêu cầu bảo vệ danh dự, nhân phẩm, uy tín"
+    ],
+    [
+      "chồng",
+      "yêu cầu bảo vệ danh dự, nhân phẩm, uy tín"
+    ],
+    [
+      "con thành niên",
+      "yêu cầu bảo vệ danh dự, nhân phẩm, uy tín"
+    ],
+    [
+      "cha",
+      "yêu cầu bảo vệ danh dự, nhân phẩm, uy tín"
+    ],
+    [
+      "mẹ",
+      "yêu cầu bảo vệ danh dự, nhân phẩm, uy tín"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu tòa án tuyên bố thông tin đó là không đúng"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu người đưa ra thông tin xin lỗi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "danh dự",
+      "nhân phẩm"
+    ],
+    [
+      "danh dự",
+      "uy tín"
+    ],
+    [
+      "nhân phẩm",
+      "uy tín"
+    ],
+    [
+      "thông tin",
+      "danh dự"
+    ],
+    [
+      "thông tin",
+      "nhân phẩm"
+    ],
+    [
+      "thông tin",
+      "uy tín"
+    ],
+    [
+      "bác bỏ thông tin",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

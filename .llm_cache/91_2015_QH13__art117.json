@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "xác lập",
+    "tham gia",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "xác lập"
+    ],
+    [
+      "chủ thể",
+      "tham gia"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "điều kiện có hiệu lực"
+    ],
+    [
+      "chủ thể",
+      "năng lực pháp luật dân sự"
+    ],
+    [
+      "chủ thể",
+      "năng lực hành vi dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "mục đích"
+    ],
+    [
+      "giao dịch dân sự",
+      "nội dung"
+    ],
+    [
+      "giao dịch dân sự",
+      "hình thức"
+    ],
+    [
+      "luật",
+      "điều cấm"
+    ],
+    [
+      "luật",
+      "quy định"
+    ]
+  ]
+}

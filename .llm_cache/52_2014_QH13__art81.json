@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "vợ",
+    "chồng",
+    "tòa án",
+    "mẹ"
+  ],
+  "actions": [
+    "trông nom",
+    "chăm sóc",
+    "nuôi dưỡng",
+    "giáo dục",
+    "thỏa thuận",
+    "quyết định",
+    "nuôi con",
+    "xem xét nguyện vọng"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "trông nom"
+    ],
+    [
+      "cha mẹ",
+      "chăm sóc"
+    ],
+    [
+      "cha mẹ",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha mẹ",
+      "giáo dục"
+    ],
+    [
+      "vợ",
+      "thỏa thuận"
+    ],
+    [
+      "chồng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "mẹ",
+      "trực tiếp nuôi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "ly hôn",
+      "nuôi con"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "thỏa thuận",
+      "tòa án quyết định"
+    ],
+    [
+      "con dưới 36 tháng tuổi",
+      "mẹ trực tiếp nuôi"
+    ],
+    [
+      "nguyện vọng của con",
+      "con từ đủ 07 tuổi trở lên"
+    ]
+  ]
+}

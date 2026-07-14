@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người giao kết hợp đồng lao động",
+    "người lao động",
+    "Chính phủ",
+    "Bộ trưởng Bộ Lao động - Thương binh và Xã hội"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "thỏa thuận",
+    "bảo vệ bí mật kinh doanh",
+    "bảo vệ bí mật công nghệ",
+    "bồi thường",
+    "làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người giao kết hợp đồng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "Chính phủ",
+      "quy định"
+    ],
+    [
+      "Bộ trưởng Bộ Lao động - Thương binh và Xã hội",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "nội dung hợp đồng lao động"
+    ],
+    [
+      "bí mật kinh doanh",
+      "bí mật công nghệ"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "nội dung hợp đồng lao động",
+      "thời hạn của hợp đồng lao động"
+    ]
+  ]
+}

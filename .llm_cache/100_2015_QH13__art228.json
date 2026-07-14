@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "lấn chiếm đất",
+    "chuyển quyền sử dụng đất",
+    "sử dụng đất trái với các quy định của pháp luật",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "lấn chiếm đất"
+    ],
+    [
+      "người nào",
+      "chuyển quyền sử dụng đất"
+    ],
+    [
+      "người nào",
+      "sử dụng đất trái với các quy định của pháp luật"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lấn chiếm đất",
+      "vi phạm hành chính"
+    ],
+    [
+      "chuyển quyền sử dụng đất",
+      "vi phạm hành chính"
+    ],
+    [
+      "sử dụng đất trái với các quy định của pháp luật",
+      "vi phạm hành chính"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ],
+    [
+      "vi phạm",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "vi phạm",
+      "bị kết án"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

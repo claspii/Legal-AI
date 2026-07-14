@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "hai bên",
+    "ngân hàng"
+  ],
+  "actions": [
+    "trả lương",
+    "thỏa thuận",
+    "tạm ứng tiền lương",
+    "đền bù",
+    "công bố",
+    "mở tài khoản"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "hưởng lương"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "tạm ứng tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "đền bù"
+    ],
+    [
+      "ngân hàng",
+      "công bố"
+    ],
+    [
+      "người sử dụng lao động",
+      "mở tài khoản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiền lương"
+    ],
+    [
+      "kỳ hạn trả lương",
+      "tiền lương"
+    ],
+    [
+      "lương theo giờ",
+      "trả lương"
+    ],
+    [
+      "lương theo ngày",
+      "trả lương"
+    ],
+    [
+      "lương theo tuần",
+      "trả lương"
+    ],
+    [
+      "lương theo tháng",
+      "trả lương"
+    ],
+    [
+      "lương theo sản phẩm",
+      "trả lương"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà thầu",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng",
+    "can thiệp trái pháp luật vào hoạt động đấu thầu",
+    "thông thầu",
+    "gian lận trong đấu thầu",
+    "cản trở hoạt động đấu thầu",
+    "vi phạm quy định của pháp luật về bảo đảm công bằng, minh bạch trong hoạt động đấu thầu",
+    "tổ chức lựa chọn nhà thầu khi nguồn vốn cho gói thầu chưa được xác định dẫn đến nợ đọng vốn của nhà thầu",
+    "chuyển nhượng thầu trái phép"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện một trong những hành vi sau đây, gây thiệt hại từ 100.000.000 đồng đến dưới 300.000.000 đồng hoặc dưới 100.000.000 đồng nhưng đã bị xử lý kỷ luật về hành vi này mà còn vi phạm"
+    ],
+    [
+      "người",
+      "can thiệp trái pháp luật vào hoạt động đấu thầu"
+    ],
+    [
+      "người",
+      "thông thầu"
+    ],
+    [
+      "người",
+      "gian lận trong đấu thầu"
+    ],
+    [
+      "người",
+      "cản trở hoạt động đấu thầu"
+    ],
+    [
+      "người",
+      "vi phạm quy định của pháp luật về bảo đảm công bằng, minh bạch trong hoạt động đấu thầu"
+    ],
+    [
+      "người",
+      "tổ chức lựa chọn nhà thầu khi nguồn vốn cho gói thầu chưa được xác định dẫn đến nợ đọng vốn của nhà thầu"
+    ],
+    [
+      "người",
+      "chuyển nhượng thầu trái phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng",
+      "thiệt hại"
+    ],
+    [
+      "hoạt động đấu thầu",
+      "can thiệp trái pháp luật"
+    ],
+    [
+      "hoạt động đấu thầu",
+      "cản trở"
+    ],
+    [
+      "hoạt động đấu thầu",
+      "công bằng"
+    ],
+    [
+      "hoạt động đấu thầu",
+      "minh bạch"
+    ],
+    [
+      "gói thầu",
+      "nguồn vốn"
+    ],
+    [
+      "nhà thầu",
+      "nợ đọng vốn"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ]
+  ]
+}

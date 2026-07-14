@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "xử lý kỷ luật lao động",
+    "nghỉ ốm đau",
+    "điều dưỡng",
+    "nghỉ việc",
+    "bị tạm giữ",
+    "tạm giam",
+    "điều tra xác minh",
+    "kết luận"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ ốm đau"
+    ],
+    [
+      "người lao động",
+      "điều dưỡng"
+    ],
+    [
+      "người lao động",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "bị tạm giữ"
+    ],
+    [
+      "người lao động",
+      "tạm giam"
+    ],
+    [
+      "người sử dụng lao động",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "điều tra xác minh"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "kết luận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động nữ",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "nghỉ thai sản"
+    ],
+    [
+      "người lao động",
+      "nuôi con dưới 12 tháng tuổi"
+    ],
+    [
+      "người lao động",
+      "bị tạm giữ"
+    ],
+    [
+      "người lao động",
+      "tạm giam"
+    ],
+    [
+      "người lao động",
+      "nghỉ ốm đau"
+    ],
+    [
+      "người lao động",
+      "điều dưỡng"
+    ]
+  ]
+}

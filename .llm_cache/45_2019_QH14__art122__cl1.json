@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "luật sư",
+    "người chưa đủ 15 tuổi",
+    "người đại diện theo pháp luật"
+  ],
+  "actions": [
+    "xử lý kỷ luật lao động",
+    "chứng minh",
+    "tham gia",
+    "có mặt",
+    "tự bào chữa",
+    "nhờ bào chữa",
+    "ghi thành biên bản"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chứng minh lỗi của người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tham gia"
+    ],
+    [
+      "người lao động",
+      "có mặt"
+    ],
+    [
+      "người lao động",
+      "tự bào chữa"
+    ],
+    [
+      "người lao động",
+      "nhờ luật sư bào chữa"
+    ],
+    [
+      "người lao động",
+      "nhờ tổ chức đại diện người lao động bào chữa"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "tham gia"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "trách nhiệm vật chất"
+    ],
+    [
+      "xử lý kỷ luật lao động",
+      "nguyên tắc"
+    ],
+    [
+      "xử lý kỷ luật lao động",
+      "trình tự"
+    ],
+    [
+      "xử lý kỷ luật lao động",
+      "thủ tục"
+    ],
+    [
+      "người lao động",
+      "lỗi"
+    ],
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người lao động",
+      "người chưa đủ 15 tuổi"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "người đại diện theo pháp luật"
+    ]
+  ]
+}

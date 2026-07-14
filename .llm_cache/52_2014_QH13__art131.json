@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án"
+  ],
+  "actions": [
+    "giải quyết",
+    "thụ lý",
+    "kháng nghị"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "thụ lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ hôn nhân và gia đình",
+      "pháp luật về hôn nhân và gia đình"
+    ],
+    [
+      "vụ việc về hôn nhân và gia đình",
+      "thủ tục"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mang thai hộ",
+    "bên nhờ mang thai hộ",
+    "tòa án",
+    "con"
+  ],
+  "actions": [
+    "từ chối nhận con",
+    "yêu cầu",
+    "buộc nhận con"
+  ],
+  "actor_actions": [
+    [
+      "bên nhờ mang thai hộ",
+      "từ chối nhận con"
+    ],
+    [
+      "bên mang thai hộ",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "buộc nhận con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mang thai hộ",
+      "con"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "con"
+    ]
+  ]
+}

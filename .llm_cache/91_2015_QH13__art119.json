@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "thể hiện bằng lời nói",
+    "thể hiện bằng văn bản",
+    "thể hiện bằng hành vi cụ thể",
+    "công chứng",
+    "chứng thực",
+    "đăng ký"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "lời nói"
+    ],
+    [
+      "giao dịch dân sự",
+      "văn bản"
+    ],
+    [
+      "giao dịch dân sự",
+      "hành vi cụ thể"
+    ],
+    [
+      "giao dịch dân sự",
+      "phương tiện điện tử"
+    ],
+    [
+      "giao dịch điện tử",
+      "thông điệp dữ liệu"
+    ],
+    [
+      "văn bản",
+      "công chứng"
+    ],
+    [
+      "văn bản",
+      "chứng thực"
+    ],
+    [
+      "văn bản",
+      "đăng ký"
+    ]
+  ]
+}

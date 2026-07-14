@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "người",
+    "tổ chức y tế có thẩm quyền",
+    "người vợ",
+    "người được nhờ mang thai hộ",
+    "bên vợ",
+    "bên chồng",
+    "người phụ nữ mang thai hộ",
+    "chồng",
+    "chính phủ"
+  ],
+  "actions": [
+    "mang thai hộ",
+    "sinh con",
+    "áp dụng kỹ thuật hỗ trợ sinh sản",
+    "có xác nhận",
+    "nhờ",
+    "tư vấn",
+    "có sự đồng ý",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "nhờ"
+    ],
+    [
+      "tổ chức y tế có thẩm quyền",
+      "xác nhận"
+    ],
+    [
+      "người vợ",
+      "mang thai"
+    ],
+    [
+      "người vợ",
+      "sinh con"
+    ],
+    [
+      "người phụ nữ mang thai hộ",
+      "mang thai hộ"
+    ],
+    [
+      "chồng",
+      "đồng ý"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mang thai hộ vì mục đích nhân đạo",
+      "tự nguyện của các bên"
+    ],
+    [
+      "mang thai hộ",
+      "kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "người vợ",
+      "không thể mang thai và sinh con"
+    ],
+    [
+      "vợ chồng",
+      "không có con chung"
+    ],
+    [
+      "người được nhờ mang thai hộ",
+      "người thân thích cùng hàng"
+    ],
+    [
+      "người được nhờ mang thai hộ",
+      "đã từng sinh con"
+    ],
+    [
+      "người được nhờ mang thai hộ",
+      "có xác nhận của tổ chức y tế có thẩm quyền về khả năng mang thai hộ"
+    ],
+    [
+      "người phụ nữ mang thai hộ có chồng",
+      "sự đồng ý bằng văn bản của người chồng"
+    ]
+  ]
+}

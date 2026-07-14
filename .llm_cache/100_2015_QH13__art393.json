@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "ra mệnh lệnh trái pháp luật",
+    "phạm tội",
+    "gây hậu quả nghiêm trọng",
+    "gây hậu quả rất nghiêm trọng",
+    "gây hậu quả đặc biệt nghiêm trọng",
+    "cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "ra mệnh lệnh trái pháp luật"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây hậu quả rất nghiêm trọng"
+    ],
+    [
+      "người",
+      "gây hậu quả đặc biệt nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ, quyền hạn",
+      "ra mệnh lệnh trái pháp luật"
+    ],
+    [
+      "ra mệnh lệnh trái pháp luật",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "ra mệnh lệnh trái pháp luật",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "ra mệnh lệnh trái pháp luật",
+      "hậu quả đặc biệt nghiêm trọng"
+    ],
+    [
+      "tội ra mệnh lệnh trái pháp luật",
+      "chiến đấu"
+    ],
+    [
+      "tội ra mệnh lệnh trái pháp luật",
+      "khu vực có chiến sự"
+    ],
+    [
+      "tội ra mệnh lệnh trái pháp luật",
+      "nhiệm vụ cứu hộ, cứu nạn"
+    ],
+    [
+      "tội ra mệnh lệnh trái pháp luật",
+      "tình trạng khẩn cấp"
+    ]
+  ]
+}

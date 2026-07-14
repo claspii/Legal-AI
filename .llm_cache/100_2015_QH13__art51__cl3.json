@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "quy định",
+    "coi là",
+    "quyết định hình phạt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "dấu hiệu định tội"
+    ],
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "định khung"
+    ],
+    [
+      "dấu hiệu định tội",
+      "tình tiết giảm nhẹ"
+    ],
+    [
+      "định khung",
+      "tình tiết giảm nhẹ"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "quyết định hình phạt"
+    ]
+  ]
+}

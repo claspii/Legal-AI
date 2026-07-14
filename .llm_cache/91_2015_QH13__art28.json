@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cơ quan nhà nước có thẩm quyền",
+    "người có tên",
+    "cha nuôi",
+    "mẹ nuôi",
+    "con nuôi",
+    "cha đẻ",
+    "mẹ đẻ",
+    "người bị lưu lạc"
+  ],
+  "actions": [
+    "yêu cầu",
+    "công nhận việc thay đổi tên",
+    "thay đổi tên",
+    "sử dụng tên",
+    "xác định cha, mẹ cho con",
+    "xác định lại giới tính",
+    "chuyển đổi giới tính",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên"
+    ],
+    [
+      "người có tên",
+      "yêu cầu"
+    ],
+    [
+      "cha nuôi",
+      "yêu cầu"
+    ],
+    [
+      "mẹ nuôi",
+      "yêu cầu"
+    ],
+    [
+      "người con nuôi",
+      "thôi làm con nuôi"
+    ],
+    [
+      "cha đẻ",
+      "yêu cầu"
+    ],
+    [
+      "mẹ đẻ",
+      "yêu cầu"
+    ],
+    [
+      "người bị lưu lạc",
+      "tìm ra nguồn gốc huyết thống của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "quyền thay đổi tên"
+    ],
+    [
+      "thay đổi tên",
+      "cơ quan nhà nước có thẩm quyền"
+    ],
+    [
+      "thay đổi tên",
+      "quyền, nghĩa vụ dân sự"
+    ],
+    [
+      "thay đổi tên",
+      "người từ đủ chín tuổi trở lên"
+    ]
+  ]
+}

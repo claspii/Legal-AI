@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "thừa kế"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "xác lập quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản thừa kế"
+    ],
+    [
+      "người thừa kế",
+      "tài sản thừa kế"
+    ],
+    [
+      "xác lập quyền sở hữu",
+      "thừa kế"
+    ]
+  ]
+}

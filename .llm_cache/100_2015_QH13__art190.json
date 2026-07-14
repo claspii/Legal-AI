@@ -1,0 +1,105 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "pháp nhân thương mại",
+    "pháp nhân"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "kinh doanh",
+    "lưu hành",
+    "sử dụng",
+    "trồng trọt",
+    "chăn nuôi",
+    "nuôi trồng thủy sản",
+    "làm muối",
+    "sơ chế",
+    "chế biến",
+    "bảo quản",
+    "thu lợi bất chính",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạt tiền",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "nhà nước",
+      "cấm kinh doanh"
+    ],
+    [
+      "nhà nước",
+      "cấm lưu hành"
+    ],
+    [
+      "nhà nước",
+      "cấm sử dụng"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất hàng cấm",
+      "buôn bán hàng cấm"
+    ],
+    [
+      "hàng cấm",
+      "hóa chất cấm"
+    ],
+    [
+      "hàng cấm",
+      "kháng sinh cấm"
+    ],
+    [
+      "hàng cấm",
+      "thuốc thú y cấm"
+    ],
+    [
+      "hàng cấm",
+      "thuốc bảo vệ thực vật cấm"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "cấm làm công việc nhất định"
+    ]
+  ]
+}

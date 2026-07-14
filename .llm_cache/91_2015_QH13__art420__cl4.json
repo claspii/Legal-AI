@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "các bên"
+  ],
+  "actions": [
+    "đàm phán sửa đổi hợp đồng",
+    "chấm dứt hợp đồng",
+    "giải quyết vụ việc",
+    "tiếp tục thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "đàm phán sửa đổi hợp đồng"
+    ],
+    [
+      "các bên",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "tòa án",
+      "giải quyết vụ việc"
+    ],
+    [
+      "các bên",
+      "tiếp tục thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đàm phán sửa đổi hợp đồng",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "nghĩa vụ",
+      "hợp đồng"
+    ],
+    [
+      "hợp đồng",
+      "hoàn cảnh thay đổi cơ bản"
+    ]
+  ]
+}

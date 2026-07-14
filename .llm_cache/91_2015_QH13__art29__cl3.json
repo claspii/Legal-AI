@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cơ quan nhà nước có thẩm quyền",
+    "cha đẻ",
+    "mẹ đẻ",
+    "con nuôi"
+  ],
+  "actions": [
+    "yêu cầu",
+    "xác định lại dân tộc",
+    "xác định được"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "cá nhân",
+      "xác định lại dân tộc"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "xác định lại dân tộc"
+    ],
+    [
+      "con nuôi",
+      "xác định được cha đẻ, mẹ đẻ của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "dân tộc"
+    ],
+    [
+      "cá nhân",
+      "cha đẻ"
+    ],
+    [
+      "cá nhân",
+      "mẹ đẻ"
+    ],
+    [
+      "con nuôi",
+      "cha đẻ"
+    ],
+    [
+      "con nuôi",
+      "mẹ đẻ"
+    ]
+  ]
+}

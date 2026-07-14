@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "doanh nghiệp",
+    "người lao động",
+    "ban lãnh đạo của các tổ chức đại diện người lao động",
+    "người được lấy ý kiến"
+  ],
+  "actions": [
+    "lấy ý kiến",
+    "ký kết",
+    "tham gia thương lượng",
+    "biểu quyết tán thành"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "tham gia thương lượng"
+    ],
+    [
+      "doanh nghiệp",
+      "tham gia thương lượng"
+    ],
+    [
+      "doanh nghiệp",
+      "tham gia ký kết"
+    ],
+    [
+      "người được lấy ý kiến",
+      "biểu quyết tán thành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể ngành",
+      "ký kết"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "lấy ý kiến"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "ký kết"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "lấy ý kiến"
+    ],
+    [
+      "ban lãnh đạo của các tổ chức đại diện người lao động",
+      "đối tượng lấy ý kiến"
+    ],
+    [
+      "người lao động tại các doanh nghiệp tham gia thương lượng",
+      "đối tượng lấy ý kiến"
+    ]
+  ]
+}

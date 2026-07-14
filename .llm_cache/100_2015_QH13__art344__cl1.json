@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp luật"
+  ],
+  "actions": [
+    "vi phạm các quy định về hoạt động xuất bản",
+    "bị phạt cảnh cáo",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "không tuân thủ quy định về biên tập và duyệt bản thảo",
+    "xuất bản xuất bản phẩm",
+    "bị xử phạt vi phạm hành chính",
+    "in trên 2.000 bản",
+    "không có xác nhận đăng ký xuất bản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về hoạt động xuất bản"
+    ],
+    [
+      "người",
+      "bị phạt cảnh cáo"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người",
+      "không tuân thủ quy định về biên tập và duyệt bản thảo"
+    ],
+    [
+      "người",
+      "xuất bản xuất bản phẩm"
+    ],
+    [
+      "người",
+      "in trên 2.000 bản"
+    ],
+    [
+      "pháp luật",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động xuất bản",
+      "xuất bản phẩm"
+    ],
+    [
+      "biên tập",
+      "duyệt bản thảo"
+    ],
+    [
+      "xác nhận đăng ký xuất bản",
+      "quyết định xuất bản"
+    ],
+    [
+      "xuất bản",
+      "in"
+    ],
+    [
+      "xuất bản",
+      "phát hành"
+    ],
+    [
+      "đình chỉ phát hành",
+      "thu hồi"
+    ],
+    [
+      "tịch thu",
+      "cấm lưu hành"
+    ],
+    [
+      "vi phạm hành chính",
+      "hành vi này"
+    ]
+  ]
+}

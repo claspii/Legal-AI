@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "bảo vệ thai sản",
+    "làm việc ban đêm",
+    "làm thêm giờ",
+    "đi công tác xa",
+    "mang thai",
+    "nuôi con",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động làm việc ban đêm"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động làm thêm giờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động đi công tác xa"
+    ],
+    [
+      "người lao động",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "nuôi con"
+    ],
+    [
+      "người lao động",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bảo vệ thai sản",
+      "người lao động nữ"
+    ],
+    [
+      "người lao động",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "nuôi con dưới 12 tháng tuổi"
+    ]
+  ]
+}

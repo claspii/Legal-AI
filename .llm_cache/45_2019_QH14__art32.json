@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "người lao động làm việc không trọn thời gian"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "làm việc không trọn thời gian",
+    "thỏa thuận",
+    "giao kết hợp đồng lao động",
+    "hưởng lương",
+    "thực hiện quyền và nghĩa vụ",
+    "bảo đảm an toàn, vệ sinh lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc không trọn thời gian"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "hưởng lương"
+    ],
+    [
+      "người lao động",
+      "thực hiện quyền và nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động làm việc không trọn thời gian",
+      "người lao động làm việc trọn thời gian"
+    ],
+    [
+      "hợp đồng lao động",
+      "làm việc không trọn thời gian"
+    ],
+    [
+      "thời gian làm việc bình thường",
+      "thời gian làm việc không trọn thời gian"
+    ]
+  ]
+}

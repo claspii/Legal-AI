@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đã được giảm một phần hình phạt",
+    "tòa án"
+  ],
+  "actions": [
+    "giảm mức hình phạt đã tuyên",
+    "thực hiện hành vi phạm tội mới ít nghiêm trọng do cố ý",
+    "xét giảm",
+    "chấp hành được một phần hai mức hình phạt chung"
+  ],
+  "actor_actions": [
+    [
+      "người đã được giảm một phần hình phạt",
+      "thực hiện hành vi phạm tội mới ít nghiêm trọng do cố ý"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ],
+    [
+      "người đó",
+      "chấp hành được một phần hai mức hình phạt chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giảm mức hình phạt đã tuyên",
+      "giảm một phần hình phạt"
+    ],
+    [
+      "giảm mức hình phạt đã tuyên",
+      "xét giảm"
+    ],
+    [
+      "hình phạt",
+      "mức hình phạt chung"
+    ],
+    [
+      "hành vi phạm tội mới ít nghiêm trọng do cố ý",
+      "xét giảm"
+    ],
+    [
+      "chấp hành được một phần hai mức hình phạt chung",
+      "xét giảm"
+    ]
+  ]
+}

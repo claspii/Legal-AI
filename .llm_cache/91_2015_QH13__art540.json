@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận tài sản",
+    "bên vận chuyển"
+  ],
+  "actions": [
+    "kiểm tra số lượng, chất lượng tài sản",
+    "nhận tài sản",
+    "yêu cầu thanh toán chi phí",
+    "giao tài sản",
+    "yêu cầu bồi thường thiệt hại",
+    "làm mất, hư hỏng tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận tài sản",
+      "kiểm tra số lượng, chất lượng tài sản"
+    ],
+    [
+      "bên nhận tài sản",
+      "nhận tài sản"
+    ],
+    [
+      "bên nhận tài sản",
+      "yêu cầu thanh toán chi phí"
+    ],
+    [
+      "bên vận chuyển",
+      "giao tài sản"
+    ],
+    [
+      "bên nhận tài sản",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên vận chuyển",
+      "làm mất, hư hỏng tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận tài sản",
+      "bên vận chuyển"
+    ],
+    [
+      "tài sản",
+      "chi phí"
+    ],
+    [
+      "tài sản",
+      "thiệt hại"
+    ],
+    [
+      "chi phí hợp lý",
+      "thanh toán chi phí hợp lý"
+    ],
+    [
+      "tài sản bị mất",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "tài sản hư hỏng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

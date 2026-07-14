@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "chính phủ"
+  ],
+  "actions": [
+    "áp dụng",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật",
+      "tập quán"
+    ],
+    [
+      "tập quán",
+      "hôn nhân và gia đình"
+    ]
+  ]
+}

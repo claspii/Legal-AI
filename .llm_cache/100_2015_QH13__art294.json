@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "cố ý gây nhiễu có hại",
+    "cản trở hoạt động bình thường của hệ thống thông tin vô tuyến điện",
+    "gây thiệt hại",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạm tội",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý gây nhiễu có hại"
+    ],
+    [
+      "người",
+      "cản trở hoạt động bình thường của hệ thống thông tin vô tuyến điện"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cố ý gây nhiễu có hại",
+      "thiệt hại"
+    ],
+    [
+      "cố ý gây nhiễu có hại",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "cố ý gây nhiễu có hại",
+      "kết án"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

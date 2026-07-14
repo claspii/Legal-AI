@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "dân quân tự vệ",
+    "lao động nữ",
+    "nhà nước",
+    "người quản lý doanh nghiệp",
+    "chủ sở hữu nhà nước",
+    "doanh nghiệp",
+    "hai bên"
+  ],
+  "actions": [
+    "tạm hoãn thực hiện hợp đồng lao động",
+    "thực hiện nghĩa vụ quân sự",
+    "tham gia dân quân tự vệ",
+    "bị tạm giữ",
+    "bị tạm giam",
+    "chấp hành quyết định",
+    "mang thai",
+    "bổ nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thực hiện nghĩa vụ quân sự"
+    ],
+    [
+      "người lao động",
+      "tham gia dân quân tự vệ"
+    ],
+    [
+      "người lao động",
+      "bị tạm giữ"
+    ],
+    [
+      "người lao động",
+      "bị tạm giam"
+    ],
+    [
+      "người lao động",
+      "chấp hành quyết định"
+    ],
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "bổ nhiệm"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "tạm hoãn"
+    ],
+    [
+      "người lao động",
+      "nghĩa vụ quân sự"
+    ],
+    [
+      "người lao động",
+      "dân quân tự vệ"
+    ],
+    [
+      "người lao động",
+      "bị tạm giữ"
+    ],
+    [
+      "người lao động",
+      "bị tạm giam"
+    ],
+    [
+      "người lao động",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "người quản lý doanh nghiệp"
+    ]
+  ]
+}

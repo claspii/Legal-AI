@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "miễn hình phạt",
+    "khắc phục hậu quả",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "miễn hình phạt"
+    ],
+    [
+      "pháp nhân thương mại",
+      "khắc phục toàn bộ hậu quả"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bồi thường toàn bộ thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn hình phạt",
+      "khắc phục toàn bộ hậu quả"
+    ],
+    [
+      "miễn hình phạt",
+      "bồi thường toàn bộ thiệt hại"
+    ],
+    [
+      "khắc phục toàn bộ hậu quả",
+      "bồi thường toàn bộ thiệt hại"
+    ]
+  ]
+}

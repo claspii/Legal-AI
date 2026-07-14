@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất trái phép"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhựa thuốc phiện",
+      "nhựa cần sa"
+    ],
+    [
+      "nhựa cần sa",
+      "cao côca"
+    ],
+    [
+      "hêrôin",
+      "côcain"
+    ],
+    [
+      "côcain",
+      "methamphetamine"
+    ],
+    [
+      "methamphetamine",
+      "amphetamine"
+    ],
+    [
+      "amphetamine",
+      "mdma"
+    ],
+    [
+      "chất ma túy ở thể rắn",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy ở thể lỏng",
+      "thể tích"
+    ]
+  ]
+}

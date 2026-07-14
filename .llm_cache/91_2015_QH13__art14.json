@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan có thẩm quyền khác",
+    "cá nhân",
+    "pháp nhân",
+    "trọng tài"
+  ],
+  "actions": [
+    "tôn trọng",
+    "bảo vệ",
+    "xâm phạm",
+    "giải quyết",
+    "xem xét lại",
+    "từ chối giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "tôn trọng"
+    ],
+    [
+      "cơ quan có thẩm quyền khác",
+      "tôn trọng"
+    ],
+    [
+      "tòa án",
+      "bảo vệ"
+    ],
+    [
+      "cơ quan có thẩm quyền khác",
+      "bảo vệ"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "trọng tài",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "xem xét lại"
+    ],
+    [
+      "tòa án",
+      "không được từ chối giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền dân sự",
+      "bảo vệ quyền dân sự"
+    ],
+    [
+      "tòa án",
+      "bảo vệ quyền dân sự"
+    ],
+    [
+      "cơ quan có thẩm quyền khác",
+      "bảo vệ quyền dân sự"
+    ],
+    [
+      "quyền dân sự bị xâm phạm",
+      "tranh chấp"
+    ],
+    [
+      "thủ tục hành chính",
+      "quyết định giải quyết vụ việc theo thủ tục hành chính"
+    ],
+    [
+      "vụ, việc dân sự",
+      "chưa có điều luật để áp dụng"
+    ]
+  ]
+}

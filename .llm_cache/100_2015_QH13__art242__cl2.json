@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại",
+    "gây thương tích",
+    "gây tổn hại",
+    "làm chết người"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nguồn lợi thủy sản",
+      "thủy sản thu được"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ]
+  ]
+}

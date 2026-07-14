@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "hợp đồng"
+  ],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác lập",
+    "thay đổi",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "thỏa thuận"
+    ],
+    [
+      "hợp đồng",
+      "quyền dân sự"
+    ],
+    [
+      "hợp đồng",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "quyền dân sự",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

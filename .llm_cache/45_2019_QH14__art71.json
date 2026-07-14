@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "các bên",
+    "tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "từ chối thương lượng",
+    "không tiến hành thương lượng",
+    "không đạt được thỏa thuận",
+    "xác định",
+    "tuyên bố",
+    "tiến hành thủ tục giải quyết tranh chấp lao động",
+    "không được tổ chức đình công"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "từ chối thương lượng"
+    ],
+    [
+      "một bên",
+      "không tiến hành thương lượng"
+    ],
+    [
+      "các bên",
+      "không đạt được thỏa thuận"
+    ],
+    [
+      "các bên",
+      "xác định"
+    ],
+    [
+      "các bên",
+      "tuyên bố"
+    ],
+    [
+      "các bên thương lượng",
+      "tiến hành thủ tục giải quyết tranh chấp lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "không được tổ chức đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể không thành",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "thương lượng tập thể không thành",
+      "không đạt được thỏa thuận"
+    ],
+    [
+      "giải quyết tranh chấp lao động",
+      "đình công"
+    ]
+  ]
+}

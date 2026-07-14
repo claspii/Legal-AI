@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba"
+  ],
+  "actions": [
+    "đăng ký",
+    "có hiệu lực",
+    "phát sinh hiệu lực đối kháng",
+    "thực hiện"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "biện pháp bảo đảm",
+      "đăng ký"
+    ],
+    [
+      "giao dịch bảo đảm",
+      "có hiệu lực"
+    ],
+    [
+      "biện pháp bảo đảm",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "thời điểm đăng ký",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "luật",
+      "quy định"
+    ]
+  ]
+}

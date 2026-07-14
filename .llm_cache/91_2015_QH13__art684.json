@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "xác lập hành vi pháp lý đơn phương",
+    "cư trú",
+    "được thành lập"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác lập hành vi pháp lý đơn phương"
+    ],
+    [
+      "pháp nhân",
+      "xác lập hành vi pháp lý đơn phương"
+    ],
+    [
+      "cá nhân",
+      "cư trú"
+    ],
+    [
+      "pháp nhân",
+      "được thành lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật áp dụng",
+      "hành vi pháp lý đơn phương"
+    ],
+    [
+      "cá nhân",
+      "nước nơi cá nhân cư trú"
+    ],
+    [
+      "pháp nhân",
+      "nước nơi pháp nhân được thành lập"
+    ]
+  ]
+}

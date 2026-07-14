@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bán",
+    "cá nhân",
+    "pháp nhân",
+    "người cung cấp dịch vụ",
+    "người nhận quyền",
+    "người lao động",
+    "người sử dụng lao động",
+    "người tiêu dùng"
+  ],
+  "actions": [
+    "cư trú",
+    "thành lập",
+    "thực hiện công việc"
+  ],
+  "actor_actions": [
+    [
+      "người bán",
+      "cư trú"
+    ],
+    [
+      "pháp nhân",
+      "thành lập"
+    ],
+    [
+      "người cung cấp dịch vụ",
+      "cư trú"
+    ],
+    [
+      "người nhận quyền",
+      "cư trú"
+    ],
+    [
+      "người lao động",
+      "thực hiện công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "cư trú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật của nước",
+      "mối liên hệ gắn bó nhất với hợp đồng"
+    ],
+    [
+      "hợp đồng mua bán hàng hóa",
+      "pháp luật của nước nơi người bán cư trú"
+    ],
+    [
+      "hợp đồng dịch vụ",
+      "pháp luật của nước nơi người cung cấp dịch vụ cư trú"
+    ],
+    [
+      "hợp đồng chuyển giao quyền sử dụng hoặc chuyển nhượng quyền sở hữu trí tuệ",
+      "pháp luật của nước nơi người nhận quyền cư trú"
+    ],
+    [
+      "hợp đồng lao động",
+      "pháp luật của nước nơi người lao động thường xuyên thực hiện công việc"
+    ],
+    [
+      "hợp đồng tiêu dùng",
+      "pháp luật của nước nơi người tiêu dùng cư trú"
+    ]
+  ]
+}

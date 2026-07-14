@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án nhân dân tối cao",
+    "viện kiểm sát nhân dân tối cao",
+    "bộ tư pháp"
+  ],
+  "actions": [
+    "chủ trì phối hợp",
+    "hướng dẫn"
+  ],
+  "actor_actions": [
+    [
+      "tòa án nhân dân tối cao",
+      "chủ trì phối hợp"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "hướng dẫn"
+    ]
+  ],
+  "related_concepts": []
+}

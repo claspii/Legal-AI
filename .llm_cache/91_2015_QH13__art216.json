@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung"
+  ],
+  "actions": [
+    "quản lý tài sản chung",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung",
+      "quản lý tài sản chung"
+    ],
+    [
+      "chủ sở hữu chung",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quản lý tài sản chung",
+      "nguyên tắc nhất trí"
+    ]
+  ]
+}

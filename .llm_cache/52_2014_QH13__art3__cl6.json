@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "kết hôn trái pháp luật"
+  ],
+  "actors": [
+    "nam",
+    "nữ",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "đăng ký kết hôn",
+    "vi phạm điều kiện kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "nam, nữ",
+      "đăng ký kết hôn"
+    ],
+    [
+      "một bên hoặc cả hai bên",
+      "vi phạm điều kiện kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn trái pháp luật",
+      "đăng ký kết hôn"
+    ],
+    [
+      "kết hôn trái pháp luật",
+      "vi phạm điều kiện kết hôn"
+    ],
+    [
+      "đăng ký kết hôn",
+      "cơ quan nhà nước có thẩm quyền"
+    ],
+    [
+      "điều kiện kết hôn",
+      "luật này"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người được giao tài sản"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "giao tài sản",
+    "chuyển quyền sở hữu",
+    "sử dụng tài sản",
+    "chuyển quyền chiếm hữu",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "giao tài sản"
+    ],
+    [
+      "người được giao tài sản",
+      "thực hiện việc chiếm hữu tài sản"
+    ],
+    [
+      "người được giao tài sản",
+      "sử dụng tài sản"
+    ],
+    [
+      "người được giao tài sản",
+      "chuyển quyền chiếm hữu"
+    ],
+    [
+      "người được giao tài sản",
+      "chuyển quyền sử dụng tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "sử dụng tài sản",
+      "tài sản"
+    ],
+    [
+      "quyền chiếm hữu",
+      "giao dịch dân sự"
+    ],
+    [
+      "chuyển quyền sở hữu",
+      "giao dịch dân sự"
+    ]
+  ]
+}

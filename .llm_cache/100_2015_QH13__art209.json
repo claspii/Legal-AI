@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà đầu tư",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "công bố thông tin sai lệch",
+    "che giấu thông tin",
+    "chào bán",
+    "niêm yết",
+    "giao dịch",
+    "kinh doanh chứng khoán",
+    "tổ chức thị trường",
+    "đăng ký",
+    "lưu ký",
+    "bù trừ",
+    "thanh toán chứng khoán",
+    "gây thiệt hại",
+    "thu lợi bất chính",
+    "xử phạt vi phạm hành chính",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "công bố thông tin sai lệch"
+    ],
+    [
+      "người",
+      "che giấu thông tin"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công bố thông tin sai lệch",
+      "che giấu thông tin"
+    ],
+    [
+      "chào bán",
+      "niêm yết"
+    ],
+    [
+      "giao dịch",
+      "kinh doanh chứng khoán"
+    ],
+    [
+      "tổ chức thị trường",
+      "đăng ký"
+    ],
+    [
+      "lưu ký",
+      "bù trừ"
+    ],
+    [
+      "bù trừ",
+      "thanh toán chứng khoán"
+    ],
+    [
+      "thiệt hại",
+      "thu lợi bất chính"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "nhà nước"
+  ],
+  "actions": [
+    "thu",
+    "xử phạt vi phạm hành chính",
+    "bồi thường",
+    "quy định",
+    "quyết định cho thuê đất",
+    "cho phép chuyển mục đích sử dụng đất",
+    "điều chỉnh"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "nhà nước",
+      "quyết định cho thuê đất"
+    ],
+    [
+      "nhà nước",
+      "cho phép chuyển mục đích sử dụng đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền sử dụng đất",
+      "tiền thuê đất"
+    ],
+    [
+      "tiền thuê đất",
+      "bảng giá đất"
+    ],
+    [
+      "tiền thuê đất",
+      "chu kỳ"
+    ],
+    [
+      "tiền sử dụng đất",
+      "ngân sách"
+    ],
+    [
+      "tiền thuê đất",
+      "ngân sách"
+    ],
+    [
+      "thuế sử dụng đất",
+      "thuế thu nhập từ chuyển quyền sử dụng đất"
+    ],
+    [
+      "chỉ số giá tiêu dùng",
+      "tiền thuê đất"
+    ]
+  ]
+}

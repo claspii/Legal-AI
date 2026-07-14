@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người mang thai hộ",
+    "chồng của người mang thai hộ",
+    "bên nhờ mang thai hộ",
+    "bộ y tế",
+    "tòa án"
+  ],
+  "actions": [
+    "chăm sóc sức khỏe sinh sản",
+    "chăm sóc, nuôi dưỡng con",
+    "giao đứa trẻ",
+    "thăm khám",
+    "yêu cầu",
+    "hỗ trợ",
+    "buộc nhận con"
+  ],
+  "actor_actions": [
+    [
+      "người mang thai hộ",
+      "chăm sóc sức khỏe sinh sản"
+    ],
+    [
+      "người mang thai hộ",
+      "chăm sóc, nuôi dưỡng con"
+    ],
+    [
+      "người mang thai hộ",
+      "giao đứa trẻ"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "chăm sóc sức khỏe sinh sản"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "chăm sóc, nuôi dưỡng con"
+    ],
+    [
+      "người mang thai hộ",
+      "tuân thủ quy định về thăm khám, các quy trình sàng lọc"
+    ],
+    [
+      "người mang thai hộ",
+      "được hưởng chế độ thai sản"
+    ],
+    [
+      "bên mang thai hộ",
+      "yêu cầu bên nhờ mang thai hộ thực hiện việc hỗ trợ, chăm sóc sức khỏe sinh sản"
+    ],
+    [
+      "người mang thai hộ",
+      "quyết định về số lượng bào thai"
+    ],
+    [
+      "người mang thai hộ",
+      "quyết định việc tiếp tục hay không tiếp tục mang thai"
+    ],
+    [
+      "bên mang thai hộ",
+      "yêu cầu tòa án buộc bên nhờ mang thai hộ nhận con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người mang thai hộ",
+      "bên nhờ mang thai hộ"
+    ],
+    [
+      "chế độ thai sản",
+      "pháp luật về lao động và bảo hiểm xã hội"
+    ],
+    [
+      "chăm sóc sức khỏe sinh sản",
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "số lượng bào thai",
+      "việc tiếp tục hay không tiếp tục mang thai"
+    ]
+  ]
+}

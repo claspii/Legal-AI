@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "bảo quản nguyên vật liệu",
+    "báo",
+    "đổi nguyên vật liệu",
+    "từ chối thực hiện gia công",
+    "giao sản phẩm",
+    "giữ bí mật thông tin",
+    "chịu trách nhiệm về chất lượng sản phẩm",
+    "hoàn trả nguyên vật liệu"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận gia công",
+      "bảo quản nguyên vật liệu"
+    ],
+    [
+      "bên nhận gia công",
+      "báo"
+    ],
+    [
+      "bên nhận gia công",
+      "từ chối thực hiện gia công"
+    ],
+    [
+      "bên nhận gia công",
+      "giao sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "giữ bí mật thông tin"
+    ],
+    [
+      "bên nhận gia công",
+      "chịu trách nhiệm về chất lượng sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "hoàn trả nguyên vật liệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nguyên vật liệu",
+      "bên đặt gia công"
+    ],
+    [
+      "nguyên vật liệu",
+      "bên nhận gia công"
+    ],
+    [
+      "sản phẩm",
+      "bên nhận gia công"
+    ],
+    [
+      "sản phẩm",
+      "bên đặt gia công"
+    ],
+    [
+      "chất lượng sản phẩm",
+      "nguyên vật liệu"
+    ],
+    [
+      "gia công",
+      "hợp đồng"
+    ]
+  ]
+}

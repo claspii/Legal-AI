@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [
+    "sở hữu chung"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sở hữu chung",
+      "sở hữu chung theo phần"
+    ],
+    [
+      "sở hữu chung",
+      "sở hữu chung hợp nhất"
+    ]
+  ]
+}

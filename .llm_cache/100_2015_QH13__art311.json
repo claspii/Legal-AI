@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "mua bán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất cháy",
+      "chất độc"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

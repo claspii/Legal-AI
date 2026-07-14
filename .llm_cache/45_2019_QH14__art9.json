@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [
+    "việc làm"
+  ],
+  "actors": [
+    "nhà nước",
+    "người sử dụng lao động",
+    "xã hội",
+    "mọi người"
+  ],
+  "actions": [
+    "tạo ra thu nhập",
+    "tham gia giải quyết việc làm",
+    "bảo đảm có cơ hội có việc làm"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "tham gia giải quyết việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham gia giải quyết việc làm"
+    ],
+    [
+      "xã hội",
+      "tham gia giải quyết việc làm"
+    ],
+    [
+      "nhà nước",
+      "bảo đảm có cơ hội có việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm có cơ hội có việc làm"
+    ],
+    [
+      "xã hội",
+      "bảo đảm có cơ hội có việc làm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "việc làm",
+      "thu nhập"
+    ],
+    [
+      "giải quyết việc làm",
+      "có cơ hội có việc làm"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án"
+  ],
+  "actions": [
+    "xóa án tích",
+    "bác đơn xin xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xin xóa án tích"
+    ],
+    [
+      "tòa án",
+      "bác đơn xin xóa án tích"
+    ]
+  ],
+  "related_concepts": []
+}

@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "cơ quan có thẩm quyền",
+    "các bên tranh chấp",
+    "hội đồng trọng tài lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "hòa giải",
+    "lập biên bản",
+    "chuyển hồ sơ, tài liệu",
+    "xem xét, xử lý",
+    "giải quyết tranh chấp",
+    "yêu cầu giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "lập biên bản"
+    ],
+    [
+      "hòa giải viên lao động",
+      "chuyển hồ sơ, tài liệu"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "xem xét, xử lý"
+    ],
+    [
+      "hòa giải viên lao động",
+      "tiến hành hòa giải"
+    ],
+    [
+      "các bên tranh chấp",
+      "lựa chọn phương thức"
+    ],
+    [
+      "các bên tranh chấp",
+      "yêu cầu hội đồng trọng tài lao động giải quyết"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết"
+    ],
+    [
+      "các bên tranh chấp",
+      "yêu cầu tòa án giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "hòa giải"
+    ],
+    [
+      "hòa giải không thành",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hòa giải",
+      "hòa giải viên lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "tòa án"
+    ]
+  ]
+}

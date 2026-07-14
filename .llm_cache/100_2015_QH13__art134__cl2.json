@@ -1,0 +1,18 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người lao động",
+    "người tiêu dùng"
+  ],
+  "actions": [
+    "lựa chọn",
+    "ảnh hưởng",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "lựa chọn"
+    ],
+    [
+      "pháp luật việt nam",
+      "áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng tiêu dùng",
+      "người tiêu dùng"
+    ],
+    [
+      "pháp luật việt nam",
+      "quyền lợi tối thiểu"
+    ]
+  ]
+}

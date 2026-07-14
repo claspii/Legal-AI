@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "người được lợi về tài sản",
+    "người bị thiệt hại"
+  ],
+  "actions": [
+    "hoàn trả",
+    "đền bù",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "hoàn trả"
+    ],
+    [
+      "người sử dụng tài sản",
+      "hoàn trả"
+    ],
+    [
+      "người được lợi về tài sản",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản hoàn trả",
+      "vật đặc định"
+    ],
+    [
+      "tài sản hoàn trả",
+      "vật cùng loại"
+    ],
+    [
+      "chiếm hữu tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "sử dụng tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "được lợi về tài sản",
+      "không có căn cứ pháp luật"
+    ]
+  ]
+}

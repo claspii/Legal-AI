@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại",
+    "sử dụng công cụ, phương tiện, biện pháp bị cấm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "phạt tù"
+    ],
+    [
+      "phạm tội",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "phạm tội",
+      "gây thiệt hại đến cảnh quan, hệ sinh thái tự nhiên"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "sử dụng công cụ, phương tiện, biện pháp bị cấm"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "tài sản",
+      "200.000.000 đồng"
+    ],
+    [
+      "phân khu bảo tồn nghiêm ngặt của khu bảo tồn thiên nhiên",
+      "tổng diện tích từ 500 mét vuông (m2) trở lên"
+    ]
+  ]
+}

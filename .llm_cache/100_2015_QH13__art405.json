@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sỹ quan"
+  ],
+  "actions": [
+    "chiếm đoạt",
+    "mua bán",
+    "tiêu hủy",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "tiêu hủy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt",
+      "tài liệu bí mật công tác quân sự"
+    ],
+    [
+      "mua bán",
+      "tài liệu bí mật công tác quân sự"
+    ],
+    [
+      "tiêu hủy",
+      "tài liệu bí mật công tác quân sự"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "phạt tù từ 03 năm đến 10 năm"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "phạt tù từ 03 năm đến 10 năm"
+    ],
+    [
+      "hậu quả đặc biệt nghiêm trọng",
+      "phạt tù từ 03 năm đến 10 năm"
+    ]
+  ]
+}

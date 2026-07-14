@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "lập di chúc miệng",
+    "bị đe dọa",
+    "còn sống",
+    "minh mẫn",
+    "sáng suốt",
+    "bị hủy bỏ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lập di chúc miệng"
+    ],
+    [
+      "tính mạng một người",
+      "bị cái chết đe dọa"
+    ],
+    [
+      "di chúc miệng",
+      "bị hủy bỏ"
+    ],
+    [
+      "người lập di chúc",
+      "còn sống"
+    ],
+    [
+      "người lập di chúc",
+      "minh mẫn"
+    ],
+    [
+      "người lập di chúc",
+      "sáng suốt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc miệng",
+      "tính mạng bị đe dọa"
+    ],
+    [
+      "di chúc miệng",
+      "di chúc bằng văn bản"
+    ],
+    [
+      "di chúc miệng",
+      "bị hủy bỏ"
+    ]
+  ]
+}

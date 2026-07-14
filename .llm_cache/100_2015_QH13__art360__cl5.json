@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm đảm nhiệm chức vụ",
+      "thời hạn từ 01 năm đến 05 năm"
+    ],
+    [
+      "cấm hành nghề",
+      "thời hạn từ 01 năm đến 05 năm"
+    ],
+    [
+      "làm công việc nhất định",
+      "thời hạn từ 01 năm đến 05 năm"
+    ]
+  ]
+}

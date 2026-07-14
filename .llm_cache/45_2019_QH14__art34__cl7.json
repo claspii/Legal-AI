@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "cá nhân",
+    "tòa án",
+    "cơ quan chuyên môn về đăng ký kinh doanh",
+    "ủy ban nhân dân cấp tỉnh",
+    "người đại diện theo pháp luật",
+    "người được ủy quyền"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "chết",
+    "tuyên bố mất năng lực hành vi dân sự",
+    "tuyên bố mất tích",
+    "chấm dứt hoạt động",
+    "ra thông báo"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chết"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất tích"
+    ],
+    [
+      "tòa án",
+      "tuyên bố đã chết"
+    ],
+    [
+      "người sử dụng lao động không phải là cá nhân",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh",
+      "ra thông báo không có người đại diện theo pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động là cá nhân",
+      "chết"
+    ],
+    [
+      "người sử dụng lao động là cá nhân",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "người sử dụng lao động là cá nhân",
+      "mất tích"
+    ],
+    [
+      "người sử dụng lao động không phải là cá nhân",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "người sử dụng lao động không phải là cá nhân",
+      "không có người đại diện theo pháp luật"
+    ]
+  ]
+}

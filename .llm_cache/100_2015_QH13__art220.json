@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "vi phạm quy định về quyết định chủ trương đầu tư",
+    "vi phạm quy định về lập, thẩm định chủ trương đầu tư",
+    "vi phạm quy định về quyết định đầu tư chương trình, dự án",
+    "vi phạm quy định về tư vấn, thiết kế chương trình, dự án",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "vi phạm quy định về quyết định chủ trương đầu tư"
+    ],
+    [
+      "người",
+      "vi phạm quy định về lập, thẩm định chủ trương đầu tư"
+    ],
+    [
+      "người",
+      "vi phạm quy định về quyết định đầu tư chương trình, dự án"
+    ],
+    [
+      "người",
+      "vi phạm quy định về tư vấn, thiết kế chương trình, dự án"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định của nhà nước về quản lý và sử dụng vốn đầu tư công",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "thiệt hại từ 100.000.000 đồng đến dưới 300.000.000 đồng",
+      "cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "thiệt hại dưới 100.000.000 đồng nhưng đã bị xử lý kỷ luật",
+      "cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "vì vụ lợi",
+      "phạt tù từ 03 năm đến 12 năm"
+    ],
+    [
+      "có tổ chức",
+      "phạt tù từ 03 năm đến 12 năm"
+    ],
+    [
+      "dùng thủ đoạn tinh vi, xảo quyệt",
+      "phạt tù từ 03 năm đến 12 năm"
+    ],
+    [
+      "thiệt hại từ 300.000.000 đồng đến dưới 1.000.000.000 đồng",
+      "phạt tù từ 03 năm đến 12 năm"
+    ],
+    [
+      "thiệt hại 1.000.000.000 đồng trở lên",
+      "phạt tù từ 10 năm đến 20 năm"
+    ]
+  ]
+}

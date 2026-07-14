@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu bất động sản",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "mắc đường dây tải điện",
+    "mắc đường dây thông tin liên lạc",
+    "bảo đảm an toàn",
+    "bảo đảm thuận tiện",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu bất động sản",
+      "mắc đường dây tải điện"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "mắc đường dây thông tin liên lạc"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "bảo đảm an toàn"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "bảo đảm thuận tiện"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "gây thiệt hại"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu bất động sản",
+      "bất động sản"
+    ],
+    [
+      "đường dây tải điện",
+      "bất động sản"
+    ],
+    [
+      "đường dây thông tin liên lạc",
+      "bất động sản"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ]
+  ]
+}

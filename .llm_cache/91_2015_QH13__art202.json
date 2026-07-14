@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "tổ chức chính trị",
+    "tổ chức chính trị - xã hội",
+    "tổ chức chính trị xã hội - nghề nghiệp",
+    "tổ chức xã hội",
+    "tổ chức xã hội - nghề nghiệp"
+  ],
+  "actions": [
+    "kiểm tra",
+    "giám sát",
+    "quản lý",
+    "sử dụng",
+    "giao"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thực hiện quyền kiểm tra"
+    ],
+    [
+      "nhà nước",
+      "giám sát việc quản lý"
+    ],
+    [
+      "nhà nước",
+      "giám sát việc sử dụng"
+    ],
+    [
+      "tổ chức chính trị",
+      "thực hiện việc quản lý"
+    ],
+    [
+      "tổ chức chính trị",
+      "sử dụng tài sản"
+    ],
+    [
+      "nhà nước",
+      "giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu toàn dân",
+      "tài sản"
+    ],
+    [
+      "quản lý",
+      "sử dụng"
+    ]
+  ]
+}

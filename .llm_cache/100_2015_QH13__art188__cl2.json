@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạm tội",
+    "thu lợi bất chính",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "tổ chức"
+    ],
+    [
+      "phạm tội",
+      "tính chất chuyên nghiệp"
+    ],
+    [
+      "phạm tội",
+      "vật phạm pháp"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "bảo vật quốc gia"
+    ],
+    [
+      "phạm tội",
+      "chức vụ, quyền hạn"
+    ],
+    [
+      "phạm tội",
+      "danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

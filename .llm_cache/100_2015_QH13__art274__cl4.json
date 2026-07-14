@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường thủy"
+  ],
+  "actions": [
+    "cho phép đưa vào sử dụng phương tiện giao thông đường thủy không bảo đảm an toàn",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "còn vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của phương tiện giao thông đường thủy",
+      "cho phép đưa vào sử dụng phương tiện giao thông đường thủy không bảo đảm an toàn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường thủy",
+      "không bảo đảm an toàn"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "bị xử lý kỷ luật",
+      "hành vi này"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "hành vi này"
+    ],
+    [
+      "bị kết án",
+      "tội này"
+    ],
+    [
+      "chưa được xóa án tích",
+      "còn vi phạm"
+    ]
+  ]
+}

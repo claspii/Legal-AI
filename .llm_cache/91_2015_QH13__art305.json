@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận bảo đảm",
+    "bên bảo đảm"
+  ],
+  "actions": [
+    "nhận chính tài sản bảo đảm",
+    "thay thế cho việc thực hiện nghĩa vụ",
+    "thỏa thuận",
+    "xác lập giao dịch bảo đảm",
+    "đồng ý bằng văn bản",
+    "thanh toán số tiền chênh lệch",
+    "thực hiện các thủ tục chuyển quyền sở hữu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận bảo đảm",
+      "được quyền nhận chính tài sản bảo đảm để thay thế cho việc thực hiện nghĩa vụ"
+    ],
+    [
+      "bên bảo đảm",
+      "đồng ý bằng văn bản"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "thanh toán số tiền chênh lệch"
+    ],
+    [
+      "bên bảo đảm",
+      "có nghĩa vụ thực hiện các thủ tục chuyển quyền sở hữu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bảo đảm",
+      "nghĩa vụ của bên bảo đảm"
+    ],
+    [
+      "giá trị của tài sản bảo đảm",
+      "giá trị của nghĩa vụ được bảo đảm"
+    ],
+    [
+      "nghĩa vụ chưa được thanh toán",
+      "nghĩa vụ không có bảo đảm"
+    ]
+  ]
+}

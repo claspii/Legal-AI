@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "bù trừ",
+    "bồi thường",
+    "xâm phạm",
+    "cấp dưỡng"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "bù trừ"
+    ],
+    [
+      "nghĩa vụ",
+      "tranh chấp"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "nghĩa vụ",
+      "cấp dưỡng"
+    ],
+    [
+      "thiệt hại",
+      "tính mạng"
+    ],
+    [
+      "thiệt hại",
+      "sức khỏe"
+    ],
+    [
+      "thiệt hại",
+      "danh dự"
+    ],
+    [
+      "thiệt hại",
+      "nhân phẩm"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán"
+  ],
+  "actions": [
+    "hưởng một nửa số gia súc sinh ra",
+    "chịu một nửa thiệt hại về gia súc thuê khoán"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "hưởng một nửa số gia súc sinh ra"
+    ],
+    [
+      "bên thuê khoán",
+      "chịu một nửa thiệt hại về gia súc thuê khoán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thuê khoán gia súc",
+      "gia súc sinh ra"
+    ],
+    [
+      "thuê khoán gia súc",
+      "thiệt hại về gia súc thuê khoán"
+    ],
+    [
+      "gia súc sinh ra",
+      "thiệt hại về gia súc thuê khoán"
+    ]
+  ]
+}

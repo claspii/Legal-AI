@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [
+    "tài sản công thuộc sở hữu toàn dân"
+  ],
+  "actors": [
+    "nhà nước"
+  ],
+  "actions": [
+    "đại diện chủ sở hữu",
+    "thống nhất quản lý"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "đại diện chủ sở hữu"
+    ],
+    [
+      "nhà nước",
+      "thống nhất quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "tài sản công"
+    ],
+    [
+      "tài sản công",
+      "sở hữu toàn dân"
+    ],
+    [
+      "đất đai",
+      "tài sản công thuộc sở hữu toàn dân"
+    ],
+    [
+      "tài nguyên nước",
+      "tài sản công thuộc sở hữu toàn dân"
+    ],
+    [
+      "tài nguyên khoáng sản",
+      "tài sản công thuộc sở hữu toàn dân"
+    ],
+    [
+      "nguồn lợi ở vùng biển, vùng trời",
+      "tài sản công thuộc sở hữu toàn dân"
+    ],
+    [
+      "tài nguyên thiên nhiên khác",
+      "tài sản công thuộc sở hữu toàn dân"
+    ],
+    [
+      "các tài sản do nhà nước đầu tư, quản lý",
+      "tài sản công thuộc sở hữu toàn dân"
+    ]
+  ]
+}

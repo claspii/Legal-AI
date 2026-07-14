@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án"
+  ],
+  "actions": [
+    "giảm mức hình phạt đã tuyên",
+    "thực hiện hành vi phạm tội mới",
+    "xét giảm",
+    "chấp hành mức hình phạt",
+    "chấp hành án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ],
+    [
+      "người",
+      "chấp hành mức hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giảm mức hình phạt đã tuyên",
+      "xét giảm"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "nghiêm trọng"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "rất nghiêm trọng"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "đặc biệt nghiêm trọng"
+    ],
+    [
+      "mức hình phạt chung",
+      "hai phần ba mức hình phạt chung"
+    ],
+    [
+      "hình phạt chung",
+      "tù chung thân"
+    ]
+  ]
+}

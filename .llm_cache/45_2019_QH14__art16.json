@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "cung cấp thông tin",
+    "giao kết hợp đồng lao động",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "cung cấp thông tin"
+    ],
+    [
+      "người lao động",
+      "cung cấp thông tin"
+    ],
+    [
+      "người lao động",
+      "yêu cầu"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "công việc",
+      "thông tin"
+    ],
+    [
+      "tiền lương",
+      "thông tin"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "thông tin"
+    ],
+    [
+      "tình trạng sức khỏe",
+      "thông tin"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người phát hiện",
+    "cơ quan",
+    "tổ chức",
+    "cơ sở khám bệnh, chữa bệnh",
+    "người có thẩm quyền của cơ sở khám bệnh, chữa bệnh",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "bị tước đoạt tính mạng trái luật",
+    "yêu cầu",
+    "thực hiện việc khám bệnh, chữa bệnh",
+    "gây mê",
+    "mổ",
+    "cắt bỏ"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quyền sống"
+    ],
+    [
+      "người phát hiện",
+      "có trách nhiệm đưa đến cơ sở khám bệnh, chữa bệnh"
+    ],
+    [
+      "người phát hiện",
+      "yêu cầu đưa đến cơ sở khám bệnh, chữa bệnh"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh",
+      "có trách nhiệm thực hiện việc khám bệnh, chữa bệnh"
+    ],
+    [
+      "tổ chức có thẩm quyền",
+      "thực hiện việc gây mê, mổ, cắt bỏ, cấy ghép mô, bộ phận cơ thể người"
+    ],
+    [
+      "người có thẩm quyền của cơ sở khám bệnh, chữa bệnh",
+      "có quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sống",
+      "quyền bất khả xâm phạm về tính mạng"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "thân thể"
+    ],
+    [
+      "khám bệnh",
+      "chữa bệnh"
+    ],
+    [
+      "gây mê",
+      "mổ"
+    ],
+    [
+      "cắt bỏ",
+      "cấy ghép mô"
+    ]
+  ]
+}

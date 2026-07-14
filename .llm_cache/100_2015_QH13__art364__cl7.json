@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị ép buộc đưa hối lộ",
+    "người đưa hối lộ"
+  ],
+  "actions": [
+    "đưa hối lộ",
+    "khai báo",
+    "bị phát giác",
+    "có tội",
+    "trả lại",
+    "miễn trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người bị ép buộc đưa hối lộ",
+      "đưa hối lộ"
+    ],
+    [
+      "người bị ép buộc đưa hối lộ",
+      "khai báo"
+    ],
+    [
+      "người đưa hối lộ",
+      "đưa hối lộ"
+    ],
+    [
+      "người đưa hối lộ",
+      "khai báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị ép buộc đưa hối lộ",
+      "không có tội"
+    ],
+    [
+      "người bị ép buộc đưa hối lộ",
+      "trả lại toàn bộ của đã dùng để đưa hối lộ"
+    ],
+    [
+      "người đưa hối lộ",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người đưa hối lộ",
+      "trả lại một phần hoặc toàn bộ của đã dùng để đưa hối lộ"
+    ],
+    [
+      "chủ động khai báo trước khi bị phát giác",
+      "không có tội"
+    ],
+    [
+      "chủ động khai báo trước khi bị phát giác",
+      "miễn trách nhiệm hình sự"
+    ]
+  ]
+}

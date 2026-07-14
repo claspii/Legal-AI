@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "pháp nhân thương mại phạm tội"
+  ],
+  "actions": [
+    "quyết định áp dụng biện pháp tư pháp",
+    "khôi phục lại tình trạng ban đầu",
+    "gây ra"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định áp dụng biện pháp tư pháp"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khôi phục lại tình trạng ban đầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "biện pháp tư pháp",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khôi phục lại tình trạng ban đầu"
+    ]
+  ]
+}

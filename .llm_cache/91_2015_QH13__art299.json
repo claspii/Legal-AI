@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "các bên"
+  ],
+  "actions": [
+    "xử lý tài sản bảo đảm",
+    "thực hiện nghĩa vụ được bảo đảm",
+    "vi phạm nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ được bảo đảm"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bảo đảm",
+      "nghĩa vụ được bảo đảm"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "nghĩa vụ được bảo đảm"
+    ],
+    [
+      "thỏa thuận",
+      "luật"
+    ]
+  ]
+}

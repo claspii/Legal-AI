@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [
+    "giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+  ],
+  "actors": [
+    "nhà nước",
+    "bộ trưởng bộ tài nguyên và môi trường",
+    "người có quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+    "người sử dụng đất, chủ sở hữu tài sản gắn liền với đất"
+  ],
+  "actions": [
+    "xác nhận",
+    "ban hành",
+    "áp dụng",
+    "đăng ký",
+    "cấp"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "xác nhận"
+    ],
+    [
+      "nhà nước",
+      "cấp"
+    ],
+    [
+      "bộ trưởng bộ tài nguyên và môi trường",
+      "ban hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sử dụng đất",
+      "quyền sở hữu tài sản gắn liền với đất"
+    ],
+    [
+      "giấy chứng nhận quyền sử dụng đất",
+      "giấy chứng nhận quyền sở hữu tài sản gắn liền với đất"
+    ],
+    [
+      "tài sản gắn liền với đất",
+      "đăng ký"
+    ],
+    [
+      "giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+      "chứng thư pháp lý"
+    ]
+  ]
+}

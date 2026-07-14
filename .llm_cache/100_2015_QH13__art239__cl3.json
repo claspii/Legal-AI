@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "đưa chất thải vào lãnh thổ việt nam",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "khối lượng"
+    ],
+    [
+      "chất hữu cơ khó phân hủy",
+      "khối lượng"
+    ],
+    [
+      "chất thải khác",
+      "khối lượng"
+    ],
+    [
+      "chất thải nguy hại",
+      "chất hữu cơ khó phân hủy"
+    ]
+  ]
+}

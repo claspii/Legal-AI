@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao kết",
+    "đăng ký",
+    "có hiệu lực"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hợp đồng thế chấp tài sản",
+      "thời điểm giao kết"
+    ],
+    [
+      "thế chấp tài sản",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "hiệu lực đối kháng với người thứ ba",
+      "thời điểm đăng ký"
+    ]
+  ]
+}

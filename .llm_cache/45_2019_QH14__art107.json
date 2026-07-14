@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [
+    "thời gian làm thêm giờ"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "chính phủ"
+  ],
+  "actions": [
+    "làm thêm giờ",
+    "sử dụng người lao động",
+    "đồng ý",
+    "bảo đảm",
+    "thông báo",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động làm thêm giờ"
+    ],
+    [
+      "người lao động",
+      "đồng ý"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm số giờ làm thêm"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian làm thêm giờ",
+      "thời giờ làm việc bình thường"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "làm thêm giờ",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "làm thêm giờ",
+      "nội quy lao động"
+    ],
+    [
+      "số giờ làm thêm",
+      "thời giờ làm việc bình thường"
+    ]
+  ]
+}

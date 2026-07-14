@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [
+    "đình chỉ hoạt động có thời hạn"
+  ],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "tạm dừng hoạt động",
+    "phạm tội",
+    "gây thiệt hại",
+    "khắc phục"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình chỉ hoạt động có thời hạn",
+      "pháp nhân thương mại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe con người"
+    ],
+    [
+      "môi trường",
+      "an ninh"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ]
+  ]
+}

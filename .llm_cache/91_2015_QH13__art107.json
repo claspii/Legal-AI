@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [
+    "bất động sản",
+    "động sản"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "bất động sản",
+      "đất đai"
+    ],
+    [
+      "bất động sản",
+      "nhà, công trình xây dựng gắn liền với đất đai"
+    ],
+    [
+      "bất động sản",
+      "tài sản khác gắn liền với đất đai, nhà, công trình xây dựng"
+    ],
+    [
+      "bất động sản",
+      "tài sản khác theo quy định của pháp luật"
+    ],
+    [
+      "bất động sản",
+      "động sản"
+    ]
+  ]
+}

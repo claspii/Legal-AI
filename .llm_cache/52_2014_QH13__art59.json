@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án",
+    "Tòa án nhân dân tối cao",
+    "Viện kiểm sát nhân dân tối cao",
+    "Bộ Tư pháp",
+    "con chưa thành niên",
+    "con đã thành niên mất năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giải quyết",
+    "chia đôi",
+    "bảo vệ lợi ích chính đáng",
+    "thanh toán",
+    "chủ trì phối hợp",
+    "hướng dẫn"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "chủ trì phối hợp"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "hướng dẫn"
+    ],
+    [
+      "bên nào nhận phần tài sản bằng hiện vật có giá trị lớn hơn phần mình được hưởng",
+      "phải thanh toán cho bên kia phần chênh lệch"
+    ],
+    [
+      "vợ, chồng",
+      "có yêu cầu về chia tài sản"
+    ],
+    [
+      "vợ, chồng",
+      "có thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng theo luật định",
+      "giải quyết tài sản"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo thỏa thuận",
+      "giải quyết tài sản"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "chia đôi"
+    ],
+    [
+      "tài sản riêng của vợ, chồng",
+      "quyền sở hữu của người đó"
+    ],
+    [
+      "tài sản riêng",
+      "sự sáp nhập, trộn lẫn với tài sản chung"
+    ],
+    [
+      "vợ, con chưa thành niên",
+      "bảo vệ quyền, lợi ích hợp pháp"
+    ],
+    [
+      "con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình",
+      "bảo vệ quyền, lợi ích hợp pháp"
+    ]
+  ]
+}

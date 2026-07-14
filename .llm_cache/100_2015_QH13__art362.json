@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "người khác"
+  ],
+  "actions": [
+    "vô ý làm lộ bí mật công tác",
+    "làm mất tài liệu bí mật công tác",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vô ý làm lộ bí mật công tác"
+    ],
+    [
+      "người",
+      "làm mất tài liệu bí mật công tác"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người khác",
+      "sử dụng thực hiện tội phạm ít nghiêm trọng"
+    ],
+    [
+      "người khác",
+      "sử dụng thực hiện tội phạm nghiêm trọng"
+    ],
+    [
+      "người khác",
+      "sử dụng thực hiện tội phạm rất nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vô ý làm lộ bí mật công tác",
+      "tội vô ý làm lộ bí mật công tác"
+    ],
+    [
+      "làm mất tài liệu bí mật công tác",
+      "tội làm mất tài liệu bí mật công tác"
+    ],
+    [
+      "bí mật công tác",
+      "tài liệu bí mật công tác"
+    ],
+    [
+      "gây ảnh hưởng xấu đến hoạt động của cơ quan, tổ chức",
+      "phạt cảnh cáo"
+    ],
+    [
+      "gây ảnh hưởng xấu đến hoạt động của cơ quan, tổ chức",
+      "phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng",
+      "phạt cảnh cáo"
+    ],
+    [
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng",
+      "phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "để người khác sử dụng thực hiện tội phạm ít nghiêm trọng hoặc tội phạm nghiêm trọng",
+      "phạt cảnh cáo"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "chủ thể",
+    "cơ quan",
+    "tổ chức",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "tự bảo vệ",
+    "yêu cầu",
+    "công nhận",
+    "tôn trọng",
+    "bảo vệ",
+    "bảo đảm",
+    "chấm dứt hành vi xâm phạm",
+    "xin lỗi"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "tự bảo vệ"
+    ],
+    [
+      "chủ thể",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan",
+      "công nhận"
+    ],
+    [
+      "tổ chức",
+      "tôn trọng"
+    ],
+    [
+      "người có thẩm quyền",
+      "bảo vệ"
+    ],
+    [
+      "cơ quan",
+      "buộc chấm dứt hành vi xâm phạm"
+    ],
+    [
+      "tổ chức",
+      "buộc xin lỗi"
+    ],
+    [
+      "người có thẩm quyền",
+      "buộc bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền dân sự",
+      "xâm phạm"
+    ],
+    [
+      "cá nhân",
+      "quyền dân sự"
+    ],
+    [
+      "pháp nhân",
+      "quyền dân sự"
+    ],
+    [
+      "hành vi xâm phạm",
+      "chấm dứt"
+    ],
+    [
+      "quyết định cá biệt",
+      "trái pháp luật"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "nghĩa vụ",
+      "thực hiện"
+    ]
+  ]
+}

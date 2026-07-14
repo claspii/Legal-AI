@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "thương binh",
+    "tử sĩ",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "cố ý bỏ thương binh",
+    "cố ý bỏ tử sĩ",
+    "không chăm sóc thương binh",
+    "không cứu chữa thương binh",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý bỏ thương binh"
+    ],
+    [
+      "người",
+      "cố ý bỏ tử sĩ"
+    ],
+    [
+      "người",
+      "không chăm sóc thương binh"
+    ],
+    [
+      "người",
+      "không cứu chữa thương binh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương binh",
+      "tử sĩ"
+    ],
+    [
+      "chỉ huy",
+      "sĩ quan"
+    ],
+    [
+      "bị phạt cải tạo không giam giữ",
+      "bị phạt tù"
+    ]
+  ]
+}

@@ -11,8 +11,8 @@ ENV/
 __pycache__/
 *.pyc
 .pytest_cache/
-.llm_cache/
 logs/
+
 *.log
 
 # Private key and credential files (do not commit)

@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "chủ sở hữu",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "trưng mua tài sản",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "trưng mua tài sản"
+    ],
+    [
+      "quyền sở hữu đối với tài sản của chủ sở hữu đó",
+      "chấm dứt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bị trưng mua",
+      "quyền sở hữu"
+    ],
+    [
+      "trưng mua tài sản",
+      "quyết định của cơ quan nhà nước có thẩm quyền"
+    ]
+  ]
+}

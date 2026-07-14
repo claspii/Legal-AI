@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người còn sống",
+    "một người",
+    "tòa án",
+    "người khác",
+    "người đang là vợ hoặc chồng của một người"
+  ],
+  "actions": [
+    "chia tài sản chung",
+    "kết hôn",
+    "chết",
+    "thừa kế di sản",
+    "xin ly hôn",
+    "cho ly hôn"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "chia tài sản chung"
+    ],
+    [
+      "một người",
+      "chết"
+    ],
+    [
+      "người còn sống",
+      "thừa kế di sản"
+    ],
+    [
+      "vợ, chồng",
+      "xin ly hôn"
+    ],
+    [
+      "tòa án",
+      "cho ly hôn"
+    ],
+    [
+      "người đang là vợ hoặc chồng của một người",
+      "kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "chia tài sản chung",
+      "hôn nhân"
+    ],
+    [
+      "chết",
+      "di sản"
+    ],
+    [
+      "ly hôn",
+      "thừa kế di sản"
+    ]
+  ]
+}

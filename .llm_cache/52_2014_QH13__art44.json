@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người có tài sản",
+    "bên kia",
+    "gia đình"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "nhập tài sản",
+    "quản lý tài sản",
+    "ủy quyền",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chiếm hữu"
+    ],
+    [
+      "chồng",
+      "chiếm hữu"
+    ],
+    [
+      "vợ",
+      "sử dụng"
+    ],
+    [
+      "chồng",
+      "sử dụng"
+    ],
+    [
+      "vợ",
+      "định đoạt"
+    ],
+    [
+      "chồng",
+      "định đoạt"
+    ],
+    [
+      "bên kia",
+      "quản lý tài sản"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản của mỗi người",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "tài sản riêng"
+    ],
+    [
+      "chồng",
+      "tài sản riêng"
+    ],
+    [
+      "tài sản riêng",
+      "tài sản chung"
+    ],
+    [
+      "tài sản riêng",
+      "hoa lợi"
+    ],
+    [
+      "tài sản riêng",
+      "lợi tức"
+    ],
+    [
+      "người có tài sản",
+      "lợi ích"
+    ]
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị xử phạt tù",
+    "phụ nữ",
+    "người lao động duy nhất",
+    "gia đình",
+    "tòa án",
+    "người được hoãn chấp hành hình phạt"
+  ],
+  "actions": [
+    "hoãn chấp hành hình phạt tù",
+    "nuôi con",
+    "chấp hành hình phạt tù",
+    "bị kết án",
+    "thực hiện hành vi phạm tội mới",
+    "buộc chấp hành hình phạt",
+    "tổng hợp hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người bị xử phạt tù",
+      "hoãn chấp hành hình phạt tù"
+    ],
+    [
+      "phụ nữ",
+      "nuôi con"
+    ],
+    [
+      "người lao động duy nhất",
+      "chấp hành hình phạt tù"
+    ],
+    [
+      "người lao động duy nhất",
+      "bị kết án"
+    ],
+    [
+      "người được hoãn chấp hành hình phạt",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "buộc chấp hành hình phạt"
+    ],
+    [
+      "tòa án",
+      "tổng hợp hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoãn chấp hành hình phạt tù",
+      "bị bệnh nặng"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "phụ nữ có thai"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "nuôi con dưới 36 tháng tuổi"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "người lao động duy nhất trong gia đình"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "gia đình gặp khó khăn đặc biệt"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "bị kết án về tội phạm ít nghiêm trọng"
+    ],
+    [
+      "hoãn chấp hành hình phạt tù",
+      "nhu cầu công vụ"
+    ],
+    [
+      "thực hiện hành vi phạm tội mới",
+      "tổng hợp hình phạt"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị",
+    "các bên"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "nhận được chấp nhận giao kết",
+    "có thỏa thuận im lặng là sự trả lời chấp nhận giao kết hợp đồng",
+    "đã thỏa thuận về nội dung của hợp đồng",
+    "ký vào văn bản",
+    "chấp nhận khác được thể hiện trên văn bản",
+    "xác lập bằng văn bản"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị",
+      "nhận được chấp nhận giao kết"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận im lặng là sự trả lời chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "các bên",
+      "đã thỏa thuận về nội dung của hợp đồng"
+    ],
+    [
+      "bên sau cùng",
+      "ký vào văn bản"
+    ],
+    [
+      "bên sau cùng",
+      "chấp nhận khác được thể hiện trên văn bản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời điểm giao kết hợp đồng",
+      "chấp nhận giao kết"
+    ],
+    [
+      "thời điểm giao kết hợp đồng",
+      "thỏa thuận im lặng là sự trả lời chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "thời điểm giao kết hợp đồng bằng lời nói",
+      "nội dung của hợp đồng"
+    ],
+    [
+      "thời điểm giao kết hợp đồng bằng văn bản",
+      "ký vào văn bản"
+    ],
+    [
+      "thời điểm giao kết hợp đồng",
+      "hợp đồng giao kết bằng lời nói và sau đó được xác lập bằng văn bản"
+    ]
+  ]
+}

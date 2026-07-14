@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có công với cách mạng",
+    "doanh nghiệp",
+    "tổ chức khác"
+  ],
+  "actions": [
+    "lạm dụng chức vụ, quyền hạn",
+    "chiếm đoạt tài sản",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị kết án",
+    "gây thiệt hại về tài sản",
+    "bị phá sản",
+    "ngừng hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lạm dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "doanh nghiệp",
+      "bị phá sản"
+    ],
+    [
+      "tổ chức khác",
+      "ngừng hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "chức vụ",
+      "tài sản"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trị giá"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ],
+    [
+      "thiệt hại",
+      "doanh nghiệp"
+    ],
+    [
+      "thiệt hại",
+      "tổ chức khác"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "xử lý kỷ luật",
+      "vi phạm"
+    ]
+  ]
+}

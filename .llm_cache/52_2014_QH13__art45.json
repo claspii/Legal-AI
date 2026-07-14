@@ -1,0 +1,113 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "mỗi bên vợ",
+    "mỗi bên chồng"
+  ],
+  "actions": [
+    "kết hôn",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "bảo quản",
+    "duy trì",
+    "tu sửa",
+    "xác lập",
+    "thực hiện",
+    "vi phạm pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "kết hôn"
+    ],
+    [
+      "chồng",
+      "kết hôn"
+    ],
+    [
+      "mỗi bên vợ",
+      "chiếm hữu"
+    ],
+    [
+      "mỗi bên vợ",
+      "sử dụng"
+    ],
+    [
+      "mỗi bên vợ",
+      "định đoạt"
+    ],
+    [
+      "mỗi bên vợ",
+      "xác lập"
+    ],
+    [
+      "mỗi bên vợ",
+      "thực hiện"
+    ],
+    [
+      "mỗi bên vợ",
+      "vi phạm pháp luật"
+    ],
+    [
+      "mỗi bên chồng",
+      "chiếm hữu"
+    ],
+    [
+      "mỗi bên chồng",
+      "sử dụng"
+    ],
+    [
+      "mỗi bên chồng",
+      "định đoạt"
+    ],
+    [
+      "mỗi bên chồng",
+      "xác lập"
+    ],
+    [
+      "mỗi bên chồng",
+      "thực hiện"
+    ],
+    [
+      "mỗi bên chồng",
+      "vi phạm pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "tài sản riêng"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "kết hôn"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "chiếm hữu"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "sử dụng"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "định đoạt"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "giao dịch"
+    ],
+    [
+      "nghĩa vụ riêng về tài sản",
+      "vi phạm pháp luật"
+    ]
+  ]
+}

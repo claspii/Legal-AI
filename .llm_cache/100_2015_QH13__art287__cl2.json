@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "cản trở",
+    "gây rối loạn",
+    "phạm tội",
+    "có tổ chức",
+    "lợi dụng quyền quản trị",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm tê liệt, gián đoạn, ngưng trệ hoạt động",
+    "làm đình trệ hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng quyền quản trị"
+    ],
+    [
+      "người phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "người phạm tội",
+      "gây thiệt hại"
+    ],
+    [
+      "người phạm tội",
+      "làm tê liệt, gián đoạn, ngưng trệ hoạt động"
+    ],
+    [
+      "người phạm tội",
+      "làm đình trệ hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ],
+    [
+      "tê liệt",
+      "gián đoạn"
+    ],
+    [
+      "gián đoạn",
+      "ngưng trệ"
+    ],
+    [
+      "làm đình trệ hoạt động",
+      "cơ quan"
+    ],
+    [
+      "làm đình trệ hoạt động",
+      "tổ chức"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "làm",
+    "tàng trữ",
+    "vận chuyển",
+    "lưu hành tiền giả",
+    "phạt tù",
+    "phạt cải tạo không giam giữ",
+    "phạt tiền",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "lưu hành tiền giả"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm tiền giả",
+      "tàng trữ tiền giả"
+    ],
+    [
+      "làm tiền giả",
+      "vận chuyển tiền giả"
+    ],
+    [
+      "làm tiền giả",
+      "lưu hành tiền giả"
+    ],
+    [
+      "tiền giả có trị giá tương ứng từ 5.000.000 đồng đến dưới 50.000.000 đồng",
+      "phạt tù từ 05 năm đến 12 năm"
+    ],
+    [
+      "tiền giả có trị giá tương ứng từ 50.000.000 đồng trở lên",
+      "phạt tù từ 10 năm đến 20 năm hoặc tù chung thân"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 03 năm"
+    ]
+  ]
+}

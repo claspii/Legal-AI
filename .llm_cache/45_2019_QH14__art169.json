@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "lao động nam",
+    "lao động nữ",
+    "chính phủ"
+  ],
+  "actions": [
+    "đóng bảo hiểm xã hội",
+    "hưởng lương hưu",
+    "điều chỉnh",
+    "tăng thêm",
+    "nghỉ hưu",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đóng bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "hưởng lương hưu"
+    ],
+    [
+      "người lao động",
+      "nghỉ hưu"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "thời gian đóng bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "tuổi nghỉ hưu"
+    ],
+    [
+      "tuổi nghỉ hưu",
+      "lao động nam"
+    ],
+    [
+      "tuổi nghỉ hưu",
+      "lao động nữ"
+    ],
+    [
+      "người lao động",
+      "lương hưu"
+    ],
+    [
+      "người lao động",
+      "khả năng lao động"
+    ],
+    [
+      "nghề, công việc",
+      "đặc biệt nặng nhọc, độc hại, nguy hiểm"
+    ],
+    [
+      "trình độ chuyên môn, kỹ thuật",
+      "cao"
+    ]
+  ]
+}

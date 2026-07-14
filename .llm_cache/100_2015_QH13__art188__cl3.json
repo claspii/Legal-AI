@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "buôn lậu",
+    "bị phạt tiền",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "vật phạm pháp trị giá",
+      "thu lợi bất chính"
+    ]
+  ]
+}

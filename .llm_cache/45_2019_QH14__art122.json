@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "luật sư",
+    "người đại diện theo pháp luật",
+    "chính phủ",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "chứng minh",
+    "bào chữa",
+    "ghi thành biên bản",
+    "áp dụng",
+    "xử lý kỷ luật lao động",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chứng minh lỗi của người lao động"
+    ],
+    [
+      "người lao động",
+      "tự bào chữa"
+    ],
+    [
+      "người lao động",
+      "nhờ luật sư bào chữa"
+    ],
+    [
+      "người lao động",
+      "nhờ tổ chức đại diện người lao động bào chữa"
+    ],
+    [
+      "chính phủ",
+      "quy định trình tự, thủ tục xử lý kỷ luật lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "không xử lý kỷ luật lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "trách nhiệm vật chất"
+    ],
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "hành vi vi phạm kỷ luật lao động",
+      "hình thức kỷ luật"
+    ]
+  ]
+}

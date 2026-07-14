@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [
+    "cố ý phạm tội"
+  ],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạm tội",
+    "nhận thức rõ hành vi",
+    "thấy trước hậu quả",
+    "mong muốn hậu quả xảy ra",
+    "để mặc cho hậu quả xảy ra"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "nhận thức rõ hành vi của mình là nguy hiểm cho xã hội"
+    ],
+    [
+      "người phạm tội",
+      "thấy trước hậu quả của hành vi đó"
+    ],
+    [
+      "người phạm tội",
+      "mong muốn hậu quả xảy ra"
+    ],
+    [
+      "người phạm tội",
+      "có ý thức để mặc cho hậu quả xảy ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi",
+      "nguy hiểm cho xã hội"
+    ],
+    [
+      "hành vi",
+      "hậu quả"
+    ],
+    [
+      "cố ý phạm tội",
+      "mong muốn hậu quả xảy ra"
+    ],
+    [
+      "cố ý phạm tội",
+      "để mặc cho hậu quả xảy ra"
+    ]
+  ]
+}

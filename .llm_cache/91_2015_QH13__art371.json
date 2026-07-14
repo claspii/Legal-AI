@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chuyển giao",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "biện pháp bảo đảm"
+    ],
+    [
+      "chuyển giao nghĩa vụ",
+      "chấm dứt biện pháp bảo đảm"
+    ],
+    [
+      "nghĩa vụ",
+      "chấm dứt"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "người đã thực hiện việc giám hộ",
+    "người thay thế mình",
+    "người được giám hộ",
+    "cơ quan cử, chỉ định người giám hộ",
+    "người giám sát việc giám hộ",
+    "người giám hộ mới"
+  ],
+  "actions": [
+    "chuyển giao giám hộ",
+    "thay đổi người giám hộ",
+    "lập thành văn bản",
+    "ghi rõ lý do chuyển giao",
+    "ghi rõ tình trạng tài sản",
+    "chứng kiến việc chuyển giao giám hộ",
+    "lập biên bản"
+  ],
+  "actor_actions": [
+    [
+      "người đã thực hiện việc giám hộ",
+      "chuyển giao giám hộ"
+    ],
+    [
+      "cơ quan cử, chỉ định người giám hộ",
+      "lập biên bản"
+    ],
+    [
+      "cơ quan cử, chỉ định người giám hộ",
+      "chứng kiến việc chuyển giao giám hộ"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "chứng kiến việc chuyển giao giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuyển giao giám hộ",
+      "người giám hộ mới"
+    ],
+    [
+      "chuyển giao giám hộ",
+      "người được giám hộ"
+    ],
+    [
+      "văn bản",
+      "lý do chuyển giao"
+    ],
+    [
+      "văn bản",
+      "tình trạng tài sản"
+    ],
+    [
+      "biên bản",
+      "tình trạng tài sản"
+    ],
+    [
+      "biên bản",
+      "quyền, nghĩa vụ"
+    ]
+  ]
+}

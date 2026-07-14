@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người tổ chức các cuộc thi",
+    "người đoạt giải"
+  ],
+  "actions": [
+    "tổ chức",
+    "công bố",
+    "thay đổi",
+    "yêu cầu",
+    "trao giải thưởng"
+  ],
+  "actor_actions": [
+    [
+      "người tổ chức các cuộc thi",
+      "tổ chức"
+    ],
+    [
+      "người tổ chức các cuộc thi",
+      "công bố"
+    ],
+    [
+      "người tổ chức các cuộc thi",
+      "thay đổi"
+    ],
+    [
+      "người đoạt giải",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người tổ chức các cuộc thi",
+      "điều kiện dự thi"
+    ],
+    [
+      "người tổ chức các cuộc thi",
+      "thang điểm"
+    ],
+    [
+      "người tổ chức các cuộc thi",
+      "các giải thưởng"
+    ],
+    [
+      "người tổ chức các cuộc thi",
+      "mức thưởng"
+    ],
+    [
+      "người đoạt giải",
+      "giải thưởng"
+    ]
+  ]
+}

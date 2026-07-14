@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công dân"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "cản trở",
+    "thực hiện quyền tự do ngôn luận",
+    "thực hiện quyền tự do báo chí",
+    "tiếp cận thông tin",
+    "biểu tình",
+    "xâm phạm quyền tự do của con người",
+    "xâm phạm quyền tự do, dân chủ của công dân"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "cản trở công dân"
+    ],
+    [
+      "công dân",
+      "thực hiện quyền tự do ngôn luận"
+    ],
+    [
+      "công dân",
+      "thực hiện quyền tự do báo chí"
+    ],
+    [
+      "công dân",
+      "tiếp cận thông tin"
+    ],
+    [
+      "công dân",
+      "biểu tình"
+    ],
+    [
+      "người",
+      "xâm phạm quyền tự do của con người"
+    ],
+    [
+      "người",
+      "xâm phạm quyền tự do, dân chủ của công dân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tự do ngôn luận",
+      "quyền tự do báo chí"
+    ],
+    [
+      "quyền tự do báo chí",
+      "tiếp cận thông tin"
+    ],
+    [
+      "tiếp cận thông tin",
+      "quyền biểu tình"
+    ],
+    [
+      "quyền tự do của con người",
+      "quyền tự do, dân chủ của công dân"
+    ]
+  ]
+}

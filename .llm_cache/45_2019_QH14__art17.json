@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "giữ bản chính giấy tờ tùy thân",
+    "yêu cầu thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác",
+    "buộc thực hiện hợp đồng lao động để trả nợ",
+    "giao kết hợp đồng lao động",
+    "thực hiện hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "giữ bản chính giấy tờ tùy thân"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác"
+    ],
+    [
+      "người sử dụng lao động",
+      "buộc người lao động thực hiện hợp đồng lao động để trả nợ"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "giấy tờ tùy thân",
+      "người lao động"
+    ],
+    [
+      "văn bằng",
+      "người lao động"
+    ],
+    [
+      "chứng chỉ",
+      "người lao động"
+    ],
+    [
+      "biện pháp bảo đảm",
+      "tiền"
+    ],
+    [
+      "biện pháp bảo đảm",
+      "tài sản khác"
+    ]
+  ]
+}

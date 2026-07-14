@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thẩm phán",
+    "hội thẩm",
+    "người dưới 18 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người vô tội",
+    "bị cáo",
+    "người bị hại",
+    "nguyên đơn"
+  ],
+  "actions": [
+    "ra bản án",
+    "phạm tội",
+    "kết án oan",
+    "bỏ lọt tội phạm",
+    "gây rối loạn tâm thần và hành vi",
+    "gây thiệt hại về tài sản",
+    "gây ảnh hưởng xấu",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "thẩm phán",
+      "ra bản án"
+    ],
+    [
+      "hội thẩm",
+      "ra bản án"
+    ],
+    [
+      "người vô tội",
+      "kết án oan"
+    ],
+    [
+      "bị cáo",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người bị hại",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "nguyên đơn",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "bị cáo",
+      "tự sát"
+    ],
+    [
+      "người bị hại",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thẩm phán",
+      "bản án"
+    ],
+    [
+      "hội thẩm",
+      "bản án"
+    ],
+    [
+      "bản án",
+      "trái pháp luật"
+    ],
+    [
+      "tội phạm nghiêm trọng",
+      "kết án oan"
+    ],
+    [
+      "tội phạm rất nghiêm trọng",
+      "kết án oan"
+    ],
+    [
+      "tội phạm đặc biệt nghiêm trọng",
+      "kết án oan"
+    ],
+    [
+      "tâm thần và hành vi",
+      "bị cáo"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "đồng"
+    ]
+  ]
+}

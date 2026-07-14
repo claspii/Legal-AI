@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "phụ nữ",
+    "người đang cai nghiện"
+  ],
+  "actions": [
+    "tổ chức sử dụng trái phép chất ma túy",
+    "phạt tù",
+    "phạt tiền",
+    "phạt quản chế",
+    "cấm cư trú",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức sử dụng trái phép chất ma túy"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm cư trú"
+    ],
+    [
+      "người phạm tội",
+      "bị tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức sử dụng trái phép chất ma túy",
+      "phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây bệnh nguy hiểm",
+      "người khác"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạt tù"
+    ],
+    [
+      "gây chết người",
+      "phạt tù"
+    ]
+  ]
+}

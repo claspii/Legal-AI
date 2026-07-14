@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "xác định",
+    "tính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thời hạn",
+      "thời điểm"
+    ],
+    [
+      "thời hạn",
+      "phút"
+    ],
+    [
+      "thời hạn",
+      "giờ"
+    ],
+    [
+      "thời hạn",
+      "ngày"
+    ],
+    [
+      "thời hạn",
+      "tuần"
+    ],
+    [
+      "thời hạn",
+      "tháng"
+    ],
+    [
+      "thời hạn",
+      "năm"
+    ],
+    [
+      "thời hạn",
+      "sự kiện"
+    ]
+  ]
+}

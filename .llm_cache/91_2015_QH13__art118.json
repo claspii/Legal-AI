@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [
+    "mục đích của giao dịch dân sự"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "mong muốn đạt được",
+    "xác lập giao dịch"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "mong muốn đạt được"
+    ],
+    [
+      "chủ thể",
+      "xác lập giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mục đích của giao dịch dân sự",
+      "lợi ích"
+    ],
+    [
+      "mục đích của giao dịch dân sự",
+      "giao dịch dân sự"
+    ],
+    [
+      "chủ thể",
+      "giao dịch dân sự"
+    ]
+  ]
+}

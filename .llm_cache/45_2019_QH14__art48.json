@@ -1,0 +1,110 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên",
+    "người sử dụng lao động",
+    "người lao động",
+    "doanh nghiệp",
+    "hợp tác xã",
+    "cá nhân"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "thanh toán",
+    "kéo dài",
+    "chấm dứt hoạt động",
+    "thay đổi cơ cấu, công nghệ",
+    "chia, tách, hợp nhất, sáp nhập",
+    "bán, cho thuê, chuyển đổi loại hình doanh nghiệp",
+    "chuyển nhượng quyền sở hữu, quyền sử dụng tài sản",
+    "bị giải thể, phá sản",
+    "hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp",
+    "trả lại bản chính giấy tờ",
+    "cung cấp bản sao tài liệu",
+    "trả chi phí sao, gửi tài liệu"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "thanh toán đầy đủ các khoản tiền"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi cơ cấu, công nghệ"
+    ],
+    [
+      "người sử dụng lao động",
+      "chia, tách, hợp nhất, sáp nhập"
+    ],
+    [
+      "người sử dụng lao động",
+      "bán, cho thuê, chuyển đổi loại hình doanh nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "chuyển nhượng quyền sở hữu, quyền sử dụng tài sản"
+    ],
+    [
+      "người sử dụng lao động",
+      "hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lại bản chính giấy tờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "cung cấp bản sao các tài liệu liên quan đến quá trình làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả chi phí sao, gửi tài liệu"
+    ],
+    [
+      "doanh nghiệp, hợp tác xã",
+      "bị chấm dứt hoạt động, bị giải thể, phá sản"
+    ],
+    [
+      "người lao động",
+      "có yêu cầu (cung cấp bản sao tài liệu)"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt hợp đồng lao động",
+      "trách nhiệm thanh toán"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "tiền lương",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "tiền lương",
+      "bảo hiểm y tế"
+    ],
+    [
+      "tiền lương",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "tiền lương",
+      "trợ cấp thôi việc"
+    ],
+    [
+      "chấm dứt hợp đồng lao động",
+      "thủ tục xác nhận thời gian đóng bảo hiểm xã hội"
+    ],
+    [
+      "quá trình làm việc của người lao động",
+      "tài liệu liên quan"
+    ]
+  ]
+}

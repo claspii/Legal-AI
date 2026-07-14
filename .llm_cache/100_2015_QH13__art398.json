@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "đồng đội",
+    "chỉ huy",
+    "sỹ quan",
+    "cấp trên",
+    "nạn nhân"
+  ],
+  "actions": [
+    "cố ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "đồng đội"
+    ],
+    [
+      "chỉ huy",
+      "sỹ quan"
+    ],
+    [
+      "chỉ huy",
+      "cấp trên"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

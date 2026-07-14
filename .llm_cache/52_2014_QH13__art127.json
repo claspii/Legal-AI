@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "người nước ngoài",
+    "cơ quan có thẩm quyền của việt nam",
+    "bên",
+    "vợ chồng"
+  ],
+  "actions": [
+    "ly hôn",
+    "giải quyết",
+    "thường trú",
+    "yêu cầu ly hôn",
+    "tuân theo pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "ly hôn"
+    ],
+    [
+      "người nước ngoài",
+      "ly hôn"
+    ],
+    [
+      "cơ quan có thẩm quyền của việt nam",
+      "giải quyết"
+    ],
+    [
+      "bên là công dân việt nam",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "việc giải quyết tài sản",
+      "tuân theo pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ly hôn",
+      "yếu tố nước ngoài"
+    ],
+    [
+      "ly hôn",
+      "công dân việt nam"
+    ],
+    [
+      "ly hôn",
+      "người nước ngoài"
+    ],
+    [
+      "giải quyết ly hôn",
+      "pháp luật của nước nơi thường trú chung của vợ chồng"
+    ],
+    [
+      "giải quyết ly hôn",
+      "pháp luật việt nam"
+    ],
+    [
+      "tài sản là bất động sản ở nước ngoài",
+      "ly hôn"
+    ],
+    [
+      "giải quyết tài sản là bất động sản ở nước ngoài",
+      "pháp luật của nước nơi có bất động sản đó"
+    ]
+  ]
+}

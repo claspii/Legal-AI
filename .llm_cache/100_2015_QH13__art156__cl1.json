@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "bịa đặt",
+    "loan truyền",
+    "xúc phạm",
+    "gây thiệt hại",
+    "tố cáo"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bịa đặt"
+    ],
+    [
+      "người",
+      "loan truyền"
+    ],
+    [
+      "người",
+      "tố cáo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ]
+  ]
+}

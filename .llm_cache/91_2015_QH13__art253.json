@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có quyền sử dụng đất canh tác",
+    "người sử dụng đất xung quanh",
+    "người được yêu cầu",
+    "người sử dụng lối dẫn nước"
+  ],
+  "actions": [
+    "tưới nước",
+    "tiêu nước",
+    "yêu cầu",
+    "để cho lối dẫn nước",
+    "đáp ứng yêu cầu",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền sử dụng đất canh tác",
+      "tưới nước"
+    ],
+    [
+      "người có quyền sử dụng đất canh tác",
+      "tiêu nước"
+    ],
+    [
+      "người có quyền sử dụng đất canh tác",
+      "yêu cầu"
+    ],
+    [
+      "người sử dụng đất xung quanh",
+      "để cho lối dẫn nước"
+    ],
+    [
+      "người được yêu cầu",
+      "đáp ứng yêu cầu"
+    ],
+    [
+      "người sử dụng lối dẫn nước",
+      "gây thiệt hại"
+    ],
+    [
+      "người sử dụng lối dẫn nước",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tưới nước",
+      "tiêu nước"
+    ],
+    [
+      "người có quyền sử dụng đất canh tác",
+      "lối dẫn nước"
+    ],
+    [
+      "lối dẫn nước",
+      "thiệt hại"
+    ]
+  ]
+}

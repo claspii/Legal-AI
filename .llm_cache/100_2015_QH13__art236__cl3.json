@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "vi phạm quy định",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vi phạm quy định về quản lý chất thải nguy hại",
+      "phạm tội"
+    ],
+    [
+      "chất thải nguy hại",
+      "chất ô nhiễm hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải có chứa chất phóng xạ",
+      "gây nhiễm xạ môi trường"
+    ],
+    [
+      "mức độ nguy hiểm trên trung bình",
+      "quy chuẩn kỹ thuật quốc gia về an toàn bức xạ"
+    ]
+  ]
+}

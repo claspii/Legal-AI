@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "tòa án",
+    "cơ quan có thẩm quyền khác",
+    "người khác"
+  ],
+  "actions": [
+    "lạm dụng quyền dân sự",
+    "gây thiệt hại",
+    "vi phạm nghĩa vụ",
+    "thực hiện mục đích khác trái pháp luật",
+    "không tuân thủ quy định",
+    "không bảo vệ quyền",
+    "buộc bồi thường",
+    "áp dụng chế tài"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "không được lạm dụng quyền dân sự"
+    ],
+    [
+      "pháp nhân",
+      "không được lạm dụng quyền dân sự"
+    ],
+    [
+      "cá nhân",
+      "gây thiệt hại cho người khác"
+    ],
+    [
+      "pháp nhân",
+      "gây thiệt hại cho người khác"
+    ],
+    [
+      "cá nhân",
+      "vi phạm nghĩa vụ của mình"
+    ],
+    [
+      "pháp nhân",
+      "vi phạm nghĩa vụ của mình"
+    ],
+    [
+      "cá nhân",
+      "thực hiện mục đích khác trái pháp luật"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện mục đích khác trái pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lạm dụng quyền dân sự",
+      "gây thiệt hại"
+    ],
+    [
+      "không tuân thủ quy định tại khoản 1",
+      "không bảo vệ quyền"
+    ],
+    [
+      "không tuân thủ quy định tại khoản 1",
+      "buộc bồi thường"
+    ],
+    [
+      "không tuân thủ quy định tại khoản 1",
+      "áp dụng chế tài"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "gây thiệt hại về tài sản",
+    "gây thiệt hại đến cảnh quan, hệ sinh thái tự nhiên",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về quản lý khu bảo tồn thiên nhiên"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "gây thiệt hại đến cảnh quan, hệ sinh thái tự nhiên"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khu bảo tồn thiên nhiên",
+      "quản lý khu bảo tồn thiên nhiên"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "thiệt hại đến cảnh quan, hệ sinh thái tự nhiên"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "kết án"
+    ]
+  ]
+}

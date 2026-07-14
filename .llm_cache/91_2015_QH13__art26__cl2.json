@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [
+    "cha đẻ",
+    "mẹ đẻ"
+  ],
+  "actors": [
+    "cá nhân",
+    "cha đẻ",
+    "mẹ đẻ",
+    "cha mẹ",
+    "trẻ em",
+    "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+    "người có yêu cầu đăng ký khai sinh",
+    "người mang thai hộ"
+  ],
+  "actions": [
+    "xác định",
+    "thỏa thuận",
+    "bỏ rơi",
+    "nhận làm con nuôi",
+    "tạm thời nuôi dưỡng",
+    "mang thai hộ"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "thỏa thuận"
+    ],
+    [
+      "trẻ em",
+      "bỏ rơi"
+    ],
+    [
+      "cha nuôi hoặc mẹ nuôi",
+      "thỏa thuận"
+    ],
+    [
+      "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+      "đề nghị"
+    ],
+    [
+      "người có yêu cầu đăng ký khai sinh",
+      "đề nghị"
+    ],
+    [
+      "người đó",
+      "tạm thời nuôi dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "họ của cá nhân",
+      "họ của cha đẻ"
+    ],
+    [
+      "họ của cá nhân",
+      "họ của mẹ đẻ"
+    ],
+    [
+      "họ của con",
+      "tập quán"
+    ],
+    [
+      "trẻ em bị bỏ rơi",
+      "họ của cha nuôi"
+    ],
+    [
+      "trẻ em bị bỏ rơi",
+      "họ của mẹ nuôi"
+    ],
+    [
+      "cha đẻ",
+      "sự kiện sinh đẻ"
+    ],
+    [
+      "mẹ đẻ",
+      "sự kiện sinh đẻ"
+    ],
+    [
+      "người nhờ mang thai hộ",
+      "người được sinh ra từ việc mang thai hộ"
+    ]
+  ]
+}

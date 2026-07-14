@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm bảo đảm trật tự, an toàn giao thông",
+    "người có trách nhiệm giải tán cuộc đua xe trái phép"
+  ],
+  "actions": [
+    "đua trái phép",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "làm chết",
+    "gây thiệt hại về tài sản",
+    "bỏ chạy để trốn tránh trách nhiệm",
+    "cố ý không cứu giúp",
+    "tham gia cá cược",
+    "chống lại",
+    "tháo dỡ các thiết bị an toàn khỏi phương tiện đua"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đua trái phép xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "bỏ chạy để trốn tránh trách nhiệm"
+    ],
+    [
+      "người",
+      "cố ý không cứu giúp người bị nạn"
+    ],
+    [
+      "người",
+      "tham gia cá cược"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đua xe trái phép",
+      "phạt tiền"
+    ],
+    [
+      "đua xe trái phép",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "đua xe trái phép",
+      "phạt tù"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "hành vi đua xe trái phép",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "hành vi đua xe trái phép",
+      "bị kết án"
+    ],
+    [
+      "làm chết",
+      "số người chết"
+    ]
+  ]
+}

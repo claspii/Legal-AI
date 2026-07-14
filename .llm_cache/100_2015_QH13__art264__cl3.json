@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+    "người"
+  ],
+  "actions": [
+    "giao cho",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết",
+      "gây thương tích"
+    ],
+    [
+      "làm chết",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "làm chết",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thiệt hại về tài sản"
+    ]
+  ]
+}

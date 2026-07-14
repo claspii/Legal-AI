@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền",
+    "bên có nghĩa vụ",
+    "người thứ ba"
+  ],
+  "actions": [
+    "đồng ý",
+    "ủy quyền",
+    "thực hiện nghĩa vụ",
+    "chịu trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "đồng ý"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "ủy quyền"
+    ],
+    [
+      "người thứ ba",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chịu trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên có quyền",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "người thứ ba"
+    ],
+    [
+      "nghĩa vụ",
+      "ủy quyền"
+    ]
+  ]
+}

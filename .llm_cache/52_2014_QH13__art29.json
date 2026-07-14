@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "gia đình",
+    "người khác"
+  ],
+  "actions": [
+    "tạo lập",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "bảo đảm điều kiện",
+    "đáp ứng nhu cầu thiết yếu",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ",
+    "xâm phạm",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "tạo lập"
+    ],
+    [
+      "chồng",
+      "tạo lập"
+    ],
+    [
+      "vợ",
+      "chiếm hữu"
+    ],
+    [
+      "chồng",
+      "chiếm hữu"
+    ],
+    [
+      "vợ",
+      "sử dụng"
+    ],
+    [
+      "chồng",
+      "sử dụng"
+    ],
+    [
+      "vợ",
+      "định đoạt"
+    ],
+    [
+      "chồng",
+      "định đoạt"
+    ],
+    [
+      "vợ",
+      "bảo đảm điều kiện"
+    ],
+    [
+      "chồng",
+      "bảo đảm điều kiện"
+    ],
+    [
+      "vợ",
+      "thực hiện quyền"
+    ],
+    [
+      "chồng",
+      "thực hiện quyền"
+    ],
+    [
+      "vợ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "chồng",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản chung",
+      "chế độ tài sản"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người khác"
+  ],
+  "actions": [
+    "chấm dứt quyền sở hữu",
+    "chuyển quyền sở hữu",
+    "từ bỏ quyền sở hữu",
+    "tiêu dùng",
+    "tiêu hủy",
+    "xử lý",
+    "thực hiện nghĩa vụ",
+    "trưng mua",
+    "tịch thu",
+    "xác lập quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chuyển quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "từ bỏ quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "chấm dứt quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản",
+      "tiêu dùng"
+    ],
+    [
+      "tài sản",
+      "tiêu hủy"
+    ],
+    [
+      "tài sản",
+      "trưng mua"
+    ],
+    [
+      "tài sản",
+      "tịch thu"
+    ],
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ]
+  ]
+}

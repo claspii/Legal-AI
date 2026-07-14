@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức của người lao động tại doanh nghiệp",
+    "thành viên",
+    "chính phủ",
+    "người đứng đầu",
+    "ban lãnh đạo",
+    "công đoàn việt nam"
+  ],
+  "actions": [
+    "bảo vệ quyền, lợi ích hợp pháp, chính đáng",
+    "giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích",
+    "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định",
+    "gia nhập",
+    "ra khỏi tổ chức",
+    "thu, chi tài chính",
+    "theo dõi, lưu trữ và định kỳ hằng năm công khai",
+    "kiến nghị và giải quyết kiến nghị",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "bảo vệ quyền, lợi ích hợp pháp, chính đáng"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích"
+    ],
+    [
+      "thành viên",
+      "gia nhập"
+    ],
+    [
+      "thành viên",
+      "ra khỏi tổ chức"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "thu, chi tài chính"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "theo dõi, lưu trữ và định kỳ hằng năm công khai"
+    ],
+    [
+      "thành viên",
+      "kiến nghị và giải quyết kiến nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều lệ tổ chức của người lao động tại doanh nghiệp",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "quyền",
+      "lợi ích"
+    ],
+    [
+      "tài sản",
+      "tài chính"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "công đoàn việt nam"
+    ],
+    [
+      "điều kiện lao động",
+      "tuyển dụng lao động"
+    ]
+  ]
+}

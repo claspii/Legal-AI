@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nghiện ma túy",
+    "người nghiện các chất kích thích khác",
+    "người có quyền, lợi ích liên quan",
+    "cơ quan, tổ chức hữu quan",
+    "tòa án",
+    "người đại diện theo pháp luật",
+    "người bị hạn chế năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "phá tán tài sản của gia đình",
+    "ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự",
+    "quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự",
+    "xác lập, thực hiện giao dịch dân sự",
+    "hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người nghiện ma túy",
+      "dẫn đến phá tán tài sản của gia đình"
+    ],
+    [
+      "người nghiện các chất kích thích khác",
+      "dẫn đến phá tán tài sản của gia đình"
+    ],
+    [
+      "tòa án",
+      "ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "ra quyết định hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người bị hạn chế năng lực hành vi dân sự",
+      "xác lập, thực hiện giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người nghiện ma túy",
+      "hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người nghiện các chất kích thích khác",
+      "hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người bị hạn chế năng lực hành vi dân sự",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "giao dịch dân sự",
+      "tài sản của người bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên bố hạn chế năng lực hành vi dân sự"
+    ]
+  ]
+}

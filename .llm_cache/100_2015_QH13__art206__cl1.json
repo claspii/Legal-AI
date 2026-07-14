@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tổ chức tín dụng",
+    "chi nhánh ngân hàng nước ngoài",
+    "khách hàng",
+    "người có liên quan",
+    "người có thẩm quyền",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "vi phạm quy định",
+    "thực hiện hành vi",
+    "cấp tín dụng",
+    "vi phạm các hạn chế",
+    "nâng khống giá trị tài sản bảo đảm",
+    "góp vốn",
+    "mua cổ phần",
+    "phát hành",
+    "cung ứng",
+    "sử dụng phương tiện thanh toán",
+    "làm giả chứng từ thanh toán",
+    "tiến hành hoạt động ngân hàng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý thực hiện một trong các hành vi sau đây"
+    ],
+    [
+      "người",
+      "cấp tín dụng cho những trường hợp không được cấp tín dụng"
+    ],
+    [
+      "người",
+      "cấp tín dụng không có bảo đảm"
+    ],
+    [
+      "người",
+      "cấp tín dụng với điều kiện ưu đãi cho những đối tượng không được cấp tín dụng"
+    ],
+    [
+      "người",
+      "vi phạm các hạn chế để bảo đảm an toàn cho hoạt động tín dụng"
+    ],
+    [
+      "người",
+      "cố ý nâng khống giá trị tài sản bảo đảm khi thẩm định giá để cấp tín dụng"
+    ],
+    [
+      "người",
+      "vi phạm quy định của pháp luật về tổng mức dư nợ tín dụng đối với các đối tượng bị hạn chế cấp tín dụng"
+    ],
+    [
+      "người",
+      "cấp tín dụng vượt giới hạn so với vốn tự có đối với một khách hàng và người có liên quan"
+    ],
+    [
+      "người",
+      "vi phạm quy định của pháp luật về góp vốn, giới hạn góp vốn, mua cổ phần, điều kiện cấp tín dụng hoặc mua bán tài sản"
+    ],
+    [
+      "người",
+      "phát hành, cung ứng, sử dụng các phương tiện thanh toán không hợp pháp"
+    ],
+    [
+      "người",
+      "làm giả chứng từ thanh toán, phương tiện thanh toán"
+    ],
+    [
+      "người",
+      "sử dụng chứng từ thanh toán, phương tiện thanh toán giả"
+    ],
+    [
+      "người",
+      "tiến hành hoạt động ngân hàng khi chưa được cơ quan nhà nước có thẩm quyền cho phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài"
+    ],
+    [
+      "cấp tín dụng",
+      "phát hành thẻ tín dụng"
+    ],
+    [
+      "tài sản bảo đảm",
+      "thẩm định giá"
+    ],
+    [
+      "vốn tự có",
+      "khách hàng"
+    ],
+    [
+      "chứng từ thanh toán",
+      "phương tiện thanh toán"
+    ]
+  ]
+}

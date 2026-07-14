@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "tạo điều kiện",
+    "giúp đỡ",
+    "chọn nghề nghiệp",
+    "học tập",
+    "nâng cao trình độ văn hóa",
+    "nâng cao chuyên môn",
+    "nâng cao nghiệp vụ",
+    "tham gia hoạt động chính trị"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "có quyền"
+    ],
+    [
+      "vợ",
+      "có nghĩa vụ"
+    ],
+    [
+      "vợ",
+      "tạo điều kiện"
+    ],
+    [
+      "vợ",
+      "giúp đỡ"
+    ],
+    [
+      "chồng",
+      "có quyền"
+    ],
+    [
+      "chồng",
+      "có nghĩa vụ"
+    ],
+    [
+      "chồng",
+      "tạo điều kiện"
+    ],
+    [
+      "chồng",
+      "giúp đỡ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "học tập",
+      "làm việc"
+    ],
+    [
+      "hoạt động chính trị",
+      "hoạt động kinh tế"
+    ],
+    [
+      "hoạt động văn hóa",
+      "hoạt động xã hội"
+    ],
+    [
+      "trình độ văn hóa",
+      "chuyên môn"
+    ],
+    [
+      "chuyên môn",
+      "nghiệp vụ"
+    ]
+  ]
+}

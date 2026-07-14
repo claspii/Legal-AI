@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán"
+  ],
+  "actions": [
+    "không hoàn thành nghĩa vụ thanh toán",
+    "đòi lại tài sản",
+    "hoàn trả",
+    "làm mất tài sản",
+    "hư hỏng tài sản",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên mua",
+      "không hoàn thành nghĩa vụ thanh toán"
+    ],
+    [
+      "bên bán",
+      "đòi lại tài sản"
+    ],
+    [
+      "bên bán",
+      "hoàn trả"
+    ],
+    [
+      "bên mua",
+      "làm mất tài sản"
+    ],
+    [
+      "bên mua",
+      "hư hỏng tài sản"
+    ],
+    [
+      "bên bán",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mua",
+      "bên bán"
+    ],
+    [
+      "thanh toán",
+      "tài sản"
+    ],
+    [
+      "giá trị hao mòn tài sản",
+      "sử dụng"
+    ],
+    [
+      "mất tài sản",
+      "hư hỏng tài sản"
+    ],
+    [
+      "tài sản",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan",
+    "cá nhân",
+    "tổ chức",
+    "hai bên ly hôn"
+  ],
+  "actions": [
+    "chấm dứt hôn nhân",
+    "gửi bản án",
+    "quyết định ly hôn",
+    "giải quyết ly hôn",
+    "đăng ký kết hôn",
+    "ghi vào sổ hộ tịch"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết ly hôn"
+    ],
+    [
+      "tòa án",
+      "gửi bản án"
+    ],
+    [
+      "tòa án",
+      "quyết định ly hôn"
+    ],
+    [
+      "cơ quan",
+      "ghi vào sổ hộ tịch"
+    ],
+    [
+      "cơ quan",
+      "đăng ký kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ hôn nhân",
+      "bản án ly hôn"
+    ],
+    [
+      "quan hệ hôn nhân",
+      "quyết định ly hôn"
+    ],
+    [
+      "bản án ly hôn",
+      "hiệu lực pháp luật"
+    ],
+    [
+      "quyết định ly hôn",
+      "hiệu lực pháp luật"
+    ],
+    [
+      "bản án ly hôn",
+      "ghi vào sổ hộ tịch"
+    ],
+    [
+      "quyết định ly hôn",
+      "ghi vào sổ hộ tịch"
+    ]
+  ]
+}

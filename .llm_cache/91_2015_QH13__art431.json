@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bán"
+  ],
+  "actions": [
+    "chuyển nhượng",
+    "bán"
+  ],
+  "actor_actions": [
+    [
+      "người bán",
+      "bán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "hợp đồng mua bán"
+    ],
+    [
+      "tài sản",
+      "quy định của luật"
+    ],
+    [
+      "tài sản",
+      "người bán"
+    ]
+  ]
+}

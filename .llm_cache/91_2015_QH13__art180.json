@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "chiếm hữu ngay tình"
+  ],
+  "actors": [
+    "người chiếm hữu"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "có căn cứ để tin",
+    "có quyền"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "chiếm hữu"
+    ],
+    [
+      "người chiếm hữu",
+      "có căn cứ để tin"
+    ],
+    [
+      "người chiếm hữu",
+      "có quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu ngay tình",
+      "chiếm hữu"
+    ],
+    [
+      "người chiếm hữu",
+      "quyền"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản"
+    ]
+  ]
+}

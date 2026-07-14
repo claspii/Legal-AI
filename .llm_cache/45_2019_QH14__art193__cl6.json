@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một trong các bên",
+    "ban trọng tài lao động",
+    "các bên",
+    "tòa án"
+  ],
+  "actions": [
+    "không thi hành quyết định",
+    "yêu cầu giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "một trong các bên",
+      "không thi hành quyết định giải quyết tranh chấp của ban trọng tài lao động"
+    ],
+    [
+      "các bên",
+      "yêu cầu tòa án giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ban trọng tài lao động",
+      "quyết định giải quyết tranh chấp"
+    ],
+    [
+      "một trong các bên",
+      "không thi hành quyết định"
+    ],
+    [
+      "các bên",
+      "yêu cầu tòa án giải quyết"
+    ]
+  ]
+}

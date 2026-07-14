@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "bị xử lý kỷ luật sa thải"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "bị xử lý kỷ luật sa thải"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt hợp đồng lao động",
+      "bị xử lý kỷ luật sa thải"
+    ]
+  ]
+}

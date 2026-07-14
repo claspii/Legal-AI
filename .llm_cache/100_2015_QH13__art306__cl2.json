@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "súng săn",
+      "vũ khí thô sơ"
+    ],
+    [
+      "vũ khí thô sơ",
+      "vũ khí thể thao"
+    ],
+    [
+      "vũ khí thể thao",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "công cụ hỗ trợ",
+      "vũ khí khác có tính năng tác dụng tương tự"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "súng săn",
+      "chế tạo"
+    ],
+    [
+      "súng săn",
+      "tàng trữ"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [
+    "chậm thực hiện nghĩa vụ"
+  ],
+  "actors": [
+    "bên chậm thực hiện nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "bên chậm thực hiện nghĩa vụ",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chậm thực hiện nghĩa vụ",
+      "nghĩa vụ"
+    ]
+  ]
+}

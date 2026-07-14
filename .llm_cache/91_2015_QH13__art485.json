@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán",
+    "bên cho thuê khoán"
+  ],
+  "actions": [
+    "thỏa thuận thời hạn thuê khoán",
+    "xác định thời hạn thuê khoán"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "thỏa thuận thời hạn thuê khoán"
+    ],
+    [
+      "bên cho thuê khoán",
+      "thỏa thuận thời hạn thuê khoán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn thuê khoán",
+      "thỏa thuận"
+    ],
+    [
+      "thời hạn thuê khoán",
+      "chu kỳ sản xuất, kinh doanh"
+    ],
+    [
+      "chu kỳ sản xuất, kinh doanh",
+      "tính chất của đối tượng thuê khoán"
+    ]
+  ]
+}

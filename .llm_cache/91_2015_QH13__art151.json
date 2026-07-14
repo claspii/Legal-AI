@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tính thời hiệu",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thời hiệu",
+      "ngày đầu tiên của thời hiệu"
+    ],
+    [
+      "thời hiệu",
+      "ngày cuối cùng của thời hiệu"
+    ]
+  ]
+}

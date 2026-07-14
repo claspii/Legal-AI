@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "hợp đồng thuê tài sản"
+  ],
+  "actors": [
+    "bên cho thuê",
+    "bên thuê",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao",
+    "sử dụng",
+    "trả tiền thuê",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên cho thuê",
+      "giao tài sản"
+    ],
+    [
+      "bên thuê",
+      "sử dụng"
+    ],
+    [
+      "bên thuê",
+      "trả tiền thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng thuê tài sản",
+      "bên cho thuê"
+    ],
+    [
+      "hợp đồng thuê tài sản",
+      "bên thuê"
+    ],
+    [
+      "hợp đồng thuê nhà ở",
+      "luật nhà ở"
+    ],
+    [
+      "hợp đồng thuê nhà để sử dụng vào mục đích khác",
+      "luật nhà ở"
+    ]
+  ]
+}

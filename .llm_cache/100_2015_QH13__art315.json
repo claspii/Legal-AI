@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "phạt tù",
+    "phạt cải tạo không giam giữ",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về khám bệnh, chữa bệnh, sản xuất, pha chế thuốc, cấp phát thuốc, bán thuốc hoặc dịch vụ y tế khác"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định",
+      "khám bệnh"
+    ],
+    [
+      "vi phạm quy định",
+      "chữa bệnh"
+    ],
+    [
+      "vi phạm quy định",
+      "sản xuất thuốc"
+    ],
+    [
+      "vi phạm quy định",
+      "pha chế thuốc"
+    ],
+    [
+      "vi phạm quy định",
+      "cấp phát thuốc"
+    ],
+    [
+      "vi phạm quy định",
+      "bán thuốc"
+    ],
+    [
+      "vi phạm quy định",
+      "dịch vụ y tế khác"
+    ],
+    [
+      "làm chết người",
+      "phạt tù"
+    ]
+  ]
+}

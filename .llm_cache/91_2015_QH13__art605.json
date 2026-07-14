@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người chiếm hữu",
+    "người được giao quản lý",
+    "người được giao sử dụng",
+    "người khác",
+    "người thi công"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người được giao quản lý",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người được giao sử dụng",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người thi công",
+      "liên đới bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhà cửa",
+      "công trình xây dựng khác"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "chủ sở hữu",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người được giao quản lý",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người được giao sử dụng",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người thi công",
+      "liên đới bồi thường"
+    ],
+    [
+      "lỗi",
+      "gây thiệt hại"
+    ]
+  ]
+}

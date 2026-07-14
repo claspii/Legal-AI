@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "thực hiện",
+    "bảo đảm",
+    "chấp hành",
+    "tuân thủ",
+    "nắm vững"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm"
+    ],
+    [
+      "người lao động",
+      "chấp hành"
+    ],
+    [
+      "người lao động",
+      "tuân thủ"
+    ],
+    [
+      "người lao động",
+      "nắm vững"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "an toàn, vệ sinh lao động",
+      "nơi làm việc"
+    ],
+    [
+      "an toàn, vệ sinh lao động",
+      "quy định"
+    ],
+    [
+      "an toàn, vệ sinh lao động",
+      "nội quy"
+    ],
+    [
+      "an toàn, vệ sinh lao động",
+      "quy trình"
+    ],
+    [
+      "an toàn, vệ sinh lao động",
+      "yêu cầu"
+    ],
+    [
+      "kiến thức",
+      "biện pháp bảo đảm an toàn, vệ sinh lao động"
+    ],
+    [
+      "kỹ năng",
+      "biện pháp bảo đảm an toàn, vệ sinh lao động"
+    ]
+  ]
+}

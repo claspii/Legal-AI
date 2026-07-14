@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "sở hữu chung theo phần"
+  ],
+  "actors": [
+    "chủ sở hữu chung theo phần"
+  ],
+  "actions": [
+    "xác định",
+    "có quyền",
+    "có nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung theo phần",
+      "có quyền"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "có nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung theo phần",
+      "phần quyền sở hữu"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "tài sản chung"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

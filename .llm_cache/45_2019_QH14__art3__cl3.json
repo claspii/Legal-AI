@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "đơn vị sử dụng lao động",
+    "công đoàn cơ sở",
+    "tổ chức của người lao động tại doanh nghiệp"
+  ],
+  "actions": [
+    "thành lập",
+    "bảo vệ",
+    "thương lượng tập thể"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "được thành lập"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "đơn vị sử dụng lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "công đoàn cơ sở"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "quyền và lợi ích hợp pháp, chính đáng",
+      "người lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "thương lượng tập thể"
+    ]
+  ]
+}

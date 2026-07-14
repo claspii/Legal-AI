@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "người có hành vi xâm phạm quyền"
+  ],
+  "actions": [
+    "tự bảo vệ",
+    "ngăn chặn",
+    "xâm phạm quyền",
+    "yêu cầu",
+    "trả lại tài sản",
+    "chấm dứt hành vi cản trở trái pháp luật việc thực hiện quyền sở hữu",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "tự bảo vệ"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tự bảo vệ"
+    ],
+    [
+      "chủ sở hữu",
+      "ngăn chặn"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "ngăn chặn"
+    ],
+    [
+      "người",
+      "có hành vi xâm phạm quyền"
+    ],
+    [
+      "chủ sở hữu",
+      "yêu cầu"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "buộc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "biện pháp bảo vệ",
+      "quyền sở hữu"
+    ],
+    [
+      "biện pháp bảo vệ",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "xâm phạm quyền",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

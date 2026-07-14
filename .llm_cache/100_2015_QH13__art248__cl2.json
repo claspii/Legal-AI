@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạm tội thuộc một trong các trường hợp sau đây",
+    "có tổ chức",
+    "phạm tội 02 lần trở lên",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội thuộc một trong các trường hợp sau đây"
+    ],
+    [
+      "người phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội 02 lần trở lên"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "người phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhựa thuốc phiện",
+      "nhựa cần sa"
+    ],
+    [
+      "nhựa cần sa",
+      "cao côca"
+    ],
+    [
+      "hêrôin",
+      "côcain"
+    ],
+    [
+      "côcain",
+      "methamphetamine"
+    ],
+    [
+      "methamphetamine",
+      "amphetamine"
+    ],
+    [
+      "amphetamine",
+      "mdma"
+    ],
+    [
+      "chất ma túy khác ở thể rắn",
+      "chất ma túy khác ở thể lỏng"
+    ],
+    [
+      "tổng số lượng của các chất đó",
+      "số lượng chất ma túy quy định tại một trong các điểm từ điểm đ đến điểm h khoản này"
+    ]
+  ]
+}

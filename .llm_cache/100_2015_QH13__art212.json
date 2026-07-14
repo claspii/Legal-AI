@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà đầu tư"
+  ],
+  "actions": [
+    "làm giả tài liệu",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "phạt tiền",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm giả tài liệu"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm giả tài liệu",
+      "hồ sơ chào bán, niêm yết chứng khoán"
+    ],
+    [
+      "thu lợi bất chính",
+      "tiền"
+    ],
+    [
+      "gây thiệt hại",
+      "nhà đầu tư"
+    ],
+    [
+      "phạt tiền",
+      "tiền"
+    ],
+    [
+      "phạt tù",
+      "thời gian"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "thời gian"
+    ],
+    [
+      "cấm hành nghề",
+      "thời gian"
+    ],
+    [
+      "làm công việc nhất định",
+      "thời gian"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người làm chứng"
+  ],
+  "actions": [
+    "tự viết",
+    "ký",
+    "lập di chúc",
+    "tuân theo quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "tự viết"
+    ],
+    [
+      "người lập di chúc",
+      "ký"
+    ],
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc bằng văn bản không có người làm chứng",
+      "người lập di chúc"
+    ],
+    [
+      "di chúc bằng văn bản không có người làm chứng",
+      "điều 631 của bộ luật này"
+    ]
+  ]
+}

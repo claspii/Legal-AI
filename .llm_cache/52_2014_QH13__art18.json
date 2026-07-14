@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "bảo vệ",
+    "tôn trọng"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền",
+      "nhân thân"
+    ],
+    [
+      "nghĩa vụ",
+      "nhân thân"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "vợ"
+    ],
+    [
+      "nghĩa vụ",
+      "vợ"
+    ],
+    [
+      "quyền",
+      "chồng"
+    ],
+    [
+      "nghĩa vụ",
+      "chồng"
+    ]
+  ]
+}

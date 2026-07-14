@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "lập quỹ trái quy định của pháp luật",
+    "sử dụng quỹ",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "lập quỹ trái quy định của pháp luật"
+    ],
+    [
+      "người",
+      "sử dụng quỹ"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ, quyền hạn",
+      "lập quỹ trái quy định của pháp luật"
+    ],
+    [
+      "lập quỹ trái quy định của pháp luật",
+      "gây thiệt hại cho tài sản của nhà nước"
+    ],
+    [
+      "tài sản của nhà nước",
+      "thiệt hại"
+    ],
+    [
+      "hành vi vi phạm pháp luật",
+      "dùng thủ đoạn xảo quyệt để trốn tránh việc kiểm soát"
+    ],
+    [
+      "tội lập quỹ trái phép",
+      "thiệt hại"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ]
+}

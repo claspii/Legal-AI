@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "cho phép chôn, lấp, đổ, thải trái quy định của pháp luật chất thải nguy hại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người có thẩm quyền",
+      "cho phép chôn, lấp, đổ, thải trái quy định của pháp luật chất thải nguy hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất ô nhiễm hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải nguy hại",
+      "chất phóng xạ"
+    ],
+    [
+      "chất ô nhiễm hữu cơ khó phân hủy",
+      "công ước stockholm"
+    ],
+    [
+      "chất phóng xạ",
+      "quy chuẩn kỹ thuật quốc gia về an toàn bức xạ"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bộ trưởng bộ lao động - thương binh và xã hội",
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "ban hành danh mục",
+    "cung cấp thông tin",
+    "bảo đảm điều kiện an toàn, vệ sinh lao động"
+  ],
+  "actor_actions": [
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "ban hành danh mục"
+    ],
+    [
+      "người sử dụng lao động",
+      "cung cấp thông tin"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm điều kiện an toàn, vệ sinh lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghề, công việc",
+      "chức năng sinh sản và nuôi con"
+    ],
+    [
+      "người lao động",
+      "điều kiện an toàn, vệ sinh lao động"
+    ]
+  ]
+}

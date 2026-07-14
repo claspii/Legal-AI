@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên nhận bảo lãnh",
+    "bên được bảo lãnh",
+    "người cùng bảo lãnh liên đới",
+    "người nhận bảo lãnh liên đới"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ bảo lãnh",
+    "miễn việc thực hiện nghĩa vụ",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "thực hiện nghĩa vụ bảo lãnh"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "miễn việc thực hiện nghĩa vụ"
+    ],
+    [
+      "bên được bảo lãnh",
+      "thực hiện nghĩa vụ đối với bên nhận bảo lãnh"
+    ],
+    [
+      "người cùng bảo lãnh liên đới",
+      "thực hiện nghĩa vụ bảo lãnh"
+    ],
+    [
+      "người nhận bảo lãnh liên đới",
+      "miễn cho bên bảo lãnh không phải thực hiện phần nghĩa vụ đối với mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bảo lãnh",
+      "nghĩa vụ bảo lãnh"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "nghĩa vụ bảo lãnh"
+    ],
+    [
+      "bên được bảo lãnh",
+      "nghĩa vụ đối với bên nhận bảo lãnh"
+    ],
+    [
+      "người cùng bảo lãnh liên đới",
+      "nghĩa vụ bảo lãnh"
+    ],
+    [
+      "miễn việc thực hiện nghĩa vụ",
+      "bên bảo lãnh"
+    ],
+    [
+      "miễn việc thực hiện nghĩa vụ",
+      "bên nhận bảo lãnh"
+    ]
+  ]
+}

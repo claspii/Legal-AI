@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "nạn nhân"
+  ],
+  "actions": [
+    "hiếp dâm",
+    "chăm sóc",
+    "giáo dục",
+    "chữa bệnh",
+    "phạm tội",
+    "làm có thai",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "hiếp dâm"
+    ],
+    [
+      "người phạm tội",
+      "chăm sóc"
+    ],
+    [
+      "người phạm tội",
+      "giáo dục"
+    ],
+    [
+      "người phạm tội",
+      "chữa bệnh"
+    ],
+    [
+      "người phạm tội",
+      "làm nạn nhân có thai"
+    ],
+    [
+      "người phạm tội",
+      "gây thương tích"
+    ],
+    [
+      "người phạm tội",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người phạm tội",
+      "gây rối loạn tâm thần và hành vi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội hiếp dâm",
+      "phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "tỷ lệ phần trăm"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "loạn luân"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

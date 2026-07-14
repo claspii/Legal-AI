@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "gian lận trong kinh doanh bảo hiểm",
+    "phạm tội",
+    "chiếm đoạt số tiền bảo hiểm",
+    "gây thiệt hại",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gian lận trong kinh doanh bảo hiểm",
+      "chiếm đoạt số tiền bảo hiểm"
+    ],
+    [
+      "gian lận trong kinh doanh bảo hiểm",
+      "gây thiệt hại"
+    ]
+  ]
+}

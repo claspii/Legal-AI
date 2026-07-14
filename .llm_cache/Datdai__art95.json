@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người sử dụng đất",
+    "ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "thu hồi đất",
+    "bồi thường",
+    "giao đất",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thu hồi đất"
+    ],
+    [
+      "người sử dụng đất",
+      "được bồi thường"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường về đất",
+      "nhà nước thu hồi đất"
+    ],
+    [
+      "giá đất cụ thể",
+      "ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "bồi thường bằng đất",
+      "bồi thường bằng tiền"
+    ],
+    [
+      "loại đất thu hồi",
+      "mục đích sử dụng"
+    ]
+  ]
+}

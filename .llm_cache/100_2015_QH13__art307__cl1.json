@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người chết",
+    "người bị thương tích",
+    "người bị tổn hại sức khỏe"
+  ],
+  "actions": [
+    "vi phạm quy định",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ khí quân dụng",
+      "vũ khí thể thao"
+    ],
+    [
+      "vũ khí quân dụng",
+      "vật liệu nổ"
+    ],
+    [
+      "súng săn",
+      "vũ khí thể thao"
+    ],
+    [
+      "vật liệu nổ",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

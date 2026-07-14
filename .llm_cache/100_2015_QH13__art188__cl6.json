@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "buôn lậu",
+    "phạm tội",
+    "thực hiện hành vi",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "bị phạt tiền",
+    "bị đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "vi phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "buôn lậu"
+    ],
+    [
+      "buôn lậu",
+      "hàng hóa"
+    ],
+    [
+      "buôn lậu",
+      "tiền việt nam"
+    ],
+    [
+      "buôn lậu",
+      "ngoại tệ"
+    ],
+    [
+      "buôn lậu",
+      "kim khí quý"
+    ],
+    [
+      "buôn lậu",
+      "đá quý"
+    ],
+    [
+      "buôn lậu",
+      "di vật"
+    ],
+    [
+      "buôn lậu",
+      "cổ vật"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "hủy bỏ hợp đồng",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thể thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hủy bỏ hợp đồng",
+      "không có khả năng thực hiện"
+    ],
+    [
+      "không thể thực hiện nghĩa vụ",
+      "mục đích không đạt được"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

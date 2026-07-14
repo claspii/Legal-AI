@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người bị kết án"
+  ],
+  "actions": [
+    "xóa án tích",
+    "chấp hành xong hình phạt chính",
+    "hết thời hiệu thi hành bản án",
+    "đáp ứng các điều kiện",
+    "quyết định việc xóa án tích",
+    "chấp hành pháp luật",
+    "lao động"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xóa án tích"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt chính"
+    ],
+    [
+      "người bị kết án",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "người bị kết án",
+      "đáp ứng các điều kiện"
+    ],
+    [
+      "tòa án",
+      "quyết định việc xóa án tích"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành pháp luật"
+    ],
+    [
+      "người bị kết án",
+      "lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xóa án tích",
+      "tòa án"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt chính"
+    ],
+    [
+      "người bị kết án",
+      "thời gian thử thách án treo"
+    ],
+    [
+      "người bị kết án",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "tòa án",
+      "tính chất của tội phạm"
+    ],
+    [
+      "tòa án",
+      "thái độ chấp hành pháp luật"
+    ],
+    [
+      "tòa án",
+      "thái độ lao động"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán",
+    "bên cho thuê khoán"
+  ],
+  "actions": [
+    "khai thác tài sản thuê khoán",
+    "báo",
+    "báo đột xuất",
+    "báo kịp thời",
+    "chấm dứt thực hiện hợp đồng",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "khai thác tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "báo"
+    ],
+    [
+      "bên thuê khoán",
+      "báo đột xuất"
+    ],
+    [
+      "bên thuê khoán",
+      "báo kịp thời"
+    ],
+    [
+      "bên cho thuê khoán",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên cho thuê khoán",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê khoán",
+      "tài sản thuê khoán"
+    ],
+    [
+      "bên cho thuê khoán",
+      "tài sản thuê khoán"
+    ],
+    [
+      "khai thác tài sản thuê khoán",
+      "mục đích đã thỏa thuận"
+    ],
+    [
+      "chấm dứt thực hiện hợp đồng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

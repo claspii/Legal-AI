@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được tặng cho"
+  ],
+  "actions": [
+    "nhận tài sản",
+    "đăng ký"
+  ],
+  "actor_actions": [
+    [
+      "bên được tặng cho",
+      "nhận tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng tặng cho động sản",
+      "thời điểm bên được tặng cho nhận tài sản"
+    ],
+    [
+      "hợp đồng tặng cho động sản",
+      "thời điểm đăng ký"
+    ],
+    [
+      "động sản",
+      "đăng ký quyền sở hữu"
+    ]
+  ]
+}

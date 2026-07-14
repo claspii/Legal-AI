@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "dẫn đến chết người",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội cố ý gây thương tích",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "tội cố ý gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "chết người"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "phạt tù"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "phạt tù"
+    ]
+  ]
+}

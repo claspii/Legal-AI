@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị thiệt hại",
+    "người chịu trách nhiệm bồi thường",
+    "những người thân thích thuộc hàng thừa kế thứ nhất",
+    "người trực tiếp nuôi dưỡng người bị thiệt hại",
+    "Nhà nước",
+    "các bên"
+  ],
+  "actions": [
+    "bồi thường",
+    "cấp dưỡng",
+    "xâm phạm",
+    "thỏa thuận",
+    "nuôi dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm bồi thường",
+      "bồi thường"
+    ],
+    [
+      "người bị thiệt hại",
+      "cấp dưỡng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "người bị thiệt hại",
+      "bị xâm phạm"
+    ],
+    [
+      "người bị thiệt hại",
+      "nuôi dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại do tính mạng bị xâm phạm",
+      "chi phí hợp lý cho việc mai táng"
+    ],
+    [
+      "thiệt hại do tính mạng bị xâm phạm",
+      "tiền cấp dưỡng"
+    ],
+    [
+      "thiệt hại do tính mạng bị xâm phạm",
+      "thiệt hại do sức khỏe bị xâm phạm"
+    ],
+    [
+      "người chịu trách nhiệm bồi thường",
+      "bù đắp tổn thất về tinh thần"
+    ],
+    [
+      "mức lương cơ sở",
+      "Nhà nước"
+    ]
+  ]
+}

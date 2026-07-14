@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+    "không được trợ cấp thôi việc",
+    "bồi thường",
+    "hoàn trả",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động trái pháp luật"
+    ],
+    [
+      "người lao động",
+      "không được trợ cấp thôi việc"
+    ],
+    [
+      "người lao động",
+      "bồi thường"
+    ],
+    [
+      "người lao động",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "bồi thường",
+      "tiền lương theo hợp đồng lao động"
+    ],
+    [
+      "hoàn trả",
+      "chi phí đào tạo"
+    ]
+  ]
+}

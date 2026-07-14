@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cho phép chôn, lấp, đổ, thải trái quy định của pháp luật chất thải nguy hại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cho phép chôn, lấp, đổ, thải trái quy định của pháp luật chất thải nguy hại"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "có thể bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất ô nhiễm hữu cơ khó phân hủy"
+    ],
+    [
+      "chất thải nguy hại",
+      "chất phóng xạ"
+    ],
+    [
+      "chất phóng xạ",
+      "nguồn phóng xạ"
+    ],
+    [
+      "mức độ nguy hiểm",
+      "quy chuẩn kỹ thuật quốc gia về an toàn bức xạ"
+    ]
+  ]
+}

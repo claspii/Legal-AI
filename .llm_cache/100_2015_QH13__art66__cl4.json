@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được tha tù trước thời hạn có điều kiện",
+    "tòa án",
+    "người đó"
+  ],
+  "actions": [
+    "cố ý vi phạm nghĩa vụ",
+    "bị xử phạt vi phạm hành chính",
+    "hủy bỏ quyết định tha tù trước thời hạn có điều kiện",
+    "buộc họ phải chấp hành phần hình phạt tù còn lại chưa chấp hành",
+    "thực hiện hành vi phạm tội mới",
+    "buộc người đó chấp hành hình phạt của bản án mới",
+    "tổng hợp với phần hình phạt tù chưa chấp hành của bản án trước"
+  ],
+  "actor_actions": [
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "cố ý vi phạm nghĩa vụ"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "tòa án",
+      "hủy bỏ quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "tòa án",
+      "buộc họ phải chấp hành phần hình phạt tù còn lại chưa chấp hành"
+    ],
+    [
+      "người đó",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "tòa án",
+      "buộc người đó chấp hành hình phạt của bản án mới"
+    ],
+    [
+      "tòa án",
+      "tổng hợp với phần hình phạt tù chưa chấp hành của bản án trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "thời gian thử thách"
+    ],
+    [
+      "cố ý vi phạm nghĩa vụ",
+      "hủy bỏ quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "hủy bỏ quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "thực hiện hành vi phạm tội mới",
+      "tổng hợp với phần hình phạt tù chưa chấp hành của bản án trước"
+    ]
+  ]
+}

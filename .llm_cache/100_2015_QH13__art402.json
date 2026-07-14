@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "rời bỏ hàng ngũ quân đội",
+    "trốn tránh nghĩa vụ",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "gây hậu quả",
+    "phạm tội",
+    "lôi kéo người khác phạm tội",
+    "mang theo vũ khí",
+    "vứt bỏ vũ khí",
+    "thực hiện nhiệm vụ cứu hộ, cứu nạn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "rời bỏ hàng ngũ quân đội"
+    ],
+    [
+      "người",
+      "trốn tránh nghĩa vụ"
+    ],
+    [
+      "người",
+      "gây hậu quả"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ],
+    [
+      "người",
+      "mang theo, vứt bỏ vũ khí, trang bị kỹ thuật quân sự hoặc tài liệu bí mật quân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đào ngũ",
+      "rời bỏ hàng ngũ quân đội"
+    ],
+    [
+      "đào ngũ",
+      "trốn tránh nghĩa vụ"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "phạt tù từ 02 năm đến 07 năm"
+    ],
+    [
+      "hậu quả đặc biệt nghiêm trọng",
+      "phạt tù từ 05 năm đến 12 năm"
+    ],
+    [
+      "chiến đấu",
+      "khu vực có chiến sự"
+    ]
+  ]
+}

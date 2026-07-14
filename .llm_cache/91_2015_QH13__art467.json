@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho vay",
+    "bên vay",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "sử dụng tài sản vay",
+    "kiểm tra việc sử dụng tài sản",
+    "đòi lại tài sản vay",
+    "nhắc nhở",
+    "sử dụng tài sản trái mục đích"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên cho vay",
+      "kiểm tra việc sử dụng tài sản"
+    ],
+    [
+      "bên cho vay",
+      "đòi lại tài sản vay"
+    ],
+    [
+      "bên vay",
+      "sử dụng tài sản trái mục đích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản vay",
+      "mục đích vay"
+    ],
+    [
+      "bên cho vay",
+      "bên vay"
+    ],
+    [
+      "kiểm tra",
+      "đòi lại tài sản vay"
+    ],
+    [
+      "nhắc nhở",
+      "sử dụng tài sản trái mục đích"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người phạm tội"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "căn cứ vào",
+    "cân nhắc",
+    "quyết định áp dụng hình phạt tiền",
+    "thi hành"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "căn cứ vào"
+    ],
+    [
+      "tòa án",
+      "cân nhắc"
+    ],
+    [
+      "tòa án",
+      "quyết định áp dụng hình phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "thi hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "bộ luật này"
+    ],
+    [
+      "hình phạt",
+      "tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội"
+    ],
+    [
+      "hình phạt",
+      "nhân thân người phạm tội"
+    ],
+    [
+      "hình phạt",
+      "tình tiết giảm nhẹ và tăng nặng trách nhiệm hình sự"
+    ],
+    [
+      "hình phạt tiền",
+      "tình hình tài sản"
+    ],
+    [
+      "hình phạt tiền",
+      "khả năng thi hành của người phạm tội"
+    ]
+  ]
+}

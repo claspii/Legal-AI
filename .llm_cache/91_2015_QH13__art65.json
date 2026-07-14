@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người có quyền, lợi ích liên quan",
+    "người vắng mặt tại nơi cư trú",
+    "người được ủy quyền",
+    "chủ sở hữu chung",
+    "vợ hoặc chồng",
+    "con thành niên",
+    "cha, mẹ"
+  ],
+  "actions": [
+    "yêu cầu",
+    "giao tài sản",
+    "quản lý",
+    "ủy quyền quản lý",
+    "chỉ định"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền, lợi ích liên quan",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "giao tài sản"
+    ],
+    [
+      "người được ủy quyền",
+      "quản lý"
+    ],
+    [
+      "chủ sở hữu chung còn lại",
+      "quản lý"
+    ],
+    [
+      "vợ hoặc chồng",
+      "quản lý"
+    ],
+    [
+      "con thành niên",
+      "quản lý"
+    ],
+    [
+      "cha, mẹ",
+      "quản lý"
+    ],
+    [
+      "tòa án",
+      "chỉ định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người vắng mặt tại nơi cư trú",
+      "tài sản của người vắng mặt"
+    ],
+    [
+      "tòa án",
+      "quản lý tài sản"
+    ],
+    [
+      "người được ủy quyền",
+      "tài sản đã được người vắng mặt ủy quyền quản lý"
+    ],
+    [
+      "chủ sở hữu chung",
+      "tài sản chung"
+    ],
+    [
+      "vợ hoặc chồng",
+      "tài sản do vợ hoặc chồng đang quản lý"
+    ],
+    [
+      "người vắng mặt tại nơi cư trú",
+      "người thân thích"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người học nghề",
+    "người tập nghề",
+    "người sử dụng lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "học nghề",
+    "tập nghề",
+    "làm việc",
+    "trực tiếp lao động",
+    "tham gia lao động",
+    "trả lương",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người học nghề",
+      "học nghề"
+    ],
+    [
+      "người học nghề",
+      "trực tiếp lao động"
+    ],
+    [
+      "người học nghề",
+      "tham gia lao động"
+    ],
+    [
+      "người tập nghề",
+      "tập nghề"
+    ],
+    [
+      "người tập nghề",
+      "trực tiếp lao động"
+    ],
+    [
+      "người tập nghề",
+      "tham gia lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "học nghề",
+      "làm việc"
+    ],
+    [
+      "tập nghề",
+      "làm việc"
+    ],
+    [
+      "trực tiếp lao động",
+      "trả lương"
+    ],
+    [
+      "tham gia lao động",
+      "trả lương"
+    ]
+  ]
+}

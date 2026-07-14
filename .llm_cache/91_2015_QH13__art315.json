@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt cầm cố tài sản",
+    "hủy bỏ",
+    "thay thế",
+    "xử lý",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cầm cố tài sản",
+      "nghĩa vụ được bảo đảm"
+    ],
+    [
+      "cầm cố tài sản",
+      "biện pháp bảo đảm khác"
+    ]
+  ]
+}

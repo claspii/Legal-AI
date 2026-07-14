@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan có thẩm quyền khác"
+  ],
+  "actions": [
+    "xác lập quyền dân sự",
+    "chiếm hữu tài sản",
+    "sử dụng tài sản",
+    "thực hiện công việc không có ủy quyền"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền dân sự",
+      "hợp đồng"
+    ],
+    [
+      "quyền dân sự",
+      "hành vi pháp lý đơn phương"
+    ],
+    [
+      "quyền dân sự",
+      "quyết định của tòa án"
+    ],
+    [
+      "quyền dân sự",
+      "kết quả của lao động"
+    ],
+    [
+      "quyền dân sự",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "quyền dân sự",
+      "sử dụng tài sản"
+    ],
+    [
+      "quyền dân sự",
+      "bị thiệt hại do hành vi trái pháp luật"
+    ]
+  ]
+}

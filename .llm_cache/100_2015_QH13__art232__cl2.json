@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "vi phạm",
+    "khai thác",
+    "bảo vệ",
+    "quản lý",
+    "phạm tội",
+    "tàng trữ",
+    "vận chuyển",
+    "chế biến",
+    "mua bán"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "khai thác trái phép",
+      "rừng sản xuất"
+    ],
+    [
+      "khai thác trái phép",
+      "rừng phòng hộ"
+    ],
+    [
+      "khai thác trái phép",
+      "rừng đặc dụng"
+    ],
+    [
+      "tàng trữ",
+      "gỗ loài thực vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "vận chuyển",
+      "gỗ loài thực vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "chế biến",
+      "gỗ loài thực vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "mua bán",
+      "gỗ loài thực vật nguy cấp, quý, hiếm"
+    ],
+    [
+      "phạm tội",
+      "tổ chức"
+    ]
+  ]
+}

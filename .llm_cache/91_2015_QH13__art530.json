@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "hợp đồng vận chuyển tài sản"
+  ],
+  "actors": [
+    "bên vận chuyển",
+    "bên thuê vận chuyển",
+    "người có quyền nhận",
+    "các bên"
+  ],
+  "actions": [
+    "chuyển tài sản",
+    "giao tài sản",
+    "trả cước phí vận chuyển",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "chuyển tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "giao tài sản"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "trả cước phí vận chuyển"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vận chuyển tài sản",
+      "bên vận chuyển"
+    ],
+    [
+      "hợp đồng vận chuyển tài sản",
+      "bên thuê vận chuyển"
+    ],
+    [
+      "tài sản",
+      "cước phí vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "người có quyền nhận"
+    ]
+  ]
+}

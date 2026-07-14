@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm",
+    "chủ sở hữu",
+    "ủy ban nhân dân cấp xã",
+    "công an cấp xã",
+    "cơ quan nhà nước có thẩm quyền",
+    "nhà nước",
+    "người tìm thấy"
+  ],
+  "actions": [
+    "thông báo",
+    "trả lại",
+    "giao nộp",
+    "xác lập quyền sở hữu",
+    "tìm kiếm",
+    "bảo quản",
+    "hưởng một khoản tiền thưởng"
+  ],
+  "actor_actions": [
+    [
+      "người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm",
+      "thông báo"
+    ],
+    [
+      "người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm",
+      "trả lại"
+    ],
+    [
+      "người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm",
+      "giao nộp"
+    ],
+    [
+      "nhà nước",
+      "xác định mức lương cơ sở"
+    ],
+    [
+      "người tìm thấy",
+      "hưởng một khoản tiền thưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bị chôn, giấu, bị vùi lấp, chìm đắm",
+      "chủ sở hữu"
+    ],
+    [
+      "tài sản thuộc di tích lịch sử - văn hóa",
+      "nhà nước"
+    ],
+    [
+      "tài sản không phải là di tích lịch sử - văn hóa có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở",
+      "người tìm thấy"
+    ],
+    [
+      "tài sản không phải là di tích lịch sử - văn hóa có giá trị lớn hơn mười lần mức lương cơ sở",
+      "người tìm thấy"
+    ],
+    [
+      "tài sản không phải là di tích lịch sử - văn hóa có giá trị lớn hơn mười lần mức lương cơ sở",
+      "nhà nước"
+    ]
+  ]
+}

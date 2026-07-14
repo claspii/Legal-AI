@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp luật"
+  ],
+  "actions": [
+    "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+    "đưa vào",
+    "mang ra",
+    "cho phép đưa vào",
+    "cho phép mang ra",
+    "kiểm dịch",
+    "vi phạm hành chính"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật"
+    ],
+    [
+      "người",
+      "đưa vào khỏi vùng có dịch"
+    ],
+    [
+      "người",
+      "mang ra khỏi vùng có dịch"
+    ],
+    [
+      "người",
+      "cho phép đưa vào khỏi vùng có dịch"
+    ],
+    [
+      "người",
+      "cho phép mang ra khỏi vùng có dịch"
+    ],
+    [
+      "người",
+      "đưa vào lãnh thổ việt nam động vật, thực vật, sản phẩm động vật, thực vật thuộc diện kiểm dịch mà không thực hiện các quy định của pháp luật về kiểm dịch"
+    ],
+    [
+      "người",
+      "cho phép đưa vào lãnh thổ việt nam động vật, thực vật, sản phẩm động vật, thực vật thuộc diện kiểm dịch mà không thực hiện các quy định của pháp luật về kiểm dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "vùng có dịch",
+      "động vật"
+    ],
+    [
+      "vùng có dịch",
+      "thực vật"
+    ],
+    [
+      "vùng có dịch",
+      "sản phẩm động vật"
+    ],
+    [
+      "vùng có dịch",
+      "sản phẩm thực vật"
+    ],
+    [
+      "kiểm dịch",
+      "động vật"
+    ],
+    [
+      "kiểm dịch",
+      "thực vật"
+    ]
+  ]
+}

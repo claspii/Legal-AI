@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "người nước ngoài tại việt nam",
+    "công dân việt nam",
+    "chính phủ",
+    "các bên"
+  ],
+  "actions": [
+    "tôn trọng",
+    "bảo vệ",
+    "bảo hộ",
+    "quy định chi tiết",
+    "giải quyết",
+    "bảo đảm"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "bảo hộ"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "chính phủ",
+      "giải quyết"
+    ],
+    [
+      "chính phủ",
+      "bảo đảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ hôn nhân và gia đình có yếu tố nước ngoài",
+      "pháp luật việt nam"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình có yếu tố nước ngoài",
+      "điều ước quốc tế"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "công dân việt nam",
+      "người nước ngoài tại việt nam"
+    ],
+    [
+      "pháp luật việt nam",
+      "pháp luật của nước sở tại"
+    ],
+    [
+      "pháp luật của nước sở tại",
+      "pháp luật và tập quán quốc tế"
+    ]
+  ]
+}

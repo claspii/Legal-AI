@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội lừa đảo chiếm đoạt tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "phạm tội",
+      "dùng thủ đoạn xảo quyệt"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trị giá từ 50.000.000 đồng đến dưới 200.000.000 đồng"
+    ]
+  ]
+}

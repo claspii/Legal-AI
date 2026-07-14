@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên ủy quyền",
+    "bên được ủy quyền",
+    "người thứ ba"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "trả thù lao",
+    "bồi thường thiệt hại",
+    "báo trước",
+    "báo bằng văn bản",
+    "biết",
+    "có hiệu lực"
+  ],
+  "actor_actions": [
+    [
+      "bên ủy quyền",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên ủy quyền",
+      "trả thù lao"
+    ],
+    [
+      "bên ủy quyền",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên ủy quyền",
+      "báo trước"
+    ],
+    [
+      "bên ủy quyền",
+      "báo bằng văn bản"
+    ],
+    [
+      "bên được ủy quyền",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ủy quyền có thù lao",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "ủy quyền không có thù lao",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "chấm dứt hợp đồng ủy quyền",
+      "thù lao"
+    ],
+    [
+      "chấm dứt hợp đồng ủy quyền",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chấm dứt hợp đồng ủy quyền",
+      "báo trước"
+    ],
+    [
+      "hợp đồng ủy quyền đã bị chấm dứt",
+      "người thứ ba biết hoặc phải biết"
+    ]
+  ]
+}

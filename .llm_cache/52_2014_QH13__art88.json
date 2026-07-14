@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "vợ",
+    "chồng",
+    "con",
+    "tòa án"
+  ],
+  "actions": [
+    "xác định cha, mẹ",
+    "có thai",
+    "chấm dứt hôn nhân",
+    "sinh ra",
+    "đăng ký kết hôn",
+    "thừa nhận",
+    "không thừa nhận"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "có thai"
+    ],
+    [
+      "cha, mẹ",
+      "thừa nhận"
+    ],
+    [
+      "cha, mẹ",
+      "không thừa nhận"
+    ],
+    [
+      "tòa án",
+      "xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con",
+      "cha, mẹ"
+    ],
+    [
+      "con",
+      "vợ chồng"
+    ],
+    [
+      "hôn nhân",
+      "thời kỳ hôn nhân"
+    ],
+    [
+      "chấm dứt hôn nhân",
+      "thời hạn 300 ngày"
+    ],
+    [
+      "chứng cứ",
+      "tòa án xác định"
+    ]
+  ]
+}

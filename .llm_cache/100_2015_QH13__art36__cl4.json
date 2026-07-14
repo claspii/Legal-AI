@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị phạt cải tạo không giam giữ",
+    "phụ nữ có thai",
+    "phụ nữ đang nuôi con dưới 06 tháng tuổi",
+    "người già yếu",
+    "người bị bệnh hiểm nghèo",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "người bị kết án cải tạo không giam giữ"
+  ],
+  "actions": [
+    "thực hiện một số công việc lao động phục vụ cộng đồng",
+    "không áp dụng biện pháp lao động phục vụ cộng đồng",
+    "thực hiện những nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "thực hiện một số công việc lao động phục vụ cộng đồng"
+    ],
+    [
+      "phụ nữ có thai",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "phụ nữ đang nuôi con dưới 06 tháng tuổi",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "người già yếu",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "người bị bệnh hiểm nghèo",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "người khuyết tật nặng",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "người khuyết tật đặc biệt nặng",
+      "không áp dụng biện pháp lao động phục vụ cộng đồng"
+    ],
+    [
+      "người bị kết án cải tạo không giam giữ",
+      "thực hiện những nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "công việc lao động phục vụ cộng đồng"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "không có việc làm"
+    ],
+    [
+      "người bị phạt cải tạo không giam giữ",
+      "mất việc làm"
+    ],
+    [
+      "công việc lao động phục vụ cộng đồng",
+      "thời gian"
+    ],
+    [
+      "người bị kết án cải tạo không giam giữ",
+      "nghĩa vụ"
+    ]
+  ]
+}

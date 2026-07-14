@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bán dâm",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chứa mại dâm",
+    "phạm tội",
+    "có tổ chức",
+    "cưỡng bức mại dâm",
+    "gây rối loạn tâm thần và hành vi",
+    "thu lợi bất chính",
+    "tái phạm nguy hiểm",
+    "chết",
+    "tự sát",
+    "bị phạt tiền",
+    "phạt quản chế",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chứa mại dâm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "có tổ chức"
+    ],
+    [
+      "người",
+      "cưỡng bức mại dâm"
+    ],
+    [
+      "người",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chứa mại dâm",
+      "phạt tù"
+    ],
+    [
+      "chứa mại dâm",
+      "thu lợi bất chính"
+    ],
+    [
+      "chứa mại dâm",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "chứa mại dâm",
+      "cưỡng bức mại dâm"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ]
+}

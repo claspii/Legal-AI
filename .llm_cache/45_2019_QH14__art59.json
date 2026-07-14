@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "nhà nước",
+    "người sử dụng lao động",
+    "cơ sở giáo dục nghề nghiệp",
+    "hội đồng kỹ năng nghề"
+  ],
+  "actions": [
+    "lựa chọn đào tạo nghề nghiệp",
+    "tham gia đánh giá",
+    "công nhận kỹ năng nghề quốc gia",
+    "phát triển năng lực nghề nghiệp",
+    "có chính sách khuyến khích",
+    "thành lập cơ sở giáo dục nghề nghiệp",
+    "mở lớp đào tạo nghề",
+    "phối hợp với cơ sở giáo dục nghề nghiệp"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "lựa chọn đào tạo nghề nghiệp"
+    ],
+    [
+      "người lao động",
+      "tham gia đánh giá"
+    ],
+    [
+      "người lao động",
+      "công nhận kỹ năng nghề quốc gia"
+    ],
+    [
+      "người lao động",
+      "phát triển năng lực nghề nghiệp"
+    ],
+    [
+      "nhà nước",
+      "có chính sách khuyến khích"
+    ],
+    [
+      "người sử dụng lao động",
+      "thành lập cơ sở giáo dục nghề nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "mở lớp đào tạo nghề"
+    ],
+    [
+      "người sử dụng lao động",
+      "phối hợp với cơ sở giáo dục nghề nghiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đào tạo nghề nghiệp",
+      "kỹ năng nghề"
+    ],
+    [
+      "đào tạo nghề nghiệp",
+      "phát triển kỹ năng nghề"
+    ],
+    [
+      "đánh giá kỹ năng nghề",
+      "công nhận kỹ năng nghề"
+    ],
+    [
+      "người lao động",
+      "năng lực nghề nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "cơ sở giáo dục nghề nghiệp"
+    ],
+    [
+      "cơ sở giáo dục nghề nghiệp",
+      "đào tạo các trình độ sơ cấp"
+    ],
+    [
+      "cơ sở giáo dục nghề nghiệp",
+      "trung cấp"
+    ],
+    [
+      "cơ sở giáo dục nghề nghiệp",
+      "cao đẳng"
+    ]
+  ]
+}

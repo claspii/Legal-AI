@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "người được người lao động ủy quyền hợp pháp",
+    "đơn vị khác"
+  ],
+  "actions": [
+    "trả lương trực tiếp",
+    "trả lương đầy đủ",
+    "trả lương đúng hạn",
+    "nhận lương trực tiếp",
+    "ủy quyền hợp pháp",
+    "hạn chế quyền tự quyết chi tiêu lương",
+    "can thiệp vào quyền tự quyết chi tiêu lương",
+    "ép buộc người lao động chi tiêu lương",
+    "mua hàng hóa",
+    "sử dụng dịch vụ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "phải trả lương trực tiếp"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải trả lương đầy đủ"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải trả lương đúng hạn"
+    ],
+    [
+      "người lao động",
+      "không thể nhận lương trực tiếp"
+    ],
+    [
+      "người sử dụng lao động",
+      "có thể trả lương cho người được người lao động ủy quyền hợp pháp"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được hạn chế quyền tự quyết chi tiêu lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được can thiệp vào quyền tự quyết chi tiêu lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được ép buộc người lao động chi tiêu lương"
+    ],
+    [
+      "người lao động",
+      "chi tiêu lương"
+    ],
+    [
+      "người lao động",
+      "mua hàng hóa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiền lương"
+    ],
+    [
+      "người lao động",
+      "tiền lương"
+    ],
+    [
+      "người lao động",
+      "quyền tự quyết chi tiêu lương"
+    ],
+    [
+      "tiền lương",
+      "chi tiêu lương"
+    ],
+    [
+      "người lao động",
+      "người được người lao động ủy quyền hợp pháp"
+    ]
+  ]
+}

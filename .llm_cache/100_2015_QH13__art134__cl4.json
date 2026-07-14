@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội cố ý gây thương tích",
+      "tội gây tổn hại cho sức khỏe của người khác"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt tù"
+    ]
+  ]
+}

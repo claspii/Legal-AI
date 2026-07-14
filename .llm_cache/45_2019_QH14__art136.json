@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "lao động nữ",
+    "đại diện của họ",
+    "người lao động"
+  ],
+  "actions": [
+    "bảo đảm thực hiện bình đẳng giới",
+    "thúc đẩy bình đẳng giới",
+    "tham khảo ý kiến",
+    "quyết định",
+    "bảo đảm có đủ buồng tắm",
+    "bảo đảm có đủ buồng vệ sinh",
+    "giúp đỡ",
+    "hỗ trợ xây dựng nhà trẻ",
+    "hỗ trợ xây dựng lớp mẫu giáo",
+    "hỗ trợ chi phí gửi trẻ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "bảo đảm thực hiện bình đẳng giới"
+    ],
+    [
+      "người sử dụng lao động",
+      "thúc đẩy bình đẳng giới"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm có đủ buồng tắm"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm có đủ buồng vệ sinh"
+    ],
+    [
+      "người sử dụng lao động",
+      "giúp đỡ"
+    ],
+    [
+      "người sử dụng lao động",
+      "hỗ trợ xây dựng nhà trẻ"
+    ],
+    [
+      "người sử dụng lao động",
+      "hỗ trợ xây dựng lớp mẫu giáo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bình đẳng giới",
+      "tuyển dụng"
+    ],
+    [
+      "bình đẳng giới",
+      "bố trí, sắp xếp việc làm"
+    ],
+    [
+      "lao động nữ",
+      "quyền và lợi ích của phụ nữ"
+    ],
+    [
+      "người sử dụng lao động",
+      "buồng tắm và buồng vệ sinh"
+    ],
+    [
+      "người lao động",
+      "nhà trẻ"
+    ],
+    [
+      "người lao động",
+      "lớp mẫu giáo"
+    ],
+    [
+      "chi phí",
+      "gửi trẻ"
+    ],
+    [
+      "chi phí",
+      "mẫu giáo"
+    ]
+  ]
+}

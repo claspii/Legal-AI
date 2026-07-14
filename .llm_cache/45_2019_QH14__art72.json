@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức công đoàn ngành",
+    "tổ chức đại diện người sử dụng lao động cấp ngành",
+    "các bên"
+  ],
+  "actions": [
+    "thương lượng tập thể ngành",
+    "thương lượng tập thể có nhiều doanh nghiệp tham gia",
+    "quyết định",
+    "thỏa thuận",
+    "tiến hành thương lượng tập thể"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận quyết định"
+    ],
+    [
+      "tổ chức công đoàn ngành",
+      "quyết định"
+    ],
+    [
+      "tổ chức đại diện người sử dụng lao động cấp ngành",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể ngành",
+      "tổ chức công đoàn ngành"
+    ],
+    [
+      "thương lượng tập thể ngành",
+      "tổ chức đại diện người sử dụng lao động cấp ngành"
+    ],
+    [
+      "thương lượng tập thể có nhiều doanh nghiệp tham gia",
+      "các bên"
+    ]
+  ]
+}

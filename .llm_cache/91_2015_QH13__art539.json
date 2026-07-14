@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận tài sản",
+    "bên vận chuyển",
+    "người thứ ba",
+    "bên thuê vận chuyển"
+  ],
+  "actions": [
+    "xuất trình",
+    "nhận tài sản",
+    "chịu chi phí",
+    "thanh toán chi phí",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận tài sản",
+      "xuất trình"
+    ],
+    [
+      "bên nhận tài sản",
+      "nhận tài sản"
+    ],
+    [
+      "bên nhận tài sản",
+      "chịu chi phí"
+    ],
+    [
+      "bên nhận tài sản",
+      "thanh toán chi phí"
+    ],
+    [
+      "người thứ ba",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận tài sản",
+      "vận đơn"
+    ],
+    [
+      "bên nhận tài sản",
+      "chứng từ vận chuyển"
+    ],
+    [
+      "bên nhận tài sản",
+      "chi phí xếp, dỡ tài sản"
+    ],
+    [
+      "bên nhận tài sản",
+      "chi phí hợp lý"
+    ],
+    [
+      "bên nhận tài sản",
+      "người thứ ba"
+    ],
+    [
+      "người thứ ba",
+      "bên thuê vận chuyển"
+    ]
+  ]
+}

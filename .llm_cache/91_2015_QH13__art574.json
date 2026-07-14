@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [
+    "thực hiện công việc không có ủy quyền"
+  ],
+  "actors": [
+    "người",
+    "người có công việc được thực hiện"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "biết",
+    "phản đối"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện công việc"
+    ],
+    [
+      "người",
+      "không có nghĩa vụ thực hiện công việc"
+    ],
+    [
+      "người",
+      "tự nguyện thực hiện công việc"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "không biết"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "biết mà không phản đối"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thực hiện công việc không có ủy quyền",
+      "nghĩa vụ thực hiện công việc"
+    ],
+    [
+      "người",
+      "người có công việc được thực hiện"
+    ],
+    [
+      "lợi ích",
+      "công việc được thực hiện"
+    ]
+  ]
+}

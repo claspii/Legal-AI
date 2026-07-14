@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà đầu tư"
+  ],
+  "actions": [
+    "thao túng thị trường chứng khoán",
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thao túng thị trường chứng khoán",
+      "thu lợi bất chính"
+    ],
+    [
+      "thao túng thị trường chứng khoán",
+      "gây thiệt hại"
+    ]
+  ]
+}

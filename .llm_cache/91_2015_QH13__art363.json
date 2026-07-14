@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bị vi phạm",
+    "bên vi phạm"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "vi phạm nghĩa vụ",
+    "có lỗi"
+  ],
+  "actor_actions": [
+    [
+      "bên bị vi phạm",
+      "có lỗi"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên vi phạm",
+      "vi phạm nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "mức độ lỗi"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "thiệt hại"
+    ],
+    [
+      "bên bị vi phạm",
+      "lỗi"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công ty đại chúng",
+    "quỹ đại chúng",
+    "nhà đầu tư",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sử dụng thông tin nội bộ để mua bán chứng khoán",
+    "tiết lộ thông tin",
+    "cung cấp thông tin",
+    "tư vấn cho người khác mua bán chứng khoán",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "phạm tội",
+    "bị cấm kinh doanh"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng thông tin nội bộ để mua bán chứng khoán"
+    ],
+    [
+      "người",
+      "tiết lộ thông tin"
+    ],
+    [
+      "người",
+      "cung cấp thông tin"
+    ],
+    [
+      "người",
+      "tư vấn cho người khác mua bán chứng khoán"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin nội bộ",
+      "mua bán chứng khoán"
+    ],
+    [
+      "thông tin nội bộ",
+      "công ty đại chúng"
+    ],
+    [
+      "thông tin nội bộ",
+      "quỹ đại chúng"
+    ],
+    [
+      "thu lợi bất chính",
+      "thiệt hại cho nhà đầu tư"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm kinh doanh",
+      "cấm huy động vốn"
+    ],
+    [
+      "phạm tội",
+      "pháp nhân thương mại"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người thi hành công vụ"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây ra"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người thi hành công vụ",
+      "gây ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "hành vi trái pháp luật"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "người thi hành công vụ"
+    ]
+  ]
+}

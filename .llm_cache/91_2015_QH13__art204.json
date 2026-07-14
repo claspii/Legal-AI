@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "chính phủ"
+  ],
+  "actions": [
+    "quản lý",
+    "tổ chức thực hiện",
+    "bảo vệ",
+    "điều tra",
+    "khảo sát",
+    "lập quy hoạch",
+    "đưa vào khai thác"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "tổ chức thực hiện"
+    ],
+    [
+      "chính phủ",
+      "bảo vệ"
+    ],
+    [
+      "chính phủ",
+      "điều tra"
+    ],
+    [
+      "chính phủ",
+      "khảo sát"
+    ],
+    [
+      "chính phủ",
+      "lập quy hoạch"
+    ],
+    [
+      "chính phủ",
+      "đưa vào khai thác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "chính phủ"
+    ],
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "quản lý"
+    ],
+    [
+      "cá nhân",
+      "quản lý"
+    ],
+    [
+      "pháp nhân",
+      "quản lý"
+    ]
+  ]
+}

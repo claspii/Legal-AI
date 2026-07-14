@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "tổ chức làm thêm giờ",
+    "thông báo bằng văn bản"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tổ chức làm thêm giờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo bằng văn bản"
+    ]
+  ],
+  "related_concepts": []
+}

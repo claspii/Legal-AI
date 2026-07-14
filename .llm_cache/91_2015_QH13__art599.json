@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới mười lăm tuổi",
+    "người mất năng lực hành vi dân sự",
+    "trường học",
+    "bệnh viện",
+    "pháp nhân khác",
+    "cha, mẹ",
+    "người giám hộ"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây thiệt hại",
+    "quản lý",
+    "chứng minh được",
+    "không có lỗi"
+  ],
+  "actor_actions": [
+    [
+      "người chưa đủ mười lăm tuổi",
+      "gây thiệt hại"
+    ],
+    [
+      "trường học",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "gây thiệt hại"
+    ],
+    [
+      "bệnh viện, pháp nhân khác",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "trường học, bệnh viện, pháp nhân khác",
+      "chứng minh được"
+    ],
+    [
+      "trường học, bệnh viện, pháp nhân khác",
+      "không có lỗi trong quản lý"
+    ],
+    [
+      "cha, mẹ, người giám hộ của người dưới mười lăm tuổi, người mất năng lực hành vi dân sự",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới mười lăm tuổi",
+      "trường học"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "bệnh viện, pháp nhân khác"
+    ],
+    [
+      "gây thiệt hại",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "không có lỗi trong quản lý",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

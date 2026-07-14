@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "tập quán về hôn nhân và gia đình"
+  ],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thừa nhận"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tập quán về hôn nhân và gia đình",
+      "hôn nhân và gia đình"
+    ],
+    [
+      "tập quán về hôn nhân và gia đình",
+      "quy tắc xử sự"
+    ],
+    [
+      "quy tắc xử sự",
+      "quyền"
+    ],
+    [
+      "quy tắc xử sự",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền",
+      "các bên"
+    ],
+    [
+      "nghĩa vụ",
+      "các bên"
+    ],
+    [
+      "hôn nhân và gia đình",
+      "quan hệ hôn nhân và gia đình"
+    ]
+  ]
+}

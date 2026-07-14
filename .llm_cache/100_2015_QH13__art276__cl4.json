@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không đủ điều kiện",
+    "người không có giấy phép",
+    "người không có giấy chứng nhận",
+    "người không có chứng chỉ chuyên môn"
+  ],
+  "actions": [
+    "giao",
+    "điều khiển",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường thủy"
+    ],
+    [
+      "người không đủ điều kiện",
+      "điều khiển phương tiện giao thông đường thủy"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện",
+      "điều khiển các phương tiện giao thông đường thủy"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "bị xử lý kỷ luật",
+      "hành vi này"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "hành vi này"
+    ],
+    [
+      "bị kết án",
+      "tội này"
+    ],
+    [
+      "chưa được xóa án tích",
+      "còn vi phạm"
+    ]
+  ]
+}

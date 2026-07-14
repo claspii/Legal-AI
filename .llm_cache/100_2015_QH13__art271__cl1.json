@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép lái tàu",
+    "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+    "điều khiển phương tiện giao thông đường sắt",
+    "gây thiệt hại",
+    "làm chết",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không có giấy phép lái tàu",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện giao thông đường sắt"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện giao thông đường sắt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thiệt hại",
+      "làm chết 01 người"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người với tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 61% đến 121%"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng"
+    ]
+  ]
+}

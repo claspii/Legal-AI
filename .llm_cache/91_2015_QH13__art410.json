@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên",
+    "các bên"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "thỏa thuận thời hạn thực hiện nghĩa vụ",
+    "hoãn thực hiện",
+    "thực hiện nghĩa vụ đối với nhau",
+    "không thỏa thuận bên nào thực hiện nghĩa vụ trước"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "thực hiện nghĩa vụ của mình khi đến hạn"
+    ],
+    [
+      "bên",
+      "không được hoãn thực hiện"
+    ],
+    [
+      "các bên",
+      "thỏa thuận thời hạn thực hiện nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "không thỏa thuận bên nào thực hiện nghĩa vụ trước"
+    ],
+    [
+      "các bên",
+      "phải đồng thời thực hiện nghĩa vụ đối với nhau"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng song vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "thời hạn thực hiện"
+    ],
+    [
+      "thực hiện nghĩa vụ",
+      "hoãn thực hiện"
+    ]
+  ]
+}

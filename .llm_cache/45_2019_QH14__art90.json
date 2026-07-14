@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [
+    "tiền lương"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "trả tiền lương",
+    "thực hiện công việc",
+    "bảo đảm trả lương bình đẳng"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "trả tiền lương"
+    ],
+    [
+      "người lao động",
+      "thực hiện công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm trả lương bình đẳng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền lương",
+      "mức lương theo công việc hoặc chức danh"
+    ],
+    [
+      "tiền lương",
+      "phụ cấp lương"
+    ],
+    [
+      "tiền lương",
+      "các khoản bổ sung khác"
+    ],
+    [
+      "mức lương theo công việc hoặc chức danh",
+      "mức lương tối thiểu"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ]
+  ]
+}

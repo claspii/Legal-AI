@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận bảo đảm",
+    "chủ sở hữu tài sản",
+    "bên có quyền xử lý tài sản",
+    "bên mua tài sản"
+  ],
+  "actions": [
+    "bán đấu giá tài sản",
+    "bán tài sản",
+    "thanh toán",
+    "chuyển quyền sở hữu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận bảo đảm",
+      "tự bán tài sản cầm cố, thế chấp"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "thực hiện các thủ tục"
+    ],
+    [
+      "bên có quyền xử lý tài sản",
+      "thực hiện các thủ tục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "tài sản thế chấp"
+    ],
+    [
+      "bán đấu giá tài sản cầm cố",
+      "bán đấu giá tài sản thế chấp"
+    ],
+    [
+      "bán tài sản",
+      "chuyển quyền sở hữu tài sản"
+    ]
+  ]
+}

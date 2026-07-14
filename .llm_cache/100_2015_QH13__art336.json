@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "đăng ký hộ tịch trái pháp luật",
+    "thực hiện việc đăng ký, cấp giấy tờ về hộ tịch trái pháp luật",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện việc đăng ký, cấp giấy tờ về hộ tịch trái pháp luật"
+    ],
+    [
+      "người nào",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người nào",
+      "phạt cảnh cáo"
+    ],
+    [
+      "người nào",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ nhất định"
+    ],
+    [
+      "người",
+      "đăng ký, cấp giấy tờ về hộ tịch trái pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đăng ký hộ tịch trái pháp luật",
+      "giấy tờ về hộ tịch"
+    ],
+    [
+      "người có nhiệm vụ, quyền hạn",
+      "đăng ký, cấp giấy tờ về hộ tịch trái pháp luật"
+    ],
+    [
+      "bị xử lý kỷ luật",
+      "còn vi phạm"
+    ],
+    [
+      "đăng ký, cấp giấy tờ về hộ tịch trái pháp luật",
+      "sử dụng để thực hiện hành vi trái pháp luật"
+    ]
+  ]
+}

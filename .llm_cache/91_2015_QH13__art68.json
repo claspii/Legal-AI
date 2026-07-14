@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có quyền, lợi ích liên quan",
+    "tòa án",
+    "vợ",
+    "chồng",
+    "ủy ban nhân dân cấp xã"
+  ],
+  "actions": [
+    "biệt tích",
+    "áp dụng biện pháp thông báo, tìm kiếm",
+    "tuyên bố mất tích",
+    "xin ly hôn",
+    "giải quyết ly hôn",
+    "gửi quyết định",
+    "ghi chú"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "biệt tích"
+    ],
+    [
+      "người có quyền, lợi ích liên quan",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất tích"
+    ],
+    [
+      "vợ hoặc chồng của người bị tuyên bố mất tích",
+      "xin ly hôn"
+    ],
+    [
+      "tòa án",
+      "giải quyết cho ly hôn"
+    ],
+    [
+      "tòa án",
+      "gửi quyết định"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "ghi chú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người biệt tích",
+      "tuyên bố mất tích"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "ly hôn"
+    ],
+    [
+      "quyết định của tòa án tuyên bố một người mất tích",
+      "ghi chú"
+    ]
+  ]
+}

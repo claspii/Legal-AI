@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [
+    "biện pháp bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "cầm cố tài sản"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "thế chấp tài sản"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "đặt cọc"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "ký cược"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "ký quỹ"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "bảo lưu quyền sở hữu"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "bảo lãnh"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "tín chấp"
+    ],
+    [
+      "biện pháp bảo đảm thực hiện nghĩa vụ",
+      "cầm giữ tài sản"
+    ]
+  ]
+}

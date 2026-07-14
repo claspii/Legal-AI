@@ -1,0 +1,16 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": []
+}

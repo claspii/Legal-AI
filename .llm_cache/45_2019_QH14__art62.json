@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "đối tác",
+    "người dạy",
+    "người học"
+  ],
+  "actions": [
+    "ký kết hợp đồng đào tạo nghề",
+    "đào tạo nâng cao trình độ, kỹ năng nghề",
+    "đào tạo lại",
+    "giữ (hợp đồng)",
+    "làm việc",
+    "hoàn trả chi phí đào tạo",
+    "chi (chi phí đào tạo)"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "ký kết hợp đồng đào tạo nghề"
+    ],
+    [
+      "người lao động",
+      "được đào tạo nâng cao trình độ, kỹ năng nghề"
+    ],
+    [
+      "người lao động",
+      "được đào tạo lại"
+    ],
+    [
+      "người sử dụng lao động",
+      "giữ (hợp đồng)"
+    ],
+    [
+      "người lao động",
+      "giữ (hợp đồng)"
+    ],
+    [
+      "người lao động",
+      "phải làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng đào tạo nghề",
+      "người sử dụng lao động"
+    ],
+    [
+      "hợp đồng đào tạo nghề",
+      "người lao động"
+    ],
+    [
+      "hợp đồng đào tạo nghề",
+      "chi phí đào tạo nghề"
+    ],
+    [
+      "chi phí đào tạo",
+      "người sử dụng lao động"
+    ],
+    [
+      "chi phí đào tạo",
+      "trách nhiệm hoàn trả"
+    ],
+    [
+      "nghề đào tạo",
+      "thời gian đào tạo"
+    ]
+  ]
+}

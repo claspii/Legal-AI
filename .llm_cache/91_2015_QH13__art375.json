@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận chấm dứt nghĩa vụ",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận chấm dứt nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt nghĩa vụ",
+      "thỏa thuận"
+    ],
+    [
+      "lợi ích quốc gia",
+      "gây thiệt hại"
+    ],
+    [
+      "lợi ích dân tộc",
+      "gây thiệt hại"
+    ],
+    [
+      "lợi ích công cộng",
+      "gây thiệt hại"
+    ],
+    [
+      "quyền và lợi ích hợp pháp của người khác",
+      "gây thiệt hại"
+    ]
+  ]
+}

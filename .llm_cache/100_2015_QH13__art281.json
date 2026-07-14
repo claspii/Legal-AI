@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "vi phạm quy định về duy tu, sửa chữa, quản lý các công trình giao thông",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "không thực hiện",
+    "thực hiện không đúng quy định",
+    "không khắc phục kịp thời",
+    "làm chết",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về duy tu, sửa chữa, quản lý các công trình giao thông"
+    ],
+    [
+      "người nào",
+      "gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "không thực hiện"
+    ],
+    [
+      "người nào",
+      "thực hiện không đúng quy định"
+    ],
+    [
+      "người nào",
+      "không khắc phục kịp thời"
+    ],
+    [
+      "người nào",
+      "làm chết"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công trình giao thông",
+      "duy tu"
+    ],
+    [
+      "công trình giao thông",
+      "sửa chữa"
+    ],
+    [
+      "công trình giao thông",
+      "quản lý"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "không bảo đảm trạng thái an toàn kỹ thuật",
+      "công trình giao thông"
+    ],
+    [
+      "không bảo đảm tiêu chuẩn kỹ thuật",
+      "công trình giao thông"
+    ]
+  ]
+}

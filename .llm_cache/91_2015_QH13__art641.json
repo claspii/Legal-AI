@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "tổ chức hành nghề công chứng",
+    "người khác",
+    "người giữ bản di chúc",
+    "người thừa kế",
+    "người có thẩm quyền công bố di chúc",
+    "người giao",
+    "người nhận"
+  ],
+  "actions": [
+    "yêu cầu",
+    "lưu giữ",
+    "gửi",
+    "bảo quản",
+    "giữ gìn",
+    "giữ bí mật",
+    "báo ngay",
+    "giao lại"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "yêu cầu"
+    ],
+    [
+      "tổ chức hành nghề công chứng",
+      "lưu giữ"
+    ],
+    [
+      "người khác",
+      "giữ bản di chúc"
+    ],
+    [
+      "tổ chức hành nghề công chứng",
+      "bảo quản"
+    ],
+    [
+      "tổ chức hành nghề công chứng",
+      "giữ gìn"
+    ],
+    [
+      "người giữ bản di chúc",
+      "giữ bí mật"
+    ],
+    [
+      "người giữ bản di chúc",
+      "báo ngay"
+    ],
+    [
+      "người giữ bản di chúc",
+      "giao lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lập di chúc",
+      "di chúc"
+    ],
+    [
+      "tổ chức hành nghề công chứng",
+      "di chúc"
+    ],
+    [
+      "người giữ bản di chúc",
+      "di chúc"
+    ],
+    [
+      "người thừa kế",
+      "di chúc"
+    ],
+    [
+      "người có thẩm quyền công bố di chúc",
+      "di chúc"
+    ]
+  ]
+}

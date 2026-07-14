@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "người từ đủ 13 tuổi đến dưới 18 tuổi",
+    "phụ nữ",
+    "người đang cai nghiện",
+    "người dưới 13 tuổi"
+  ],
+  "actions": [
+    "rủ rê",
+    "dụ dỗ",
+    "xúi giục",
+    "lôi kéo",
+    "sử dụng trái phép chất ma túy",
+    "phạm tội",
+    "gây tổn hại cho sức khỏe",
+    "gây bệnh nguy hiểm",
+    "gây chết người"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "rủ rê"
+    ],
+    [
+      "người",
+      "dụ dỗ"
+    ],
+    [
+      "người",
+      "xúi giục"
+    ],
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây bệnh nguy hiểm"
+    ],
+    [
+      "người",
+      "gây chết người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lôi kéo người khác sử dụng trái phép chất ma túy",
+      "phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt tù từ 05 năm đến 10 năm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể 61% trở lên",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "gây chết người",
+      "phạt tù từ 10 năm đến 15 năm"
+    ],
+    [
+      "gây chết 02 người trở lên",
+      "phạt tù từ 15 năm đến 20 năm hoặc tù chung thân"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền từ 5.000.000 đồng đến 100.000.000 đồng"
+    ]
+  ]
+}

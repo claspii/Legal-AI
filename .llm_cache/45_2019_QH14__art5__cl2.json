@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thực hiện hợp đồng lao động",
+    "chấp hành kỷ luật lao động",
+    "tuân theo sự quản lý",
+    "tuân theo sự điều hành",
+    "tuân theo sự giám sát",
+    "thực hiện quy định của pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thực hiện hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "chấp hành kỷ luật lao động"
+    ],
+    [
+      "người lao động",
+      "tuân theo sự quản lý"
+    ],
+    [
+      "người lao động",
+      "thực hiện quy định của pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "nghĩa vụ"
+    ],
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "kỷ luật lao động"
+    ],
+    [
+      "người lao động",
+      "nội quy lao động"
+    ],
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "pháp luật về lao động"
+    ]
+  ]
+}

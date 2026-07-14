@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được đề nghị",
+    "người này"
+  ],
+  "actions": [
+    "chấp nhận giao kết hợp đồng",
+    "nêu điều kiện",
+    "sửa đổi đề nghị",
+    "đưa ra đề nghị mới"
+  ],
+  "actor_actions": [
+    [
+      "bên được đề nghị",
+      "chấp nhận giao kết hợp đồng"
+    ],
+    [
+      "bên được đề nghị",
+      "nêu điều kiện"
+    ],
+    [
+      "bên được đề nghị",
+      "sửa đổi đề nghị"
+    ],
+    [
+      "người này",
+      "đưa ra đề nghị mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấp nhận giao kết hợp đồng",
+      "nêu điều kiện"
+    ],
+    [
+      "chấp nhận giao kết hợp đồng",
+      "sửa đổi đề nghị"
+    ],
+    [
+      "nêu điều kiện",
+      "đưa ra đề nghị mới"
+    ],
+    [
+      "sửa đổi đề nghị",
+      "đưa ra đề nghị mới"
+    ]
+  ]
+}

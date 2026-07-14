@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm",
+    "bên nhận bảo đảm sau",
+    "bên nhận bảo đảm",
+    "các bên cùng nhận bảo đảm"
+  ],
+  "actions": [
+    "dùng để bảo đảm",
+    "thông báo",
+    "lập thành văn bản",
+    "xử lý tài sản",
+    "tham gia xử lý tài sản",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "dùng để bảo đảm"
+    ],
+    [
+      "bên bảo đảm",
+      "thông báo"
+    ],
+    [
+      "bên nhận bảo đảm đã thông báo",
+      "xử lý tài sản"
+    ],
+    [
+      "các bên cùng nhận bảo đảm",
+      "tham gia xử lý tài sản"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "nghĩa vụ"
+    ],
+    [
+      "bên bảo đảm",
+      "bên nhận bảo đảm"
+    ],
+    [
+      "thông báo",
+      "lập thành văn bản"
+    ],
+    [
+      "xử lý tài sản",
+      "nghĩa vụ đến hạn"
+    ],
+    [
+      "nghĩa vụ đến hạn",
+      "nghĩa vụ chưa đến hạn"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "bên yêu cầu giải quyết tranh chấp",
+    "cơ quan"
+  ],
+  "actions": [
+    "nhận được yêu cầu",
+    "kết thúc việc hòa giải"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "nhận được yêu cầu"
+    ],
+    [
+      "hòa giải viên lao động",
+      "kết thúc việc hòa giải"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải viên lao động",
+      "yêu cầu giải quyết tranh chấp"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị hại"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại",
+    "dùng chất nguy hiểm về cháy, nổ",
+    "che giấu tội phạm khác"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "tổ chức"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "tài sản trị giá từ 50.000.000 đồng đến dưới 200.000.000 đồng"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "bảo vật quốc gia"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "chất nguy hiểm về cháy, nổ hoặc thủ đoạn nguy hiểm khác"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "che giấu tội phạm khác"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "lý do công vụ của người bị hại"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "tài sản trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng"
+    ],
+    [
+      "tội hủy hoại hoặc cố ý làm hư hỏng tài sản",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

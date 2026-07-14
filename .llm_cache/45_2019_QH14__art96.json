@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "ngân hàng",
+    "chính phủ"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "trả lương",
+    "mở tài khoản",
+    "chuyển tiền lương",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người lao động",
+      "mở tài khoản"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả các loại phí"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình thức trả lương",
+      "thời gian"
+    ],
+    [
+      "hình thức trả lương",
+      "sản phẩm"
+    ],
+    [
+      "hình thức trả lương",
+      "khoán"
+    ],
+    [
+      "lương",
+      "tiền mặt"
+    ],
+    [
+      "lương",
+      "tài khoản cá nhân của người lao động"
+    ],
+    [
+      "tài khoản cá nhân của người lao động",
+      "ngân hàng"
+    ],
+    [
+      "phí",
+      "mở tài khoản"
+    ],
+    [
+      "phí",
+      "chuyển tiền lương"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "người lao động chưa thành niên",
+    "lao động là người khuyết tật"
+  ],
+  "actions": [
+    "làm việc",
+    "nghỉ hằng năm",
+    "hưởng nguyên lương"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "người lao động",
+      "hưởng nguyên lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghỉ hằng năm",
+      "nguyên lương"
+    ],
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "số ngày nghỉ hằng năm",
+      "điều kiện làm việc"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha nuôi",
+    "mẹ nuôi",
+    "con nuôi",
+    "tòa án",
+    "cha đẻ",
+    "mẹ đẻ",
+    "con",
+    "người giám hộ"
+  ],
+  "actions": [
+    "có quyền và nghĩa vụ",
+    "chấm dứt việc nuôi con nuôi",
+    "thực hiện theo quy định",
+    "khôi phục",
+    "giải quyết việc chấm dứt nuôi con nuôi",
+    "chỉ định người giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "cha nuôi, mẹ nuôi, con nuôi",
+      "có quyền và nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "chấm dứt việc nuôi con nuôi"
+    ],
+    [
+      "tòa án",
+      "giải quyết việc chấm dứt nuôi con nuôi"
+    ],
+    [
+      "tòa án",
+      "chỉ định người giám hộ"
+    ],
+    [
+      "cha đẻ, mẹ đẻ và con đã làm con nuôi của người khác",
+      "được thực hiện theo quy định"
+    ],
+    [
+      "cha đẻ, mẹ đẻ và con đẻ",
+      "được khôi phục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "cha nuôi, mẹ nuôi",
+      "con nuôi"
+    ],
+    [
+      "cha đẻ",
+      "mẹ đẻ"
+    ],
+    [
+      "cha đẻ, mẹ đẻ",
+      "con đẻ"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "nuôi con nuôi",
+      "chấm dứt việc nuôi con nuôi"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "quan hệ nuôi con nuôi",
+      "quan hệ giữa cha đẻ, mẹ đẻ và con đẻ"
+    ]
+  ]
+}

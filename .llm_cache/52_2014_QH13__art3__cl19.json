@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [
+    "người thân thích"
+  ],
+  "actors": [
+    "người"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "người thân thích",
+      "quan hệ hôn nhân"
+    ],
+    [
+      "người thân thích",
+      "nuôi dưỡng"
+    ],
+    [
+      "người thân thích",
+      "cùng dòng máu về trực hệ"
+    ],
+    [
+      "người thân thích",
+      "họ trong phạm vi ba đời"
+    ]
+  ]
+}

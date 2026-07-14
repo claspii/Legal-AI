@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức",
+    "nhà nước"
+  ],
+  "actions": [
+    "đưa hối lộ",
+    "dùng thủ đoạn xảo quyệt",
+    "dùng tài sản",
+    "lợi dụng chức vụ, quyền hạn",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức",
+      "phạm tội"
+    ],
+    [
+      "nhà nước",
+      "dùng tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội đưa hối lộ",
+      "tổ chức"
+    ],
+    [
+      "tội đưa hối lộ",
+      "thủ đoạn xảo quyệt"
+    ],
+    [
+      "tội đưa hối lộ",
+      "tài sản của nhà nước"
+    ],
+    [
+      "tội đưa hối lộ",
+      "chức vụ, quyền hạn"
+    ],
+    [
+      "tội đưa hối lộ",
+      "của hối lộ"
+    ],
+    [
+      "của hối lộ",
+      "tiền"
+    ],
+    [
+      "của hối lộ",
+      "tài sản"
+    ],
+    [
+      "của hối lộ",
+      "lợi ích vật chất"
+    ]
+  ]
+}

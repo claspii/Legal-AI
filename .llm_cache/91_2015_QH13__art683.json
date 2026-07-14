@@ -1,0 +1,151 @@
+{
+  "concepts_defined": [
+    "pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng"
+  ],
+  "actors": [
+    "các bên",
+    "người bán",
+    "cá nhân",
+    "pháp nhân",
+    "người cung cấp dịch vụ",
+    "người nhận quyền",
+    "người lao động",
+    "người sử dụng lao động",
+    "người tiêu dùng",
+    "người thứ ba"
+  ],
+  "actions": [
+    "thỏa thuận lựa chọn",
+    "không có thỏa thuận",
+    "áp dụng",
+    "cư trú",
+    "thành lập",
+    "thực hiện công việc",
+    "xác định",
+    "chứng minh",
+    "có ảnh hưởng",
+    "thay đổi",
+    "được hưởng",
+    "đồng ý",
+    "xác định",
+    "phù hợp",
+    "giao kết",
+    "được công nhận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận lựa chọn"
+    ],
+    [
+      "các bên",
+      "không có thỏa thuận"
+    ],
+    [
+      "người bán",
+      "cư trú"
+    ],
+    [
+      "cá nhân",
+      "cư trú"
+    ],
+    [
+      "pháp nhân",
+      "thành lập"
+    ],
+    [
+      "người cung cấp dịch vụ",
+      "cư trú"
+    ],
+    [
+      "người nhận quyền",
+      "cư trú"
+    ],
+    [
+      "người lao động",
+      "thực hiện công việc"
+    ],
+    [
+      "người lao động",
+      "không xác định được"
+    ],
+    [
+      "người sử dụng lao động",
+      "cư trú"
+    ],
+    [
+      "người tiêu dùng",
+      "cư trú"
+    ],
+    [
+      "các bên",
+      "chứng minh"
+    ],
+    [
+      "pháp luật",
+      "có ảnh hưởng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận thay đổi"
+    ],
+    [
+      "người thứ ba",
+      "được hưởng"
+    ],
+    [
+      "người thứ ba",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "pháp luật áp dụng"
+    ],
+    [
+      "hợp đồng",
+      "pháp luật của nước có mối liên hệ gắn bó nhất"
+    ],
+    [
+      "hợp đồng mua bán hàng hóa",
+      "nơi người bán cư trú"
+    ],
+    [
+      "hợp đồng dịch vụ",
+      "nơi người cung cấp dịch vụ cư trú"
+    ],
+    [
+      "hợp đồng chuyển giao quyền sử dụng hoặc chuyển nhượng quyền sở hữu trí tuệ",
+      "nơi người nhận quyền cư trú"
+    ],
+    [
+      "hợp đồng lao động",
+      "nơi người lao động thường xuyên thực hiện công việc"
+    ],
+    [
+      "hợp đồng tiêu dùng",
+      "nơi người tiêu dùng cư trú"
+    ],
+    [
+      "hợp đồng có đối tượng là bất động sản",
+      "pháp luật của nước nơi có bất động sản"
+    ],
+    [
+      "quyền lợi tối thiểu của người lao động, người tiêu dùng",
+      "pháp luật việt nam"
+    ],
+    [
+      "hình thức của hợp đồng",
+      "pháp luật áp dụng đối với hợp đồng"
+    ],
+    [
+      "hình thức của hợp đồng",
+      "pháp luật của nước nơi giao kết hợp đồng"
+    ],
+    [
+      "hình thức của hợp đồng",
+      "pháp luật việt nam"
+    ]
+  ]
+}

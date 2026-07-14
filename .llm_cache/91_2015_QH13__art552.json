@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "trả tiền công",
+    "nhận sản phẩm",
+    "giảm tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên đặt gia công",
+      "trả tiền công"
+    ],
+    [
+      "bên đặt gia công",
+      "nhận sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "giảm tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền công",
+      "thời điểm nhận sản phẩm"
+    ],
+    [
+      "tiền công",
+      "mức tiền công trung bình"
+    ],
+    [
+      "sản phẩm",
+      "chất lượng"
+    ],
+    [
+      "nguyên vật liệu",
+      "chỉ dẫn"
+    ]
+  ]
+}

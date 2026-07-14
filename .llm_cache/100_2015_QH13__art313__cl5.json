@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về phòng cháy, chữa cháy",
+    "gây thiệt hại",
+    "ngăn chặn",
+    "bị phạt cảnh cáo",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vi phạm quy định về phòng cháy, chữa cháy",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "tính mạng"
+    ],
+    [
+      "thiệt hại",
+      "sức khỏe"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ],
+    [
+      "bị phạt cảnh cáo",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "bị phạt cảnh cáo",
+      "bị phạt tù"
+    ],
+    [
+      "bị phạt cải tạo không giam giữ",
+      "bị phạt tù"
+    ]
+  ]
+}

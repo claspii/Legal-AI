@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người chịu trách nhiệm bồi thường",
+    "người chết",
+    "những người thân thích thuộc hàng thừa kế thứ nhất của người chết",
+    "người trực tiếp nuôi dưỡng người chết",
+    "các bên",
+    "nhà nước"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "xâm phạm thi thể",
+    "hạn chế",
+    "khắc phục thiệt hại",
+    "bù đắp tổn thất về tinh thần",
+    "thỏa thuận",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xâm phạm thi thể"
+    ],
+    [
+      "cá nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân",
+      "xâm phạm thi thể"
+    ],
+    [
+      "pháp nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chịu trách nhiệm bồi thường",
+      "bồi thường"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "nhà nước",
+      "quy định"
+    ],
+    [
+      "những người thân thích thuộc hàng thừa kế thứ nhất của người chết",
+      "được hưởng khoản tiền này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "xâm phạm thi thể"
+    ],
+    [
+      "pháp nhân",
+      "xâm phạm thi thể"
+    ],
+    [
+      "xâm phạm thi thể",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thiệt hại do xâm phạm thi thể",
+      "chi phí hợp lý để hạn chế, khắc phục thiệt hại"
+    ],
+    [
+      "bù đắp tổn thất về tinh thần",
+      "những người thân thích thuộc hàng thừa kế thứ nhất của người chết"
+    ],
+    [
+      "bù đắp tổn thất về tinh thần",
+      "người trực tiếp nuôi dưỡng người chết"
+    ],
+    [
+      "mức bồi thường bù đắp tổn thất về tinh thần",
+      "mức lương cơ sở"
+    ]
+  ]
+}

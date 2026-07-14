@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động",
+    "ủy ban nhân dân cấp tỉnh",
+    "ủy ban nhân dân cấp huyện"
+  ],
+  "actions": [
+    "thông báo",
+    "đóng cửa tạm thời nơi làm việc",
+    "niêm yết công khai"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "niêm yết công khai quyết định đóng cửa tạm thời nơi làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định đóng cửa tạm thời nơi làm việc",
+      "nơi làm việc"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "đình công"
+    ],
+    [
+      "ủy ban nhân dân cấp tỉnh",
+      "nơi làm việc"
+    ],
+    [
+      "ủy ban nhân dân cấp huyện",
+      "nơi làm việc"
+    ]
+  ]
+}

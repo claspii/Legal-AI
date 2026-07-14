@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người thi hành công vụ",
+    "cơ quan",
+    "tổ chức",
+    "người đồng phạm khác",
+    "người chuẩn bị phạm tội này"
+  ],
+  "actions": [
+    "kích động",
+    "lôi kéo",
+    "tụ tập",
+    "phá rối an ninh",
+    "chống người thi hành công vụ",
+    "cản trở hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "kích động"
+    ],
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "tụ tập"
+    ],
+    [
+      "người",
+      "phá rối an ninh"
+    ],
+    [
+      "người",
+      "chống người thi hành công vụ"
+    ],
+    [
+      "người",
+      "cản trở hoạt động"
+    ],
+    [
+      "người đồng phạm khác",
+      "phạm tội"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "chuẩn bị phạm tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá rối an ninh",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "phá rối an ninh",
+      "chống người thi hành công vụ"
+    ],
+    [
+      "phá rối an ninh",
+      "cản trở hoạt động của cơ quan, tổ chức"
+    ]
+  ]
+}

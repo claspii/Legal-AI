@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [
+    "hợp đồng lao động không xác định thời hạn",
+    "hợp đồng lao động xác định thời hạn"
+  ],
+  "actors": [
+    "hai bên",
+    "người lao động",
+    "giám đốc",
+    "doanh nghiệp có vốn nhà nước"
+  ],
+  "actions": [
+    "giao kết",
+    "chấm dứt hiệu lực",
+    "ký kết",
+    "làm việc",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "giao kết"
+    ],
+    [
+      "hai bên",
+      "ký kết"
+    ],
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "hai bên",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động không xác định thời hạn"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng lao động xác định thời hạn"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn",
+      "thời hạn"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn",
+      "thời điểm chấm dứt hiệu lực"
+    ],
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "thời hạn"
+    ],
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "thời điểm chấm dứt hiệu lực"
+    ],
+    [
+      "hợp đồng lao động",
+      "ký kết"
+    ],
+    [
+      "hợp đồng lao động",
+      "hết hạn"
+    ]
+  ]
+}

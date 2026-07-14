@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "tham gia bảo hiểm xã hội bắt buộc",
+    "tham gia bảo hiểm y tế",
+    "tham gia bảo hiểm thất nghiệp",
+    "hưởng các chế độ",
+    "khuyến khích",
+    "nghỉ việc hưởng chế độ bảo hiểm xã hội",
+    "trả lương",
+    "có thỏa thuận khác",
+    "chi trả thêm một khoản tiền"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tham gia bảo hiểm xã hội bắt buộc"
+    ],
+    [
+      "người lao động",
+      "tham gia bảo hiểm xã hội bắt buộc"
+    ],
+    [
+      "người lao động",
+      "hưởng các chế độ"
+    ],
+    [
+      "người sử dụng lao động",
+      "khuyến khích người sử dụng lao động, người lao động tham gia các hình thức bảo hiểm khác"
+    ],
+    [
+      "người lao động",
+      "nghỉ việc hưởng chế độ bảo hiểm xã hội"
+    ],
+    [
+      "người sử dụng lao động",
+      "không phải trả lương"
+    ],
+    [
+      "hai bên",
+      "có thỏa thuận khác"
+    ],
+    [
+      "người sử dụng lao động",
+      "chi trả thêm cùng lúc với kỳ trả lương một khoản tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "người lao động nghỉ việc hưởng chế độ bảo hiểm xã hội",
+      "người sử dụng lao động không phải trả lương"
+    ],
+    [
+      "đối tượng tham gia bảo hiểm xã hội bắt buộc",
+      "người sử dụng lao động có trách nhiệm chi trả thêm một khoản tiền"
+    ],
+    [
+      "mức người sử dụng lao động đóng bảo hiểm xã hội bắt buộc",
+      "khoản tiền cho người lao động"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "người bị kết án",
+    "tòa án",
+    "cơ quan, tổ chức",
+    "ủy ban nhân dân cấp xã",
+    "gia đình người bị kết án",
+    "người chấp hành án",
+    "phụ nữ có thai"
+  ],
+  "actions": [
+    "cải tạo không giam giữ",
+    "áp dụng",
+    "tạm giữ",
+    "tạm giam",
+    "giao",
+    "giám sát, giáo dục",
+    "phối hợp",
+    "chấp hành án"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "tòa án",
+      "áp dụng"
+    ],
+    [
+      "người bị kết án",
+      "bị tạm giữ, tạm giam"
+    ],
+    [
+      "tòa án",
+      "giao"
+    ],
+    [
+      "cơ quan, tổ chức",
+      "giám sát, giáo dục"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "giám sát, giáo dục"
+    ],
+    [
+      "gia đình người bị kết án",
+      "phối hợp"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "người phạm tội ít nghiêm trọng"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "người phạm tội nghiêm trọng"
+    ],
+    [
+      "thời gian tạm giữ, tạm giam",
+      "thời gian chấp hành hình phạt cải tạo không giam giữ"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "nơi làm việc ổn định"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "nơi cư trú rõ ràng"
+    ],
+    [
+      "khấu trừ thu nhập",
+      "sung quỹ nhà nước"
+    ],
+    [
+      "lao động phục vụ cộng đồng",
+      "người không có việc làm"
+    ],
+    [
+      "lao động phục vụ cộng đồng",
+      "người bị mất việc làm"
+    ]
+  ]
+}

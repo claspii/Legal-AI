@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người đã được chỉ định",
+    "người thừa kế",
+    "người để lại di sản",
+    "người quản lý hợp pháp di sản",
+    "người thuộc diện thừa kế theo pháp luật",
+    "người chết"
+  ],
+  "actions": [
+    "lập di chúc",
+    "để lại",
+    "chia thừa kế",
+    "giao",
+    "quản lý",
+    "thực hiện",
+    "thỏa thuận",
+    "chỉ định",
+    "cử",
+    "chết",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "để lại"
+    ],
+    [
+      "người đã được chỉ định",
+      "quản lý"
+    ],
+    [
+      "người đã được chỉ định",
+      "thực hiện"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận"
+    ],
+    [
+      "người thừa kế",
+      "có quyền giao"
+    ],
+    [
+      "người để lại di sản",
+      "không chỉ định"
+    ],
+    [
+      "người thừa kế",
+      "cử"
+    ],
+    [
+      "người chết",
+      "chết"
+    ],
+    [
+      "người chết",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di sản",
+      "thờ cúng"
+    ],
+    [
+      "di chúc",
+      "thờ cúng"
+    ],
+    [
+      "người lập di chúc",
+      "di sản"
+    ],
+    [
+      "người thừa kế",
+      "di sản"
+    ],
+    [
+      "người quản lý",
+      "di sản"
+    ],
+    [
+      "di sản",
+      "nghĩa vụ tài sản"
+    ]
+  ]
+}

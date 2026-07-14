@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "nam",
+    "nữ",
+    "vợ",
+    "chồng",
+    "chính phủ",
+    "bộ",
+    "cơ quan ngang bộ"
+  ],
+  "actions": [
+    "bảo hộ hôn nhân và gia đình",
+    "tạo điều kiện",
+    "xác lập hôn nhân",
+    "xây dựng gia đình",
+    "thực hiện chức năng",
+    "tăng cường tuyên truyền",
+    "phổ biến pháp luật",
+    "giáo dục pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo hộ hôn nhân và gia đình"
+    ],
+    [
+      "nhà nước",
+      "tạo điều kiện"
+    ],
+    [
+      "nam",
+      "xác lập hôn nhân"
+    ],
+    [
+      "nữ",
+      "xác lập hôn nhân"
+    ],
+    [
+      "vợ",
+      "bình đẳng"
+    ],
+    [
+      "chồng",
+      "bình đẳng"
+    ],
+    [
+      "nhà nước",
+      "xây dựng gia đình"
+    ],
+    [
+      "nhà nước",
+      "tăng cường tuyên truyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "phong tục",
+      "tập quán"
+    ],
+    [
+      "pháp luật",
+      "hôn nhân và gia đình"
+    ],
+    [
+      "cán bộ",
+      "công chức"
+    ],
+    [
+      "viên chức",
+      "người lao động"
+    ],
+    [
+      "mâu thuẫn",
+      "gia đình"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "thế hệ trẻ",
+      "pháp luật về hôn nhân và gia đình"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha dượng",
+    "mẹ kế",
+    "con riêng"
+  ],
+  "actions": [
+    "trông nom",
+    "nuôi dưỡng",
+    "chăm sóc",
+    "giáo dục",
+    "phụng dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cha dượng",
+      "trông nom"
+    ],
+    [
+      "mẹ kế",
+      "trông nom"
+    ],
+    [
+      "cha dượng",
+      "nuôi dưỡng"
+    ],
+    [
+      "mẹ kế",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha dượng",
+      "chăm sóc"
+    ],
+    [
+      "mẹ kế",
+      "chăm sóc"
+    ],
+    [
+      "cha dượng",
+      "giáo dục"
+    ],
+    [
+      "mẹ kế",
+      "giáo dục"
+    ],
+    [
+      "con riêng",
+      "chăm sóc"
+    ],
+    [
+      "con riêng",
+      "phụng dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha dượng",
+      "con riêng"
+    ],
+    [
+      "mẹ kế",
+      "con riêng"
+    ]
+  ]
+}

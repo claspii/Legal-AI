@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+    "người vắng mặt"
+  ],
+  "actions": [
+    "quản lý tài sản",
+    "trích một phần tài sản",
+    "thực hiện nghĩa vụ cấp dưỡng",
+    "thực hiện nghĩa vụ thanh toán nợ đến hạn",
+    "thực hiện nghĩa vụ tài chính khác",
+    "được thanh toán các chi phí cần thiết"
+  ],
+  "actor_actions": [
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "quản lý tài sản của người vắng mặt"
+    ],
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ thanh toán nợ đến hạn"
+    ],
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ tài chính khác"
+    ],
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "được thanh toán các chi phí cần thiết trong việc quản lý tài sản của người vắng mặt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "tài sản của người vắng mặt"
+    ],
+    [
+      "tài sản của người vắng mặt",
+      "nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "tài sản của người vắng mặt",
+      "nghĩa vụ thanh toán nợ đến hạn"
+    ],
+    [
+      "tài sản của người vắng mặt",
+      "nghĩa vụ tài chính khác"
+    ],
+    [
+      "quản lý tài sản",
+      "chi phí cần thiết"
+    ]
+  ]
+}

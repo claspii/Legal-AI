@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "làm hư hỏng",
+    "gây thiệt hại",
+    "làm mất",
+    "tiêu hao",
+    "khấu trừ"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người lao động",
+      "làm hư hỏng"
+    ],
+    [
+      "người lao động",
+      "gây thiệt hại"
+    ],
+    [
+      "người lao động",
+      "làm mất"
+    ],
+    [
+      "người lao động",
+      "tiêu hao"
+    ],
+    [
+      "chính phủ",
+      "công bố"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường thiệt hại",
+      "thiệt hại tài sản"
+    ],
+    [
+      "người lao động",
+      "thiệt hại tài sản"
+    ],
+    [
+      "hợp đồng trách nhiệm",
+      "bồi thường"
+    ],
+    [
+      "lương tối thiểu vùng",
+      "chính phủ công bố"
+    ]
+  ]
+}

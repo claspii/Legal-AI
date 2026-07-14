@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "lựa chọn tập quán quốc tế",
+    "áp dụng tập quán quốc tế",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "được lựa chọn tập quán quốc tế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tập quán quốc tế",
+      "pháp luật việt nam"
+    ],
+    [
+      "tập quán quốc tế",
+      "các nguyên tắc cơ bản của pháp luật việt nam"
+    ]
+  ]
+}

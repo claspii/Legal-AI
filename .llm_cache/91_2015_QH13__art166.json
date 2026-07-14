@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "người được lợi về tài sản không có căn cứ pháp luật"
+  ],
+  "actions": [
+    "đòi lại tài sản",
+    "chiếm hữu",
+    "sử dụng tài sản",
+    "được lợi về tài sản không có căn cứ pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "đòi lại tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "đòi lại tài sản"
+    ],
+    [
+      "người chiếm hữu",
+      "chiếm hữu"
+    ],
+    [
+      "người sử dụng tài sản",
+      "sử dụng tài sản"
+    ],
+    [
+      "người được lợi về tài sản không có căn cứ pháp luật",
+      "được lợi về tài sản không có căn cứ pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tài sản"
+    ],
+    [
+      "người chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "người sử dụng tài sản",
+      "tài sản"
+    ]
+  ]
+}

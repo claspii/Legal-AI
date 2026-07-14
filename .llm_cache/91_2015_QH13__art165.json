@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "chiếm hữu có căn cứ pháp luật",
+    "chiếm hữu không có căn cứ pháp luật"
+  ],
+  "actors": [
+    "chủ sở hữu",
+    "người được chủ sở hữu ủy quyền",
+    "người được chuyển giao quyền chiếm hữu",
+    "người phát hiện và giữ tài sản",
+    "người phát hiện và giữ gia súc, gia cầm, vật nuôi dưới nước"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "ủy quyền quản lý tài sản",
+    "chuyển giao quyền chiếm hữu",
+    "chiếm hữu tài sản",
+    "phát hiện và giữ tài sản vô chủ",
+    "phát hiện và giữ gia súc, gia cầm, vật nuôi dưới nước bị thất lạc"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "người được chủ sở hữu ủy quyền",
+      "quản lý tài sản"
+    ],
+    [
+      "người được chuyển giao quyền chiếm hữu",
+      "chiếm hữu"
+    ],
+    [
+      "người phát hiện và giữ tài sản",
+      "chiếm hữu"
+    ],
+    [
+      "người phát hiện và giữ gia súc, gia cầm, vật nuôi dưới nước",
+      "chiếm hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu có căn cứ pháp luật",
+      "chiếm hữu không có căn cứ pháp luật"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ]
+  ]
+}

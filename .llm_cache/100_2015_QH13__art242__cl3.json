@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "hủy hoại nguồn lợi thủy sản",
+    "gây thiệt hại",
+    "làm chết"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nguồn lợi thủy sản",
+      "thủy sản"
+    ],
+    [
+      "phạm tội",
+      "hủy hoại nguồn lợi thủy sản"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "lợi dụng tình trạng không thể tự vệ",
+    "giao cấu",
+    "thực hiện hành vi quan hệ tình dục khác",
+    "phạm tội",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "lợi dụng tình trạng không thể tự vệ được của nạn nhân"
+    ],
+    [
+      "người",
+      "giao cấu"
+    ],
+    [
+      "người",
+      "thực hiện hành vi quan hệ tình dục khác"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội hiếp dâm",
+      "vũ lực"
+    ],
+    [
+      "tội hiếp dâm",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "tội hiếp dâm",
+      "tình trạng không thể tự vệ được của nạn nhân"
+    ],
+    [
+      "tội hiếp dâm",
+      "giao cấu"
+    ],
+    [
+      "tội hiếp dâm",
+      "quan hệ tình dục khác trái với ý muốn của nạn nhân"
+    ],
+    [
+      "nạn nhân",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "nạn nhân",
+      "rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người phạm tội",
+      "bị nhiễm HIV"
+    ]
+  ]
+}

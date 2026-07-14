@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [
+    "người thân thích của người được giám hộ"
+  ],
+  "actors": [
+    "người thân thích của người được giám hộ",
+    "người giám sát việc giám hộ",
+    "cá nhân",
+    "pháp nhân",
+    "ủy ban nhân dân cấp xã",
+    "tòa án",
+    "người giám hộ",
+    "cơ quan nhà nước có thẩm quyền về giám hộ"
+  ],
+  "actions": [
+    "cử người giám sát việc giám hộ",
+    "chọn người giám sát việc giám hộ",
+    "đăng ký",
+    "giám sát việc giám hộ",
+    "quyết định",
+    "theo dõi",
+    "kiểm tra",
+    "xem xét"
+  ],
+  "actor_actions": [
+    [
+      "người thân thích của người được giám hộ",
+      "thỏa thuận cử người giám sát việc giám hộ"
+    ],
+    [
+      "người thân thích của người được giám hộ",
+      "chọn cá nhân, pháp nhân khác làm người giám sát việc giám hộ"
+    ],
+    [
+      "người giám sát",
+      "đăng ký"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "cử cá nhân hoặc pháp nhân giám sát việc giám hộ"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "theo dõi"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "kiểm tra"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "yêu cầu cơ quan nhà nước có thẩm quyền về giám hộ xem xét thay đổi hoặc chấm dứt việc giám hộ, giám sát việc giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được giám hộ",
+      "người thân thích của người được giám hộ"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "người thân thích của người được giám hộ"
+    ],
+    [
+      "giám sát việc giám hộ",
+      "quản lý tài sản của người được giám hộ"
+    ],
+    [
+      "giám sát việc giám hộ",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    [
+      "giám sát việc giám hộ",
+      "người giám hộ"
+    ],
+    [
+      "cá nhân",
+      "năng lực hành vi dân sự đầy đủ"
+    ],
+    [
+      "pháp nhân",
+      "năng lực pháp luật dân sự"
+    ]
+  ]
+}

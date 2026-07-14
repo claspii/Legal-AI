@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "phá thai",
+    "làm chết",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện việc phá thai trái phép"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá thai trái phép",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phá thai trái phép",
+      "phạt tù"
+    ],
+    [
+      "phá thai trái phép",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phá thai trái phép",
+      "xử lý kỷ luật"
+    ],
+    [
+      "phá thai trái phép",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "phá thai trái phép",
+      "xóa án tích"
+    ]
+  ]
+}

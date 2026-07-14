@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính",
+    "phạm tội làm chết 02 người trở lên",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính"
+    ],
+    [
+      "người",
+      "phạm tội làm chết 02 người trở lên"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính",
+      "phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "phạm tội làm chết 02 người trở lên",
+      "phạt tù từ 05 năm đến 12 năm"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "từ 01 năm đến 05 năm"
+    ],
+    [
+      "cấm hành nghề",
+      "từ 01 năm đến 05 năm"
+    ],
+    [
+      "làm công việc nhất định",
+      "từ 01 năm đến 05 năm"
+    ]
+  ]
+}

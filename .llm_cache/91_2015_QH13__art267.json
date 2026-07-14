@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [
+    "quyền bề mặt"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền bề mặt",
+      "mặt đất"
+    ],
+    [
+      "quyền bề mặt",
+      "mặt nước"
+    ],
+    [
+      "quyền bề mặt",
+      "khoảng không gian trên mặt đất"
+    ],
+    [
+      "quyền bề mặt",
+      "khoảng không gian trên mặt nước"
+    ],
+    [
+      "quyền bề mặt",
+      "lòng đất"
+    ],
+    [
+      "quyền bề mặt",
+      "quyền sử dụng đất"
+    ],
+    [
+      "chủ thể",
+      "quyền bề mặt"
+    ],
+    [
+      "chủ thể",
+      "quyền sử dụng đất"
+    ]
+  ]
+}

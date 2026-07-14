@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có năng lực hành vi dân sự",
+    "tòa án"
+  ],
+  "actions": [
+    "xác lập giao dịch",
+    "không nhận thức và làm chủ được hành vi của mình",
+    "yêu cầu tuyên bố giao dịch dân sự là vô hiệu"
+  ],
+  "actor_actions": [
+    [
+      "người có năng lực hành vi dân sự",
+      "xác lập giao dịch"
+    ],
+    [
+      "người có năng lực hành vi dân sự",
+      "không nhận thức và làm chủ được hành vi của mình"
+    ],
+    [
+      "người có năng lực hành vi dân sự",
+      "yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu"
+    ],
+    [
+      "tòa án",
+      "tuyên bố giao dịch dân sự đó là vô hiệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có năng lực hành vi dân sự",
+      "không nhận thức và làm chủ được hành vi của mình"
+    ],
+    [
+      "giao dịch dân sự vô hiệu",
+      "người xác lập không nhận thức và làm chủ được hành vi của mình"
+    ],
+    [
+      "tòa án",
+      "giao dịch dân sự vô hiệu"
+    ]
+  ]
+}

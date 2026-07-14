@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên giữ tài sản",
+    "bên gửi"
+  ],
+  "actions": [
+    "yêu cầu",
+    "trả tiền công",
+    "trả chi phí hợp lý",
+    "nhận lại tài sản",
+    "báo trước",
+    "bán tài sản",
+    "báo",
+    "trả khoản tiền thu được"
+  ],
+  "actor_actions": [
+    [
+      "bên giữ tài sản",
+      "yêu cầu bên gửi trả tiền công"
+    ],
+    [
+      "bên giữ tài sản",
+      "yêu cầu bên gửi trả chi phí hợp lý"
+    ],
+    [
+      "bên giữ tài sản",
+      "yêu cầu bên gửi nhận lại tài sản"
+    ],
+    [
+      "bên giữ tài sản",
+      "báo trước"
+    ],
+    [
+      "bên giữ tài sản",
+      "bán tài sản gửi giữ"
+    ],
+    [
+      "bên giữ tài sản",
+      "báo việc đó cho bên gửi"
+    ],
+    [
+      "bên giữ tài sản",
+      "trả cho bên gửi khoản tiền thu được"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên giữ tài sản",
+      "bên gửi"
+    ],
+    [
+      "tiền công",
+      "thỏa thuận"
+    ],
+    [
+      "chi phí hợp lý",
+      "bảo quản tài sản"
+    ],
+    [
+      "gửi giữ",
+      "thời hạn"
+    ],
+    [
+      "tài sản gửi giữ",
+      "nguy cơ bị hư hỏng"
+    ],
+    [
+      "tài sản gửi giữ",
+      "tiêu hủy"
+    ],
+    [
+      "khoản tiền thu được",
+      "bán tài sản"
+    ],
+    [
+      "chi phí hợp lý",
+      "bán tài sản"
+    ]
+  ]
+}

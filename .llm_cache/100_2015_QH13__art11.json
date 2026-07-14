@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "vô ý phạm tội"
+  ],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạm tội",
+    "thấy trước",
+    "gây ra",
+    "ngăn ngừa được"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "thấy trước"
+    ],
+    [
+      "người phạm tội",
+      "gây ra"
+    ],
+    [
+      "người phạm tội",
+      "ngăn ngừa được"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi",
+      "hậu quả nguy hại cho xã hội"
+    ],
+    [
+      "phạm tội",
+      "hậu quả nguy hại cho xã hội"
+    ]
+  ]
+}

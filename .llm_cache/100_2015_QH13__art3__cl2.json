@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "cơ quan tiến hành tố tụng"
+  ],
+  "actions": [
+    "phạm tội",
+    "phát hiện",
+    "xử lý",
+    "ngăn chặn",
+    "khắc phục hậu quả",
+    "hợp tác",
+    "sửa chữa",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tích cực hợp tác"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tự nguyện sửa chữa"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bồi thường thiệt hại gây ra"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chủ động ngăn chặn hoặc khắc phục hậu quả xảy ra"
+    ],
+    [
+      "cơ quan tiến hành tố tụng",
+      "giải quyết vụ án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "hành vi phạm tội"
+    ],
+    [
+      "hành vi phạm tội",
+      "xử lý"
+    ],
+    [
+      "pháp nhân thương mại",
+      "nghiêm trị"
+    ],
+    [
+      "pháp nhân thương mại",
+      "khoan hồng"
+    ],
+    [
+      "hợp tác",
+      "giải quyết vụ án"
+    ],
+    [
+      "sửa chữa",
+      "thiệt hại"
+    ],
+    [
+      "ngăn chặn",
+      "hậu quả"
+    ],
+    [
+      "khắc phục",
+      "hậu quả"
+    ]
+  ]
+}

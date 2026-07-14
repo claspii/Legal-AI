@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được lấy ý kiến",
+    "tổ chức đại diện người lao động",
+    "người lao động",
+    "người sử dụng lao động",
+    "ủy ban nhân dân cấp huyện",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "ra quyết định đình công bằng văn bản",
+    "gửi văn bản về việc quyết định đình công",
+    "chấp nhận giải quyết yêu cầu",
+    "tổ chức và lãnh đạo đình công"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "ra quyết định đình công bằng văn bản"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "gửi văn bản về việc quyết định đình công"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấp nhận giải quyết yêu cầu"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tổ chức và lãnh đạo đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định đình công",
+      "thời điểm bắt đầu đình công"
+    ],
+    [
+      "kết quả lấy ý kiến đình công",
+      "quyết định đình công"
+    ],
+    [
+      "yêu cầu của người lao động",
+      "giải quyết yêu cầu"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "lãnh đạo đình công"
+    ]
+  ]
+}

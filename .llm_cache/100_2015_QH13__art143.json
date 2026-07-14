@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người lệ thuộc mình",
+    "người đang ở trong tình trạng quẫn bách",
+    "nhiều người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "dùng mọi thủ đoạn",
+    "khiến miễn cưỡng giao cấu",
+    "khiến miễn cưỡng thực hiện hành vi quan hệ tình dục khác",
+    "cưỡng dâm",
+    "phạm tội",
+    "bị phạt tù",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "làm nạn nhân có thai",
+    "làm nạn nhân chết hoặc tự sát",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng mọi thủ đoạn"
+    ],
+    [
+      "người",
+      "khiến miễn cưỡng giao cấu"
+    ],
+    [
+      "người",
+      "khiến miễn cưỡng thực hiện hành vi quan hệ tình dục khác"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "nhiều người",
+      "cưỡng dâm một người"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cưỡng dâm",
+      "phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "mức phạt tù"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "mức phạt tù"
+    ],
+    [
+      "nạn nhân có thai",
+      "phạt tù"
+    ],
+    [
+      "nạn nhân chết hoặc tự sát",
+      "phạt tù"
+    ]
+  ]
+}

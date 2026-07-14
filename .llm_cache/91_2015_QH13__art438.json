@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán",
+    "các bên"
+  ],
+  "actions": [
+    "giao vật không đồng bộ",
+    "nhận",
+    "yêu cầu",
+    "hoãn thanh toán",
+    "hủy bỏ hợp đồng",
+    "bồi thường thiệt hại",
+    "trả tiền",
+    "trả lãi"
+  ],
+  "actor_actions": [
+    [
+      "bên mua",
+      "nhận"
+    ],
+    [
+      "bên mua",
+      "yêu cầu"
+    ],
+    [
+      "bên mua",
+      "hoãn thanh toán"
+    ],
+    [
+      "bên mua",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên mua",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên mua",
+      "trả tiền"
+    ],
+    [
+      "bên mua",
+      "trả lãi"
+    ],
+    [
+      "bên bán",
+      "giao vật không đồng bộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao vật không đồng bộ",
+      "mục đích sử dụng của vật không đạt được"
+    ],
+    [
+      "giao vật không đồng bộ",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên mua",
+      "bên bán"
+    ],
+    [
+      "vật được giao không đồng bộ",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "vật được giao đồng bộ",
+      "thanh toán phần hoặc bộ phận đã nhận"
+    ],
+    [
+      "trả lãi",
+      "lãi suất thỏa thuận"
+    ]
+  ]
+}

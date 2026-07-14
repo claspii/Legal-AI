@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép",
+    "người không đủ điều kiện",
+    "người bị xử lý kỷ luật",
+    "người bị xử phạt vi phạm hành chính",
+    "người bị kết án"
+  ],
+  "actions": [
+    "điều động",
+    "gây thiệt hại",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều động"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường thủy",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép",
+      "điều kiện điều khiển"
+    ],
+    [
+      "giấy chứng nhận",
+      "điều kiện điều khiển"
+    ],
+    [
+      "chứng chỉ chuyên môn",
+      "điều kiện điều khiển"
+    ],
+    [
+      "thiệt hại",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ],
+    [
+      "xử lý kỷ luật",
+      "vi phạm"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "vi phạm"
+    ],
+    [
+      "kết án",
+      "vi phạm"
+    ]
+  ]
+}

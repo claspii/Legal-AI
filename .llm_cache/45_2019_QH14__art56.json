@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "doanh nghiệp cho thuê lại lao động",
+    "người lao động",
+    "bên thuê lại lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "bảo đảm",
+    "thông báo",
+    "lập hồ sơ",
+    "báo cáo",
+    "xử lý kỷ luật lao động",
+    "trả lương",
+    "ký hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "bảo đảm đưa người lao động"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "thông báo cho người lao động"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "thông báo cho bên thuê lại lao động"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "bảo đảm trả lương"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "lập hồ sơ"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "báo cáo cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "xử lý kỷ luật lao động"
+    ],
+    [
+      "bên thuê lại lao động",
+      "trả lại người lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "người lao động"
+    ],
+    [
+      "doanh nghiệp cho thuê lại lao động",
+      "bên thuê lại lao động"
+    ],
+    [
+      "người lao động",
+      "bên thuê lại lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng cho thuê lại lao động"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên kết hôn",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "lựa chọn",
+    "kết hôn",
+    "lập",
+    "công chứng",
+    "chứng thực",
+    "xác lập",
+    "đăng ký kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "hai bên kết hôn",
+      "lựa chọn chế độ tài sản theo thỏa thuận"
+    ],
+    [
+      "hai bên kết hôn",
+      "kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa thuận xác lập chế độ tài sản",
+      "kết hôn"
+    ],
+    [
+      "thỏa thuận",
+      "văn bản có công chứng hoặc chứng thực"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo thỏa thuận",
+      "ngày đăng ký kết hôn"
+    ]
+  ]
+}

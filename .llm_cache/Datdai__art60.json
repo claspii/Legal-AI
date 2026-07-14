@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "lập quy hoạch sử dụng đất",
+    "tổng hợp",
+    "cân đối"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quy hoạch sử dụng đất các cấp",
+      "nguyên tắc lập quy hoạch"
+    ],
+    [
+      "quy hoạch sử dụng đất các cấp",
+      "mối quan hệ giữa các loại quy hoạch"
+    ],
+    [
+      "quy hoạch sử dụng đất các cấp",
+      "nhu cầu sử dụng đất của các ngành, lĩnh vực"
+    ]
+  ]
+}

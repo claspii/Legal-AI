@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "vi phạm các quy định về quản lý đất đai"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "đất trồng lúa",
+      "đất rừng đặc dụng"
+    ],
+    [
+      "đất rừng đặc dụng",
+      "đất rừng phòng hộ"
+    ],
+    [
+      "đất rừng phòng hộ",
+      "đất rừng sản xuất"
+    ],
+    [
+      "đất nông nghiệp",
+      "đất phi nông nghiệp"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ],
+    [
+      "đất nông nghiệp",
+      "giá trị quyền dụng đất"
+    ],
+    [
+      "đất phi nông nghiệp",
+      "giá trị quyền dụng đất"
+    ]
+  ]
+}

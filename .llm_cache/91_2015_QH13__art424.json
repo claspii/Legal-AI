@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền",
+    "bên kia"
+  ],
+  "actions": [
+    "không thực hiện đúng nghĩa vụ",
+    "yêu cầu thực hiện nghĩa vụ",
+    "hủy bỏ hợp đồng",
+    "không thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện đúng nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện"
+    ],
+    [
+      "bên có quyền",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên kia",
+      "hủy bỏ hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hủy bỏ hợp đồng",
+      "chậm thực hiện nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "thời hạn hợp lý"
+    ],
+    [
+      "tính chất của hợp đồng",
+      "mục đích của hợp đồng"
+    ],
+    [
+      "ý chí của các bên",
+      "mục đích của hợp đồng"
+    ]
+  ]
+}

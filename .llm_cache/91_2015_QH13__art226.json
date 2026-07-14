@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người đã trộn lẫn tài sản"
+  ],
+  "actions": [
+    "trộn lẫn",
+    "chia được",
+    "thuộc sở hữu chung",
+    "biết",
+    "được sự đồng ý",
+    "yêu cầu",
+    "giao tài sản",
+    "thanh toán",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "trộn lẫn"
+    ],
+    [
+      "người đã trộn lẫn tài sản",
+      "trộn lẫn"
+    ],
+    [
+      "chủ sở hữu",
+      "thuộc sở hữu chung"
+    ],
+    [
+      "người đã trộn lẫn tài sản",
+      "biết"
+    ],
+    [
+      "chủ sở hữu tài sản bị trộn lẫn",
+      "yêu cầu"
+    ],
+    [
+      "người đã trộn lẫn tài sản",
+      "thanh toán"
+    ],
+    [
+      "người đã trộn lẫn tài sản",
+      "giao tài sản"
+    ],
+    [
+      "chủ sở hữu tài sản bị trộn lẫn",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "trộn lẫn"
+    ],
+    [
+      "tài sản của nhiều chủ sở hữu",
+      "vật mới"
+    ],
+    [
+      "vật mới",
+      "sở hữu chung"
+    ],
+    [
+      "tài sản của người khác",
+      "tài sản của mình"
+    ],
+    [
+      "tài sản bị trộn lẫn",
+      "tài sản mới"
+    ],
+    [
+      "giao tài sản mới",
+      "thanh toán phần giá trị tài sản"
+    ],
+    [
+      "thanh toán giá trị phần tài sản của mình",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

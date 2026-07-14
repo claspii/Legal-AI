@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu bất động sản",
+    "chủ sở hữu bất động sản liền kề",
+    "bên tạo nên"
+  ],
+  "actions": [
+    "dựng cột mốc",
+    "trồng cây",
+    "xây tường ngăn",
+    "thỏa thuận",
+    "dỡ bỏ",
+    "trổ cửa sổ",
+    "đục tường",
+    "đặt kết cấu xây dựng",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu bất động sản",
+      "dựng cột mốc"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "trồng cây"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "xây tường ngăn"
+    ],
+    [
+      "chủ sở hữu bất động sản liền kề",
+      "thỏa thuận"
+    ],
+    [
+      "bên tạo nên",
+      "chịu chi phí"
+    ],
+    [
+      "chủ sở hữu đã dựng cột mốc, hàng rào, trồng cây, xây tường ngăn",
+      "dỡ bỏ"
+    ],
+    [
+      "chủ sở hữu bất động sản liền kề",
+      "không được trổ cửa sổ"
+    ],
+    [
+      "các bên",
+      "có nghĩa vụ bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bất động sản",
+      "mốc giới ngăn cách"
+    ],
+    [
+      "mốc giới ngăn cách",
+      "cột mốc"
+    ],
+    [
+      "mốc giới ngăn cách",
+      "hàng rào"
+    ],
+    [
+      "mốc giới ngăn cách",
+      "cây"
+    ],
+    [
+      "mốc giới ngăn cách",
+      "tường ngăn"
+    ],
+    [
+      "mốc giới ngăn cách",
+      "sở hữu chung"
+    ],
+    [
+      "tường nhà chung",
+      "cửa sổ"
+    ],
+    [
+      "tường nhà chung",
+      "lỗ thông khí"
+    ]
+  ]
+}

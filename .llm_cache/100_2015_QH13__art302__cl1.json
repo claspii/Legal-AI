@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "thực hiện",
+    "tấn công",
+    "bắt giữ",
+    "cướp phá"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "tấn công"
+    ],
+    [
+      "người",
+      "bắt giữ"
+    ],
+    [
+      "người",
+      "cướp phá"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàu biển",
+      "phương tiện bay"
+    ],
+    [
+      "tàu biển",
+      "phương tiện hàng hải khác"
+    ],
+    [
+      "phương tiện bay",
+      "phương tiện hàng hải khác"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "phụ nữ",
+    "người đủ 70 tuổi trở lên",
+    "người thi hành công vụ",
+    "nạn nhân"
+  ],
+  "actions": [
+    "bắt cóc con tin",
+    "lợi dụng chức vụ, quyền hạn",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi",
+      "phụ nữ mà biết là có thai"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "người đủ 70 tuổi trở lên"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người làm nghề lưu động"
+  ],
+  "actions": [
+    "đăng ký"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nơi cư trú",
+      "người làm nghề lưu động"
+    ],
+    [
+      "nơi cư trú",
+      "tàu"
+    ],
+    [
+      "nơi cư trú",
+      "thuyền"
+    ],
+    [
+      "nơi cư trú",
+      "phương tiện hành nghề lưu động"
+    ]
+  ]
+}

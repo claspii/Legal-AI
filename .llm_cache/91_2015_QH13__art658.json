@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người sống nương nhờ"
+  ],
+  "actions": [
+    "thanh toán",
+    "nộp"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ tài sản",
+      "thanh toán"
+    ],
+    [
+      "chi phí liên quan đến thừa kế",
+      "thanh toán"
+    ],
+    [
+      "thuế",
+      "nộp vào ngân sách nhà nước"
+    ],
+    [
+      "các khoản phải nộp khác",
+      "ngân sách nhà nước"
+    ]
+  ]
+}

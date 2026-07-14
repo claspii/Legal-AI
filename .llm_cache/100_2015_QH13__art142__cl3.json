@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "người dưới 10 tuổi",
+    "nạn nhân",
+    "nhiều người"
+  ],
+  "actions": [
+    "hiếp dâm",
+    "phạm tội",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "làm chết",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người",
+      "hiếp một người"
+    ],
+    [
+      "nạn nhân",
+      "chết"
+    ],
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiếp dâm",
+      "người dưới 16 tuổi"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "rối loạn tâm thần và hành vi",
+      "nạn nhân"
+    ],
+    [
+      "nhiễm HIV",
+      "phạm tội"
+    ]
+  ]
+}

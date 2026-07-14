@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên sử dụng dịch vụ",
+    "bên cung ứng dịch vụ"
+  ],
+  "actions": [
+    "cung cấp",
+    "thực hiện công việc",
+    "trả tiền dịch vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên sử dụng dịch vụ",
+      "cung cấp"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền dịch vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên sử dụng dịch vụ",
+      "bên cung ứng dịch vụ"
+    ],
+    [
+      "thông tin, tài liệu",
+      "phương tiện"
+    ],
+    [
+      "công việc",
+      "dịch vụ"
+    ]
+  ]
+}

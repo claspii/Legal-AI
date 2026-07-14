@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "ông bà",
+    "cha mẹ",
+    "vợ chồng",
+    "con",
+    "cháu",
+    "người có công nuôi dưỡng mình",
+    "nạn nhân",
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "người mắc bệnh hiểm nghèo"
+  ],
+  "actions": [
+    "đối xử tồi tệ",
+    "có hành vi bạo lực xâm phạm thân thể",
+    "làm cho nạn nhân bị đau đớn về thể xác, tinh thần",
+    "bị xử phạt vi phạm hành chính",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đối xử tồi tệ"
+    ],
+    [
+      "người",
+      "có hành vi bạo lực xâm phạm thân thể"
+    ],
+    [
+      "người",
+      "làm cho nạn nhân bị đau đớn về thể xác, tinh thần"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "ông bà"
+    ],
+    [
+      "người",
+      "cha mẹ"
+    ],
+    [
+      "người",
+      "vợ chồng"
+    ],
+    [
+      "người",
+      "con"
+    ],
+    [
+      "người",
+      "cháu"
+    ],
+    [
+      "người",
+      "người có công nuôi dưỡng mình"
+    ],
+    [
+      "người",
+      "nạn nhân"
+    ]
+  ]
+}

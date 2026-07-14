@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "phụ nữ",
+    "người dưới 18 tuổi",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "gia đình"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "giam, giữ người trái pháp luật",
+    "không ra quyết định trả tự do",
+    "quyết định bắt, giữ, giam người không có căn cứ",
+    "không chấp hành quyết định trả tự do",
+    "thực hiện việc bắt, giữ, giam người không có lệnh, quyết định",
+    "không ra lệnh, quyết định gia hạn tạm giữ, tạm giam",
+    "làm người bị giam, giữ trái pháp luật bị tổn hại về sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn giam, giữ người trái pháp luật"
+    ],
+    [
+      "người",
+      "không ra quyết định trả tự do"
+    ],
+    [
+      "người",
+      "quyết định bắt, giữ, giam người không có căn cứ"
+    ],
+    [
+      "người",
+      "không chấp hành quyết định trả tự do"
+    ],
+    [
+      "người",
+      "thực hiện việc bắt, giữ, giam người không có lệnh, quyết định"
+    ],
+    [
+      "người",
+      "không ra lệnh, quyết định gia hạn tạm giữ, tạm giam"
+    ],
+    [
+      "người",
+      "làm người bị giam, giữ trái pháp luật bị tổn hại về sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "giam, giữ người trái pháp luật"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "tổn hại về sức khỏe"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "lâm vào hoàn cảnh kinh tế đặc biệt khó khăn"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "chết"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "tự sát"
+    ],
+    [
+      "giam, giữ trái pháp luật",
+      "gia đình người bị giam, giữ ly tán"
+    ]
+  ]
+}

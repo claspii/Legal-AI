@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con chưa thành niên",
+    "người giám hộ",
+    "người được giám hộ",
+    "tòa án",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người bị hạn chế năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "chỉ định",
+    "đại diện theo pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "chỉ định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "mẹ",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "người giám hộ",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "con chưa thành niên",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "người được giám hộ",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "đại diện theo pháp luật của cá nhân"
+    ],
+    [
+      "người bị hạn chế năng lực hành vi dân sự",
+      "đại diện theo pháp luật của cá nhân"
+    ]
+  ]
+}

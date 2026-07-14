@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu tài sản",
+    "chủ sở hữu bất động sản liền kề và xung quanh",
+    "cơ quan nhà nước có thẩm quyền",
+    "chủ sở hữu cây cối, công trình xây dựng",
+    "chủ sở hữu công trình"
+  ],
+  "actions": [
+    "bảo đảm an toàn",
+    "gây thiệt hại",
+    "bồi thường",
+    "thực hiện biện pháp khắc phục",
+    "chặt cây",
+    "sửa chữa",
+    "dỡ bỏ công trình xây dựng",
+    "yêu cầu cơ quan nhà nước có thẩm quyền cho chặt cây, phá dỡ",
+    "đào giếng, đào ao hoặc xây dựng công trình dưới mặt đất"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu tài sản",
+      "thực hiện ngay các biện pháp khắc phục, chặt cây, sửa chữa hoặc dỡ bỏ công trình xây dựng"
+    ],
+    [
+      "chủ sở hữu bất động sản liền kề và xung quanh",
+      "yêu cầu cơ quan nhà nước có thẩm quyền cho chặt cây, phá dỡ"
+    ],
+    [
+      "chủ sở hữu cây cối, công trình xây dựng",
+      "chịu chi phí chặt cây, phá dỡ"
+    ],
+    [
+      "chủ sở hữu công trình",
+      "đào, xây cách mốc giới một khoảng cách"
+    ],
+    [
+      "chủ sở hữu tài sản đó",
+      "xây cách mốc giới một khoảng cách và ở vị trí hợp lý"
+    ],
+    [
+      "chủ sở hữu tài sản đó",
+      "bảo đảm vệ sinh, an toàn và không làm ảnh hưởng đến chủ sở hữu bất động sản khác"
+    ],
+    [
+      "chủ sở hữu cây cối, công trình",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cây cối",
+      "công trình xây dựng"
+    ],
+    [
+      "bất động sản liền kề",
+      "bất động sản xung quanh"
+    ],
+    [
+      "chặt cây",
+      "phá dỡ"
+    ],
+    [
+      "đào giếng",
+      "đào ao"
+    ],
+    [
+      "công trình vệ sinh",
+      "kho chứa chất độc hại"
+    ],
+    [
+      "ô nhiễm môi trường",
+      "gây thiệt hại"
+    ],
+    [
+      "an toàn",
+      "vệ sinh"
+    ]
+  ]
+}

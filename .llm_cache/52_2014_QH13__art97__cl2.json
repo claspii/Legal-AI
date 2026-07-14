@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mang thai hộ vì mục đích nhân đạo",
+    "người mang thai hộ",
+    "bộ y tế"
+  ],
+  "actions": [
+    "tuân thủ quy định",
+    "thăm khám",
+    "sàng lọc",
+    "phát hiện",
+    "điều trị"
+  ],
+  "actor_actions": [
+    [
+      "người mang thai hộ",
+      "tuân thủ quy định"
+    ],
+    [
+      "người mang thai hộ",
+      "thăm khám"
+    ],
+    [
+      "người mang thai hộ",
+      "sàng lọc"
+    ],
+    [
+      "người mang thai hộ",
+      "phát hiện"
+    ],
+    [
+      "người mang thai hộ",
+      "điều trị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người mang thai hộ",
+      "bào thai"
+    ],
+    [
+      "quy định",
+      "bộ y tế"
+    ],
+    [
+      "sàng lọc",
+      "dị tật của bào thai"
+    ],
+    [
+      "thăm khám",
+      "bất thường của bào thai"
+    ]
+  ]
+}

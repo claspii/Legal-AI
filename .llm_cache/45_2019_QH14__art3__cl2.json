@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [
+    "người sử dụng lao động"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "doanh nghiệp",
+    "cơ quan",
+    "tổ chức",
+    "hợp tác xã",
+    "hộ gia đình",
+    "cá nhân",
+    "người lao động"
+  ],
+  "actions": [
+    "thuê mướn",
+    "sử dụng",
+    "làm việc",
+    "có năng lực hành vi dân sự đầy đủ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thuê mướn"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng"
+    ],
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "cá nhân",
+      "có năng lực hành vi dân sự đầy đủ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "doanh nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "cơ quan"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp tác xã"
+    ],
+    [
+      "người sử dụng lao động",
+      "hộ gia đình"
+    ],
+    [
+      "người sử dụng lao động",
+      "cá nhân"
+    ],
+    [
+      "cá nhân",
+      "năng lực hành vi dân sự đầy đủ"
+    ]
+  ]
+}

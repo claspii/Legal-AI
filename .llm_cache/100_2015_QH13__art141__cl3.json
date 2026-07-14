@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "xâm phạm tính mạng",
+    "xâm phạm sức khỏe",
+    "xâm phạm nhân phẩm",
+    "xâm phạm danh dự",
+    "hiếp dâm",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "biết mình bị nhiễm hiv",
+    "gây rối loạn tâm thần và hành vi",
+    "làm chết",
+    "tự sát"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "nhân phẩm"
+    ],
+    [
+      "tính mạng",
+      "danh dự"
+    ],
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "rối loạn tâm thần và hành vi",
+      "nạn nhân"
+    ],
+    [
+      "nạn nhân",
+      "chết"
+    ],
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ]
+}

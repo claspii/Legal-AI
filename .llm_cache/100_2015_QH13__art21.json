@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "thực hiện hành vi nguy hiểm cho xã hội",
+    "mắc bệnh tâm thần",
+    "mất khả năng nhận thức",
+    "mất khả năng điều khiển hành vi",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi nguy hiểm cho xã hội"
+    ],
+    [
+      "người",
+      "mắc bệnh tâm thần"
+    ],
+    [
+      "người",
+      "mất khả năng nhận thức"
+    ],
+    [
+      "người",
+      "mất khả năng điều khiển hành vi"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bệnh tâm thần",
+      "mất khả năng nhận thức"
+    ],
+    [
+      "bệnh tâm thần",
+      "mất khả năng điều khiển hành vi"
+    ],
+    [
+      "hành vi nguy hiểm cho xã hội",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

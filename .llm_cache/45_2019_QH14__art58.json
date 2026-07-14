@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động thuê lại",
+    "doanh nghiệp hoạt động cho thuê lại lao động",
+    "bên thuê lại lao động",
+    "người lao động của bên thuê lại lao động"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "ký hợp đồng",
+    "chấp hành kỷ luật lao động",
+    "tuân theo sự quản lý, điều hành, giám sát",
+    "được trả lương",
+    "khiếu nại",
+    "vi phạm các thỏa thuận",
+    "thỏa thuận chấm dứt hợp đồng lao động",
+    "giao kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động thuê lại",
+      "thực hiện công việc"
+    ],
+    [
+      "người lao động thuê lại",
+      "chấp hành kỷ luật lao động"
+    ],
+    [
+      "người lao động thuê lại",
+      "tuân theo sự quản lý, điều hành, giám sát hợp pháp"
+    ],
+    [
+      "người lao động thuê lại",
+      "được trả lương"
+    ],
+    [
+      "người lao động thuê lại",
+      "khiếu nại"
+    ],
+    [
+      "người lao động thuê lại",
+      "thỏa thuận chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động thuê lại",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "bên thuê lại lao động",
+      "vi phạm các thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động thuê lại",
+      "doanh nghiệp hoạt động cho thuê lại lao động"
+    ],
+    [
+      "người lao động thuê lại",
+      "bên thuê lại lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "công việc"
+    ],
+    [
+      "kỷ luật lao động",
+      "nội quy lao động"
+    ],
+    [
+      "tiền lương",
+      "công việc có giá trị như nhau"
+    ]
+  ]
+}

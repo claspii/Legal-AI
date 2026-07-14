@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "quy định"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "sử dụng",
+      "tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "định đoạt",
+      "tài sản thuộc sở hữu toàn dân"
+    ],
+    [
+      "phạm vi",
+      "pháp luật"
+    ],
+    [
+      "trình tự",
+      "pháp luật"
+    ]
+  ]
+}

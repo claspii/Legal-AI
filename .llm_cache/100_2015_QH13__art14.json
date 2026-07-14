@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "chuẩn bị phạm tội"
+  ],
+  "actors": [
+    "người",
+    "người chuẩn bị phạm tội",
+    "người từ đủ 14 đến dưới 16 tuổi"
+  ],
+  "actions": [
+    "tìm kiếm",
+    "sửa soạn công cụ, phương tiện",
+    "tạo ra điều kiện khác để thực hiện tội phạm",
+    "thành lập, tham gia nhóm tội phạm",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tìm kiếm"
+    ],
+    [
+      "người",
+      "sửa soạn công cụ, phương tiện"
+    ],
+    [
+      "người",
+      "tạo ra điều kiện khác để thực hiện tội phạm"
+    ],
+    [
+      "người",
+      "thành lập, tham gia nhóm tội phạm"
+    ],
+    [
+      "người chuẩn bị phạm tội",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "người từ đủ 14 đến dưới 16 tuổi",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuẩn bị phạm tội",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "tội phạm"
+    ],
+    [
+      "người từ đủ 14 đến dưới 16 tuổi",
+      "chuẩn bị phạm tội"
+    ]
+  ]
+}

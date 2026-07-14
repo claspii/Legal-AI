@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sĩ quan",
+    "người khác"
+  ],
+  "actions": [
+    "rời bỏ vị trí chiến đấu",
+    "không làm nhiệm vụ trong chiến đấu",
+    "phạm tội",
+    "bỏ vũ khí",
+    "bỏ trang bị kỹ thuật quân sự",
+    "bỏ tài liệu bí mật công tác quân sự",
+    "lôi kéo người khác phạm tội",
+    "gây hậu quả nghiêm trọng",
+    "gây hậu quả rất nghiêm trọng",
+    "gây hậu quả đặc biệt nghiêm trọng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tự ý rời bỏ vị trí chiến đấu"
+    ],
+    [
+      "người",
+      "không làm nhiệm vụ trong chiến đấu"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bỏ vũ khí"
+    ],
+    [
+      "người",
+      "bỏ trang bị kỹ thuật quân sự"
+    ],
+    [
+      "người",
+      "bỏ tài liệu bí mật công tác quân sự"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rời bỏ vị trí chiến đấu",
+      "không làm nhiệm vụ trong chiến đấu"
+    ],
+    [
+      "vũ khí",
+      "trang bị kỹ thuật quân sự"
+    ],
+    [
+      "trang bị kỹ thuật quân sự",
+      "tài liệu bí mật công tác quân sự"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

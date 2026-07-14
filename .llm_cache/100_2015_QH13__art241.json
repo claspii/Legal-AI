@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ tịch ủy ban nhân dân cấp huyện",
+    "chủ tịch ủy ban nhân dân cấp tỉnh",
+    "bộ trưởng bộ nông nghiệp và phát triển nông thôn"
+  ],
+  "actions": [
+    "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+    "đưa vào",
+    "mang ra",
+    "cho phép đưa vào",
+    "cho phép mang ra",
+    "bị xử phạt vi phạm hành chính",
+    "phạm tội",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật"
+    ],
+    [
+      "người",
+      "đưa vào"
+    ],
+    [
+      "người",
+      "mang ra"
+    ],
+    [
+      "người",
+      "cho phép đưa vào"
+    ],
+    [
+      "người",
+      "cho phép mang ra"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "cấm hành nghề"
+    ],
+    [
+      "người",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "công bố dịch"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "hình phạt tiền"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt tù"
+    ],
+    [
+      "công bố dịch",
+      "chủ tịch ủy ban nhân dân cấp huyện"
+    ],
+    [
+      "công bố dịch",
+      "chủ tịch ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

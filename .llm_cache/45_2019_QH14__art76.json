@@ -1,0 +1,95 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "doanh nghiệp",
+    "ban lãnh đạo của các tổ chức đại diện người lao động",
+    "tổ chức đại diện người lao động",
+    "người sử dụng lao động",
+    "đại diện hợp pháp của các bên thương lượng",
+    "hội đồng thương lượng tập thể",
+    "chủ tịch hội đồng thương lượng tập thể",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "chính phủ"
+  ],
+  "actions": [
+    "lấy ý kiến",
+    "ký kết thỏa ước lao động tập thể",
+    "biểu quyết tán thành",
+    "quyết định",
+    "gây khó khăn",
+    "cản trở",
+    "can thiệp",
+    "gửi",
+    "nhận",
+    "công bố"
+  ],
+  "actor_actions": [
+    [
+      "các bên đàm phán",
+      "lấy ý kiến"
+    ],
+    [
+      "người lao động",
+      "biểu quyết tán thành"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "quyết định"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được gây khó khăn"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được cản trở"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được can thiệp"
+    ],
+    [
+      "đại diện hợp pháp của các bên thương lượng",
+      "ký kết"
+    ],
+    [
+      "hội đồng thương lượng tập thể",
+      "ký kết"
+    ],
+    [
+      "chủ tịch hội đồng thương lượng tập thể",
+      "ký kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "lấy ý kiến"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "lấy ý kiến"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "lấy ý kiến"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "ký kết"
+    ],
+    [
+      "dự thảo thỏa ước lao động tập thể",
+      "biểu quyết"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "gửi"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "công bố"
+    ]
+  ]
+}

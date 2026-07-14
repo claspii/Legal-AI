@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "bên bị thiệt hại",
+    "chủ sở hữu",
+    "người chiếm hữu tài sản"
+  ],
+  "actions": [
+    "xâm phạm",
+    "gây thiệt hại",
+    "bồi thường",
+    "chịu trách nhiệm bồi thường thiệt hại",
+    "phát sinh"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xâm phạm"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "phải bồi thường"
+    ],
+    [
+      "người gây thiệt hại",
+      "không phải chịu trách nhiệm bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "phải chịu trách nhiệm bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu tài sản",
+      "phải chịu trách nhiệm bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi xâm phạm",
+      "gây thiệt hại"
+    ],
+    [
+      "gây thiệt hại",
+      "phải bồi thường"
+    ],
+    [
+      "thiệt hại phát sinh",
+      "sự kiện bất khả kháng"
+    ],
+    [
+      "thiệt hại phát sinh",
+      "lỗi của bên bị thiệt hại"
+    ],
+    [
+      "tài sản",
+      "gây thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "chịu trách nhiệm bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu tài sản",
+      "chịu trách nhiệm bồi thường thiệt hại"
+    ]
+  ]
+}

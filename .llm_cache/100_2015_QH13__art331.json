@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "lợi dụng các quyền tự do dân chủ",
+    "xâm phạm lợi ích",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "gây ảnh hưởng xấu"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng các quyền tự do dân chủ"
+    ],
+    [
+      "người",
+      "xâm phạm lợi ích"
+    ],
+    [
+      "người",
+      "gây ảnh hưởng xấu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tự do ngôn luận",
+      "quyền tự do dân chủ"
+    ],
+    [
+      "quyền tự do báo chí",
+      "quyền tự do dân chủ"
+    ],
+    [
+      "quyền tự do tín ngưỡng, tôn giáo",
+      "quyền tự do dân chủ"
+    ],
+    [
+      "quyền tự do hội họp",
+      "quyền tự do dân chủ"
+    ],
+    [
+      "lợi ích của nhà nước",
+      "lợi ích hợp pháp của tổ chức, cá nhân"
+    ],
+    [
+      "an ninh",
+      "trật tự, an toàn xã hội"
+    ],
+    [
+      "phạt cảnh cáo",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

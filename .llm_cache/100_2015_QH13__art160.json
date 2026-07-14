@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công dân",
+    "nhà nước"
+  ],
+  "actions": [
+    "lừa gạt",
+    "mua chuộc",
+    "cưỡng ép",
+    "cản trở",
+    "thực hiện quyền bầu cử",
+    "thực hiện quyền ứng cử",
+    "thực hiện quyền biểu quyết",
+    "trưng cầu ý dân",
+    "phạm tội",
+    "bị phạt cảnh cáo",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lừa gạt"
+    ],
+    [
+      "người",
+      "mua chuộc"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "người",
+      "cản trở công dân thực hiện quyền bầu cử"
+    ],
+    [
+      "người",
+      "cản trở công dân thực hiện quyền ứng cử"
+    ],
+    [
+      "người",
+      "cản trở công dân thực hiện quyền biểu quyết khi nhà nước trưng cầu ý dân"
+    ],
+    [
+      "nhà nước",
+      "trưng cầu ý dân"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền bầu cử",
+      "quyền ứng cử"
+    ],
+    [
+      "quyền bầu cử",
+      "quyền biểu quyết"
+    ],
+    [
+      "quyền ứng cử",
+      "quyền biểu quyết"
+    ],
+    [
+      "bầu cử",
+      "ứng cử"
+    ],
+    [
+      "bầu cử",
+      "biểu quyết"
+    ],
+    [
+      "lừa gạt",
+      "cản trở"
+    ],
+    [
+      "mua chuộc",
+      "cản trở"
+    ],
+    [
+      "cưỡng ép",
+      "cản trở"
+    ]
+  ]
+}

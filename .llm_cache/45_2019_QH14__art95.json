@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "người nước ngoài"
+  ],
+  "actions": [
+    "trả lương",
+    "thỏa thuận",
+    "thông báo bảng kê trả lương",
+    "ghi rõ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "trả lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo bảng kê trả lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền lương",
+      "hợp đồng lao động"
+    ],
+    [
+      "tiền lương",
+      "năng suất lao động"
+    ],
+    [
+      "tiền lương",
+      "chất lượng thực hiện công việc"
+    ],
+    [
+      "tiền lương",
+      "tiền đồng việt nam"
+    ],
+    [
+      "tiền lương",
+      "ngoại tệ"
+    ],
+    [
+      "tiền lương",
+      "tiền lương làm thêm giờ"
+    ],
+    [
+      "tiền lương",
+      "tiền lương làm việc vào ban đêm"
+    ],
+    [
+      "tiền lương",
+      "số tiền bị khấu trừ"
+    ]
+  ]
+}

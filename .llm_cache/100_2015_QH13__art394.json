@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sĩ quan",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "từ chối chấp hành",
+    "cố ý không thực hiện",
+    "lôi kéo người khác phạm tội",
+    "dùng vũ lực",
+    "gây hậu quả nghiêm trọng",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "từ chối chấp hành"
+    ],
+    [
+      "người",
+      "cố ý không thực hiện"
+    ],
+    [
+      "người có thẩm quyền",
+      "ra mệnh lệnh"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chống mệnh lệnh",
+      "tù"
+    ],
+    [
+      "từ chối chấp hành",
+      "mệnh lệnh"
+    ],
+    [
+      "cố ý không thực hiện",
+      "mệnh lệnh"
+    ],
+    [
+      "gây hậu quả nghiêm trọng",
+      "mức phạt"
+    ],
+    [
+      "gây hậu quả rất nghiêm trọng",
+      "mức phạt"
+    ],
+    [
+      "gây hậu quả đặc biệt nghiêm trọng",
+      "mức phạt"
+    ],
+    [
+      "trong chiến đấu",
+      "mức phạt"
+    ],
+    [
+      "trong khu vực có chiến sự",
+      "mức phạt"
+    ]
+  ]
+}

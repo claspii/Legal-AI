@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quân nhân",
+    "quân nhân tại ngũ",
+    "công nhân",
+    "viên chức quốc phòng",
+    "quân nhân dự bị",
+    "dân quân",
+    "tự vệ",
+    "công dân"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "tập trung huấn luyện",
+    "phối thuộc với quân đội",
+    "trưng tập vào phục vụ trong quân đội"
+  ],
+  "actor_actions": [
+    [
+      "quân nhân",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "quân nhân tại ngũ",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "công nhân",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "viên chức quốc phòng",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "quân nhân dự bị",
+      "tập trung huấn luyện"
+    ],
+    [
+      "dân quân",
+      "phối thuộc với quân đội"
+    ],
+    [
+      "tự vệ",
+      "phối thuộc với quân đội"
+    ],
+    [
+      "công dân",
+      "trưng tập vào phục vụ trong quân đội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quân nhân tại ngũ",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "công nhân",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "viên chức quốc phòng",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "quân nhân dự bị",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "dân quân",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "tự vệ",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "công dân",
+      "chịu trách nhiệm hình sự"
+    ]
+  ]
+}

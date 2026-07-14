@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị kết án"
+  ],
+  "actions": [
+    "tha tù trước thời hạn có điều kiện",
+    "kết án",
+    "xâm phạm an ninh quốc gia",
+    "khủng bố",
+    "phá hoại hòa bình",
+    "chống loài người",
+    "xâm phạm tính mạng, sức khỏe, nhân phẩm của con người",
+    "cướp tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người bị kết án",
+      "xâm phạm an ninh quốc gia"
+    ],
+    [
+      "người bị kết án",
+      "khủng bố"
+    ],
+    [
+      "người bị kết án",
+      "phá hoại hòa bình"
+    ],
+    [
+      "người bị kết án",
+      "chống loài người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "người bị kết án"
+    ],
+    [
+      "người bị kết án",
+      "tội xâm phạm an ninh quốc gia"
+    ],
+    [
+      "người bị kết án",
+      "tội khủng bố"
+    ],
+    [
+      "người bị kết án",
+      "tội phá hoại hòa bình, chống loài người và tội phạm chiến tranh"
+    ],
+    [
+      "người bị kết án",
+      "tội cố ý xâm phạm tính mạng, sức khỏe, nhân phẩm của con người"
+    ],
+    [
+      "người bị kết án",
+      "tội cướp tài sản"
+    ],
+    [
+      "người bị kết án",
+      "tội bắt cóc nhằm chiếm đoạt tài sản"
+    ],
+    [
+      "người bị kết án",
+      "tội sản xuất trái phép, mua bán trái phép, chiếm đoạt chất ma túy"
+    ]
+  ]
+}

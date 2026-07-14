@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán",
+    "bên cho thuê khoán",
+    "bên"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "báo",
+    "vi phạm nghĩa vụ",
+    "tiếp tục thuê khoán",
+    "cam kết"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên",
+      "báo"
+    ],
+    [
+      "bên thuê khoán",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "bên cho thuê khoán",
+      "không được đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên thuê khoán",
+      "cam kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng thuê khoán",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên thuê khoán",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "bên thuê khoán",
+      "nguồn sống duy nhất"
+    ],
+    [
+      "thời vụ",
+      "thời hạn báo trước"
+    ],
+    [
+      "chu kỳ khai thác",
+      "thời hạn báo trước"
+    ]
+  ]
+}

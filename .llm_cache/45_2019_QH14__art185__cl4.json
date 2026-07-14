@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "đại diện mỗi bên tranh chấp",
+    "trọng tài viên lao động",
+    "các bên tranh chấp",
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "quyết định thành lập",
+    "lựa chọn",
+    "thống nhất lựa chọn",
+    "giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "hội đồng trọng tài lao động",
+      "quyết định thành lập"
+    ],
+    [
+      "đại diện mỗi bên tranh chấp",
+      "chọn"
+    ],
+    [
+      "trọng tài viên lao động",
+      "thống nhất lựa chọn"
+    ],
+    [
+      "các bên tranh chấp",
+      "cùng lựa chọn"
+    ],
+    [
+      "ban trọng tài lao động",
+      "giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "ban trọng tài lao động"
+    ],
+    [
+      "ban trọng tài lao động",
+      "trọng tài viên lao động"
+    ],
+    [
+      "đại diện mỗi bên tranh chấp",
+      "trọng tài viên lao động"
+    ],
+    [
+      "tranh chấp lao động",
+      "giải quyết tranh chấp"
+    ]
+  ]
+}

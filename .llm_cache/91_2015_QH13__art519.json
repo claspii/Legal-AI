@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên sử dụng dịch vụ"
+  ],
+  "actions": [
+    "trả tiền dịch vụ",
+    "giao kết hợp đồng",
+    "xác định giá dịch vụ",
+    "thực hiện công việc",
+    "hoàn thành dịch vụ",
+    "giảm tiền dịch vụ",
+    "yêu cầu bồi thường thiệt hại",
+    "cung ứng"
+  ],
+  "actor_actions": [
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền dịch vụ"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "giảm tiền dịch vụ"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền dịch vụ",
+      "thỏa thuận"
+    ],
+    [
+      "giá dịch vụ",
+      "hợp đồng"
+    ],
+    [
+      "dịch vụ",
+      "công việc"
+    ],
+    [
+      "dịch vụ",
+      "thiệt hại"
+    ]
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [
+    "tái phạm"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "thân nhân",
+    "cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+  ],
+  "actions": [
+    "áp dụng hình thức xử lý kỷ luật sa thải",
+    "trộm cắp",
+    "tham ô",
+    "đánh bạc",
+    "cố ý gây thương tích",
+    "sử dụng ma túy",
+    "tiết lộ bí mật kinh doanh",
+    "tiết lộ bí mật công nghệ"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "áp dụng hình thức xử lý kỷ luật sa thải"
+    ],
+    [
+      "người lao động",
+      "trộm cắp"
+    ],
+    [
+      "người lao động",
+      "tham ô"
+    ],
+    [
+      "người lao động",
+      "đánh bạc"
+    ],
+    [
+      "người lao động",
+      "cố ý gây thương tích"
+    ],
+    [
+      "người lao động",
+      "sử dụng ma túy"
+    ],
+    [
+      "người lao động",
+      "tiết lộ bí mật kinh doanh"
+    ],
+    [
+      "người lao động",
+      "tiết lộ bí mật công nghệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "hình thức xử lý kỷ luật sa thải"
+    ],
+    [
+      "người lao động",
+      "hành vi trộm cắp"
+    ],
+    [
+      "người lao động",
+      "hành vi tham ô"
+    ],
+    [
+      "người lao động",
+      "hành vi đánh bạc"
+    ],
+    [
+      "người lao động",
+      "hành vi cố ý gây thương tích"
+    ],
+    [
+      "người lao động",
+      "hành vi sử dụng ma túy"
+    ],
+    [
+      "người lao động",
+      "tiết lộ bí mật kinh doanh"
+    ],
+    [
+      "người lao động",
+      "tiết lộ bí mật công nghệ"
+    ]
+  ]
+}

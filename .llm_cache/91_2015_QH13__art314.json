@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận cầm cố",
+    "người đang chiếm hữu, sử dụng trái pháp luật tài sản cầm cố",
+    "bên cầm cố"
+  ],
+  "actions": [
+    "yêu cầu",
+    "trả lại tài sản",
+    "xử lý tài sản cầm cố",
+    "cho thuê",
+    "cho mượn",
+    "khai thác công dụng",
+    "hưởng hoa lợi, lợi tức",
+    "thanh toán chi phí"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận cầm cố",
+      "yêu cầu"
+    ],
+    [
+      "bên nhận cầm cố",
+      "xử lý tài sản cầm cố"
+    ],
+    [
+      "bên nhận cầm cố",
+      "được cho thuê"
+    ],
+    [
+      "bên nhận cầm cố",
+      "được cho mượn"
+    ],
+    [
+      "bên nhận cầm cố",
+      "khai thác công dụng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "hưởng hoa lợi, lợi tức"
+    ],
+    [
+      "bên nhận cầm cố",
+      "được thanh toán chi phí"
+    ],
+    [
+      "người đang chiếm hữu, sử dụng trái pháp luật tài sản cầm cố",
+      "trả lại tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận cầm cố",
+      "tài sản cầm cố"
+    ],
+    [
+      "bên nhận cầm cố",
+      "bên cầm cố"
+    ],
+    [
+      "tài sản cầm cố",
+      "hoa lợi, lợi tức"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "tuyên bố vô hiệu",
+    "giải quyết"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "quyền"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "nghĩa vụ"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "lợi ích"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "hợp đồng lao động"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "lợi ích"
+    ],
+    [
+      "pháp luật",
+      "thỏa thuận hợp pháp"
+    ]
+  ]
+}

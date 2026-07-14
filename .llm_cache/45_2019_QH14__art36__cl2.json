@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "báo trước"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "báo trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "thời hạn báo trước"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng",
+      "thời hạn báo trước"
+    ],
+    [
+      "hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng",
+      "thời hạn báo trước"
+    ],
+    [
+      "ngành, nghề, công việc đặc thù",
+      "thời hạn báo trước"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "lao động nữ",
+    "lao động nam",
+    "người sử dụng lao động",
+    "chính phủ",
+    "phụ nữ"
+  ],
+  "actions": [
+    "bảo đảm quyền bình đẳng",
+    "thực hiện biện pháp",
+    "phòng, chống quấy rối tình dục",
+    "khuyến khích tạo điều kiện",
+    "áp dụng chế độ làm việc",
+    "giao việc làm tại nhà",
+    "tạo việc làm",
+    "cải thiện điều kiện lao động"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo đảm quyền bình đẳng"
+    ],
+    [
+      "nhà nước",
+      "thực hiện biện pháp"
+    ],
+    [
+      "người sử dụng lao động",
+      "tạo điều kiện"
+    ],
+    [
+      "nhà nước",
+      "có biện pháp tạo việc làm"
+    ],
+    [
+      "nhà nước",
+      "có chính sách giảm thuế"
+    ],
+    [
+      "nhà nước",
+      "tổ chức nhà trẻ, lớp mẫu giáo"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ",
+      "bình đẳng giới"
+    ],
+    [
+      "lao động nam",
+      "bình đẳng giới"
+    ],
+    [
+      "lao động nữ",
+      "điều kiện lao động"
+    ],
+    [
+      "lao động nữ",
+      "sức khỏe"
+    ],
+    [
+      "người sử dụng lao động",
+      "giảm thuế"
+    ],
+    [
+      "lao động nữ",
+      "nhà trẻ"
+    ],
+    [
+      "lao động nữ",
+      "lớp mẫu giáo"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "thực hiện hành vi",
+    "đưa chất thải nguy hại hoặc chất hữu cơ khó phân hủy cần phải loại trừ theo quy định tại phụ lục a công ước stockholm vào lãnh thổ việt nam",
+    "đưa chất thải khác vào lãnh thổ việt nam"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện hành vi"
+    ],
+    [
+      "người nào",
+      "đưa chất thải nguy hại hoặc chất hữu cơ khó phân hủy cần phải loại trừ theo quy định tại phụ lục a công ước stockholm vào lãnh thổ việt nam"
+    ],
+    [
+      "người nào",
+      "đưa chất thải khác vào lãnh thổ việt nam"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất thải nguy hại hoặc chất hữu cơ khó phân hủy",
+      "lãnh thổ việt nam"
+    ],
+    [
+      "chất thải khác",
+      "lãnh thổ việt nam"
+    ],
+    [
+      "phạt tiền",
+      "tội đưa chất thải vào lãnh thổ việt nam"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "tội đưa chất thải vào lãnh thổ việt nam"
+    ],
+    [
+      "phạt tù",
+      "tội đưa chất thải vào lãnh thổ việt nam"
+    ]
+  ]
+}

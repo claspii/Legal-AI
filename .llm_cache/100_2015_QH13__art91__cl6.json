@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người dưới 18 tuổi",
+    "người đủ 18 tuổi trở lên"
+  ],
+  "actions": [
+    "áp dụng hình phạt tù có thời hạn",
+    "xét thấy",
+    "áp dụng hình phạt và biện pháp giáo dục khác không có tác dụng răn đe, phòng ngừa",
+    "xử phạt tù có thời hạn",
+    "cho hưởng mức án nhẹ hơn",
+    "không áp dụng hình phạt bổ sung"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "áp dụng hình phạt tù có thời hạn"
+    ],
+    [
+      "tòa án",
+      "xét thấy"
+    ],
+    [
+      "tòa án",
+      "xử phạt tù có thời hạn"
+    ],
+    [
+      "tòa án",
+      "cho hưởng mức án nhẹ hơn"
+    ],
+    [
+      "tòa án",
+      "không áp dụng hình phạt bổ sung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "hình phạt tù có thời hạn"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "hình phạt bổ sung"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "mức án nhẹ hơn"
+    ],
+    [
+      "hình phạt tù có thời hạn",
+      "biện pháp giáo dục khác"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm cố",
+    "bên nhận cầm cố"
+  ],
+  "actions": [
+    "yêu cầu",
+    "chấm dứt",
+    "sử dụng",
+    "trả lại",
+    "bồi thường thiệt hại",
+    "bán",
+    "thay thế",
+    "trao đổi"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm cố",
+      "yêu cầu"
+    ],
+    [
+      "bên nhận cầm cố",
+      "chấm dứt"
+    ],
+    [
+      "bên nhận cầm cố",
+      "sử dụng"
+    ],
+    [
+      "bên nhận cầm cố",
+      "trả lại"
+    ],
+    [
+      "bên nhận cầm cố",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên cầm cố",
+      "bán"
+    ],
+    [
+      "bên cầm cố",
+      "thay thế"
+    ],
+    [
+      "bên cầm cố",
+      "trao đổi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "nghĩa vụ được bảo đảm bằng cầm cố"
+    ],
+    [
+      "tài sản cầm cố",
+      "giấy tờ liên quan"
+    ],
+    [
+      "sử dụng tài sản cầm cố",
+      "tài sản cầm cố có nguy cơ bị mất giá trị"
+    ],
+    [
+      "sử dụng tài sản cầm cố",
+      "tài sản cầm cố giảm sút giá trị"
+    ],
+    [
+      "bên cầm cố",
+      "bên nhận cầm cố"
+    ]
+  ]
+}

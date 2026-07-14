@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn gây ảnh hưởng đối với người khác để trục lợi",
+    "đòi",
+    "nhận",
+    "sẽ nhận",
+    "dùng ảnh hưởng",
+    "thúc đẩy người có chức vụ, quyền hạn làm hoặc không làm một việc",
+    "phạm tội",
+    "cấm đảm nhiệm chức vụ",
+    "bị phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn trực tiếp hoặc qua trung gian đòi, nhận hoặc sẽ nhận bất kỳ lợi ích nào"
+    ],
+    [
+      "người",
+      "dùng ảnh hưởng của mình thúc đẩy người có chức vụ, quyền hạn làm hoặc không làm một việc"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ nhất định"
+    ],
+    [
+      "người phạm tội",
+      "có thể bị phạt tiền"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "làm hoặc không làm một việc thuộc trách nhiệm hoặc liên quan trực tiếp đến công việc của họ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "trục lợi"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "tiền",
+      "lợi ích vật chất khác"
+    ],
+    [
+      "lợi ích vật chất",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "chức vụ",
+      "trách nhiệm"
+    ]
+  ]
+}

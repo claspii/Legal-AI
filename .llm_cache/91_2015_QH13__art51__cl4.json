@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám sát việc giám hộ",
+    "người giám hộ",
+    "cơ quan nhà nước có thẩm quyền về giám hộ"
+  ],
+  "actions": [
+    "giám sát việc giám hộ",
+    "theo dõi",
+    "kiểm tra",
+    "thực hiện giám hộ",
+    "xem xét",
+    "có ý kiến kịp thời bằng văn bản",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "yêu cầu",
+    "thay đổi việc giám hộ",
+    "chấm dứt việc giám hộ",
+    "chấm dứt giám sát việc giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "người giám sát việc giám hộ",
+      "giám sát việc giám hộ"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "theo dõi"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "kiểm tra"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện giám hộ"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "xem xét"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "có ý kiến kịp thời bằng văn bản"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền về giám hộ",
+      "xem xét thay đổi việc giám hộ"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền về giám hộ",
+      "xem xét chấm dứt việc giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám sát việc giám hộ",
+      "người giám hộ"
+    ],
+    [
+      "giám sát việc giám hộ",
+      "thực hiện giám hộ"
+    ],
+    [
+      "xác lập giao dịch dân sự",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "thay đổi việc giám hộ",
+      "chấm dứt việc giám hộ"
+    ]
+  ]
+}

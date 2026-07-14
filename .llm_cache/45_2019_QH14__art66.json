@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tiến hành",
+    "thương lượng tập thể"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "nguyên tắc tự nguyện"
+    ],
+    [
+      "thương lượng tập thể",
+      "hợp tác"
+    ],
+    [
+      "thương lượng tập thể",
+      "thiện chí"
+    ],
+    [
+      "thương lượng tập thể",
+      "bình đẳng"
+    ],
+    [
+      "thương lượng tập thể",
+      "công khai"
+    ],
+    [
+      "thương lượng tập thể",
+      "minh bạch"
+    ]
+  ]
+}

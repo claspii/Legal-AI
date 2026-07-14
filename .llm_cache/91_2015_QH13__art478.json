@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho thuê",
+    "bên thuê"
+  ],
+  "actions": [
+    "bảo đảm",
+    "sử dụng tài sản ổn định",
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên cho thuê",
+      "bảo đảm quyền sử dụng tài sản ổn định cho bên thuê"
+    ],
+    [
+      "bên thuê",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên thuê",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho thuê",
+      "bên thuê"
+    ],
+    [
+      "quyền sử dụng tài sản",
+      "tài sản thuê"
+    ],
+    [
+      "tranh chấp về quyền sở hữu",
+      "tài sản thuê"
+    ],
+    [
+      "hợp đồng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

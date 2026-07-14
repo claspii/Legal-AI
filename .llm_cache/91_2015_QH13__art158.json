@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "quyền sở hữu"
+  ],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chiếm hữu"
+    ],
+    [
+      "chủ sở hữu",
+      "sử dụng"
+    ],
+    [
+      "chủ sở hữu",
+      "định đoạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền chiếm hữu"
+    ],
+    [
+      "quyền sở hữu",
+      "quyền sử dụng"
+    ],
+    [
+      "quyền sở hữu",
+      "quyền định đoạt"
+    ],
+    [
+      "quyền chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "quyền sử dụng",
+      "tài sản"
+    ],
+    [
+      "quyền định đoạt",
+      "tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ]
+  ]
+}

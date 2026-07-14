@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [
+    "di chúc bằng văn bản"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "di chúc bằng văn bản",
+      "di chúc bằng văn bản không có người làm chứng"
+    ],
+    [
+      "di chúc bằng văn bản",
+      "di chúc bằng văn bản có người làm chứng"
+    ],
+    [
+      "di chúc bằng văn bản",
+      "di chúc bằng văn bản có công chứng"
+    ],
+    [
+      "di chúc bằng văn bản",
+      "di chúc bằng văn bản có chứng thực"
+    ]
+  ]
+}

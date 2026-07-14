@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp",
+      "hợp đồng lao động"
+    ],
+    [
+      "chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp",
+      "chế độ khuyến khích"
+    ],
+    [
+      "chế độ khuyến khích",
+      "hợp đồng lao động"
+    ],
+    [
+      "chế độ khuyến khích",
+      "thỏa ước lao động tập thể"
+    ]
+  ]
+}

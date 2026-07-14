@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "ký kết hợp đồng lao động",
+    "học nghề",
+    "tập nghề"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "ký kết hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "học nghề",
+      "tập nghề"
+    ],
+    [
+      "học nghề",
+      "hợp đồng lao động"
+    ],
+    [
+      "tập nghề",
+      "hợp đồng lao động"
+    ]
+  ]
+}

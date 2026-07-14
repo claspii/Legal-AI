@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [
+    "hợp đồng mượn tài sản"
+  ],
+  "actors": [
+    "bên cho mượn",
+    "bên mượn",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao tài sản",
+    "sử dụng",
+    "trả tiền",
+    "trả lại tài sản",
+    "đạt được"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên cho mượn",
+      "giao tài sản"
+    ],
+    [
+      "bên mượn",
+      "sử dụng"
+    ],
+    [
+      "bên mượn",
+      "trả lại tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng mượn tài sản",
+      "bên cho mượn"
+    ],
+    [
+      "hợp đồng mượn tài sản",
+      "bên mượn"
+    ],
+    [
+      "bên cho mượn",
+      "tài sản"
+    ],
+    [
+      "bên mượn",
+      "tài sản"
+    ],
+    [
+      "thời hạn mượn",
+      "mục đích mượn"
+    ]
+  ]
+}

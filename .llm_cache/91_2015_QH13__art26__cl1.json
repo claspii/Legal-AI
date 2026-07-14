@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "một người"
+  ],
+  "actions": [
+    "có quyền có họ, tên",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quyền có họ, tên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "họ, tên",
+      "họ, tên khai sinh"
+    ]
+  ]
+}

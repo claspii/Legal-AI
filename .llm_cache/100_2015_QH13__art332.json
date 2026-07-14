@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "không chấp hành đúng quy định của pháp luật về đăng ký nghĩa vụ quân sự",
+    "không chấp hành lệnh gọi nhập ngũ",
+    "không chấp hành lệnh gọi tập trung huấn luyện",
+    "bị xử phạt vi phạm hành chính về hành vi này",
+    "bị kết án về tội này",
+    "chưa được xóa án tích mà còn vi phạm",
+    "tự gây thương tích",
+    "gây tổn hại cho sức khỏe của mình"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "không chấp hành đúng quy định của pháp luật về đăng ký nghĩa vụ quân sự"
+    ],
+    [
+      "người nào",
+      "không chấp hành lệnh gọi nhập ngũ"
+    ],
+    [
+      "người nào",
+      "không chấp hành lệnh gọi tập trung huấn luyện"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người nào",
+      "bị kết án về tội này"
+    ],
+    [
+      "người nào",
+      "chưa được xóa án tích mà còn vi phạm"
+    ],
+    [
+      "người nào",
+      "tự gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ quân sự",
+      "đăng ký nghĩa vụ quân sự"
+    ],
+    [
+      "nghĩa vụ quân sự",
+      "lệnh gọi nhập ngũ"
+    ],
+    [
+      "nghĩa vụ quân sự",
+      "lệnh gọi tập trung huấn luyện"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "hành vi này"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tội trốn tránh nghĩa vụ quân sự",
+      "vi phạm hành chính"
+    ],
+    [
+      "tội trốn tránh nghĩa vụ quân sự",
+      "bị kết án"
+    ]
+  ]
+}

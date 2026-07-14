@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác lập lại",
+    "bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "xác lập lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ trong tương lai",
+      "biện pháp bảo đảm"
+    ],
+    [
+      "phạm vi nghĩa vụ được bảo đảm",
+      "thời hạn thực hiện nghĩa vụ được bảo đảm"
+    ]
+  ]
+}

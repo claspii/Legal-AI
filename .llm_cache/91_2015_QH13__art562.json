@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "hợp đồng ủy quyền"
+  ],
+  "actors": [
+    "bên được ủy quyền",
+    "bên ủy quyền",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thực hiện công việc",
+    "trả thù lao",
+    "có thỏa thuận",
+    "có quy định"
+  ],
+  "actor_actions": [
+    [
+      "bên được ủy quyền",
+      "thực hiện công việc"
+    ],
+    [
+      "bên ủy quyền",
+      "trả thù lao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng ủy quyền",
+      "thỏa thuận"
+    ],
+    [
+      "bên được ủy quyền",
+      "thực hiện công việc"
+    ],
+    [
+      "bên ủy quyền",
+      "trả thù lao"
+    ]
+  ]
+}

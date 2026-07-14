@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "làm việc",
+    "giảm",
+    "thỏa thuận bổ sung",
+    "thực hiện hợp đồng",
+    "chịu ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "hai bên",
+      "giảm"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận bổ sung"
+    ],
+    [
+      "thực hiện hợp đồng",
+      "chịu ảnh hưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "lĩnh vực nông nghiệp"
+    ],
+    [
+      "nội dung chủ yếu của hợp đồng lao động",
+      "giảm"
+    ],
+    [
+      "phương thức giải quyết",
+      "thiên tai"
+    ],
+    [
+      "phương thức giải quyết",
+      "hỏa hoạn"
+    ],
+    [
+      "phương thức giải quyết",
+      "thời tiết"
+    ]
+  ]
+}

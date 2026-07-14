@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng",
+    "hoàn thành hợp đồng",
+    "giao kết hợp đồng",
+    "chấm dứt tồn tại",
+    "thực hiện hợp đồng",
+    "hủy bỏ hợp đồng",
+    "đơn phương chấm dứt thực hiện hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "chấm dứt"
+    ],
+    [
+      "cá nhân",
+      "giao kết hợp đồng"
+    ],
+    [
+      "pháp nhân",
+      "giao kết hợp đồng"
+    ]
+  ]
+}

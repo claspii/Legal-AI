@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "một bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "đưa tài sản chung vào kinh doanh",
+    "thực hiện giao dịch",
+    "lập thành văn bản"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "một bên",
+      "đưa tài sản chung vào kinh doanh"
+    ],
+    [
+      "một bên",
+      "tự mình thực hiện giao dịch liên quan đến tài sản chung đó"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung",
+      "kinh doanh"
+    ],
+    [
+      "thỏa thuận",
+      "văn bản"
+    ]
+  ]
+}

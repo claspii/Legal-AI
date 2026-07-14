@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện hành vi gây thiệt hại",
+    "người chỉ huy",
+    "cấp trên",
+    "người ra mệnh lệnh"
+  ],
+  "actions": [
+    "thi hành mệnh lệnh",
+    "gây thiệt hại",
+    "báo cáo",
+    "yêu cầu chấp hành mệnh lệnh",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "thi hành mệnh lệnh của người chỉ huy hoặc của cấp trên"
+    ],
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "gây thiệt hại"
+    ],
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "thực hiện đầy đủ quy trình báo cáo người ra mệnh lệnh"
+    ],
+    [
+      "người ra mệnh lệnh",
+      "yêu cầu chấp hành mệnh lệnh"
+    ],
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "không phải chịu trách nhiệm hình sự"
+    ],
+    [
+      "người ra mệnh lệnh",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "người chỉ huy"
+    ],
+    [
+      "người thực hiện hành vi gây thiệt hại",
+      "cấp trên"
+    ],
+    [
+      "thi hành mệnh lệnh",
+      "không phải chịu trách nhiệm hình sự"
+    ],
+    [
+      "người ra mệnh lệnh",
+      "chịu trách nhiệm hình sự"
+    ]
+  ]
+}

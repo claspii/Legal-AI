@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "chính phủ",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "lựa chọn",
+    "thực hiện",
+    "áp dụng",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "lựa chọn"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng theo luật định",
+      "chế độ tài sản của vợ chồng theo thỏa thuận"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo luật định",
+      "luật này"
+    ],
+    [
+      "chế độ tài sản của vợ chồng theo thỏa thuận",
+      "luật này"
+    ],
+    [
+      "vợ chồng",
+      "chế độ tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [
+    "thời hạn bảo hành"
+  ],
+  "actors": [
+    "bên bán",
+    "bên mua",
+    "các bên"
+  ],
+  "actions": [
+    "bảo hành",
+    "thỏa thuận",
+    "có nghĩa vụ",
+    "phải nhận"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "có nghĩa vụ bảo hành"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên mua",
+      "phải nhận vật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ bảo hành",
+      "thời hạn bảo hành"
+    ],
+    [
+      "thời hạn bảo hành",
+      "bên mua có nghĩa vụ phải nhận vật"
+    ],
+    [
+      "bên bán",
+      "vật mua bán"
+    ]
+  ]
+}

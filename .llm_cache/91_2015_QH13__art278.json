@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên có nghĩa vụ",
+    "cơ quan có thẩm quyền",
+    "bên có quyền",
+    "bên kia"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quy định",
+    "quyết định",
+    "thực hiện nghĩa vụ",
+    "chấp nhận việc thực hiện nghĩa vụ",
+    "hoàn thành đúng thời hạn",
+    "xác định được thời hạn",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "tự ý thực hiện nghĩa vụ trước thời hạn"
+    ],
+    [
+      "bên có quyền",
+      "chấp nhận việc thực hiện nghĩa vụ"
+    ],
+    [
+      "mỗi bên",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "mỗi bên",
+      "yêu cầu thực hiện nghĩa vụ"
+    ],
+    [
+      "mỗi bên",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn thực hiện nghĩa vụ",
+      "thỏa thuận"
+    ],
+    [
+      "thời hạn thực hiện nghĩa vụ",
+      "quy định của pháp luật"
+    ],
+    [
+      "thời hạn thực hiện nghĩa vụ",
+      "quyết định của cơ quan có thẩm quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "thời hạn"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "thực hiện nghĩa vụ trước thời hạn",
+      "nghĩa vụ được coi là đã hoàn thành đúng thời hạn"
+    ]
+  ]
+}

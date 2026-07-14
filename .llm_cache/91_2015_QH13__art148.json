@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "kết thúc thời hạn",
+    "tính bằng ngày",
+    "tính bằng tuần",
+    "tính bằng tháng",
+    "tính bằng năm",
+    "kết thúc vào ngày cuối cùng của tháng đó",
+    "kết thúc tại thời điểm kết thúc ngày làm việc tiếp theo ngày nghỉ đó"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thời hạn tính bằng ngày",
+      "kết thúc tại thời điểm kết thúc ngày cuối cùng của thời hạn"
+    ],
+    [
+      "thời hạn tính bằng tuần",
+      "kết thúc tại thời điểm kết thúc ngày tương ứng của tuần cuối cùng của thời hạn"
+    ],
+    [
+      "thời hạn tính bằng tháng",
+      "kết thúc tại thời điểm kết thúc ngày tương ứng của tháng cuối cùng của thời hạn"
+    ],
+    [
+      "tháng kết thúc thời hạn không có ngày tương ứng",
+      "thời hạn kết thúc vào ngày cuối cùng của tháng đó"
+    ],
+    [
+      "thời hạn tính bằng năm",
+      "kết thúc tại thời điểm kết thúc ngày, tháng tương ứng của năm cuối cùng của thời hạn"
+    ],
+    [
+      "ngày cuối cùng của thời hạn là ngày nghỉ cuối tuần hoặc ngày nghỉ lễ",
+      "thời hạn kết thúc tại thời điểm kết thúc ngày làm việc tiếp theo ngày nghỉ đó"
+    ],
+    [
+      "thời điểm kết thúc ngày cuối cùng của thời hạn",
+      "lúc hai mươi tư giờ của ngày đó"
+    ]
+  ]
+}

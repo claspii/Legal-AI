@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "được đặc xá",
+    "đại xá"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án",
+      "được đặc xá"
+    ],
+    [
+      "người bị kết án",
+      "đại xá"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "đặc xá"
+    ],
+    [
+      "miễn chấp hành hình phạt",
+      "đại xá"
+    ]
+  ]
+}

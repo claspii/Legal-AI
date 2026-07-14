@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [
+    "học nghề để làm việc cho người sử dụng lao động",
+    "tập nghề để làm việc cho người sử dụng lao động"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người học nghề",
+    "người tập nghề",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "tuyển người",
+    "đào tạo nghề nghiệp",
+    "hướng dẫn thực hành công việc",
+    "tập làm nghề",
+    "đăng ký hoạt động giáo dục nghề nghiệp",
+    "thu học phí",
+    "ký hợp đồng đào tạo",
+    "trả lương",
+    "ký kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển người"
+    ],
+    [
+      "người sử dụng lao động",
+      "đào tạo nghề nghiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "hướng dẫn thực hành công việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "tập làm nghề"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được thu học phí"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải ký hợp đồng đào tạo"
+    ],
+    [
+      "người học nghề, người tập nghề",
+      "trực tiếp hoặc tham gia lao động"
+    ],
+    [
+      "hai bên",
+      "ký kết hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "học nghề",
+      "tập nghề"
+    ],
+    [
+      "người học nghề",
+      "người tập nghề"
+    ],
+    [
+      "học nghề",
+      "hợp đồng đào tạo"
+    ],
+    [
+      "tập nghề",
+      "hợp đồng đào tạo"
+    ],
+    [
+      "học nghề",
+      "lương"
+    ],
+    [
+      "tập nghề",
+      "lương"
+    ]
+  ]
+}

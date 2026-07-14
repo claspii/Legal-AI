@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công dân"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "dùng thủ đoạn khác ngăn cản",
+    "ép buộc",
+    "lập hội",
+    "hội họp hợp pháp",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "vi phạm",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác ngăn cản"
+    ],
+    [
+      "người",
+      "ép buộc"
+    ],
+    [
+      "người",
+      "lập hội"
+    ],
+    [
+      "người",
+      "hội họp hợp pháp"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền hội họp",
+      "quyền lập hội"
+    ],
+    [
+      "lập hội",
+      "hội họp hợp pháp"
+    ],
+    [
+      "xử lý kỷ luật",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "làm công việc nhất định"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ]
+  ]
+}

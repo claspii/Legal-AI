@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án",
+    "người giám hộ",
+    "người đại diện theo pháp luật"
+  ],
+  "actions": [
+    "xác lập giao dịch",
+    "thực hiện giao dịch",
+    "chấm dứt giao dịch",
+    "ủy quyền",
+    "làm người giám hộ",
+    "chỉ định người đại diện theo pháp luật",
+    "giải quyết ly hôn"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "xác lập giao dịch"
+    ],
+    [
+      "chồng",
+      "xác lập giao dịch"
+    ],
+    [
+      "vợ, chồng",
+      "ủy quyền cho nhau"
+    ],
+    [
+      "bên kia",
+      "làm người giám hộ"
+    ],
+    [
+      "tòa án",
+      "chỉ định người đại diện theo pháp luật"
+    ],
+    [
+      "tòa án",
+      "giải quyết ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "đại diện",
+      "giao dịch"
+    ],
+    [
+      "mất năng lực hành vi dân sự",
+      "người giám hộ"
+    ],
+    [
+      "hạn chế năng lực hành vi dân sự",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "mất năng lực hành vi dân sự",
+      "ly hôn"
+    ]
+  ]
+}

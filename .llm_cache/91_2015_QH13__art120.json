@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "một bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "phát sinh giao dịch dân sự",
+    "hủy bỏ giao dịch dân sự",
+    "cản trở trực tiếp",
+    "cản trở gián tiếp",
+    "tác động trực tiếp",
+    "tác động gián tiếp",
+    "thúc đẩy"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "một bên",
+      "cản trở trực tiếp"
+    ],
+    [
+      "một bên",
+      "cản trở gián tiếp"
+    ],
+    [
+      "một bên",
+      "tác động trực tiếp"
+    ],
+    [
+      "một bên",
+      "tác động gián tiếp"
+    ],
+    [
+      "một bên",
+      "thúc đẩy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều kiện phát sinh giao dịch dân sự",
+      "giao dịch dân sự phát sinh"
+    ],
+    [
+      "điều kiện hủy bỏ giao dịch dân sự",
+      "giao dịch dân sự hủy bỏ"
+    ],
+    [
+      "cản trở trực tiếp",
+      "điều kiện đã xảy ra"
+    ],
+    [
+      "cản trở gián tiếp",
+      "điều kiện đã xảy ra"
+    ],
+    [
+      "tác động trực tiếp",
+      "điều kiện không xảy ra"
+    ],
+    [
+      "tác động gián tiếp",
+      "điều kiện không xảy ra"
+    ],
+    [
+      "thúc đẩy",
+      "điều kiện không xảy ra"
+    ]
+  ]
+}

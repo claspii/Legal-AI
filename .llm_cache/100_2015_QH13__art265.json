@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm bảo đảm trật tự, an toàn giao thông",
+    "người có trách nhiệm giải tán cuộc đua xe trái phép",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "tổ chức đua xe trái phép",
+    "tổ chức cá cược",
+    "làm chết",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức trái phép việc đua xe ô tô, xe máy hoặc các loại xe khác có gắn động cơ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "phạt tù",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "làm chết",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe",
+      "tổ chức đua xe trái phép"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "tổ chức đua xe trái phép"
+    ]
+  ]
+}

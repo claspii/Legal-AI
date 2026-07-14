@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "chỉ huy",
+    "điều khiển tàu bay",
+    "vi phạm quy định về an toàn giao thông đường không",
+    "gây thiệt hại cho tính mạng, sức khỏe hoặc tài sản",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chỉ huy"
+    ],
+    [
+      "người",
+      "điều khiển tàu bay"
+    ],
+    [
+      "người",
+      "vi phạm quy định về an toàn giao thông đường không"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàu bay",
+      "an toàn giao thông đường không"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "tài sản"
+    ],
+    [
+      "sức khỏe",
+      "tài sản"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

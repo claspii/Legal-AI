@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "hai bên tranh chấp",
+    "cơ quan, tổ chức, cá nhân có thẩm quyền",
+    "bên tranh chấp",
+    "đại diện các bên"
+  ],
+  "actions": [
+    "tôn trọng quyền tự định đoạt",
+    "thương lượng",
+    "giải quyết tranh chấp lao động",
+    "hòa giải",
+    "trọng tài",
+    "tiến hành",
+    "yêu cầu",
+    "đề nghị",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "tôn trọng quyền tự định đoạt"
+    ],
+    [
+      "các bên",
+      "thương lượng"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền",
+      "tiến hành giải quyết tranh chấp lao động"
+    ],
+    [
+      "bên tranh chấp",
+      "yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền",
+      "đề nghị giải quyết tranh chấp lao động"
+    ],
+    [
+      "các bên tranh chấp",
+      "đồng ý giải quyết tranh chấp lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tự định đoạt",
+      "thương lượng"
+    ],
+    [
+      "tranh chấp lao động",
+      "hòa giải"
+    ],
+    [
+      "tranh chấp lao động",
+      "trọng tài"
+    ],
+    [
+      "quyền",
+      "lợi ích của hai bên tranh chấp"
+    ],
+    [
+      "lợi ích chung",
+      "xã hội"
+    ]
+  ]
+}

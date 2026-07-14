@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "thương lượng tập thể"
+  ],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người sử dụng lao động"
+  ],
+  "actions": [
+    "đàm phán",
+    "thỏa thuận",
+    "xác lập điều kiện lao động",
+    "quy định về mối quan hệ giữa các bên",
+    "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+  ],
+  "actor_actions": [
+    [
+      "một bên là một hoặc nhiều tổ chức đại diện người lao động",
+      "đàm phán"
+    ],
+    [
+      "một bên là một hoặc nhiều tổ chức đại diện người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "một bên là một hoặc nhiều người sử dụng lao động hoặc tổ chức đại diện người sử dụng lao động",
+      "đàm phán"
+    ],
+    [
+      "một bên là một hoặc nhiều người sử dụng lao động hoặc tổ chức đại diện người sử dụng lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đàm phán",
+      "thỏa thuận"
+    ],
+    [
+      "thương lượng tập thể",
+      "điều kiện lao động"
+    ],
+    [
+      "thương lượng tập thể",
+      "quan hệ lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "người sử dụng lao động"
+    ]
+  ]
+}

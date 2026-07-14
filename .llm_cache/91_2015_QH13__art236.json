@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người được lợi về tài sản",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "chiếm hữu",
+    "được lợi về tài sản",
+    "trở thành chủ sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "chiếm hữu"
+    ],
+    [
+      "người được lợi về tài sản",
+      "được lợi về tài sản"
+    ],
+    [
+      "người chiếm hữu",
+      "trở thành chủ sở hữu"
+    ],
+    [
+      "người được lợi về tài sản",
+      "trở thành chủ sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "được lợi về tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "động sản",
+      "thời hạn 10 năm"
+    ],
+    [
+      "bất động sản",
+      "thời hạn 30 năm"
+    ]
+  ]
+}

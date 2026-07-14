@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước"
+  ],
+  "actions": [
+    "có chính sách phát triển",
+    "kết nối cung, cầu lao động"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "có chính sách phát triển"
+    ],
+    [
+      "nhà nước",
+      "kết nối cung, cầu lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính sách phát triển thị trường lao động",
+      "đa dạng các hình thức kết nối cung, cầu lao động"
+    ]
+  ]
+}

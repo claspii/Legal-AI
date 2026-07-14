@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua",
+    "chủ thể khác"
+  ],
+  "actions": [
+    "chuộc lại",
+    "thỏa thuận",
+    "giao tài sản",
+    "báo trước",
+    "xác lập giao dịch",
+    "chuyển quyền sở hữu",
+    "chịu rủi ro"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "chuộc lại"
+    ],
+    [
+      "bên bán",
+      "báo trước"
+    ],
+    [
+      "bên mua",
+      "giao tài sản"
+    ],
+    [
+      "bên mua",
+      "xác lập giao dịch"
+    ],
+    [
+      "bên mua",
+      "chuyển quyền sở hữu"
+    ],
+    [
+      "bên mua",
+      "chịu rủi ro"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bán",
+      "bên mua"
+    ],
+    [
+      "tài sản đã bán",
+      "chuộc lại tài sản đã bán"
+    ],
+    [
+      "thời hạn chuộc lại",
+      "tài sản"
+    ],
+    [
+      "động sản",
+      "bất động sản"
+    ],
+    [
+      "giá chuộc lại",
+      "giá thị trường"
+    ]
+  ]
+}

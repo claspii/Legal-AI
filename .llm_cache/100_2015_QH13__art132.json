@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không cứu giúp"
+  ],
+  "actions": [
+    "không cứu giúp",
+    "gây ra tình trạng nguy hiểm",
+    "bị phạt cảnh cáo",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không cứu giúp"
+    ],
+    [
+      "người không cứu giúp",
+      "gây ra tình trạng nguy hiểm"
+    ],
+    [
+      "người",
+      "bị phạt cảnh cáo"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không cứu giúp",
+      "tình trạng nguy hiểm đến tính mạng"
+    ],
+    [
+      "không cứu giúp",
+      "chết"
+    ],
+    [
+      "người không cứu giúp",
+      "người đã vô ý gây ra tình trạng nguy hiểm"
+    ],
+    [
+      "người không cứu giúp",
+      "nghĩa vụ phải cứu giúp"
+    ],
+    [
+      "phạt cảnh cáo",
+      "tội không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "tội không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng"
+    ],
+    [
+      "phạt tù",
+      "tội không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng"
+    ]
+  ]
+}

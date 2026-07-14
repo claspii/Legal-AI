@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "vi phạm kỷ luật lao động",
+    "áp dụng hình thức kỷ luật"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "vi phạm kỷ luật lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "hành vi vi phạm kỷ luật lao động"
+    ],
+    [
+      "hành vi vi phạm kỷ luật lao động",
+      "hình thức kỷ luật"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt hôn nhân",
+    "chết",
+    "tuyên bố"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chết"
+    ],
+    [
+      "chồng",
+      "chết"
+    ],
+    [
+      "tòa án",
+      "tuyên bố"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt hôn nhân",
+      "vợ hoặc chồng chết"
+    ],
+    [
+      "chấm dứt hôn nhân",
+      "ngày chết được ghi trong bản án, quyết định của tòa án"
+    ]
+  ]
+}

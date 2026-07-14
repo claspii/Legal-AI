@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "lao động là người giúp việc gia đình",
+    "một bên",
+    "hai bên"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "thỏa thuận",
+    "đơn phương chấm dứt hợp đồng lao động",
+    "báo trước"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "một bên",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "một bên",
+      "báo trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "lao động là người giúp việc gia đình"
+    ],
+    [
+      "thời hạn của hợp đồng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "hợp đồng lao động",
+      "chấm dứt"
+    ],
+    [
+      "hình thức trả lương",
+      "thỏa thuận"
+    ],
+    [
+      "kỳ hạn trả lương",
+      "thỏa thuận"
+    ],
+    [
+      "thời giờ làm việc hằng ngày",
+      "thỏa thuận"
+    ],
+    [
+      "chỗ ở",
+      "thỏa thuận"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "luật",
+    "mỗi bên",
+    "bên kia"
+  ],
+  "actions": [
+    "xác định",
+    "chấm dứt",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "luật",
+      "xác định"
+    ],
+    [
+      "mỗi bên",
+      "chấm dứt"
+    ],
+    [
+      "mỗi bên",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn của quyền bề mặt",
+      "luật"
+    ],
+    [
+      "thời hạn của quyền bề mặt",
+      "thỏa thuận"
+    ],
+    [
+      "thời hạn của quyền bề mặt",
+      "di chúc"
+    ],
+    [
+      "thời hạn của quyền bề mặt",
+      "thời hạn của quyền sử dụng đất"
+    ],
+    [
+      "thỏa thuận",
+      "chấm dứt quyền bề mặt"
+    ],
+    [
+      "di chúc",
+      "chấm dứt quyền bề mặt"
+    ]
+  ]
+}

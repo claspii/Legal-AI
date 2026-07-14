@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện công việc không có ủy quyền",
+    "người có công việc được thực hiện",
+    "cá nhân",
+    "pháp nhân",
+    "người thừa kế",
+    "người đại diện",
+    "người thân thích"
+  ],
+  "actions": [
+    "thực hiện công việc",
+    "báo",
+    "chấm dứt tồn tại",
+    "tiếp tục thực hiện công việc",
+    "tiếp nhận",
+    "đảm nhận công việc",
+    "nhờ người khác thay mình đảm nhận việc thực hiện công việc"
+  ],
+  "actor_actions": [
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "thực hiện công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "báo"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "tiếp tục thực hiện công việc"
+    ],
+    [
+      "người thừa kế",
+      "tiếp nhận"
+    ],
+    [
+      "người đại diện",
+      "tiếp nhận"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "đảm nhận công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "nhờ người khác thay mình đảm nhận việc thực hiện công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "công việc không có ủy quyền"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "ý định"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "nơi cư trú"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "trụ sở"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "người thừa kế"
+    ]
+  ]
+}

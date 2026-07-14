@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị bắt",
+    "người đang bị tạm giữ",
+    "người đang bị tạm giam",
+    "người đang chấp hành án phạt tù",
+    "người được tha trái pháp luật",
+    "người tiến hành tố tụng",
+    "người tham gia tố tụng"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "lạm quyền",
+    "tha trái pháp luật",
+    "bỏ trốn",
+    "cản trở việc điều tra, truy tố, xét xử",
+    "tiếp tục thực hiện tội phạm",
+    "trả thù",
+    "chấp hành án phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "lạm quyền"
+    ],
+    [
+      "người",
+      "tha trái pháp luật"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "bỏ trốn"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "có hành vi cản trở việc điều tra, truy tố, xét xử"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "tiếp tục thực hiện tội phạm"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "trả thù người tiến hành tố tụng"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "trả thù người tham gia tố tụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha trái pháp luật",
+      "người bị bắt"
+    ],
+    [
+      "tha trái pháp luật",
+      "người đang bị tạm giữ"
+    ],
+    [
+      "tha trái pháp luật",
+      "người đang bị tạm giam"
+    ],
+    [
+      "tha trái pháp luật",
+      "người đang chấp hành hình phạt tù"
+    ],
+    [
+      "tội phạm rất nghiêm trọng",
+      "tha trái pháp luật"
+    ],
+    [
+      "tội phạm đặc biệt nghiêm trọng",
+      "tha trái pháp luật"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "bỏ trốn"
+    ],
+    [
+      "người được tha trái pháp luật",
+      "cản trở việc điều tra, truy tố, xét xử"
+    ]
+  ]
+}

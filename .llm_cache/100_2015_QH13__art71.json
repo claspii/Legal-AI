@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người bị kết án",
+    "người đó"
+  ],
+  "actions": [
+    "xóa án tích theo quyết định của tòa án",
+    "chấp hành xong hình phạt chính",
+    "hết thời hiệu thi hành bản án",
+    "đáp ứng các điều kiện",
+    "quyết định việc xóa án tích",
+    "chấp hành xong hình phạt bổ sung",
+    "chấp hành xong các quyết định khác của bản án",
+    "không thực hiện hành vi phạm tội mới"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xóa án tích theo quyết định của tòa án"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt chính"
+    ],
+    [
+      "người bị kết án",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "người bị kết án",
+      "đáp ứng các điều kiện"
+    ],
+    [
+      "tòa án",
+      "quyết định việc xóa án tích"
+    ],
+    [
+      "người đó",
+      "chấp hành xong hình phạt bổ sung"
+    ],
+    [
+      "người đó",
+      "chấp hành xong các quyết định khác của bản án"
+    ],
+    [
+      "người đó",
+      "không thực hiện hành vi phạm tội mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xóa án tích",
+      "tòa án"
+    ],
+    [
+      "người bị kết án",
+      "xóa án tích"
+    ],
+    [
+      "hình phạt chính",
+      "xóa án tích"
+    ],
+    [
+      "thời gian thử thách án treo",
+      "xóa án tích"
+    ],
+    [
+      "thời hiệu thi hành bản án",
+      "xóa án tích"
+    ],
+    [
+      "hành vi phạm tội mới",
+      "xóa án tích"
+    ],
+    [
+      "hình phạt bổ sung",
+      "thời hạn xóa án tích"
+    ],
+    [
+      "bác đơn xin xóa án tích",
+      "thời hạn xin xóa án tích"
+    ]
+  ]
+}

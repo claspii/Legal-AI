@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan quản lý thuế",
+    "người gửi hàng"
+  ],
+  "actions": [
+    "trốn thuế",
+    "không nộp hồ sơ đăng ký thuế",
+    "không nộp hồ sơ khai thuế",
+    "nộp hồ sơ khai thuế không đúng thời hạn",
+    "không ghi chép trong sổ kế toán các khoản thu liên quan đến việc xác định số tiền thuế phải nộp",
+    "không xuất hóa đơn khi bán hàng hóa, dịch vụ",
+    "ghi giá trị trên hóa đơn bán hàng thấp hơn giá trị thanh toán thực tế của hàng hóa, dịch vụ đã bán",
+    "sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán hàng hóa, nguyên liệu đầu vào trong hoạt động phát sinh nghĩa vụ thuế làm giảm số tiền thuế phải nộp hoặc làm tăng số tiền thuế được miễn, số tiền thuế được giảm hoặc tăng số tiền thuế được khấu trừ, số tiền thuế được hoàn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trốn thuế"
+    ],
+    [
+      "người",
+      "không nộp hồ sơ đăng ký thuế"
+    ],
+    [
+      "người",
+      "không nộp hồ sơ khai thuế"
+    ],
+    [
+      "người",
+      "nộp hồ sơ khai thuế không đúng thời hạn"
+    ],
+    [
+      "người",
+      "không ghi chép trong sổ kế toán các khoản thu liên quan đến việc xác định số tiền thuế phải nộp"
+    ],
+    [
+      "người",
+      "không xuất hóa đơn khi bán hàng hóa, dịch vụ"
+    ],
+    [
+      "người",
+      "ghi giá trị trên hóa đơn bán hàng thấp hơn giá trị thanh toán thực tế của hàng hóa, dịch vụ đã bán"
+    ],
+    [
+      "người",
+      "sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán hàng hóa, nguyên liệu đầu vào trong hoạt động phát sinh nghĩa vụ thuế làm giảm số tiền thuế phải nộp hoặc làm tăng số tiền thuế được miễn, số tiền thuế được giảm hoặc tăng số tiền thuế được khấu trừ, số tiền thuế được hoàn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội trốn thuế",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "tội trốn thuế",
+      "án tích"
+    ],
+    [
+      "trốn thuế",
+      "số tiền"
+    ],
+    [
+      "hóa đơn",
+      "chứng từ"
+    ],
+    [
+      "hàng hóa xuất khẩu",
+      "hàng hóa nhập khẩu"
+    ],
+    [
+      "hàng hóa",
+      "dịch vụ"
+    ],
+    [
+      "số tiền thuế phải nộp",
+      "số tiền thuế được hoàn"
+    ],
+    [
+      "số tiền thuế phải nộp",
+      "số tiền thuế được miễn"
+    ]
+  ]
+}

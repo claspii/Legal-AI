@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "tòa án",
+    "ngân hàng",
+    "tổ chức tín dụng",
+    "quỹ đầu tư",
+    "khách hàng"
+  ],
+  "actions": [
+    "cấm huy động vốn",
+    "phạm tội",
+    "vay vốn",
+    "phát hành, chào bán chứng khoán",
+    "huy động vốn khách hàng",
+    "liên doanh, liên kết",
+    "hình thành quỹ tín thác bất động sản",
+    "quyết định áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "tòa án",
+      "quyết định áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm huy động vốn",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "cấm huy động vốn",
+      "thời hạn"
+    ],
+    [
+      "cấm huy động vốn",
+      "vay vốn ngân hàng"
+    ],
+    [
+      "cấm huy động vốn",
+      "phát hành, chào bán chứng khoán"
+    ],
+    [
+      "cấm huy động vốn",
+      "huy động vốn khách hàng"
+    ],
+    [
+      "cấm huy động vốn",
+      "liên doanh, liên kết"
+    ],
+    [
+      "cấm huy động vốn",
+      "hình thành quỹ tín thác bất động sản"
+    ]
+  ]
+}

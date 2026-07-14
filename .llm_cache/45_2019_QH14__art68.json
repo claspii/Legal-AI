@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "doanh nghiệp",
+    "chính phủ",
+    "các bên"
+  ],
+  "actions": [
+    "yêu cầu thương lượng tập thể",
+    "đạt tỷ lệ thành viên tối thiểu",
+    "tham gia thương lượng tập thể",
+    "đồng ý",
+    "kết hợp",
+    "giải quyết tranh chấp",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "có quyền yêu cầu thương lượng tập thể"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "đạt tỷ lệ thành viên tối thiểu"
+    ],
+    [
+      "tổ chức có quyền yêu cầu thương lượng",
+      "đồng ý"
+    ],
+    [
+      "các tổ chức đại diện người lao động tại cơ sở khác",
+      "có thể tham gia thương lượng tập thể"
+    ],
+    [
+      "các tổ chức",
+      "có quyền tự nguyện kết hợp với nhau"
+    ],
+    [
+      "chính phủ",
+      "quy định việc giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "thương lượng tập thể"
+    ],
+    [
+      "doanh nghiệp",
+      "thương lượng tập thể"
+    ],
+    [
+      "tỷ lệ thành viên tối thiểu",
+      "quy định của chính phủ"
+    ],
+    [
+      "thương lượng tập thể",
+      "giải quyết tranh chấp"
+    ]
+  ]
+}

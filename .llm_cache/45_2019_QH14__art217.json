@@ -1,0 +1,139 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án",
+    "người lao động",
+    "tổ chức đại diện người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "vi phạm quy định của Bộ luật này",
+    "bị xử lý kỷ luật",
+    "bị xử phạt vi phạm hành chính",
+    "bị truy cứu trách nhiệm hình sự",
+    "gây thiệt hại",
+    "bồi thường",
+    "đình công",
+    "ngừng đình công",
+    "trở lại làm việc",
+    "tổ chức và lãnh đạo đình công",
+    "gây mất trật tự, an toàn công cộng",
+    "làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động",
+    "cản trở thực hiện quyền đình công",
+    "kích động",
+    "lôi kéo",
+    "ép buộc người lao động đình công",
+    "trù dập",
+    "trả thù người tham gia đình công",
+    "trả thù người lãnh đạo cuộc đình công"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định của Bộ luật này"
+    ],
+    [
+      "người lao động",
+      "tham gia đình công"
+    ],
+    [
+      "người lao động",
+      "không ngừng đình công"
+    ],
+    [
+      "người lao động",
+      "không trở lại làm việc"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tổ chức và lãnh đạo đình công"
+    ],
+    [
+      "người",
+      "lợi dụng đình công gây mất trật tự, an toàn công cộng"
+    ],
+    [
+      "người",
+      "làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động"
+    ],
+    [
+      "người",
+      "có hành vi cản trở thực hiện quyền đình công"
+    ],
+    [
+      "người",
+      "kích động"
+    ],
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "ép buộc người lao động đình công"
+    ],
+    [
+      "người",
+      "trù dập"
+    ],
+    [
+      "người",
+      "trả thù người tham gia đình công"
+    ],
+    [
+      "người",
+      "trả thù người lãnh đạo cuộc đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định của Bộ luật này",
+      "xử lý kỷ luật"
+    ],
+    [
+      "vi phạm quy định của Bộ luật này",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "vi phạm quy định của Bộ luật này",
+      "truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "vi phạm quy định của Bộ luật này",
+      "bồi thường"
+    ],
+    [
+      "cuộc đình công là bất hợp pháp",
+      "người lao động phải ngừng ngay đình công và trở lại làm việc"
+    ],
+    [
+      "cuộc đình công là bất hợp pháp",
+      "gây thiệt hại cho người sử dụng lao động"
+    ],
+    [
+      "cuộc đình công là bất hợp pháp",
+      "tổ chức đại diện người lao động tổ chức và lãnh đạo đình công phải bồi thường thiệt hại"
+    ],
+    [
+      "lợi dụng đình công gây mất trật tự, an toàn công cộng",
+      "bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động",
+      "bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "cản trở thực hiện quyền đình công",
+      "bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "kích động, lôi kéo, ép buộc người lao động đình công",
+      "bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "trù dập, trả thù người tham gia đình công, người lãnh đạo cuộc đình công",
+      "bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự"
+    ]
+  ]
+}

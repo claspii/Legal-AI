@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "bên kia"
+  ],
+  "actions": [
+    "không thực hiện được nghĩa vụ",
+    "yêu cầu thực hiện nghĩa vụ",
+    "hủy bỏ hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "không thực hiện được nghĩa vụ"
+    ],
+    [
+      "một bên",
+      "yêu cầu bên kia vẫn phải thực hiện nghĩa vụ đối với mình"
+    ],
+    [
+      "một bên",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "một bên",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên kia",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng song vụ",
+      "nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "lỗi"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

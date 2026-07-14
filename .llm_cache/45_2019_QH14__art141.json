@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "chăm sóc con ốm đau",
+    "khám thai",
+    "sẩy thai",
+    "nạo, hút thai",
+    "thai chết lưu",
+    "phá thai bệnh lý",
+    "thực hiện các biện pháp tránh thai",
+    "triệt sản",
+    "nghỉ việc",
+    "hưởng trợ cấp"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "hưởng trợ cấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chăm sóc con ốm đau",
+      "trợ cấp"
+    ],
+    [
+      "khám thai",
+      "trợ cấp"
+    ],
+    [
+      "sẩy thai",
+      "trợ cấp"
+    ],
+    [
+      "nạo, hút thai",
+      "trợ cấp"
+    ],
+    [
+      "thai chết lưu",
+      "trợ cấp"
+    ],
+    [
+      "phá thai bệnh lý",
+      "trợ cấp"
+    ],
+    [
+      "thực hiện các biện pháp tránh thai",
+      "trợ cấp"
+    ],
+    [
+      "triệt sản",
+      "trợ cấp"
+    ]
+  ]
+}

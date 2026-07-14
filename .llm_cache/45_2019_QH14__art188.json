@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "tòa án",
+    "người giúp việc gia đình",
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "hòa giải",
+    "nhận được yêu cầu",
+    "kết thúc việc hòa giải",
+    "có mặt",
+    "ủy quyền",
+    "thương lượng"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "nhận được yêu cầu"
+    ],
+    [
+      "hòa giải viên lao động",
+      "kết thúc việc hòa giải"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hướng dẫn"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hỗ trợ"
+    ],
+    [
+      "các bên tranh chấp",
+      "ủy quyền"
+    ],
+    [
+      "các bên tranh chấp",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải viên lao động",
+      "tranh chấp lao động cá nhân"
+    ],
+    [
+      "hòa giải thành",
+      "biên bản hòa giải thành"
+    ],
+    [
+      "hòa giải không thành",
+      "biên bản hòa giải không thành"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "tòa án"
+    ]
+  ]
+}

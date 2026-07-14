@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán"
+  ],
+  "actions": [
+    "trả lại tài sản thuê khoán",
+    "làm mất giá trị",
+    "giảm sút giá trị",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "trả lại tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "làm mất giá trị"
+    ],
+    [
+      "bên thuê khoán",
+      "giảm sút giá trị"
+    ],
+    [
+      "bên thuê khoán",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt hợp đồng thuê khoán",
+      "trả lại tài sản thuê khoán"
+    ],
+    [
+      "làm mất giá trị tài sản thuê khoán",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "giảm sút giá trị tài sản thuê khoán",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "tài sản thuê khoán",
+      "mức độ khấu hao"
+    ]
+  ]
+}

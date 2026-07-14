@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thiệt hại",
+      "đồng"
+    ]
+  ]
+}

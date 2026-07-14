@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người bị bắt",
+    "người bị tạm giữ",
+    "bị can",
+    "bị cáo",
+    "người bị kết án",
+    "người phải chấp hành án",
+    "người bị hại",
+    "nguyên đơn",
+    "bị đơn",
+    "người khởi kiện",
+    "người bị khởi kiện"
+  ],
+  "actions": [
+    "ra quyết định trái pháp luật",
+    "phạm tội",
+    "gây rối loạn tâm thần và hành vi",
+    "gây thiệt hại về tài sản",
+    "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "ra quyết định trái pháp luật",
+      "tội ra quyết định trái pháp luật"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán",
+    "chiếm đoạt",
+    "làm chết",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chế tạo",
+      "vật liệu nổ"
+    ],
+    [
+      "tàng trữ",
+      "vật liệu nổ"
+    ],
+    [
+      "vận chuyển",
+      "vật liệu nổ"
+    ],
+    [
+      "sử dụng",
+      "vật liệu nổ"
+    ],
+    [
+      "mua bán",
+      "vật liệu nổ"
+    ],
+    [
+      "chiếm đoạt",
+      "vật liệu nổ"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe",
+      "người"
+    ]
+  ]
+}

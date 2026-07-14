@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt",
+    "giao vật",
+    "thỏa thuận",
+    "thay thế",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "thay thế vật khác"
+    ],
+    [
+      "các bên",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ giao vật",
+      "vật đặc định không còn"
+    ],
+    [
+      "thỏa thuận",
+      "thay thế vật khác"
+    ],
+    [
+      "thỏa thuận",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

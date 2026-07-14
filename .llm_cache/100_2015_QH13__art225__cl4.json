@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "thực hiện hành vi",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "bị phạt tiền",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm huy động vốn"
+    ],
+    [
+      "hành vi quy định tại khoản 1 điều này",
+      "phạt tiền từ 300.000.000 đồng đến 1.000.000.000 đồng"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại khoản 2 điều này",
+      "phạt tiền từ 1.000.000.000 đồng đến 3.000.000.000 đồng"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại khoản 2 điều này",
+      "đình chỉ hoạt động có thời hạn từ 06 tháng đến 02 năm"
+    ]
+  ]
+}

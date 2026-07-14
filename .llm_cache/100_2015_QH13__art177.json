@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "sử dụng trái phép",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạm tội",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng trái phép tài sản"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sử dụng trái phép tài sản",
+      "vụ lợi"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "sử dụng trái phép tài sản",
+      "án tích"
+    ],
+    [
+      "tài sản",
+      "di vật"
+    ],
+    [
+      "tài sản",
+      "cổ vật"
+    ],
+    [
+      "tài sản",
+      "vật có giá trị lịch sử, văn hóa"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê vận chuyển",
+    "bên vận chuyển"
+  ],
+  "actions": [
+    "trả tiền cước phí vận chuyển",
+    "cung cấp thông tin",
+    "trông coi tài sản",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê vận chuyển",
+      "trả tiền cước phí vận chuyển"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "trông coi tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê vận chuyển",
+      "bên vận chuyển"
+    ],
+    [
+      "tài sản vận chuyển",
+      "an toàn cho tài sản vận chuyển"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [
+    "lao động là người giúp việc gia đình",
+    "các công việc trong gia đình"
+  ],
+  "actors": [
+    "lao động là người giúp việc gia đình",
+    "người lao động",
+    "hộ gia đình",
+    "chính phủ"
+  ],
+  "actions": [
+    "làm thường xuyên các công việc",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm thường xuyên các công việc"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động là người giúp việc gia đình",
+      "người lao động"
+    ],
+    [
+      "lao động là người giúp việc gia đình",
+      "hộ gia đình"
+    ],
+    [
+      "các công việc trong gia đình",
+      "hoạt động thương mại"
+    ]
+  ]
+}

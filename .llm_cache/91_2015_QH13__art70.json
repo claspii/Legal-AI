@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị tuyên bố mất tích",
+    "người có quyền, lợi ích liên quan",
+    "tòa án",
+    "người quản lý tài sản",
+    "vợ",
+    "chồng",
+    "ủy ban nhân dân cấp xã"
+  ],
+  "actions": [
+    "hủy bỏ quyết định tuyên bố mất tích",
+    "ra quyết định",
+    "trở về",
+    "nhận lại tài sản",
+    "thanh toán chi phí quản lý",
+    "ly hôn",
+    "có hiệu lực pháp luật",
+    "gửi"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "ra quyết định hủy bỏ quyết định tuyên bố mất tích"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "trở về"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "nhận lại tài sản"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "thanh toán chi phí quản lý"
+    ],
+    [
+      "vợ hoặc chồng của người bị tuyên bố mất tích",
+      "ly hôn"
+    ],
+    [
+      "tòa án",
+      "gửi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị tuyên bố mất tích",
+      "quyết định tuyên bố mất tích"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "tài sản"
+    ],
+    [
+      "người quản lý tài sản",
+      "chi phí quản lý"
+    ],
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "hộ tịch"
+    ]
+  ]
+}

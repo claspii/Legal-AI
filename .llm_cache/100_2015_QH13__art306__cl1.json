@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chế tạo"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "sử dụng"
+    ],
+    [
+      "người nào",
+      "mua bán trái phép"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "súng săn",
+      "vũ khí thô sơ"
+    ],
+    [
+      "súng săn",
+      "vũ khí thể thao"
+    ],
+    [
+      "súng săn",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "súng săn",
+      "các loại vũ khí khác có tính năng, tác dụng tương tự"
+    ],
+    [
+      "vũ khí thô sơ",
+      "vũ khí thể thao"
+    ],
+    [
+      "vũ khí thô sơ",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "án tích",
+      "vi phạm"
+    ],
+    [
+      "vi phạm hành chính",
+      "vi phạm"
+    ]
+  ]
+}

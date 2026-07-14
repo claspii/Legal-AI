@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi phạm tội",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "áp dụng",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người từ đủ 14 tuổi đến dưới 16 tuổi",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tù có thời hạn",
+      "hình phạt tù chung thân"
+    ],
+    [
+      "tù có thời hạn",
+      "tử hình"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "mức phạt tù cao nhất không quá 18 năm"
+    ],
+    [
+      "người từ đủ 14 tuổi đến dưới 16 tuổi",
+      "mức phạt tù cao nhất không quá 12 năm"
+    ]
+  ]
+}

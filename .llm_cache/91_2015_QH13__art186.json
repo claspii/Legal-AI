@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "thực hiện hành vi",
+    "nắm giữ tài sản",
+    "chi phối tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "thực hiện hành vi"
+    ],
+    [
+      "chủ sở hữu",
+      "nắm giữ tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "chi phối tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "pháp luật",
+      "đạo đức xã hội"
+    ]
+  ]
+}

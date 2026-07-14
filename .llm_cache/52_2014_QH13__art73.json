@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "người giám hộ",
+    "người đại diện theo pháp luật",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "đại diện",
+    "thực hiện giao dịch",
+    "thỏa thuận",
+    "chịu trách nhiệm liên đới"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "đại diện"
+    ],
+    [
+      "cha",
+      "thực hiện giao dịch"
+    ],
+    [
+      "mẹ",
+      "thực hiện giao dịch"
+    ],
+    [
+      "cha mẹ",
+      "thỏa thuận"
+    ],
+    [
+      "cha mẹ",
+      "chịu trách nhiệm liên đới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "cha mẹ",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "cha mẹ",
+      "đại diện theo pháp luật"
+    ],
+    [
+      "giao dịch",
+      "tài sản là bất động sản"
+    ],
+    [
+      "giao dịch",
+      "tài sản là động sản có đăng ký quyền sở hữu"
+    ]
+  ]
+}

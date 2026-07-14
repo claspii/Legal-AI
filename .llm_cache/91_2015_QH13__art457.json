@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "hợp đồng tặng cho tài sản"
+  ],
+  "actors": [
+    "bên tặng cho",
+    "bên được tặng cho",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao tài sản",
+    "chuyển quyền sở hữu",
+    "yêu cầu đền bù",
+    "đồng ý nhận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên tặng cho",
+      "giao tài sản của mình"
+    ],
+    [
+      "bên tặng cho",
+      "chuyển quyền sở hữu"
+    ],
+    [
+      "bên tặng cho",
+      "không yêu cầu đền bù"
+    ],
+    [
+      "bên được tặng cho",
+      "đồng ý nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên tặng cho",
+      "bên được tặng cho"
+    ],
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng tặng cho tài sản",
+      "thỏa thuận"
+    ]
+  ]
+}

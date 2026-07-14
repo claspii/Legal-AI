@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đặt gia công",
+    "bên nhận gia công",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "giao sản phẩm",
+    "chịu rủi ro",
+    "chậm nhận",
+    "chậm giao",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên đặt gia công",
+      "chậm nhận"
+    ],
+    [
+      "bên nhận gia công",
+      "chậm giao"
+    ],
+    [
+      "bên nhận gia công",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "chịu rủi ro"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên đặt gia công",
+      "sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "sản phẩm"
+    ],
+    [
+      "nguyên vật liệu",
+      "sản phẩm"
+    ],
+    [
+      "rủi ro",
+      "thiệt hại"
+    ]
+  ]
+}

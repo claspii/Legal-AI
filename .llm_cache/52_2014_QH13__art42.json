@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "con chưa thành niên",
+    "con đã thành niên",
+    "cá nhân",
+    "tổ chức",
+    "tòa án",
+    "nhà nước"
+  ],
+  "actions": [
+    "chia tài sản chung",
+    "nuôi dưỡng",
+    "cấp dưỡng",
+    "bồi thường thiệt hại",
+    "thanh toán",
+    "trả nợ",
+    "nộp thuế"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chia tài sản chung"
+    ],
+    [
+      "chồng",
+      "chia tài sản chung"
+    ],
+    [
+      "tòa án",
+      "tuyên bố phá sản"
+    ],
+    [
+      "cá nhân",
+      "trả nợ"
+    ],
+    [
+      "tổ chức",
+      "trả nợ"
+    ],
+    [
+      "nhà nước",
+      "nộp thuế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung",
+      "hôn nhân"
+    ],
+    [
+      "tài sản chung",
+      "vô hiệu"
+    ],
+    [
+      "lợi ích của gia đình",
+      "lợi ích hợp pháp của con"
+    ],
+    [
+      "nghĩa vụ nuôi dưỡng",
+      "nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "nghĩa vụ bồi thường thiệt hại",
+      "nghĩa vụ thanh toán khi bị tuyên bố phá sản"
+    ],
+    [
+      "nghĩa vụ trả nợ",
+      "nghĩa vụ nộp thuế"
+    ],
+    [
+      "tài sản",
+      "năng lực hành vi dân sự"
+    ]
+  ]
+}

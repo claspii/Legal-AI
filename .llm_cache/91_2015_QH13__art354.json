@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "hoãn thực hiện nghĩa vụ",
+    "thông báo",
+    "đề nghị",
+    "bồi thường thiệt hại",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "hoãn thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thông báo"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "đề nghị"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên có quyền",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "thời hạn"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thông báo",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

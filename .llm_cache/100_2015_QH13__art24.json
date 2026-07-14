@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "người bị bắt giữ",
+    "người gây thiệt hại"
+  ],
+  "actions": [
+    "gây thiệt hại",
+    "bắt giữ người phạm tội",
+    "thực hiện hành vi phạm tội",
+    "sử dụng vũ lực",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bắt giữ người phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "thực hiện hành vi phạm tội"
+    ],
+    [
+      "người",
+      "sử dụng vũ lực"
+    ],
+    [
+      "người gây thiệt hại",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây thiệt hại",
+      "bắt giữ người phạm tội"
+    ],
+    [
+      "vũ lực cần thiết",
+      "gây thiệt hại"
+    ],
+    [
+      "sử dụng vũ lực",
+      "vượt quá mức cần thiết"
+    ],
+    [
+      "gây thiệt hại",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

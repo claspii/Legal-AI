@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [
+    "chế độ hôn nhân và gia đình"
+  ],
+  "actors": [
+    "vợ",
+    "chồng",
+    "cha mẹ",
+    "con",
+    "thành viên khác trong gia đình"
+  ],
+  "actions": [
+    "kết hôn",
+    "ly hôn",
+    "cấp dưỡng",
+    "xác định cha, mẹ, con"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "pháp luật",
+      "kết hôn"
+    ],
+    [
+      "pháp luật",
+      "ly hôn"
+    ],
+    [
+      "hôn nhân và gia đình",
+      "yếu tố nước ngoài"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "bảo đảm",
+    "thỏa thuận",
+    "quy định",
+    "trả lãi",
+    "bồi thường thiệt hại",
+    "hình thành"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "bảo đảm"
+    ],
+    [
+      "nghĩa vụ",
+      "thỏa thuận"
+    ],
+    [
+      "nghĩa vụ",
+      "phạm vi bảo đảm"
+    ],
+    [
+      "nghĩa vụ",
+      "trả lãi"
+    ],
+    [
+      "nghĩa vụ",
+      "tiền phạt"
+    ],
+    [
+      "nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "nghĩa vụ hiện tại",
+      "nghĩa vụ được bảo đảm"
+    ],
+    [
+      "nghĩa vụ trong tương lai",
+      "nghĩa vụ được bảo đảm"
+    ]
+  ]
+}

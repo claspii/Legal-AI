@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "một bên",
+    "các bên"
+  ],
+  "actions": [
+    "vi phạm",
+    "thực hiện",
+    "công nhận hiệu lực",
+    "công chứng",
+    "chứng thực",
+    "xác lập"
+  ],
+  "actor_actions": [
+    [
+      "giao dịch dân sự",
+      "vi phạm"
+    ],
+    [
+      "một bên",
+      "thực hiện"
+    ],
+    [
+      "các bên",
+      "thực hiện"
+    ],
+    [
+      "tòa án",
+      "ra quyết định công nhận hiệu lực"
+    ],
+    [
+      "các bên",
+      "không phải thực hiện việc công chứng, chứng thực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "vô hiệu"
+    ],
+    [
+      "giao dịch dân sự",
+      "hình thức"
+    ],
+    [
+      "giao dịch dân sự",
+      "văn bản"
+    ],
+    [
+      "văn bản",
+      "công chứng, chứng thực"
+    ],
+    [
+      "giao dịch dân sự",
+      "hiệu lực"
+    ]
+  ]
+}

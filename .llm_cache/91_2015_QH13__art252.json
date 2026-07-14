@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu bất động sản",
+    "người sử dụng lối cấp, thoát nước"
+  ],
+  "actions": [
+    "cấp, thoát nước",
+    "dành một lối cấp, thoát nước",
+    "cản trở",
+    "ngăn chặn dòng nước chảy",
+    "hạn chế thiệt hại",
+    "lắp đặt đường dẫn nước",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu bất động sản",
+      "dành một lối cấp, thoát nước"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "không được cản trở"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "không được ngăn chặn dòng nước chảy"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "hạn chế đến mức thấp nhất thiệt hại"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "lắp đặt đường dẫn nước"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "gây thiệt hại"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "bồi thường"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "không phải bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bất động sản",
+      "cấp, thoát nước"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "thiệt hại"
+    ],
+    [
+      "người sử dụng lối cấp, thoát nước",
+      "bồi thường"
+    ],
+    [
+      "chủ sở hữu bất động sản",
+      "dòng nước chảy"
+    ]
+  ]
+}

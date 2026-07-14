@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận thế chấp",
+    "bên thế chấp",
+    "các bên"
+  ],
+  "actions": [
+    "trả giấy tờ",
+    "chấm dứt thế chấp",
+    "thỏa thuận",
+    "giữ giấy tờ",
+    "thực hiện thủ tục",
+    "xử lý tài sản thế chấp"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận thế chấp",
+      "trả giấy tờ"
+    ],
+    [
+      "bên nhận thế chấp",
+      "thực hiện thủ tục xử lý tài sản thế chấp"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên nhận thế chấp",
+      "giữ giấy tờ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận thế chấp",
+      "bên thế chấp"
+    ],
+    [
+      "thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "chấm dứt thế chấp",
+      "trả giấy tờ"
+    ],
+    [
+      "xử lý tài sản thế chấp",
+      "thủ tục"
+    ]
+  ]
+}

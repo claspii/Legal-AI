@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động kế tiếp",
+    "tổ chức đại diện người lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "thực hiện thỏa ước lao động tập thể doanh nghiệp",
+    "chia",
+    "tách",
+    "hợp nhất",
+    "sáp nhập",
+    "bán",
+    "cho thuê",
+    "chuyển đổi loại hình doanh nghiệp",
+    "chuyển nhượng quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động kế tiếp",
+      "thương lượng"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thương lượng"
+    ],
+    [
+      "người sử dụng lao động kế tiếp",
+      "xem xét lựa chọn việc tiếp tục thực hiện thỏa ước lao động tập thể doanh nghiệp cũ"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "xem xét lựa chọn việc tiếp tục thực hiện thỏa ước lao động tập thể doanh nghiệp cũ"
+    ],
+    [
+      "người sử dụng lao động kế tiếp",
+      "sửa đổi, bổ sung thỏa ước lao động tập thể doanh nghiệp cũ"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "sửa đổi, bổ sung thỏa ước lao động tập thể doanh nghiệp cũ"
+    ],
+    [
+      "người sử dụng lao động kế tiếp",
+      "thương lượng để ký kết thỏa ước lao động tập thể mới"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thương lượng để ký kết thỏa ước lao động tập thể mới"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "chia"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "tách"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "hợp nhất"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "sáp nhập"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "bán"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "cho thuê"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "chuyển đổi loại hình doanh nghiệp"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "chuyển nhượng quyền sở hữu"
+    ]
+  ]
+}

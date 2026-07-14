@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [
+    "hợp đồng song vụ",
+    "hợp đồng đơn vụ",
+    "hợp đồng chính",
+    "hợp đồng phụ",
+    "hợp đồng vì lợi ích của người thứ ba",
+    "hợp đồng có điều kiện"
+  ],
+  "actors": [
+    "bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "thực hiện nghĩa vụ",
+    "hưởng lợi ích"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "giao kết hợp đồng"
+    ],
+    [
+      "bên",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người thứ ba",
+      "hưởng lợi ích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng chính",
+      "hợp đồng phụ"
+    ],
+    [
+      "hợp đồng",
+      "nghĩa vụ"
+    ],
+    [
+      "hợp đồng có điều kiện",
+      "sự kiện"
+    ]
+  ]
+}

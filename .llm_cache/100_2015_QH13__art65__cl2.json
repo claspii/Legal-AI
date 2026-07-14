@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người được hưởng án treo",
+    "cơ quan",
+    "tổ chức",
+    "chính quyền địa phương",
+    "gia đình người bị kết án"
+  ],
+  "actions": [
+    "giao",
+    "làm việc",
+    "cư trú",
+    "giám sát",
+    "giáo dục",
+    "phối hợp"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giao người được hưởng án treo"
+    ],
+    [
+      "cơ quan",
+      "giám sát"
+    ],
+    [
+      "cơ quan",
+      "giáo dục"
+    ],
+    [
+      "tổ chức",
+      "giám sát"
+    ],
+    [
+      "tổ chức",
+      "giáo dục"
+    ],
+    [
+      "chính quyền địa phương",
+      "giám sát"
+    ],
+    [
+      "chính quyền địa phương",
+      "giáo dục"
+    ],
+    [
+      "gia đình người bị kết án",
+      "phối hợp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được hưởng án treo",
+      "thời gian thử thách"
+    ],
+    [
+      "người được hưởng án treo",
+      "cơ quan"
+    ],
+    [
+      "người được hưởng án treo",
+      "tổ chức"
+    ],
+    [
+      "người được hưởng án treo",
+      "chính quyền địa phương"
+    ],
+    [
+      "cơ quan",
+      "giám sát"
+    ],
+    [
+      "cơ quan",
+      "giáo dục"
+    ],
+    [
+      "gia đình người bị kết án",
+      "phối hợp"
+    ],
+    [
+      "giám sát",
+      "giáo dục"
+    ]
+  ]
+}

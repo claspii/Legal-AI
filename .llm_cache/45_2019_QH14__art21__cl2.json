@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "làm việc",
+    "thỏa thuận",
+    "bảo vệ",
+    "bồi thường",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bí mật kinh doanh",
+      "bí mật công nghệ"
+    ],
+    [
+      "bí mật kinh doanh",
+      "bảo vệ bí mật kinh doanh"
+    ],
+    [
+      "bí mật công nghệ",
+      "bảo vệ bí mật công nghệ"
+    ],
+    [
+      "quyền lợi",
+      "bồi thường"
+    ]
+  ]
+}

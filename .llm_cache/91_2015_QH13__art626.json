@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người thừa kế",
+    "người giữ di chúc",
+    "người quản lý di sản",
+    "người phân chia di sản"
+  ],
+  "actions": [
+    "chỉ định",
+    "truất quyền hưởng di sản",
+    "phân định",
+    "dành một phần tài sản",
+    "di tặng",
+    "thờ cúng",
+    "giao nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "chỉ định người thừa kế"
+    ],
+    [
+      "người lập di chúc",
+      "truất quyền hưởng di sản của người thừa kế"
+    ],
+    [
+      "người lập di chúc",
+      "phân định phần di sản cho từng người thừa kế"
+    ],
+    [
+      "người lập di chúc",
+      "dành một phần tài sản trong khối di sản để di tặng"
+    ],
+    [
+      "người lập di chúc",
+      "giao nghĩa vụ cho người thừa kế"
+    ],
+    [
+      "người lập di chúc",
+      "chỉ định người giữ di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "chỉ định người quản lý di sản"
+    ],
+    [
+      "người lập di chúc",
+      "chỉ định người phân chia di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "người lập di chúc"
+    ],
+    [
+      "người lập di chúc",
+      "quyền"
+    ],
+    [
+      "người thừa kế",
+      "di sản"
+    ],
+    [
+      "tài sản",
+      "di tặng"
+    ],
+    [
+      "tài sản",
+      "thờ cúng"
+    ],
+    [
+      "người thừa kế",
+      "nghĩa vụ"
+    ],
+    [
+      "di chúc",
+      "người giữ di chúc"
+    ],
+    [
+      "di sản",
+      "người quản lý di sản"
+    ]
+  ]
+}

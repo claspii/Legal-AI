@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "áp dụng quy định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "địa điểm giao tài sản",
+      "thỏa thuận"
+    ],
+    [
+      "địa điểm giao tài sản",
+      "quy định tại khoản 2 Điều 277 của Bộ luật này"
+    ]
+  ]
+}

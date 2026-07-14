@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [
+    "tranh chấp lao động tập thể về lợi ích"
+  ],
+  "actors": [
+    "một bên"
+  ],
+  "actions": [
+    "thương lượng",
+    "từ chối thương lượng",
+    "tiến hành thương lượng"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "từ chối thương lượng"
+    ],
+    [
+      "một bên",
+      "không tiến hành thương lượng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động tập thể về lợi ích",
+      "thương lượng tập thể"
+    ],
+    [
+      "tranh chấp lao động tập thể về lợi ích",
+      "thương lượng"
+    ]
+  ]
+}

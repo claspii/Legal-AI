@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vay",
+    "bên cho vay"
+  ],
+  "actions": [
+    "trả lại tài sản",
+    "báo trước",
+    "đòi lại tài sản",
+    "đồng ý",
+    "trả toàn bộ lãi"
+  ],
+  "actor_actions": [
+    [
+      "bên vay",
+      "trả lại tài sản"
+    ],
+    [
+      "bên vay",
+      "báo trước"
+    ],
+    [
+      "bên cho vay",
+      "đòi lại tài sản"
+    ],
+    [
+      "bên vay",
+      "đồng ý"
+    ],
+    [
+      "bên vay",
+      "trả toàn bộ lãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vay có kỳ hạn",
+      "không có lãi"
+    ],
+    [
+      "hợp đồng vay có kỳ hạn",
+      "có lãi"
+    ],
+    [
+      "bên vay",
+      "bên cho vay"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động việt nam",
+    "doanh nghiệp",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "nhà nước",
+    "chính phủ",
+    "công dân việt nam"
+  ],
+  "actions": [
+    "khuyến khích",
+    "tìm kiếm thị trường lao động",
+    "mở rộng thị trường lao động",
+    "đi làm việc ở nước ngoài",
+    "tuân theo pháp luật",
+    "quy định chi tiết",
+    "tuyển dụng",
+    "quản lý lao động"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "khuyến khích"
+    ],
+    [
+      "doanh nghiệp",
+      "tìm kiếm thị trường lao động"
+    ],
+    [
+      "cơ quan",
+      "tìm kiếm thị trường lao động"
+    ],
+    [
+      "tổ chức",
+      "tìm kiếm thị trường lao động"
+    ],
+    [
+      "cá nhân",
+      "tìm kiếm thị trường lao động"
+    ],
+    [
+      "người lao động việt nam",
+      "đi làm việc ở nước ngoài"
+    ],
+    [
+      "người lao động việt nam",
+      "tuân theo pháp luật"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động việt nam",
+      "làm việc ở nước ngoài"
+    ],
+    [
+      "người lao động việt nam",
+      "làm việc cho tổ chức nước ngoài tại việt nam"
+    ],
+    [
+      "pháp luật việt nam",
+      "pháp luật nước sở tại"
+    ],
+    [
+      "tổ chức nước ngoài tại việt nam",
+      "khu công nghiệp"
+    ],
+    [
+      "tổ chức nước ngoài tại việt nam",
+      "khu kinh tế"
+    ],
+    [
+      "tổ chức nước ngoài tại việt nam",
+      "khu chế xuất"
+    ],
+    [
+      "tổ chức nước ngoài tại việt nam",
+      "khu công nghệ cao"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị đe dọa",
+    "nạn nhân"
+  ],
+  "actions": [
+    "đe dọa giết người",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "lợi dụng chức vụ, quyền hạn",
+    "thi hành công vụ",
+    "che giấu",
+    "trốn tránh việc bị xử lý về một tội phạm khác"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đe dọa giết người"
+    ],
+    [
+      "người bị đe dọa",
+      "lo sợ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đe dọa giết người",
+      "tội đe dọa giết người"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "thi hành công vụ",
+      "lý do công vụ"
+    ],
+    [
+      "che giấu",
+      "trốn tránh việc bị xử lý về một tội phạm khác"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

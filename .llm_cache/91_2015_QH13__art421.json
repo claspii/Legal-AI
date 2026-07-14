@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "sửa đổi hợp đồng",
+    "tuân theo hình thức"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên",
+      "sửa đổi hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng sửa đổi",
+      "hình thức của hợp đồng ban đầu"
+    ]
+  ]
+}

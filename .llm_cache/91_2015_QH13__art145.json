@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tính thời hạn",
+    "áp dụng",
+    "có thỏa thuận",
+    "có quy định"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cách tính thời hạn",
+      "bộ luật này"
+    ],
+    [
+      "thời hạn",
+      "dương lịch"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "thực hiện",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "lập danh sách khống",
+    "lập hồ sơ khống",
+    "lập hồ sơ giả",
+    "thông đồng dìm giá",
+    "thông đồng nâng giá",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người",
+      "lập danh sách khống"
+    ],
+    [
+      "người",
+      "lập hồ sơ khống"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "phạt tiền"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt tiền"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ],
+    [
+      "gây thiệt hại",
+      "phạt tù"
+    ],
+    [
+      "phạt tiền",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "phạt tiền",
+      "cấm hành nghề"
+    ]
+  ]
+}

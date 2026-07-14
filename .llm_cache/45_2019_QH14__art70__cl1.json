@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người sử dụng lao động",
+    "bên nhận được yêu cầu",
+    "các bên"
+  ],
+  "actions": [
+    "yêu cầu thương lượng tập thể",
+    "thương lượng",
+    "không được từ chối",
+    "thỏa thuận",
+    "bố trí thời gian",
+    "bố trí địa điểm",
+    "bố trí điều kiện cần thiết",
+    "tổ chức các phiên họp thương lượng tập thể"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "yêu cầu thương lượng tập thể"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu thương lượng tập thể"
+    ],
+    [
+      "bên nhận được yêu cầu",
+      "không được từ chối việc thương lượng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận về địa điểm"
+    ],
+    [
+      "các bên",
+      "thỏa thuận về thời gian bắt đầu thương lượng"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí thời gian"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí địa điểm"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí các điều kiện cần thiết"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức các phiên họp thương lượng tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "yêu cầu thương lượng tập thể",
+      "thương lượng tập thể"
+    ],
+    [
+      "yêu cầu thương lượng tập thể",
+      "thời gian bắt đầu thương lượng"
+    ],
+    [
+      "thương lượng tập thể",
+      "địa điểm"
+    ],
+    [
+      "thương lượng tập thể",
+      "thời gian"
+    ],
+    [
+      "thương lượng tập thể",
+      "điều kiện cần thiết"
+    ],
+    [
+      "thương lượng tập thể",
+      "phiên họp thương lượng tập thể"
+    ]
+  ]
+}

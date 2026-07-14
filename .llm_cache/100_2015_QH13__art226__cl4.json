@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "còn vi phạm",
+    "bị phạt tiền",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chưa được xóa án tích"
+    ],
+    [
+      "pháp nhân thương mại",
+      "còn vi phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "tội xâm phạm quyền sở hữu công nghiệp"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "bị kết án"
+    ],
+    [
+      "phạt tiền",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "cấm kinh doanh",
+      "cấm hoạt động"
+    ],
+    [
+      "cấm hoạt động",
+      "cấm huy động vốn"
+    ]
+  ]
+}

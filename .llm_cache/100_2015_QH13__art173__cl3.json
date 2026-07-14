@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "trộm cắp tài sản",
+    "lợi dụng thiên tai",
+    "lợi dụng dịch bệnh"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội trộm cắp tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "trộm cắp tài sản",
+      "thiên tai"
+    ],
+    [
+      "trộm cắp tài sản",
+      "dịch bệnh"
+    ],
+    [
+      "thiên tai",
+      "dịch bệnh"
+    ]
+  ]
+}

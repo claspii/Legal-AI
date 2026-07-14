@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "chủ thể quyền tác giả, quyền liên quan"
+  ],
+  "actions": [
+    "xâm phạm quyền tác giả, quyền liên quan",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "sao chép tác phẩm, bản ghi âm, bản ghi hình",
+    "phân phối đến công chúng bản sao tác phẩm, bản sao bản ghi âm, bản sao bản ghi hình"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "không được phép của chủ thể quyền tác giả, quyền liên quan mà cố ý thực hiện"
+    ],
+    [
+      "người nào",
+      "xâm phạm quyền tác giả, quyền liên quan"
+    ],
+    [
+      "người nào",
+      "thu lợi bất chính"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "bị phạt tiền"
+    ],
+    [
+      "người nào",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "sao chép tác phẩm, bản ghi âm, bản ghi hình"
+    ],
+    [
+      "người nào",
+      "phân phối đến công chúng bản sao tác phẩm, bản sao bản ghi âm, bản sao bản ghi hình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tác giả",
+      "quyền liên quan"
+    ],
+    [
+      "thu lợi bất chính",
+      "thiệt hại cho chủ thể quyền tác giả, quyền liên quan"
+    ],
+    [
+      "thu lợi bất chính",
+      "hàng hóa vi phạm trị giá"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "sao chép tác phẩm",
+      "phân phối đến công chúng bản sao tác phẩm"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "hợp đồng gia công"
+  ],
+  "actors": [
+    "các bên",
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "thực hiện công việc",
+    "tạo ra sản phẩm",
+    "nhận sản phẩm",
+    "trả tiền công"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên nhận gia công",
+      "thực hiện công việc"
+    ],
+    [
+      "bên nhận gia công",
+      "tạo ra sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "nhận sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "trả tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng gia công",
+      "thỏa thuận"
+    ],
+    [
+      "bên nhận gia công",
+      "thực hiện công việc"
+    ],
+    [
+      "bên đặt gia công",
+      "nhận sản phẩm"
+    ],
+    [
+      "sản phẩm",
+      "tiền công"
+    ]
+  ]
+}

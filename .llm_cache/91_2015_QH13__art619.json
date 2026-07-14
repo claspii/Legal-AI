@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [
+    "chết cùng thời điểm"
+  ],
+  "actors": [
+    "những người có quyền thừa kế di sản của nhau",
+    "người thừa kế của người đó",
+    "người nào"
+  ],
+  "actions": [
+    "thừa kế",
+    "chết",
+    "xác định",
+    "hưởng"
+  ],
+  "actor_actions": [
+    [
+      "những người có quyền thừa kế di sản của nhau",
+      "chết"
+    ],
+    [
+      "họ",
+      "không được thừa kế di sản của nhau"
+    ],
+    [
+      "di sản của mỗi người",
+      "do người thừa kế của người đó hưởng"
+    ],
+    [
+      "người nào",
+      "chết trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thừa kế",
+      "di sản"
+    ],
+    [
+      "chết cùng thời điểm",
+      "không thể xác định được người nào chết trước"
+    ],
+    [
+      "thừa kế thế vị",
+      "thừa kế"
+    ]
+  ]
+}

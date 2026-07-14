@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "ban trọng tài lao động",
+    "tòa án",
+    "các bên tranh chấp",
+    "một trong các bên"
+  ],
+  "actions": [
+    "giải quyết tranh chấp",
+    "yêu cầu giải quyết tranh chấp",
+    "thành lập",
+    "ra quyết định",
+    "gửi",
+    "không thi hành quyết định"
+  ],
+  "actor_actions": [
+    [
+      "các bên tranh chấp",
+      "yêu cầu giải quyết tranh chấp"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "ban trọng tài lao động",
+      "được thành lập"
+    ],
+    [
+      "ban trọng tài lao động",
+      "ra quyết định"
+    ],
+    [
+      "ban trọng tài lao động",
+      "gửi"
+    ],
+    [
+      "các bên",
+      "yêu cầu tòa án giải quyết"
+    ],
+    [
+      "một trong các bên",
+      "không thi hành quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "ban trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "các bên tranh chấp",
+      "yêu cầu giải quyết tranh chấp"
+    ],
+    [
+      "ban trọng tài lao động",
+      "quyết định giải quyết tranh chấp"
+    ],
+    [
+      "quyết định giải quyết tranh chấp",
+      "không thi hành"
+    ],
+    [
+      "các bên",
+      "yêu cầu tòa án giải quyết"
+    ]
+  ]
+}

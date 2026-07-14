@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "khấu trừ tiền lương",
+    "bồi thường thiệt hại",
+    "làm hư hỏng dụng cụ",
+    "làm hư hỏng thiết bị",
+    "làm hư hỏng tài sản",
+    "biết lý do",
+    "trích nộp các khoản bảo hiểm xã hội bắt buộc",
+    "trích nộp bảo hiểm y tế"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "khấu trừ tiền lương"
+    ],
+    [
+      "người lao động",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người lao động",
+      "làm hư hỏng dụng cụ"
+    ],
+    [
+      "người lao động",
+      "làm hư hỏng thiết bị"
+    ],
+    [
+      "người lao động",
+      "làm hư hỏng tài sản"
+    ],
+    [
+      "người lao động",
+      "biết lý do khấu trừ tiền lương của mình"
+    ],
+    [
+      "người lao động",
+      "trích nộp các khoản bảo hiểm xã hội bắt buộc"
+    ],
+    [
+      "người lao động",
+      "trích nộp bảo hiểm y tế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khấu trừ tiền lương",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "khấu trừ tiền lương",
+      "tiền lương thực trả hằng tháng"
+    ],
+    [
+      "tiền lương thực trả hằng tháng",
+      "bảo hiểm xã hội bắt buộc"
+    ],
+    [
+      "tiền lương thực trả hằng tháng",
+      "bảo hiểm y tế"
+    ],
+    [
+      "tiền lương thực trả hằng tháng",
+      "bảo hiểm thất nghiệp"
+    ],
+    [
+      "tiền lương thực trả hằng tháng",
+      "thuế thu nhập cá nhân"
+    ]
+  ]
+}

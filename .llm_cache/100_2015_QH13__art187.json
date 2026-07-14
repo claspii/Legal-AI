@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tổ chức mang thai hộ vì mục đích thương mại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức mang thai hộ vì mục đích thương mại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "còn có thể bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức mang thai hộ vì mục đích thương mại",
+      "phạt tiền"
+    ],
+    [
+      "tổ chức mang thai hộ vì mục đích thương mại",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "tổ chức mang thai hộ vì mục đích thương mại",
+      "phạt tù"
+    ],
+    [
+      "phạm tội đối với 02 người trở lên",
+      "phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "phạm tội 02 lần trở lên",
+      "phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "lợi dụng danh nghĩa của cơ quan, tổ chức",
+      "phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ]
+}

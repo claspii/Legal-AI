@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán hàng giả",
+    "phạm tội",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "sản xuất"
+    ],
+    [
+      "người phạm tội",
+      "buôn bán hàng giả"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "thu lợi bất chính"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng giả",
+      "thức ăn dùng để chăn nuôi"
+    ],
+    [
+      "hàng giả",
+      "phân bón"
+    ],
+    [
+      "hàng giả",
+      "thuốc thú y"
+    ],
+    [
+      "hàng giả",
+      "thuốc bảo vệ thực vật"
+    ],
+    [
+      "hàng giả",
+      "giống cây trồng"
+    ],
+    [
+      "hàng giả",
+      "vật nuôi"
+    ]
+  ]
+}

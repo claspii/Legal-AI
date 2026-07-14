@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "làm ra",
+    "sao chép",
+    "lưu hành",
+    "vận chuyển",
+    "mua bán",
+    "tàng trữ",
+    "phổ biến"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm ra"
+    ],
+    [
+      "người",
+      "sao chép"
+    ],
+    [
+      "người",
+      "lưu hành"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "phổ biến"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "truyền bá văn hóa phẩm đồi trụy",
+      "phạt tiền"
+    ],
+    [
+      "truyền bá văn hóa phẩm đồi trụy",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "truyền bá văn hóa phẩm đồi trụy",
+      "phạt tù"
+    ],
+    [
+      "dữ liệu được số hóa",
+      "dung lượng"
+    ],
+    [
+      "sách in, báo in",
+      "số lượng"
+    ],
+    [
+      "ảnh bản giấy",
+      "số lượng"
+    ],
+    [
+      "phổ biến",
+      "số người"
+    ]
+  ]
+}

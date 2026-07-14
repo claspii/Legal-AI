@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "giá trị 500.000.000 đồng trở lên"
+    ],
+    [
+      "gây thiệt hại",
+      "500.000.000 đồng trở lên"
+    ],
+    [
+      "thẻ giả",
+      "số lượng 500 thẻ trở lên"
+    ]
+  ]
+}

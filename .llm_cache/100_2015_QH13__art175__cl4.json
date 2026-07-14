@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "bị phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "trị giá 500.000.000 đồng trở lên"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "phạt tù từ 12 năm đến 20 năm"
+    ]
+  ]
+}

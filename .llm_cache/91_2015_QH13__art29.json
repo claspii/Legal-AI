@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cha đẻ",
+    "mẹ đẻ",
+    "con",
+    "trẻ em bị bỏ rơi",
+    "cha nuôi",
+    "mẹ nuôi",
+    "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+    "người đang tạm thời nuôi dưỡng trẻ em"
+  ],
+  "actions": [
+    "xác định dân tộc",
+    "xác định lại dân tộc",
+    "thỏa thuận",
+    "yêu cầu",
+    "lợi dụng",
+    "gây chia rẽ",
+    "phương hại"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác định dân tộc"
+    ],
+    [
+      "cá nhân",
+      "xác định lại dân tộc"
+    ],
+    [
+      "cha đẻ",
+      "thỏa thuận"
+    ],
+    [
+      "mẹ đẻ",
+      "thỏa thuận"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "cha mẹ nuôi",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xác định dân tộc",
+      "xác định lại dân tộc"
+    ],
+    [
+      "cha đẻ",
+      "mẹ đẻ"
+    ],
+    [
+      "cha nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "lợi dụng việc xác định lại dân tộc",
+      "gây chia rẽ"
+    ]
+  ]
+}

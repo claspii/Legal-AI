@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "miễn hình phạt",
+    "khoan hồng đặc biệt",
+    "miễn trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "miễn hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn hình phạt",
+      "khoan hồng đặc biệt"
+    ],
+    [
+      "miễn hình phạt",
+      "miễn trách nhiệm hình sự"
+    ]
+  ]
+}

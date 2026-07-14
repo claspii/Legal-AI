@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể quyền tác giả",
+    "chủ thể quyền liên quan"
+  ],
+  "actions": [
+    "xâm phạm quyền tác giả",
+    "xâm phạm quyền liên quan",
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể quyền tác giả",
+      "gây thiệt hại"
+    ],
+    [
+      "chủ thể quyền liên quan",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền tác giả",
+      "quyền liên quan"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "gây thiệt hại"
+    ]
+  ]
+}

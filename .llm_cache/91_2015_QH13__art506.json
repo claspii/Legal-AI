@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hợp tác",
+    "đại diện của các thành viên"
+  ],
+  "actions": [
+    "đóng góp",
+    "tạo lập",
+    "chậm thực hiện",
+    "trả lãi",
+    "bồi thường thiệt hại",
+    "định đoạt",
+    "quyết định",
+    "phân chia tài sản chung"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "đóng góp"
+    ],
+    [
+      "thành viên hợp tác",
+      "tạo lập"
+    ],
+    [
+      "thành viên hợp tác",
+      "chậm thực hiện"
+    ],
+    [
+      "thành viên hợp tác",
+      "trả lãi"
+    ],
+    [
+      "thành viên hợp tác",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "đại diện của các thành viên",
+      "quyết định"
+    ],
+    [
+      "thành viên hợp tác",
+      "phân chia tài sản chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản do các thành viên đóng góp, cùng tạo lập",
+      "tài sản chung theo phần của các thành viên hợp tác"
+    ],
+    [
+      "thỏa thuận về góp tiền",
+      "chậm thực hiện"
+    ],
+    [
+      "chậm thực hiện",
+      "trả lãi"
+    ],
+    [
+      "chậm thực hiện",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "tài sản là quyền sử dụng đất, nhà, xưởng sản xuất, tư liệu sản xuất khác",
+      "thỏa thuận bằng văn bản của tất cả các thành viên"
+    ],
+    [
+      "tài sản chung",
+      "hợp đồng hợp tác"
+    ]
+  ]
+}

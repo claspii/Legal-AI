@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "người được lợi về tài sản"
+  ],
+  "actions": [
+    "hoàn trả hoa lợi",
+    "hoàn trả lợi tức",
+    "chiếm hữu tài sản",
+    "sử dụng tài sản",
+    "được lợi về tài sản không có căn cứ pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "hoàn trả hoa lợi"
+    ],
+    [
+      "người chiếm hữu",
+      "hoàn trả lợi tức"
+    ],
+    [
+      "người sử dụng tài sản",
+      "hoàn trả hoa lợi"
+    ],
+    [
+      "người sử dụng tài sản",
+      "hoàn trả lợi tức"
+    ],
+    [
+      "người được lợi về tài sản",
+      "hoàn trả hoa lợi"
+    ],
+    [
+      "người được lợi về tài sản",
+      "hoàn trả lợi tức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "sử dụng tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "được lợi về tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "hoàn trả hoa lợi",
+      "không ngay tình"
+    ],
+    [
+      "hoàn trả lợi tức",
+      "không ngay tình"
+    ],
+    [
+      "hoàn trả hoa lợi",
+      "ngay tình"
+    ],
+    [
+      "hoàn trả lợi tức",
+      "ngay tình"
+    ]
+  ]
+}

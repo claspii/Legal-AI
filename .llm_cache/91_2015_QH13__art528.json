@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "hành khách",
+    "người thứ ba"
+  ],
+  "actions": [
+    "bồi thường",
+    "vi phạm",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "phải bồi thường"
+    ],
+    [
+      "bên vận chuyển",
+      "không phải bồi thường"
+    ],
+    [
+      "hành khách",
+      "vi phạm điều kiện vận chuyển"
+    ],
+    [
+      "hành khách",
+      "gây thiệt hại"
+    ],
+    [
+      "hành khách",
+      "phải bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vận chuyển",
+      "hành khách"
+    ],
+    [
+      "bên vận chuyển",
+      "thiệt hại"
+    ],
+    [
+      "hành khách",
+      "thiệt hại"
+    ],
+    [
+      "lỗi của hành khách",
+      "thiệt hại"
+    ],
+    [
+      "điều kiện vận chuyển",
+      "vi phạm"
+    ]
+  ]
+}

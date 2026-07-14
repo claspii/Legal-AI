@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [
+    "lao động chưa thành niên"
+  ],
+  "actors": [
+    "lao động chưa thành niên",
+    "người lao động",
+    "bộ trưởng bộ lao động - thương binh và xã hội",
+    "người"
+  ],
+  "actions": [
+    "làm công việc",
+    "ban hành"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "không được làm công việc"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "không được làm việc"
+    ],
+    [
+      "người từ đủ 13 tuổi đến chưa đủ 15 tuổi",
+      "chỉ được làm công việc nhẹ"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "ban hành"
+    ],
+    [
+      "người chưa đủ 13 tuổi",
+      "chỉ được làm các công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động chưa thành niên",
+      "người lao động"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "công việc"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "nơi làm việc"
+    ],
+    [
+      "người từ đủ 13 tuổi đến chưa đủ 15 tuổi",
+      "công việc nhẹ"
+    ],
+    [
+      "người chưa đủ 13 tuổi",
+      "công việc"
+    ]
+  ]
+}

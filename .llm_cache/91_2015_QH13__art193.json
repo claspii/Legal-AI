@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "định đoạt tài sản",
+    "thực hiện quyền định đoạt"
+  ],
+  "actor_actions": [
+    [
+      "người có năng lực hành vi dân sự",
+      "thực hiện quyền định đoạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "định đoạt tài sản",
+      "năng lực hành vi dân sự"
+    ],
+    [
+      "định đoạt tài sản",
+      "quy định của pháp luật"
+    ],
+    [
+      "định đoạt tài sản",
+      "trình tự, thủ tục định đoạt tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chính quyền nhân dân"
+  ],
+  "actions": [
+    "phá hoại việc thực hiện các chính sách kinh tế - xã hội",
+    "phạm tội trong trường hợp ít nghiêm trọng",
+    "chuẩn bị phạm tội này",
+    "chống chính quyền nhân dân"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phá hoại việc thực hiện các chính sách kinh tế - xã hội"
+    ],
+    [
+      "người",
+      "phạm tội trong trường hợp ít nghiêm trọng"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá hoại việc thực hiện các chính sách kinh tế - xã hội",
+      "chính quyền nhân dân"
+    ],
+    [
+      "phạm tội trong trường hợp ít nghiêm trọng",
+      "tội phá hoại việc thực hiện các chính sách kinh tế - xã hội"
+    ],
+    [
+      "chuẩn bị phạm tội này",
+      "tội phá hoại việc thực hiện các chính sách kinh tế - xã hội"
+    ]
+  ]
+}

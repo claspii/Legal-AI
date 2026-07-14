@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người yêu cầu cấp dưỡng",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "cư trú",
+    "tuân theo pháp luật",
+    "áp dụng pháp luật",
+    "giải quyết đơn yêu cầu cấp dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "người yêu cầu cấp dưỡng",
+      "cư trú"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "giải quyết đơn yêu cầu cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "pháp luật của nước nơi người yêu cầu cấp dưỡng cư trú"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "pháp luật của nước nơi người yêu cầu cấp dưỡng là công dân"
+    ],
+    [
+      "người yêu cầu cấp dưỡng",
+      "cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng"
+    ]
+  ]
+}

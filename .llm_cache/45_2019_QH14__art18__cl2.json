@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhóm người lao động",
+    "người lao động",
+    "người được ủy quyền"
+  ],
+  "actions": [
+    "ủy quyền",
+    "giao kết hợp đồng lao động",
+    "ký kết",
+    "kèm theo",
+    "ghi rõ"
+  ],
+  "actor_actions": [
+    [
+      "nhóm người lao động",
+      "ủy quyền"
+    ],
+    [
+      "nhóm người lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người được ủy quyền",
+      "ký kết"
+    ],
+    [
+      "người được ủy quyền",
+      "kèm theo"
+    ],
+    [
+      "người được ủy quyền",
+      "ghi rõ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "công việc theo mùa vụ"
+    ],
+    [
+      "hợp đồng lao động",
+      "công việc nhất định có thời hạn dưới 12 tháng"
+    ],
+    [
+      "người lao động",
+      "người được ủy quyền"
+    ],
+    [
+      "hợp đồng lao động",
+      "văn bản"
+    ],
+    [
+      "hợp đồng lao động",
+      "danh sách"
+    ]
+  ]
+}

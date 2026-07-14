@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa",
+    "làm chết",
+    "gây tổn hại",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "cơ quan",
+      "lợi dụng danh nghĩa"
+    ],
+    [
+      "tổ chức",
+      "lợi dụng danh nghĩa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng giả",
+      "trị giá"
+    ],
+    [
+      "hàng thật",
+      "số lượng"
+    ],
+    [
+      "thu lợi bất chính",
+      "giá trị"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "giá trị"
+    ]
+  ]
+}

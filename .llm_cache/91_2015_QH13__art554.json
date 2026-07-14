@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "hợp đồng gửi giữ tài sản"
+  ],
+  "actors": [
+    "các bên",
+    "bên giữ",
+    "bên gửi"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "nhận tài sản",
+    "bảo quản",
+    "trả lại tài sản",
+    "trả tiền công"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên giữ",
+      "nhận tài sản"
+    ],
+    [
+      "bên giữ",
+      "bảo quản"
+    ],
+    [
+      "bên giữ",
+      "trả lại tài sản"
+    ],
+    [
+      "bên gửi",
+      "trả tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng gửi giữ tài sản",
+      "bên giữ"
+    ],
+    [
+      "hợp đồng gửi giữ tài sản",
+      "bên gửi"
+    ],
+    [
+      "bên giữ",
+      "tài sản"
+    ],
+    [
+      "bên gửi",
+      "tiền công"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "làm thêm giờ",
+    "được sử dụng",
+    "phải được sự đồng ý",
+    "bảo đảm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "được sử dụng người lao động làm thêm giờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm"
+    ],
+    [
+      "người lao động",
+      "làm thêm giờ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm thêm giờ",
+      "thời giờ làm việc bình thường"
+    ],
+    [
+      "số giờ làm thêm",
+      "01 ngày"
+    ],
+    [
+      "số giờ làm thêm",
+      "01 tháng"
+    ],
+    [
+      "số giờ làm thêm",
+      "01 năm"
+    ]
+  ]
+}

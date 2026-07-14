@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người thụ hưởng quyền lợi bảo hiểm"
+  ],
+  "actions": [
+    "chiếm đoạt tiền bảo hiểm",
+    "gây thiệt hại",
+    "thông đồng",
+    "giải quyết bồi thường bảo hiểm",
+    "trả tiền bảo hiểm",
+    "giả mạo tài liệu",
+    "cố ý làm sai lệch thông tin",
+    "tự gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt tiền bảo hiểm"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "thông đồng"
+    ],
+    [
+      "người",
+      "giả mạo tài liệu"
+    ],
+    [
+      "người",
+      "cố ý làm sai lệch thông tin"
+    ],
+    [
+      "người",
+      "tự gây thiệt hại"
+    ],
+    [
+      "người thụ hưởng quyền lợi bảo hiểm",
+      "giải quyết bồi thường bảo hiểm"
+    ],
+    [
+      "người thụ hưởng quyền lợi bảo hiểm",
+      "trả tiền bảo hiểm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền bảo hiểm",
+      "quyền lợi bảo hiểm"
+    ],
+    [
+      "bồi thường bảo hiểm",
+      "trả tiền bảo hiểm"
+    ],
+    [
+      "giả mạo tài liệu",
+      "cố ý làm sai lệch thông tin"
+    ]
+  ]
+}

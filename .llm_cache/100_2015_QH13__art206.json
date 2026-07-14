@@ -1,0 +1,118 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tổ chức tín dụng",
+    "chi nhánh ngân hàng nước ngoài",
+    "khách hàng",
+    "người có liên quan",
+    "người có thẩm quyền",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "thực hiện",
+    "cấp tín dụng",
+    "vi phạm hạn chế",
+    "nâng khống giá trị tài sản bảo đảm",
+    "vi phạm quy định",
+    "góp vốn",
+    "mua cổ phần",
+    "phát hành phương tiện thanh toán",
+    "cung ứng phương tiện thanh toán",
+    "sử dụng phương tiện thanh toán",
+    "làm giả chứng từ thanh toán",
+    "tiến hành hoạt động ngân hàng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "cấp tín dụng"
+    ],
+    [
+      "người",
+      "vi phạm hạn chế"
+    ],
+    [
+      "người",
+      "nâng khống giá trị tài sản bảo đảm"
+    ],
+    [
+      "người",
+      "vi phạm quy định"
+    ],
+    [
+      "người",
+      "góp vốn"
+    ],
+    [
+      "người",
+      "mua cổ phần"
+    ],
+    [
+      "người",
+      "phát hành phương tiện thanh toán"
+    ],
+    [
+      "người",
+      "cung ứng phương tiện thanh toán"
+    ],
+    [
+      "người",
+      "sử dụng phương tiện thanh toán"
+    ],
+    [
+      "người",
+      "làm giả chứng từ thanh toán"
+    ],
+    [
+      "người",
+      "tiến hành hoạt động ngân hàng"
+    ],
+    [
+      "người có thẩm quyền",
+      "chấp thuận"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "cho phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài"
+    ],
+    [
+      "cấp tín dụng",
+      "tài sản bảo đảm"
+    ],
+    [
+      "phương tiện thanh toán",
+      "chứng từ thanh toán"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tiền"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tù"
+    ],
+    [
+      "khách hàng",
+      "người có liên quan"
+    ],
+    [
+      "hạn chế cấp tín dụng",
+      "tổng mức dư nợ tín dụng"
+    ],
+    [
+      "góp vốn",
+      "mua cổ phần"
+    ]
+  ]
+}

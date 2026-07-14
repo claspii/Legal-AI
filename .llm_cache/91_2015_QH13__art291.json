@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ không phân chia được theo phần"
+  ],
+  "actors": [
+    "nhiều người"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "phải thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người",
+      "phải thực hiện một nghĩa vụ không phân chia được theo phần"
+    ],
+    [
+      "nhiều người",
+      "phải thực hiện nghĩa vụ cùng một lúc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ không phân chia được theo phần",
+      "đối tượng của nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ không phân chia được theo phần",
+      "thực hiện nghĩa vụ"
+    ]
+  ]
+}

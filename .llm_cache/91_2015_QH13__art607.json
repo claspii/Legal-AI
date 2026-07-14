@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người chịu trách nhiệm bồi thường",
+    "những người thân thích",
+    "người chết",
+    "người trực tiếp nuôi dưỡng người chết",
+    "nhà nước",
+    "các bên"
+  ],
+  "actions": [
+    "xâm phạm mồ mả",
+    "bồi thường thiệt hại",
+    "hạn chế thiệt hại",
+    "khắc phục thiệt hại",
+    "bù đắp tổn thất về tinh thần",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xâm phạm đến mồ mả"
+    ],
+    [
+      "pháp nhân",
+      "xâm phạm đến mồ mả"
+    ],
+    [
+      "cá nhân",
+      "phải bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân",
+      "phải bồi thường thiệt hại"
+    ],
+    [
+      "người chịu trách nhiệm bồi thường",
+      "phải bồi thường"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xâm phạm mồ mả",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thiệt hại do xâm phạm mồ mả",
+      "chi phí hợp lý để hạn chế, khắc phục thiệt hại"
+    ],
+    [
+      "mồ mả bị xâm phạm",
+      "tổn thất về tinh thần"
+    ],
+    [
+      "mức bồi thường bù đắp tổn thất về tinh thần",
+      "mức lương cơ sở"
+    ]
+  ]
+}

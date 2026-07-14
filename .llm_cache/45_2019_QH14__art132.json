@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "tuân thủ pháp luật về an toàn, vệ sinh lao động",
+    "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+    ],
+    [
+      "người lao động",
+      "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+    ],
+    [
+      "cơ quan",
+      "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+    ],
+    [
+      "tổ chức",
+      "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+    ],
+    [
+      "cá nhân",
+      "thực hiện quy định của pháp luật về an toàn, vệ sinh lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "lao động"
+    ],
+    [
+      "người lao động",
+      "lao động"
+    ],
+    [
+      "cơ quan",
+      "lao động"
+    ],
+    [
+      "tổ chức",
+      "lao động"
+    ],
+    [
+      "cá nhân",
+      "lao động"
+    ],
+    [
+      "lao động",
+      "sản xuất"
+    ],
+    [
+      "sản xuất",
+      "kinh doanh"
+    ],
+    [
+      "an toàn",
+      "vệ sinh lao động"
+    ]
+  ]
+}

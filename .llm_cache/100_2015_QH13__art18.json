@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "ông",
+    "bà",
+    "cha",
+    "mẹ",
+    "con",
+    "cháu"
+  ],
+  "actions": [
+    "che giấu tội phạm",
+    "che giấu người phạm tội",
+    "che giấu dấu vết",
+    "che giấu tang vật của tội phạm",
+    "cản trở việc phát hiện",
+    "cản trở việc điều tra",
+    "cản trở việc xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "che giấu người phạm tội"
+    ],
+    [
+      "người",
+      "che giấu dấu vết"
+    ],
+    [
+      "người",
+      "che giấu tang vật của tội phạm"
+    ],
+    [
+      "người",
+      "cản trở việc phát hiện"
+    ],
+    [
+      "người",
+      "cản trở việc điều tra"
+    ],
+    [
+      "người",
+      "cản trở việc xử lý người phạm tội"
+    ],
+    [
+      "người che giấu tội phạm là ông, bà, cha, mẹ, con, cháu, anh chị em ruột, vợ hoặc chồng của người phạm tội",
+      "che giấu tội phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "tội phạm"
+    ],
+    [
+      "người che giấu tội phạm",
+      "người phạm tội"
+    ],
+    [
+      "dấu vết",
+      "tội phạm"
+    ],
+    [
+      "tang vật",
+      "tội phạm"
+    ]
+  ]
+}

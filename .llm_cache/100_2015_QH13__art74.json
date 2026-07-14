@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại phạm tội",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "chương này",
+      "bộ luật hình sự"
+    ]
+  ]
+}

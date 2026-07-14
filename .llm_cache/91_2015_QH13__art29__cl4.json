@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người từ đủ mười lăm tuổi đến dưới mười tám tuổi"
+  ],
+  "actions": [
+    "xác định lại dân tộc",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ mười lăm tuổi đến dưới mười tám tuổi",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xác định lại dân tộc",
+      "người từ đủ mười lăm tuổi đến dưới mười tám tuổi"
+    ],
+    [
+      "xác định lại dân tộc",
+      "sự đồng ý"
+    ]
+  ]
+}

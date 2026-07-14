@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "truyền bá văn hóa phẩm đồi trụy",
+    "phổ biến"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "dữ liệu được số hóa",
+      "dung lượng 10 gigabyte (gb) trở lên"
+    ],
+    [
+      "sách in",
+      "số lượng 101 đơn vị trở lên"
+    ],
+    [
+      "báo in",
+      "số lượng 101 đơn vị trở lên"
+    ],
+    [
+      "ảnh bản giấy",
+      "số lượng 501 ảnh trở lên"
+    ],
+    [
+      "phổ biến",
+      "101 người trở lên"
+    ]
+  ]
+}

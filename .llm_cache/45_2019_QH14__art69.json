@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người lao động",
+    "tổ chức đại diện",
+    "tổ chức đại diện có quyền yêu cầu thương lượng",
+    "từng tổ chức",
+    "tổ chức đại diện cấp trên",
+    "bên kia"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quyết định",
+    "yêu cầu thương lượng",
+    "xác định",
+    "mời",
+    "cử",
+    "từ chối",
+    "vượt quá"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên người lao động",
+      "quyết định"
+    ],
+    [
+      "tổ chức đại diện có quyền yêu cầu thương lượng",
+      "quyết định"
+    ],
+    [
+      "các tổ chức",
+      "thỏa thuận"
+    ],
+    [
+      "từng tổ chức",
+      "xác định"
+    ],
+    [
+      "mỗi bên thương lượng tập thể",
+      "mời"
+    ],
+    [
+      "tổ chức đại diện cấp trên",
+      "cử"
+    ],
+    [
+      "bên kia",
+      "từ chối"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "số lượng người tham gia thương lượng tập thể",
+      "các bên thỏa thuận"
+    ],
+    [
+      "thành phần tham gia thương lượng tập thể",
+      "bên đó quyết định"
+    ],
+    [
+      "tổ chức đại diện có quyền yêu cầu thương lượng",
+      "quyết định số lượng đại diện"
+    ],
+    [
+      "số lượng đại diện của mỗi tổ chức",
+      "các tổ chức đó thỏa thuận"
+    ],
+    [
+      "số lượng thành viên của tổ chức mình",
+      "tổng số thành viên của các tổ chức"
+    ],
+    [
+      "đại diện thương lượng tập thể của mỗi bên",
+      "số lượng quy định tại khoản 1 điều này"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [
+    "hòa giải viên lao động"
+  ],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp tỉnh",
+    "hòa giải viên lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "bổ nhiệm",
+    "hòa giải",
+    "hỗ trợ phát triển quan hệ lao động",
+    "quy định",
+    "cử"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "bổ nhiệm"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hòa giải"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hỗ trợ phát triển quan hệ lao động"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "chính phủ",
+      "cử"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải viên lao động",
+      "chủ tịch ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "hòa giải viên lao động",
+      "tranh chấp lao động"
+    ],
+    [
+      "hòa giải viên lao động",
+      "tranh chấp về hợp đồng đào tạo nghề"
+    ],
+    [
+      "hòa giải viên lao động",
+      "quan hệ lao động"
+    ],
+    [
+      "chính phủ",
+      "tiêu chuẩn, trình tự, thủ tục bổ nhiệm hòa giải viên lao động"
+    ],
+    [
+      "chính phủ",
+      "chế độ, điều kiện hoạt động hòa giải viên lao động"
+    ],
+    [
+      "chính phủ",
+      "việc quản lý hòa giải viên lao động"
+    ],
+    [
+      "chính phủ",
+      "thẩm quyền, trình tự, thủ tục cử hòa giải viên lao động"
+    ]
+  ]
+}

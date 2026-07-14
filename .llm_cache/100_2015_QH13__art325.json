@@ -1,0 +1,103 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 18 tuổi",
+    "người phạm tội"
+  ],
+  "actions": [
+    "rủ rê",
+    "dụ dỗ",
+    "lôi kéo",
+    "mua chuộc",
+    "kích động",
+    "xúi giục",
+    "đe dọa",
+    "uy hiếp",
+    "dùng vũ lực",
+    "ép buộc",
+    "chứa chấp",
+    "hoạt động phạm tội",
+    "sống sa đọa"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "rủ rê"
+    ],
+    [
+      "người",
+      "dụ dỗ"
+    ],
+    [
+      "người",
+      "lôi kéo"
+    ],
+    [
+      "người",
+      "mua chuộc"
+    ],
+    [
+      "người",
+      "kích động"
+    ],
+    [
+      "người",
+      "xúi giục"
+    ],
+    [
+      "người",
+      "đe dọa"
+    ],
+    [
+      "người",
+      "uy hiếp"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "ép buộc"
+    ],
+    [
+      "người",
+      "chứa chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội dụ dỗ, ép buộc hoặc chứa chấp người dưới 18 tuổi phạm pháp",
+      "người dưới 18 tuổi"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "hoạt động phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "sống sa đọa"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "hoạt động phạm pháp"
+    ],
+    [
+      "tội phạm rất nghiêm trọng",
+      "tội phạm đặc biệt nghiêm trọng"
+    ],
+    [
+      "phạt tù từ 01 năm đến 05 năm",
+      "phạt tù từ 03 năm đến 07 năm"
+    ],
+    [
+      "phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng",
+      "phạt quản chế từ 01 năm đến 05 năm"
+    ]
+  ]
+}

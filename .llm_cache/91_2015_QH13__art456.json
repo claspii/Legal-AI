@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản trao đổi",
+      "giá trị chênh lệch"
+    ],
+    [
+      "thanh toán",
+      "phần chênh lệch"
+    ]
+  ]
+}

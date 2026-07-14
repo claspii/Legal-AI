@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sử dụng trái phép tần số vô tuyến điện",
+    "gây thiệt hại",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng trái phép tần số vô tuyến điện"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sử dụng trái phép tần số vô tuyến điện",
+      "tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh"
+    ],
+    [
+      "sử dụng trái phép tần số vô tuyến điện",
+      "gây thiệt hại"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "vi phạm"
+    ],
+    [
+      "bị kết án",
+      "vi phạm"
+    ],
+    [
+      "thiệt hại",
+      "phạt tiền"
+    ],
+    [
+      "thiệt hại",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "thiệt hại",
+      "phạt tù"
+    ],
+    [
+      "có tổ chức",
+      "phạt tù"
+    ]
+  ]
+}

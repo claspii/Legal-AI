@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho mượn tài sản",
+    "bên mượn"
+  ],
+  "actions": [
+    "cung cấp thông tin",
+    "thanh toán chi phí",
+    "bồi thường thiệt hại",
+    "biết khuyết tật",
+    "báo khuyết tật"
+  ],
+  "actor_actions": [
+    [
+      "bên cho mượn tài sản",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "biết khuyết tật"
+    ],
+    [
+      "bên cho mượn tài sản",
+      "báo khuyết tật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin cần thiết",
+      "việc sử dụng tài sản"
+    ],
+    [
+      "khuyết tật của tài sản",
+      "thiệt hại"
+    ],
+    [
+      "chi phí sửa chữa",
+      "chi phí làm tăng giá trị tài sản"
+    ],
+    [
+      "tài sản có khuyết tật",
+      "thiệt hại"
+    ]
+  ]
+}

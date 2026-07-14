@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "sống chung",
+    "lao động",
+    "tự nuôi mình"
+  ],
+  "actor_actions": [
+    [
+      "con",
+      "cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con",
+      "cha"
+    ],
+    [
+      "con",
+      "mẹ"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "không có khả năng lao động",
+      "không có tài sản để tự nuôi mình"
+    ]
+  ]
+}

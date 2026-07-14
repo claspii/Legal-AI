@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "không ai",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "hạn chế",
+    "tước đoạt",
+    "trưng mua",
+    "trưng dụng",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "không ai",
+      "bị hạn chế"
+    ],
+    [
+      "không ai",
+      "bị tước đoạt"
+    ],
+    [
+      "nhà nước",
+      "trưng mua"
+    ],
+    [
+      "nhà nước",
+      "trưng dụng"
+    ],
+    [
+      "nhà nước",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "quốc phòng",
+      "an ninh"
+    ],
+    [
+      "lợi ích quốc gia",
+      "tình trạng khẩn cấp"
+    ],
+    [
+      "tình trạng khẩn cấp",
+      "phòng chống thiên tai"
+    ],
+    [
+      "trưng mua",
+      "trưng dụng"
+    ]
+  ]
+}

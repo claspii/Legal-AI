@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người quản lý di sản",
+    "người phân chia di sản",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "họp mặt",
+    "thỏa thuận",
+    "cử",
+    "xác định",
+    "chỉ định",
+    "lập thành văn bản"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "họp mặt"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận"
+    ],
+    [
+      "người thừa kế",
+      "cử"
+    ],
+    [
+      "người thừa kế",
+      "xác định"
+    ],
+    [
+      "người để lại di sản",
+      "chỉ định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thừa kế",
+      "di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "di sản"
+    ],
+    [
+      "người phân chia di sản",
+      "di sản"
+    ],
+    [
+      "di chúc",
+      "thông báo về việc mở thừa kế"
+    ],
+    [
+      "di chúc",
+      "người để lại di sản"
+    ]
+  ]
+}

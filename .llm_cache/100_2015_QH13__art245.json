@@ -1,0 +1,117 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+    "gây thiệt hại về tài sản",
+    "gây thiệt hại đến cảnh quan, hệ sinh thái tự nhiên",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án về tội này",
+    "tái phạm nguy hiểm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định về quản lý khu bảo tồn thiên nhiên"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "gây thiệt hại đến cảnh quan, hệ sinh thái tự nhiên"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án về tội này"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội quy định tại điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm hoạt động trong một số lĩnh vực nhất định"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khu bảo tồn thiên nhiên",
+      "quản lý khu bảo tồn thiên nhiên"
+    ],
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "thiệt hại đến cảnh quan, hệ sinh thái tự nhiên"
+    ],
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "án tích"
+    ],
+    [
+      "tội vi phạm các quy định về quản lý khu bảo tồn thiên nhiên",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạt tiền"
+    ]
+  ]
+}

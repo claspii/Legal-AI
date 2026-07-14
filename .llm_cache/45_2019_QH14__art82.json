@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người lao động"
+  ],
+  "actions": [
+    "sửa đổi",
+    "bổ sung",
+    "thỏa thuận",
+    "thực hiện",
+    "tiến hành",
+    "ký kết"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "sửa đổi"
+    ],
+    [
+      "các bên",
+      "bổ sung"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "tiến hành"
+    ],
+    [
+      "người lao động",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "sửa đổi"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "bổ sung"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "thương lượng tập thể"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "pháp luật"
+    ],
+    [
+      "quy định của pháp luật",
+      "thay đổi"
+    ]
+  ]
+}

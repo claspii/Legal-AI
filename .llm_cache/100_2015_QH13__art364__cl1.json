@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn",
+    "tổ chức khác"
+  ],
+  "actions": [
+    "đưa hối lộ",
+    "đưa",
+    "làm",
+    "không làm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đưa hối lộ"
+    ],
+    [
+      "người",
+      "đưa"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "làm"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "không làm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có chức vụ, quyền hạn",
+      "lợi ích"
+    ],
+    [
+      "người đưa hối lộ",
+      "lợi ích"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "lợi ích vật chất khác",
+      "lợi ích phi vật chất"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người tiêu dùng"
+  ],
+  "actions": [
+    "sản xuất",
+    "kinh doanh",
+    "không bảo đảm chất lượng",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "sản xuất"
+    ],
+    [
+      "pháp nhân",
+      "sản xuất"
+    ],
+    [
+      "cá nhân",
+      "kinh doanh"
+    ],
+    [
+      "pháp nhân",
+      "kinh doanh"
+    ],
+    [
+      "cá nhân",
+      "không bảo đảm chất lượng hàng hóa, dịch vụ"
+    ],
+    [
+      "pháp nhân",
+      "không bảo đảm chất lượng hàng hóa, dịch vụ"
+    ],
+    [
+      "cá nhân",
+      "gây thiệt hại cho người tiêu dùng"
+    ],
+    [
+      "pháp nhân",
+      "gây thiệt hại cho người tiêu dùng"
+    ],
+    [
+      "cá nhân",
+      "phải bồi thường"
+    ],
+    [
+      "pháp nhân",
+      "phải bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng hóa",
+      "dịch vụ"
+    ],
+    [
+      "không bảo đảm chất lượng hàng hóa, dịch vụ",
+      "gây thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "vi phạm quyền lợi của người tiêu dùng"
+    ]
+  ]
+}

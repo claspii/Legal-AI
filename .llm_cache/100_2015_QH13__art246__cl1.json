@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "loài động vật, thực vật ngoại lai xâm hại",
+    "loài động vật, thực vật ngoại lai có nguy cơ xâm hại"
+  ],
+  "actions": [
+    "nhập khẩu",
+    "phát tán",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "nhập khẩu"
+    ],
+    [
+      "người",
+      "phát tán"
+    ],
+    [
+      "loài động vật, thực vật ngoại lai xâm hại",
+      "gây thiệt hại"
+    ],
+    [
+      "loài động vật, thực vật ngoại lai có nguy cơ xâm hại",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhập khẩu trái phép loài động vật, thực vật ngoại lai xâm hại",
+      "vật phạm pháp trị giá"
+    ],
+    [
+      "nhập khẩu trái phép loài động vật, thực vật ngoại lai xâm hại",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "phát tán loài động vật, thực vật ngoại lai xâm hại",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "phát tán loài động vật, thực vật ngoại lai có nguy cơ xâm hại",
+      "gây thiệt hại về tài sản"
+    ]
+  ]
+}

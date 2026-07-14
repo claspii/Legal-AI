@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đại diện người lao động",
+    "bên người sử dụng lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "yêu cầu",
+    "cung cấp thông tin",
+    "tạo điều kiện thuận lợi"
+  ],
+  "actor_actions": [
+    [
+      "bên đại diện người lao động",
+      "yêu cầu"
+    ],
+    [
+      "bên người sử dụng lao động",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên người sử dụng lao động",
+      "tạo điều kiện thuận lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "thông tin về tình hình hoạt động sản xuất, kinh doanh"
+    ],
+    [
+      "thương lượng tập thể",
+      "bí mật kinh doanh"
+    ],
+    [
+      "thương lượng tập thể",
+      "bí mật công nghệ"
+    ]
+  ]
+}

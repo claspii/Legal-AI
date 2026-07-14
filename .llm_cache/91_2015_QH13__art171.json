@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [
+    "tình thế cấp thiết"
+  ],
+  "actors": [
+    "người",
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản"
+  ],
+  "actions": [
+    "tránh một nguy cơ",
+    "có hành động gây một thiệt hại",
+    "ngăn chặn",
+    "làm giảm mối nguy hiểm",
+    "cản trở",
+    "gây thiệt hại",
+    "xâm phạm quyền sở hữu",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tránh một nguy cơ"
+    ],
+    [
+      "người",
+      "có hành động gây một thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "không được cản trở"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "không được cản trở"
+    ],
+    [
+      "người khác",
+      "dùng tài sản"
+    ],
+    [
+      "người khác",
+      "gây thiệt hại đối với tài sản"
+    ],
+    [
+      "chủ sở hữu, chủ thể có quyền khác đối với tài sản bị thiệt hại",
+      "được bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình thế cấp thiết",
+      "thiệt hại"
+    ],
+    [
+      "tình thế cấp thiết",
+      "quyền, lợi ích hợp pháp"
+    ],
+    [
+      "gây thiệt hại",
+      "tình thế cấp thiết"
+    ],
+    [
+      "gây thiệt hại trong tình thế cấp thiết",
+      "không phải là hành vi xâm phạm quyền sở hữu"
+    ],
+    [
+      "gây thiệt hại trong tình thế cấp thiết",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tài sản"
+    ],
+    [
+      "lợi ích công cộng",
+      "nguy cơ"
+    ]
+  ]
+}

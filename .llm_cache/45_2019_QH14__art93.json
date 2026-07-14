@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "xây dựng",
+    "tuyển dụng",
+    "sử dụng lao động",
+    "thỏa thuận",
+    "trả lương",
+    "áp dụng thử",
+    "ban hành",
+    "tham khảo ý kiến",
+    "công bố công khai"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "xây dựng thang lương, bảng lương và định mức lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tuyển dụng"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận mức lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương cho người lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người sử dụng lao động",
+      "công bố công khai thang lương, bảng lương và mức lao động"
+    ],
+    [
+      "người lao động",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thang lương",
+      "bảng lương"
+    ],
+    [
+      "thang lương",
+      "định mức lao động"
+    ],
+    [
+      "bảng lương",
+      "định mức lao động"
+    ],
+    [
+      "mức lương",
+      "công việc"
+    ],
+    [
+      "mức lương",
+      "chức danh"
+    ],
+    [
+      "hợp đồng lao động",
+      "mức lương"
+    ],
+    [
+      "mức lao động",
+      "thời giờ làm việc bình thường"
+    ],
+    [
+      "thang lương, bảng lương và định mức lao động",
+      "công bố công khai"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ từ 01 năm đến 05 năm"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề từ 01 năm đến 05 năm"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định từ 01 năm đến 05 năm"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": []
+}

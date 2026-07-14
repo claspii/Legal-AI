@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại",
+    "xây nhà, công trình trái phép",
+    "hủy hoại",
+    "làm hư hỏng",
+    "khoan, đào thăm dò, khảo sát, khai thác",
+    "sử dụng chất nổ, gây nổ, gây cháy"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công trình thủy lợi",
+      "đê điều"
+    ],
+    [
+      "phòng, chống thiên tai",
+      "bảo vệ bờ, bãi sông"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thiệt hại"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "xây nhà, công trình trái phép",
+      "phạm vi bảo vệ an toàn công trình thủy lợi, đê điều, phòng, chống thiên tai"
+    ],
+    [
+      "hủy hoại",
+      "công trình thủy lợi, đê điều, phòng chống thiên tai"
+    ],
+    [
+      "khoan, đào thăm dò, khảo sát, khai thác",
+      "đất, đá, cát sỏi, khoáng sản, nước dưới đất trái phép"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "cản trở giao thông đường thủy",
+    "gây thiệt hại",
+    "ngăn chặn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "thiệt hại"
+    ],
+    [
+      "sức khỏe",
+      "thiệt hại"
+    ],
+    [
+      "tài sản",
+      "thiệt hại"
+    ],
+    [
+      "phạm tội",
+      "cản trở giao thông đường thủy"
+    ],
+    [
+      "cản trở giao thông đường thủy",
+      "thiệt hại"
+    ]
+  ]
+}

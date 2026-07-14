@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người phạm tội",
+    "người giúp sức"
+  ],
+  "actions": [
+    "quyết định một hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng",
+    "chuyển sang một hình phạt khác thuộc loại nhẹ hơn",
+    "giảm nhẹ"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định một hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng"
+    ],
+    [
+      "tòa án",
+      "chuyển sang một hình phạt khác thuộc loại nhẹ hơn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "khung hình phạt"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "quyết định hình phạt dưới mức thấp nhất"
+    ],
+    [
+      "người phạm tội lần đầu",
+      "người giúp sức trong vụ án đồng phạm"
+    ],
+    [
+      "khung hình phạt nhẹ nhất",
+      "hình phạt khác thuộc loại nhẹ hơn"
+    ]
+  ]
+}

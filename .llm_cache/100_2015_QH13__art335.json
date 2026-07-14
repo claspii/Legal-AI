@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chức vụ",
+    "quyền hạn"
+  ],
+  "actions": [
+    "cố ý cản trở",
+    "đăng ký nghĩa vụ quân sự",
+    "gọi nhập ngũ",
+    "gọi tập trung huấn luyện",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "lợi dụng chức vụ, quyền hạn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý cản trở"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cản trở việc thực hiện nghĩa vụ quân sự",
+      "phạt cảnh cáo"
+    ],
+    [
+      "cản trở việc thực hiện nghĩa vụ quân sự",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "cản trở việc thực hiện nghĩa vụ quân sự",
+      "phạt tù"
+    ],
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "phạt tù"
+    ],
+    [
+      "trong thời chiến",
+      "phạt tù"
+    ]
+  ]
+}

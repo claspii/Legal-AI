@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "người sử dụng lao động",
+    "tòa án",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "đề nghị",
+    "hòa giải",
+    "giải quyết tranh chấp lao động",
+    "tổ chức đình công",
+    "lãnh đạo đình công",
+    "rút quyết định đình công",
+    "chấm dứt đình công",
+    "yêu cầu tuyên bố hợp pháp",
+    "chấp nhận yêu cầu",
+    "thông báo bằng văn bản",
+    "đóng cửa tạm thời nơi làm việc",
+    "yêu cầu tuyên bố bất hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "tiếp tục thỏa thuận"
+    ],
+    [
+      "các bên",
+      "đề nghị hòa giải viên lao động"
+    ],
+    [
+      "các bên",
+      "đề nghị hội đồng trọng tài lao động"
+    ],
+    [
+      "hòa giải viên lao động",
+      "tiến hành hòa giải"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tổ chức và lãnh đạo đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "rút quyết định đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "chấm dứt đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "yêu cầu tòa án tuyên bố cuộc đình công là hợp pháp"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấp nhận toàn bộ hoặc một phần yêu cầu"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo bằng văn bản"
+    ],
+    [
+      "người sử dụng lao động",
+      "đóng cửa tạm thời nơi làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu tòa án tuyên bố cuộc đình công là bất hợp pháp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình công",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "đình công",
+      "người sử dụng lao động"
+    ],
+    [
+      "đình công",
+      "tòa án"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "hòa giải viên lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "hội đồng trọng tài lao động"
+    ]
+  ]
+}

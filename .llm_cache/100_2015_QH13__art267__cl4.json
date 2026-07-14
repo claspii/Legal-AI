@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "vi phạm quy định về điều khiển phương tiện giao thông đường sắt",
+    "phạm tội",
+    "gây thiệt hại",
+    "ngăn chặn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "thiệt hại cho tính mạng, sức khỏe hoặc tài sản"
+    ],
+    [
+      "phạt tiền",
+      "phạm tội"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạm tội"
+    ],
+    [
+      "phạt tù",
+      "phạm tội"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "sức khỏe",
+      "tài sản"
+    ]
+  ]
+}

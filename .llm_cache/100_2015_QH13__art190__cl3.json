@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất hàng cấm",
+    "buôn bán hàng cấm",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sản xuất, buôn bán hàng cấm",
+      "hàng phạm pháp trị giá 500.000.000 đồng trở lên"
+    ],
+    [
+      "sản xuất, buôn bán hàng cấm",
+      "thu lợi bất chính 500.000.000 đồng trở lên"
+    ]
+  ]
+}

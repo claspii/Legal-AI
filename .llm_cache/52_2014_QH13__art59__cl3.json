@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "bên"
+  ],
+  "actions": [
+    "giải quyết tài sản",
+    "chia",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "tài sản chung của vợ chồng",
+      "được chia"
+    ],
+    [
+      "bên",
+      "nhận phần tài sản"
+    ],
+    [
+      "bên",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung của vợ chồng",
+      "ly hôn"
+    ],
+    [
+      "chia bằng hiện vật",
+      "chia theo giá trị"
+    ],
+    [
+      "phần tài sản bằng hiện vật",
+      "phần chênh lệch"
+    ]
+  ]
+}

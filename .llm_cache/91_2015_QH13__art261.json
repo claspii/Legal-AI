@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng dụng",
+    "người khác",
+    "chủ sở hữu tài sản"
+  ],
+  "actions": [
+    "khai thác",
+    "sử dụng",
+    "thu hoa lợi",
+    "thu lợi tức",
+    "yêu cầu",
+    "thực hiện nghĩa vụ sửa chữa",
+    "hoàn trả chi phí",
+    "cho thuê"
+  ],
+  "actor_actions": [
+    [
+      "người hưởng dụng",
+      "khai thác"
+    ],
+    [
+      "người hưởng dụng",
+      "sử dụng"
+    ],
+    [
+      "người hưởng dụng",
+      "thu hoa lợi"
+    ],
+    [
+      "người hưởng dụng",
+      "thu lợi tức"
+    ],
+    [
+      "người hưởng dụng",
+      "yêu cầu"
+    ],
+    [
+      "người hưởng dụng",
+      "cho thuê"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "thực hiện nghĩa vụ sửa chữa"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "hoàn trả chi phí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người hưởng dụng",
+      "quyền hưởng dụng"
+    ],
+    [
+      "người hưởng dụng",
+      "tài sản"
+    ],
+    [
+      "chủ sở hữu tài sản",
+      "tài sản"
+    ],
+    [
+      "quyền hưởng dụng",
+      "tài sản"
+    ]
+  ]
+}

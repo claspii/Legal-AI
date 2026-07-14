@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "gây ô nhiễm môi trường",
+    "vi phạm phòng ngừa, ứng phó, khắc phục sự cố môi trường",
+    "vi phạm quy định về bảo vệ an toàn công trình thủy lợi, đê điều và phòng, chống thiên tai",
+    "vi phạm quy định về bảo vệ bờ, bãi sông",
+    "đưa chất thải vào lãnh thổ Việt Nam",
+    "hủy hoại nguồn lợi thủy sản",
+    "hủy hoại rừng"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "tội gây ô nhiễm môi trường",
+      "điều 235"
+    ],
+    [
+      "tội vi phạm phòng ngừa, ứng phó, khắc phục sự cố môi trường",
+      "điều 237"
+    ],
+    [
+      "tội vi phạm quy định về bảo vệ an toàn công trình thủy lợi, đê điều và phòng, chống thiên tai; vi phạm quy định về bảo vệ bờ, bãi sông",
+      "điều 238"
+    ],
+    [
+      "tội đưa chất thải vào lãnh thổ Việt Nam",
+      "điều 239"
+    ],
+    [
+      "tội hủy hoại nguồn lợi thủy sản",
+      "điều 242"
+    ],
+    [
+      "tội hủy hoại rừng",
+      "điều 243"
+    ],
+    [
+      "tội vi phạm quy định về quản lý, bảo vệ động vật nguy cấp, quý, hiếm",
+      "điều 244"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [
+    "hợp đồng theo mẫu"
+  ],
+  "actors": [
+    "một bên",
+    "bên kia",
+    "bên được đề nghị",
+    "bên đề nghị",
+    "bên đưa ra hợp đồng theo mẫu"
+  ],
+  "actions": [
+    "đưa ra",
+    "trả lời",
+    "chấp nhận",
+    "công khai",
+    "biết",
+    "chịu bất lợi",
+    "giải thích",
+    "miễn trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "đưa ra"
+    ],
+    [
+      "bên kia",
+      "trả lời"
+    ],
+    [
+      "bên được đề nghị",
+      "chấp nhận"
+    ],
+    [
+      "hợp đồng theo mẫu",
+      "công khai"
+    ],
+    [
+      "bên được đề nghị",
+      "biết"
+    ],
+    [
+      "bên đưa ra hợp đồng theo mẫu",
+      "chịu bất lợi"
+    ],
+    [
+      "bên đưa ra hợp đồng theo mẫu",
+      "giải thích"
+    ],
+    [
+      "bên đưa ra hợp đồng theo mẫu",
+      "miễn trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng theo mẫu",
+      "điều khoản"
+    ],
+    [
+      "hợp đồng theo mẫu",
+      "bên được đề nghị"
+    ],
+    [
+      "hợp đồng theo mẫu",
+      "bên đề nghị"
+    ],
+    [
+      "điều khoản không rõ ràng",
+      "bên đưa ra hợp đồng theo mẫu phải chịu bất lợi"
+    ],
+    [
+      "điều khoản miễn trách nhiệm",
+      "không có hiệu lực"
+    ],
+    [
+      "tăng trách nhiệm",
+      "không có hiệu lực"
+    ],
+    [
+      "loại bỏ quyền lợi chính đáng",
+      "không có hiệu lực"
+    ]
+  ]
+}

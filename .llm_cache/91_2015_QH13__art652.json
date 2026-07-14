@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người để lại di sản",
+    "cháu",
+    "chắt",
+    "cha",
+    "mẹ",
+    "con của người để lại di sản"
+  ],
+  "actions": [
+    "chết",
+    "hưởng phần di sản",
+    "thừa kế thế vị"
+  ],
+  "actor_actions": [
+    [
+      "con của người để lại di sản",
+      "chết"
+    ],
+    [
+      "cháu",
+      "hưởng phần di sản"
+    ],
+    [
+      "cháu",
+      "chết"
+    ],
+    [
+      "chắt",
+      "hưởng phần di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người để lại di sản",
+      "con của người để lại di sản"
+    ],
+    [
+      "người để lại di sản",
+      "cháu"
+    ],
+    [
+      "người để lại di sản",
+      "chắt"
+    ],
+    [
+      "cháu",
+      "cha"
+    ],
+    [
+      "cháu",
+      "mẹ"
+    ],
+    [
+      "chắt",
+      "cha"
+    ],
+    [
+      "chắt",
+      "mẹ"
+    ],
+    [
+      "thừa kế thế vị",
+      "phần di sản"
+    ]
+  ]
+}

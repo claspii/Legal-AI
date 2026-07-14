@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "người không trực tiếp nuôi con",
+    "thành viên gia đình",
+    "con"
+  ],
+  "actions": [
+    "nuôi con",
+    "ly hôn",
+    "thực hiện nghĩa vụ",
+    "tôn trọng",
+    "thăm nom",
+    "chăm sóc",
+    "giáo dục",
+    "cản trở"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ trực tiếp nuôi con",
+      "yêu cầu"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "tôn trọng quyền được nuôi con"
+    ],
+    [
+      "thành viên gia đình",
+      "tôn trọng quyền được nuôi con"
+    ],
+    [
+      "cha, mẹ trực tiếp nuôi con",
+      "không được cản trở"
+    ],
+    [
+      "thành viên gia đình",
+      "không được cản trở"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "thăm nom"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "chăm sóc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ trực tiếp nuôi con",
+      "người không trực tiếp nuôi con"
+    ],
+    [
+      "cha, mẹ trực tiếp nuôi con",
+      "con"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "con"
+    ],
+    [
+      "quyền được nuôi con",
+      "nghĩa vụ"
+    ],
+    [
+      "thăm nom",
+      "chăm sóc"
+    ],
+    [
+      "chăm sóc",
+      "nuôi dưỡng"
+    ],
+    [
+      "nuôi dưỡng",
+      "giáo dục"
+    ]
+  ]
+}

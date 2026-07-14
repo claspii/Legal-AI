@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "đua trái phép",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "đua trái phép xe ô tô"
+    ],
+    [
+      "người nào",
+      "đua trái phép xe máy"
+    ],
+    [
+      "người nào",
+      "đua trái phép các loại xe khác có gắn động cơ"
+    ],
+    [
+      "người nào",
+      "gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đua xe trái phép",
+      "xe ô tô"
+    ],
+    [
+      "đua xe trái phép",
+      "xe máy"
+    ],
+    [
+      "đua xe trái phép",
+      "xe có gắn động cơ"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "vi phạm"
+    ],
+    [
+      "kết án",
+      "chưa được xóa án tích"
+    ]
+  ]
+}

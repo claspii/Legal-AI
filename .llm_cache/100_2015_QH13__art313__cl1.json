@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vi phạm quy định về phòng cháy, chữa cháy",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về phòng cháy, chữa cháy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phòng cháy, chữa cháy",
+      "an toàn công cộng"
+    ],
+    [
+      "phòng cháy, chữa cháy",
+      "trật tự công cộng"
+    ],
+    [
+      "làm chết",
+      "gây thương tích"
+    ],
+    [
+      "làm chết",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

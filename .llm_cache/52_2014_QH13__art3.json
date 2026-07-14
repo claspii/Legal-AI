@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [
+    "hôn nhân",
+    "gia đình",
+    "chế độ hôn nhân và gia đình",
+    "tập quán về hôn nhân và gia đình",
+    "kết hôn",
+    "kết hôn trái pháp luật",
+    "chung sống như vợ chồng",
+    "tảo hôn"
+  ],
+  "actors": [
+    "vợ",
+    "chồng",
+    "nam",
+    "nữ",
+    "cha",
+    "mẹ",
+    "thành viên khác trong gia đình",
+    "người"
+  ],
+  "actions": [
+    "kết hôn",
+    "ly hôn",
+    "xác lập quan hệ",
+    "đăng ký kết hôn",
+    "vi phạm điều kiện kết hôn",
+    "tổ chức cuộc sống chung",
+    "lấy vợ",
+    "lấy chồng"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chấm dứt quan hệ"
+    ],
+    [
+      "chồng",
+      "chấm dứt quan hệ"
+    ],
+    [
+      "nam",
+      "xác lập quan hệ vợ chồng"
+    ],
+    [
+      "nữ",
+      "xác lập quan hệ vợ chồng"
+    ],
+    [
+      "nam",
+      "đăng ký kết hôn"
+    ],
+    [
+      "nữ",
+      "đăng ký kết hôn"
+    ],
+    [
+      "nam",
+      "tổ chức cuộc sống chung"
+    ],
+    [
+      "nữ",
+      "tổ chức cuộc sống chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "chế độ hôn nhân và gia đình",
+      "kết hôn"
+    ],
+    [
+      "chế độ hôn nhân và gia đình",
+      "ly hôn"
+    ],
+    [
+      "kết hôn",
+      "ly hôn"
+    ],
+    [
+      "kết hôn",
+      "kết hôn trái pháp luật"
+    ],
+    [
+      "kết hôn",
+      "tảo hôn"
+    ],
+    [
+      "kết hôn",
+      "cưỡng ép kết hôn"
+    ],
+    [
+      "ly hôn",
+      "cưỡng ép ly hôn"
+    ]
+  ]
+}

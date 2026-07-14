@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "hợp nhất",
+    "chấm dứt tồn tại",
+    "được thành lập",
+    "chuyển giao"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "hợp nhất"
+    ],
+    [
+      "pháp nhân cũ",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân mới",
+      "được thành lập"
+    ],
+    [
+      "quyền và nghĩa vụ dân sự của pháp nhân cũ",
+      "được chuyển giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân cũ",
+      "pháp nhân mới"
+    ],
+    [
+      "hợp nhất",
+      "pháp nhân mới"
+    ],
+    [
+      "chấm dứt tồn tại",
+      "pháp nhân cũ"
+    ],
+    [
+      "quyền và nghĩa vụ dân sự",
+      "chuyển giao"
+    ]
+  ]
+}

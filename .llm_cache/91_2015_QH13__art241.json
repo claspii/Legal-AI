@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "người nhận tài sản"
+  ],
+  "actions": [
+    "chấm dứt",
+    "xử lý tài sản",
+    "thực hiện nghĩa vụ",
+    "áp dụng",
+    "kê biên",
+    "phát sinh",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền khác",
+      "quyết định"
+    ],
+    [
+      "người nhận tài sản",
+      "phát sinh quyền sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "nghĩa vụ của chủ sở hữu"
+    ],
+    [
+      "tài sản",
+      "kê biên"
+    ],
+    [
+      "quyền sử dụng đất",
+      "pháp luật về đất đai"
+    ]
+  ]
+}

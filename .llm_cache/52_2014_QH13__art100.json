@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "quan hệ sinh con bằng kỹ thuật hỗ trợ sinh sản",
+    "mang thai hộ"
+  ],
+  "actions": [
+    "xử lý",
+    "vi phạm",
+    "bị xử lý"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "vi phạm"
+    ],
+    [
+      "các bên",
+      "bị xử lý"
+    ],
+    [
+      "quan hệ sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "vi phạm"
+    ],
+    [
+      "mang thai hộ",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm",
+      "điều kiện"
+    ],
+    [
+      "vi phạm",
+      "quyền"
+    ],
+    [
+      "vi phạm",
+      "nghĩa vụ"
+    ],
+    [
+      "bị xử lý",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "bị xử lý",
+      "hành chính"
+    ],
+    [
+      "bị xử lý",
+      "hình sự"
+    ],
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "mang thai hộ"
+    ]
+  ]
+}

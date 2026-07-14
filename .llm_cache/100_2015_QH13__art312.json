@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc",
+    "làm chết 01 người",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên",
+    "phạm tội",
+    "bị phạt tù từ 01 năm đến 05 năm",
+    "bị phạt tù từ 05 năm đến 10 năm",
+    "bị phạt tù từ 10 năm đến 15 năm",
+    "bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định từ 01 năm đến 05 năm"
+    ],
+    [
+      "người vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "người vi phạm quy định về quản lý việc sản xuất, trang bị, sử dụng, bảo quản, lưu giữ, vận chuyển hoặc mua bán chất cháy, chất độc",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất cháy",
+      "chất độc"
+    ],
+    [
+      "làm chết người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ],
+    [
+      "sản xuất",
+      "trang bị"
+    ],
+    [
+      "sử dụng",
+      "bảo quản"
+    ],
+    [
+      "lưu giữ",
+      "vận chuyển hoặc mua bán"
+    ]
+  ]
+}

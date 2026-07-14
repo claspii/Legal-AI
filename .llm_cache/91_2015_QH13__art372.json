@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền",
+    "bên có nghĩa vụ",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "hoàn thành",
+    "chấm dứt",
+    "miễn",
+    "thay thế",
+    "bù trừ",
+    "hòa nhập",
+    "chết",
+    "chấm dứt tồn tại"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "miễn việc thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chết"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "bên có quyền",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "cá nhân",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "nghĩa vụ",
+      "hoàn thành"
+    ],
+    [
+      "nghĩa vụ",
+      "chấm dứt"
+    ],
+    [
+      "vật đặc định",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền yêu cầu",
+      "di sản thừa kế"
+    ]
+  ]
+}

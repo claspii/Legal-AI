@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể có quyền bề mặt",
+    "chủ thể có quyền sử dụng đất",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt",
+    "từ bỏ",
+    "thu hồi"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể có quyền bề mặt",
+      "từ bỏ quyền của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền bề mặt",
+      "chấm dứt"
+    ],
+    [
+      "quyền bề mặt",
+      "quyền sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "thu hồi"
+    ]
+  ]
+}

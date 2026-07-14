@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "bên tranh chấp",
+    "hội đồng trọng tài lao động",
+    "tòa án",
+    "người yêu cầu"
+  ],
+  "actions": [
+    "yêu cầu hòa giải",
+    "phát hiện ra hành vi",
+    "quyền và lợi ích hợp pháp của mình bị vi phạm",
+    "yêu cầu giải quyết tranh chấp",
+    "chứng minh",
+    "không thể yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "thực hiện hòa giải tranh chấp lao động cá nhân"
+    ],
+    [
+      "bên tranh chấp",
+      "cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "tòa án",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "người yêu cầu",
+      "chứng minh được vì sự kiện bất khả kháng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân",
+      "06 tháng"
+    ],
+    [
+      "thời hiệu yêu cầu hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân",
+      "09 tháng"
+    ],
+    [
+      "thời hiệu yêu cầu tòa án giải quyết tranh chấp lao động cá nhân",
+      "01 năm"
+    ],
+    [
+      "sự kiện bất khả kháng",
+      "thời gian không tính vào thời hiệu"
+    ],
+    [
+      "trở ngại khách quan",
+      "thời gian không tính vào thời hiệu"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "những người có họ trong phạm vi ba đời"
+  ],
+  "actors": [
+    "cha",
+    "mẹ",
+    "anh",
+    "chị",
+    "em",
+    "chú",
+    "bác",
+    "cô",
+    "cậu",
+    "dì"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "đời thứ nhất"
+    ],
+    [
+      "anh, chị, em cùng cha mẹ",
+      "đời thứ hai"
+    ],
+    [
+      "anh, chị, em cùng cha khác mẹ",
+      "đời thứ hai"
+    ],
+    [
+      "anh, chị, em cùng mẹ khác cha",
+      "đời thứ hai"
+    ],
+    [
+      "anh, chị, em con chú, con bác, con cô, con cậu, con dì",
+      "đời thứ ba"
+    ]
+  ]
+}

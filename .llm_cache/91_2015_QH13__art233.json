@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một người",
+    "người có ruộng, ao, hồ",
+    "chủ sở hữu",
+    "người"
+  ],
+  "actions": [
+    "di chuyển tự nhiên",
+    "thuộc sở hữu",
+    "thông báo công khai",
+    "nhận lại",
+    "đến nhận"
+  ],
+  "actor_actions": [
+    [
+      "vật nuôi dưới nước của một người",
+      "di chuyển tự nhiên"
+    ],
+    [
+      "vật nuôi dưới nước",
+      "thuộc sở hữu"
+    ],
+    [
+      "người có ruộng, ao, hồ đó",
+      "thông báo công khai"
+    ],
+    [
+      "chủ sở hữu",
+      "nhận lại"
+    ],
+    [
+      "không có người",
+      "đến nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vật nuôi dưới nước",
+      "ruộng, ao, hồ"
+    ],
+    [
+      "quyền sở hữu",
+      "vật nuôi dưới nước"
+    ]
+  ]
+}

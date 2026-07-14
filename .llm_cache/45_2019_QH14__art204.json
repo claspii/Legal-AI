@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "người lao động",
+    "cơ quan, tổ chức, cá nhân có thẩm quyền",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "đình công",
+    "tổ chức và lãnh đạo đình công",
+    "giải quyết",
+    "tiến hành đình công",
+    "hoãn hoặc ngừng đình công"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "tổ chức và lãnh đạo đình công"
+    ],
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền",
+      "giải quyết"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "hoãn hoặc ngừng đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình công bất hợp pháp",
+      "trường hợp đình công"
+    ],
+    [
+      "đình công bất hợp pháp",
+      "trình tự, thủ tục tiến hành đình công"
+    ],
+    [
+      "đình công",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "cơ quan, tổ chức, cá nhân có thẩm quyền"
+    ]
+  ]
+}

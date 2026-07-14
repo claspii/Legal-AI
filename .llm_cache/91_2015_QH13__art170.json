@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người có hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản"
+  ],
+  "actions": [
+    "yêu cầu bồi thường thiệt hại",
+    "xâm phạm quyền sở hữu, quyền khác đối với tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "người có hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản",
+      "xâm phạm quyền sở hữu, quyền khác đối với tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "quyền yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "quyền yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

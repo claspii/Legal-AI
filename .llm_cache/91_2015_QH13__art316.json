@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm cố",
+    "các bên"
+  ],
+  "actions": [
+    "trả lại tài sản cầm cố",
+    "chấm dứt việc cầm cố tài sản",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm cố",
+      "trả lại tài sản cầm cố"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "giấy tờ liên quan đến tài sản cầm cố"
+    ],
+    [
+      "tài sản cầm cố",
+      "hoa lợi"
+    ],
+    [
+      "tài sản cầm cố",
+      "lợi tức thu được từ tài sản cầm cố"
+    ],
+    [
+      "cầm cố tài sản",
+      "trả lại tài sản cầm cố"
+    ]
+  ]
+}

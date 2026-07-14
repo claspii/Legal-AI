@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tổ chức đua xe trái phép",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tổ chức đua xe trái phép",
+      "làm chết"
+    ],
+    [
+      "tổ chức đua xe trái phép",
+      "gây thương tích"
+    ],
+    [
+      "tổ chức đua xe trái phép",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tổ chức đua xe trái phép",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người từ đủ 16 tuổi trở lên"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ 16 tuổi trở lên",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tuổi chịu trách nhiệm hình sự",
+      "tội phạm"
+    ],
+    [
+      "người từ đủ 16 tuổi trở lên",
+      "tội phạm"
+    ]
+  ]
+}

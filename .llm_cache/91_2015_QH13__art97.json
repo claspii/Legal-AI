@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "cơ quan nhà nước ở trung ương",
+    "cơ quan nhà nước ở địa phương",
+    "chủ thể khác"
+  ],
+  "actions": [
+    "tham gia quan hệ dân sự",
+    "bình đẳng",
+    "chịu trách nhiệm dân sự"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "tham gia quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "tham gia quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "tham gia quan hệ dân sự"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "bình đẳng"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "bình đẳng"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "bình đẳng"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "chịu trách nhiệm dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "chịu trách nhiệm dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "quan hệ dân sự"
+    ],
+    [
+      "chủ thể khác",
+      "quan hệ dân sự"
+    ]
+  ]
+}

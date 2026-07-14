@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán",
+    "bên cho thuê khoán",
+    "các bên"
+  ],
+  "actions": [
+    "trả tiền thuê khoán",
+    "khai thác công dụng tài sản thuê khoán",
+    "giao kết hợp đồng thuê khoán",
+    "thỏa thuận điều kiện về việc giảm tiền thuê khoán",
+    "yêu cầu giảm hoặc miễn tiền thuê khoán",
+    "trả hiện vật",
+    "thực hiện công việc",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "trả đủ tiền thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "khai thác công dụng tài sản thuê khoán"
+    ],
+    [
+      "các bên",
+      "giao kết hợp đồng thuê khoán"
+    ],
+    [
+      "các bên",
+      "thỏa thuận điều kiện về việc giảm tiền thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "yêu cầu giảm hoặc miễn tiền thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "trả hiện vật"
+    ],
+    [
+      "bên thuê khoán",
+      "thực hiện một công việc"
+    ],
+    [
+      "bên thuê khoán",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền thuê khoán",
+      "hiện vật"
+    ],
+    [
+      "tiền thuê khoán",
+      "tiền"
+    ],
+    [
+      "tiền thuê khoán",
+      "công việc"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "giảm tiền thuê khoán",
+      "miễn tiền thuê khoán"
+    ],
+    [
+      "thời hạn trả tiền thuê khoán",
+      "chu kỳ sản xuất, kinh doanh"
+    ]
+  ]
+}

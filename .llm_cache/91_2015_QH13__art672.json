@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người không quốc tịch",
+    "người có nhiều quốc tịch"
+  ],
+  "actions": [
+    "cư trú",
+    "có quốc tịch",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "cư trú"
+    ],
+    [
+      "cá nhân",
+      "có quốc tịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không quốc tịch",
+      "quan hệ dân sự có yếu tố nước ngoài"
+    ],
+    [
+      "người có nhiều quốc tịch",
+      "quan hệ dân sự có yếu tố nước ngoài"
+    ],
+    [
+      "pháp luật áp dụng",
+      "người không quốc tịch"
+    ],
+    [
+      "pháp luật áp dụng",
+      "người có nhiều quốc tịch"
+    ],
+    [
+      "quốc tịch",
+      "nơi cư trú"
+    ]
+  ]
+}

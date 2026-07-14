@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động nữ mang thai",
+    "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+    "người sử dụng lao động",
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "tạm hoãn thực hiện hợp đồng lao động",
+    "thông báo",
+    "thỏa thuận",
+    "chỉ định tạm nghỉ"
+  ],
+  "actor_actions": [
+    [
+      "lao động nữ mang thai",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "lao động nữ mang thai",
+      "tạm hoãn thực hiện hợp đồng lao động"
+    ],
+    [
+      "lao động nữ mang thai",
+      "thông báo"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+      "xác nhận"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ mang thai",
+      "hợp đồng lao động"
+    ],
+    [
+      "đơn phương chấm dứt hợp đồng lao động",
+      "xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+    ],
+    [
+      "tạm hoãn thực hiện hợp đồng lao động",
+      "xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+    ],
+    [
+      "thời gian tạm hoãn",
+      "chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền"
+    ]
+  ]
+}

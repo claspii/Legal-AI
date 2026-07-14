@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "có tổ chức",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "sử dụng công cụ hoặc phương tiện săn bắt bị cấm",
+    "săn bắt",
+    "buôn bán",
+    "vận chuyển qua biên giới",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "số lượng động vật nguy cấp, quý, hiếm",
+      "bộ phận cơ thể không thể tách rời sự sống"
+    ],
+    [
+      "lớp thú",
+      "lớp chim"
+    ],
+    [
+      "lớp chim",
+      "lớp bò sát"
+    ],
+    [
+      "voi",
+      "tê giác"
+    ],
+    [
+      "gấu",
+      "hổ"
+    ],
+    [
+      "ngà voi",
+      "sừng tê giác"
+    ]
+  ]
+}

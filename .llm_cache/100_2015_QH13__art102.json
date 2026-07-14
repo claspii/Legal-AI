@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "chuẩn bị phạm tội",
+    "phạm tội chưa đạt",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định hình phạt",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "quyết định hình phạt",
+      "phạm tội chưa đạt"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "phạm tội chưa đạt"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "mức hình phạt cao nhất"
+    ],
+    [
+      "phạm tội chưa đạt",
+      "mức hình phạt cao nhất"
+    ]
+  ]
+}

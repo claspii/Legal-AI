@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên gia đình",
+    "người thành niên có năng lực hành vi dân sự đầy đủ"
+  ],
+  "actions": [
+    "sống chung",
+    "đóng góp",
+    "tạo lập",
+    "xác lập quyền sở hữu",
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "thành viên gia đình",
+      "sống chung"
+    ],
+    [
+      "thành viên gia đình",
+      "đóng góp"
+    ],
+    [
+      "thành viên gia đình",
+      "tạo lập"
+    ],
+    [
+      "thành viên gia đình",
+      "thỏa thuận"
+    ],
+    [
+      "thành viên gia đình",
+      "chiếm hữu"
+    ],
+    [
+      "thành viên gia đình",
+      "sử dụng"
+    ],
+    [
+      "thành viên gia đình",
+      "định đoạt"
+    ],
+    [
+      "người thành niên có năng lực hành vi dân sự đầy đủ",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản của các thành viên gia đình",
+      "sở hữu chung"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản chung của các thành viên gia đình"
+    ],
+    [
+      "sử dụng",
+      "tài sản chung của các thành viên gia đình"
+    ],
+    [
+      "định đoạt",
+      "tài sản chung của các thành viên gia đình"
+    ],
+    [
+      "tài sản",
+      "nguồn thu nhập chủ yếu của gia đình"
+    ],
+    [
+      "định đoạt tài sản là bất động sản",
+      "thỏa thuận của tất cả các thành viên gia đình là người thành niên có năng lực hành vi dân sự đầy đủ"
+    ]
+  ]
+}

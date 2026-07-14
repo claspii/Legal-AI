@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "chấp hành không nghiêm chỉnh mệnh lệnh",
+    "chấp hành mệnh lệnh",
+    "phạm tội",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chấp hành mệnh lệnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "trong chiến đấu"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "trong khu vực có chiến sự"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "trong thực hiện nhiệm vụ cứu hộ, cứu nạn"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "trong tình trạng khẩn cấp"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "chấp hành không nghiêm chỉnh mệnh lệnh",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

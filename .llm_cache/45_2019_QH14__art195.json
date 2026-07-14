@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức",
+    "cá nhân",
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động tập thể về lợi ích",
+    "yêu cầu giải quyết",
+    "tiến hành thủ tục đình công"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức, cá nhân",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "hòa giải viên lao động",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "yêu cầu giải quyết"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "tiến hành thủ tục đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thẩm quyền giải quyết tranh chấp lao động tập thể về lợi ích",
+      "tổ chức"
+    ],
+    [
+      "thẩm quyền giải quyết tranh chấp lao động tập thể về lợi ích",
+      "cá nhân"
+    ],
+    [
+      "hòa giải viên lao động",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "hòa giải",
+      "tranh chấp lao động tập thể về lợi ích"
+    ]
+  ]
+}

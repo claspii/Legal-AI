@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều khiển giao thông",
+    "người hướng dẫn giao thông",
+    "người bị nạn"
+  ],
+  "actions": [
+    "vi phạm quy định về tham gia giao thông đường bộ",
+    "phạm tội",
+    "phạt tù",
+    "sử dụng rượu, bia",
+    "sử dụng chất ma túy",
+    "gây tai nạn",
+    "bỏ chạy để trốn tránh trách nhiệm",
+    "không cứu giúp",
+    "không chấp hành hiệu lệnh",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người điều khiển giao thông",
+      "không chấp hành hiệu lệnh"
+    ],
+    [
+      "người hướng dẫn giao thông",
+      "không chấp hành hiệu lệnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép lái xe",
+      "quy định"
+    ],
+    [
+      "rượu, bia",
+      "nồng độ cồn"
+    ],
+    [
+      "chất ma túy",
+      "pháp luật cấm sử dụng"
+    ],
+    [
+      "chất kích thích mạnh khác",
+      "pháp luật cấm sử dụng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ]
+  ]
+}

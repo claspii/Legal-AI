@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tòa án",
+    "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh",
+    "người đại diện theo pháp luật",
+    "người được ủy quyền",
+    "lao động nữ"
+  ],
+  "actions": [
+    "sa thải",
+    "đơn phương chấm dứt hợp đồng lao động",
+    "kết hôn",
+    "mang thai",
+    "nghỉ thai sản",
+    "nuôi con",
+    "chấm dứt hoạt động",
+    "tuyên bố mất năng lực hành vi dân sự",
+    "tuyên bố mất tích",
+    "tuyên bố đã chết",
+    "giao kết hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không được sa thải"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "kết hôn"
+    ],
+    [
+      "người lao động",
+      "mang thai"
+    ],
+    [
+      "người lao động",
+      "nghỉ thai sản"
+    ],
+    [
+      "người lao động",
+      "nuôi con"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "mang thai",
+      "nghỉ thai sản"
+    ],
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "lao động nữ",
+      "nuôi con"
+    ],
+    [
+      "người sử dụng lao động",
+      "chết"
+    ],
+    [
+      "người sử dụng lao động",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "người sử dụng lao động",
+      "mất tích"
+    ]
+  ]
+}

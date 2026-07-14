@@ -1,0 +1,119 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người để lại di sản",
+    "người thừa kế khác"
+  ],
+  "actions": [
+    "cố ý xâm phạm tính mạng",
+    "cố ý xâm phạm sức khỏe",
+    "ngược đãi nghiêm trọng",
+    "hành hạ",
+    "xâm phạm nghiêm trọng danh dự",
+    "xâm phạm nghiêm trọng nhân phẩm",
+    "vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng",
+    "lừa dối",
+    "cưỡng ép",
+    "ngăn cản",
+    "lập di chúc",
+    "giả mạo di chúc",
+    "sửa chữa di chúc",
+    "hủy di chúc",
+    "che giấu di chúc",
+    "hưởng di sản",
+    "bị kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "cố ý xâm phạm tính mạng"
+    ],
+    [
+      "người",
+      "cố ý xâm phạm sức khỏe"
+    ],
+    [
+      "người",
+      "ngược đãi nghiêm trọng"
+    ],
+    [
+      "người",
+      "hành hạ"
+    ],
+    [
+      "người",
+      "xâm phạm nghiêm trọng danh dự"
+    ],
+    [
+      "người",
+      "xâm phạm nghiêm trọng nhân phẩm"
+    ],
+    [
+      "người",
+      "vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng"
+    ],
+    [
+      "người",
+      "lừa dối"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "người",
+      "ngăn cản"
+    ],
+    [
+      "người",
+      "giả mạo di chúc"
+    ],
+    [
+      "người",
+      "sửa chữa di chúc"
+    ],
+    [
+      "người",
+      "hủy di chúc"
+    ],
+    [
+      "người",
+      "che giấu di chúc"
+    ],
+    [
+      "người để lại di sản",
+      "lập di chúc"
+    ],
+    [
+      "người",
+      "hưởng di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không được quyền hưởng di sản",
+      "di sản"
+    ],
+    [
+      "người",
+      "di sản"
+    ],
+    [
+      "người",
+      "người để lại di sản"
+    ],
+    [
+      "người",
+      "di chúc"
+    ],
+    [
+      "người",
+      "người thừa kế khác"
+    ]
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người phạm tội",
+    "cơ quan, tổ chức",
+    "chính quyền địa phương",
+    "gia đình người bị kết án",
+    "người được hưởng án treo"
+  ],
+  "actions": [
+    "xử phạt tù",
+    "cho hưởng án treo",
+    "ấn định thời gian thử thách",
+    "thực hiện nghĩa vụ",
+    "giao giám sát, giáo dục",
+    "phối hợp giám sát, giáo dục",
+    "quyết định áp dụng hình phạt bổ sung",
+    "rút ngắn thời gian thử thách",
+    "cố ý vi phạm nghĩa vụ",
+    "chấp hành hình phạt tù",
+    "thực hiện hành vi phạm tội mới",
+    "tổng hợp hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xử phạt tù"
+    ],
+    [
+      "tòa án",
+      "cho hưởng án treo"
+    ],
+    [
+      "tòa án",
+      "ấn định thời gian thử thách"
+    ],
+    [
+      "người phạm tội",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "giao giám sát, giáo dục"
+    ],
+    [
+      "gia đình người bị kết án",
+      "phối hợp giám sát, giáo dục"
+    ],
+    [
+      "tòa án",
+      "quyết định áp dụng hình phạt bổ sung"
+    ],
+    [
+      "tòa án",
+      "quyết định rút ngắn thời gian thử thách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "án treo",
+      "thời gian thử thách"
+    ],
+    [
+      "người phạm tội",
+      "nhân thân"
+    ],
+    [
+      "án treo",
+      "hình phạt tù"
+    ],
+    [
+      "thời gian thử thách",
+      "nghĩa vụ"
+    ],
+    [
+      "giám sát",
+      "giáo dục"
+    ],
+    [
+      "án treo",
+      "hình phạt bổ sung"
+    ],
+    [
+      "thời gian thử thách",
+      "tiến bộ"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "chấp hành hình phạt tù"
+    ]
+  ]
+}

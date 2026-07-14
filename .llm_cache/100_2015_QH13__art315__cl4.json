@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người vi phạm",
+    "người này"
+  ],
+  "actions": [
+    "vi phạm quy định về khám bệnh",
+    "chữa bệnh",
+    "sản xuất",
+    "pha chế thuốc",
+    "cấp phát thuốc",
+    "bán thuốc",
+    "dịch vụ y tế khác",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người vi phạm",
+      "vi phạm quy định về khám bệnh"
+    ],
+    [
+      "người vi phạm",
+      "chữa bệnh"
+    ],
+    [
+      "người vi phạm",
+      "sản xuất"
+    ],
+    [
+      "người vi phạm",
+      "pha chế thuốc"
+    ],
+    [
+      "người vi phạm",
+      "cấp phát thuốc"
+    ],
+    [
+      "người vi phạm",
+      "bán thuốc"
+    ],
+    [
+      "người vi phạm",
+      "dịch vụ y tế khác"
+    ],
+    [
+      "người vi phạm",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "gây tổn hại cho sức khỏe của 01 người"
+    ],
+    [
+      "tổng tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "gây tổn hại cho sức khỏe của 02 người trở lên"
+    ],
+    [
+      "phạt cải tạo không giam giữ đến 02 năm",
+      "vi phạm"
+    ],
+    [
+      "phạt tù từ 03 tháng đến 02 năm",
+      "vi phạm"
+    ]
+  ]
+}

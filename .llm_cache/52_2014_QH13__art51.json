@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "cả hai người",
+    "tòa án",
+    "cha",
+    "mẹ",
+    "người thân thích khác"
+  ],
+  "actions": [
+    "yêu cầu giải quyết ly hôn",
+    "bị bệnh tâm thần",
+    "mắc bệnh khác",
+    "không thể nhận thức, làm chủ được hành vi của mình",
+    "là nạn nhân của bạo lực gia đình",
+    "đang có thai",
+    "sinh con",
+    "nuôi con dưới 12 tháng tuổi"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "chồng",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "cả hai người",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "cha",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "mẹ",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "người thân thích khác",
+      "yêu cầu giải quyết ly hôn"
+    ],
+    [
+      "chồng",
+      "không có quyền yêu cầu ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ly hôn",
+      "bệnh tâm thần"
+    ],
+    [
+      "ly hôn",
+      "bạo lực gia đình"
+    ],
+    [
+      "ly hôn",
+      "có thai"
+    ],
+    [
+      "ly hôn",
+      "sinh con"
+    ],
+    [
+      "ly hôn",
+      "nuôi con dưới 12 tháng tuổi"
+    ]
+  ]
+}

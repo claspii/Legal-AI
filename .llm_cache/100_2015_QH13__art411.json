@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "vi phạm các quy định về bảo đảm an toàn trong chiến đấu hoặc trong huấn luyện",
+    "không chấp hành nghiêm chỉnh những quy định bảo đảm an toàn trong chiến đấu hoặc trong huấn luyện"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không chấp hành nghiêm chỉnh những quy định bảo đảm an toàn trong chiến đấu hoặc trong huấn luyện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiến đấu",
+      "huấn luyện"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chủ sở hữu nhãn hiệu",
+    "chủ sở hữu chỉ dẫn địa lý"
+  ],
+  "actions": [
+    "cố ý xâm phạm quyền sở hữu công nghiệp",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý xâm phạm quyền sở hữu công nghiệp"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu công nghiệp",
+      "nhãn hiệu"
+    ],
+    [
+      "quyền sở hữu công nghiệp",
+      "chỉ dẫn địa lý"
+    ],
+    [
+      "thu lợi bất chính",
+      "thiệt hại"
+    ],
+    [
+      "nhãn hiệu",
+      "chỉ dẫn địa lý"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thúc đẩy",
+    "đối thoại",
+    "thương lượng tập thể",
+    "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thúc đẩy người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "người lao động",
+      "đối thoại"
+    ],
+    [
+      "người lao động",
+      "thương lượng tập thể"
+    ],
+    [
+      "người lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "người sử dụng lao động",
+      "đối thoại"
+    ],
+    [
+      "người sử dụng lao động",
+      "thương lượng tập thể"
+    ],
+    [
+      "người sử dụng lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "đối thoại",
+      "thương lượng tập thể"
+    ],
+    [
+      "đối thoại",
+      "quan hệ lao động"
+    ],
+    [
+      "thương lượng tập thể",
+      "quan hệ lao động"
+    ]
+  ]
+}

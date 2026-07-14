@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người khác",
+    "người được chuyển giao"
+  ],
+  "actions": [
+    "chuyển giao quyền sở hữu",
+    "mua bán",
+    "trao đổi",
+    "tặng cho",
+    "cho vay",
+    "chuyển quyền sở hữu",
+    "để thừa kế",
+    "chấm dứt quyền sở hữu",
+    "phát sinh quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chuyển giao quyền sở hữu của mình cho người khác"
+    ],
+    [
+      "chủ sở hữu",
+      "mua bán"
+    ],
+    [
+      "chủ sở hữu",
+      "trao đổi"
+    ],
+    [
+      "chủ sở hữu",
+      "tặng cho"
+    ],
+    [
+      "chủ sở hữu",
+      "cho vay"
+    ],
+    [
+      "chủ sở hữu",
+      "chuyển quyền sở hữu khác"
+    ],
+    [
+      "chủ sở hữu",
+      "để thừa kế"
+    ],
+    [
+      "quyền sở hữu đối với tài sản của người đó",
+      "chấm dứt"
+    ],
+    [
+      "quyền sở hữu của người được chuyển giao",
+      "phát sinh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "quyền sở hữu"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "hợp đồng mua bán"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "trao đổi"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "tặng cho"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "cho vay"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "hợp đồng chuyển quyền sở hữu khác"
+    ],
+    [
+      "chuyển giao quyền sở hữu",
+      "để thừa kế"
+    ],
+    [
+      "chấm dứt quyền sở hữu",
+      "phát sinh quyền sở hữu của người được chuyển giao"
+    ]
+  ]
+}

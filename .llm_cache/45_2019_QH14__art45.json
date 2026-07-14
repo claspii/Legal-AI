@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh",
+    "người đại diện theo pháp luật",
+    "người được ủy quyền"
+  ],
+  "actions": [
+    "thông báo chấm dứt hợp đồng lao động",
+    "chấm dứt hoạt động",
+    "ra thông báo không có người đại diện theo pháp luật",
+    "thực hiện quyền và nghĩa vụ",
+    "thông báo bằng văn bản"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thông báo bằng văn bản"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh",
+      "ra thông báo không có người đại diện theo pháp luật"
+    ],
+    [
+      "người được ủy quyền",
+      "thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hoạt động"
+    ],
+    [
+      "chấm dứt hợp đồng lao động",
+      "thời điểm chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động không phải là cá nhân",
+      "không có người đại diện theo pháp luật"
+    ],
+    [
+      "người sử dụng lao động không phải là cá nhân",
+      "bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo"
+    ]
+  ]
+}

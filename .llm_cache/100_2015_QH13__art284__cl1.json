@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều khiển tàu thủy",
+    "phương tiện hàng hải khác"
+  ],
+  "actions": [
+    "điều khiển",
+    "chạy quá tốc độ cho phép",
+    "chạy không đúng vùng được phép hoạt động",
+    "không thực hiện thủ tục",
+    "thực hiện không đầy đủ thủ tục",
+    "không thực hiện quy định",
+    "thực hiện không đúng quy định",
+    "không bảo đảm về còi, chuông, kẻng"
+  ],
+  "actor_actions": [
+    [
+      "người điều khiển tàu thủy",
+      "điều khiển tàu thủy hay phương tiện hàng hải khác"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "chạy quá tốc độ cho phép"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "chạy không đúng vùng được phép hoạt động"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "không thực hiện các thủ tục vào cảng"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "thực hiện không đầy đủ các thủ tục rời cảng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàu thủy",
+      "phương tiện hàng hải khác"
+    ],
+    [
+      "hàng hải",
+      "an toàn công cộng"
+    ],
+    [
+      "hàng hải",
+      "trật tự công cộng"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

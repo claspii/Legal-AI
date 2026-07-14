@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "chấm dứt",
+    "có sự thỏa thuận",
+    "bảo đảm chỗ ở"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "có sự thỏa thuận"
+    ],
+    [
+      "chồng",
+      "có sự thỏa thuận"
+    ],
+    [
+      "chủ sở hữu",
+      "có quyền xác lập"
+    ],
+    [
+      "chủ sở hữu",
+      "thực hiện"
+    ],
+    [
+      "chủ sở hữu",
+      "chấm dứt giao dịch"
+    ],
+    [
+      "chủ sở hữu",
+      "bảo đảm chỗ ở"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhà là nơi ở duy nhất của vợ chồng",
+      "giao dịch"
+    ],
+    [
+      "nhà ở thuộc sở hữu riêng của vợ hoặc chồng",
+      "tài sản"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "xác lập",
+      "thực hiện"
+    ],
+    [
+      "thực hiện",
+      "chấm dứt"
+    ]
+  ]
+}

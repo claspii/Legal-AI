@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [
+    "kỷ luật lao động"
+  ],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "ban hành"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "ban hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "thời gian"
+    ],
+    [
+      "kỷ luật lao động",
+      "công nghệ"
+    ],
+    [
+      "kỷ luật lao động",
+      "điều hành sản xuất, kinh doanh"
+    ],
+    [
+      "kỷ luật lao động",
+      "nội quy lao động"
+    ],
+    [
+      "kỷ luật lao động",
+      "pháp luật"
+    ]
+  ]
+}

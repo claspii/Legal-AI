@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "tòa án"
+  ],
+  "actions": [
+    "giảm mức hình phạt",
+    "xét giảm",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "chấp hành"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "tù chung thân"
+    ],
+    [
+      "giảm mức hình phạt",
+      "tù chung thân"
+    ],
+    [
+      "thời gian thực tế chấp hành",
+      "25 năm"
+    ]
+  ]
+}

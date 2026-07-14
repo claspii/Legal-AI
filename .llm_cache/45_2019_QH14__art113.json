@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "người lao động chưa thành niên",
+    "lao động là người khuyết tật",
+    "chính phủ"
+  ],
+  "actions": [
+    "làm việc",
+    "nghỉ hằng năm",
+    "hưởng nguyên lương",
+    "thôi việc",
+    "mất việc làm",
+    "thanh toán tiền lương",
+    "quy định lịch nghỉ hằng năm",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "người lao động",
+      "hưởng nguyên lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "thanh toán tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "quy định lịch nghỉ hằng năm"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ],
+    [
+      "người lao động",
+      "thỏa thuận"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "người sử dụng lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "nghỉ hằng năm",
+      "tiền lương"
+    ],
+    [
+      "thời giờ làm việc",
+      "thời giờ nghỉ ngơi"
+    ],
+    [
+      "người lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "điều kiện bình thường"
+    ],
+    [
+      "người lao động chưa thành niên",
+      "nghỉ hằng năm"
+    ],
+    [
+      "lao động là người khuyết tật",
+      "nghỉ hằng năm"
+    ]
+  ]
+}

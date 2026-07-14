@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "lợi dụng tình hình khan hiếm",
+    "tạo ra sự khan hiếm giả tạo",
+    "mua vét hàng hóa",
+    "bán lại để thu lợi bất chính",
+    "phạm tội",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng tình hình khan hiếm"
+    ],
+    [
+      "người",
+      "tạo ra sự khan hiếm giả tạo"
+    ],
+    [
+      "người",
+      "mua vét hàng hóa"
+    ],
+    [
+      "người",
+      "bán lại để thu lợi bất chính"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội đầu cơ",
+      "hàng hóa trị giá"
+    ],
+    [
+      "tội đầu cơ",
+      "thu lợi bất chính"
+    ],
+    [
+      "tình hình khan hiếm",
+      "thiên tai"
+    ],
+    [
+      "tình hình khan hiếm",
+      "dịch bệnh"
+    ],
+    [
+      "tình hình khan hiếm",
+      "chiến tranh"
+    ],
+    [
+      "tình hình khan hiếm",
+      "tình hình khó khăn về kinh tế"
+    ],
+    [
+      "hàng hóa",
+      "danh mục mặt hàng bình ổn giá"
+    ],
+    [
+      "hàng hóa",
+      "danh mục hàng hóa được nhà nước định giá"
+    ]
+  ]
+}

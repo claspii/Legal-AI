@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khiếu nại, tố cáo",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "thực hiện hành vi",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "cản trở",
+    "lợi dụng chức vụ, quyền hạn",
+    "gây thiệt hại",
+    "trả thù",
+    "làm tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "cản trở việc khiếu nại, tố cáo"
+    ],
+    [
+      "người",
+      "cản trở việc xét và giải quyết khiếu nại, tố cáo"
+    ],
+    [
+      "người",
+      "cản trở việc xử lý người bị khiếu nại, tố cáo"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn cản trở việc thi hành quyết định"
+    ],
+    [
+      "người",
+      "gây thiệt hại cho người khiếu nại, tố cáo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khiếu nại",
+      "tố cáo"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "xét khiếu nại, tố cáo",
+      "giải quyết khiếu nại, tố cáo"
+    ],
+    [
+      "người khiếu nại",
+      "người tố cáo"
+    ]
+  ]
+}

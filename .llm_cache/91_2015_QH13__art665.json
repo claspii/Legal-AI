@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cộng hòa xã hội chủ nghĩa việt nam",
+    "thành viên"
+  ],
+  "actions": [
+    "áp dụng",
+    "có quy định"
+  ],
+  "actor_actions": [
+    [
+      "cộng hòa xã hội chủ nghĩa việt nam",
+      "là thành viên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều ước quốc tế",
+      "quan hệ dân sự có yếu tố nước ngoài"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "pháp luật áp dụng",
+      "quan hệ dân sự có yếu tố nước ngoài"
+    ]
+  ]
+}

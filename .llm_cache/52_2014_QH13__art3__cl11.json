@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [
+    "kết hôn giả tạo"
+  ],
+  "actors": [
+    "nhà nước"
+  ],
+  "actions": [
+    "lợi dụng",
+    "kết hôn",
+    "xuất cảnh",
+    "nhập cảnh",
+    "cư trú",
+    "nhập quốc tịch việt nam",
+    "nhập quốc tịch nước ngoài",
+    "hưởng chế độ ưu đãi",
+    "xây dựng gia đình"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "kết hôn giả tạo",
+      "xuất cảnh"
+    ],
+    [
+      "kết hôn giả tạo",
+      "nhập cảnh"
+    ],
+    [
+      "kết hôn giả tạo",
+      "cư trú"
+    ],
+    [
+      "kết hôn giả tạo",
+      "nhập quốc tịch việt nam"
+    ],
+    [
+      "kết hôn giả tạo",
+      "nhập quốc tịch nước ngoài"
+    ],
+    [
+      "kết hôn giả tạo",
+      "chế độ ưu đãi của nhà nước"
+    ]
+  ]
+}

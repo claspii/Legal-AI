@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "lạm dụng tín nhiệm chiếm đoạt tài sản",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "dùng thủ đoạn xảo quyệt"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "lạm dụng tín nhiệm chiếm đoạt tài sản"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người phạm tội",
+      "lợi dụng danh nghĩa cơ quan, tổ chức"
+    ],
+    [
+      "người phạm tội",
+      "dùng thủ đoạn xảo quyệt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lạm dụng tín nhiệm chiếm đoạt tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trị giá"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ]
+  ]
+}

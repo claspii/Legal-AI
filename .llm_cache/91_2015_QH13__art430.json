@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "hợp đồng mua bán tài sản"
+  ],
+  "actors": [
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "chuyển quyền sở hữu",
+    "trả tiền",
+    "thỏa thuận",
+    "mua bán tài sản",
+    "mua bán nhà ở",
+    "mua bán nhà để sử dụng vào mục đích khác"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "chuyển quyền sở hữu tài sản"
+    ],
+    [
+      "bên mua",
+      "trả tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng mua bán tài sản",
+      "bên bán"
+    ],
+    [
+      "hợp đồng mua bán tài sản",
+      "bên mua"
+    ],
+    [
+      "mua bán nhà ở",
+      "bộ luật này"
+    ],
+    [
+      "mua bán nhà ở",
+      "luật nhà ở"
+    ],
+    [
+      "mua bán nhà để sử dụng vào mục đích khác",
+      "bộ luật này"
+    ],
+    [
+      "mua bán nhà để sử dụng vào mục đích khác",
+      "luật nhà ở"
+    ]
+  ]
+}

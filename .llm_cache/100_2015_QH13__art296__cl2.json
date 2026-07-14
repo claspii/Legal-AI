@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động dưới 16 tuổi",
+    "người"
+  ],
+  "actions": [
+    "vi phạm quy định về sử dụng",
+    "phạm tội",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người lao động dưới 16 tuổi",
+      "vi phạm quy định về sử dụng"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "02 lần trở lên"
+    ],
+    [
+      "phạm tội",
+      "đối với 02 người trở lên"
+    ],
+    [
+      "làm chết",
+      "01 người"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây thương tích",
+      "02 người"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "02 người"
+    ]
+  ]
+}

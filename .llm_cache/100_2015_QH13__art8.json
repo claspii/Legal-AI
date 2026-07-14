@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "tội phạm"
+  ],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "thực hiện",
+    "xâm phạm",
+    "xử lý hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội phạm",
+      "hành vi nguy hiểm cho xã hội"
+    ],
+    [
+      "hành vi",
+      "dấu hiệu của tội phạm"
+    ],
+    [
+      "tội phạm",
+      "bị xử lý hình sự"
+    ]
+  ]
+}

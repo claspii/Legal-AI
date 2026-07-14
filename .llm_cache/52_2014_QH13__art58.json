@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con"
+  ],
+  "actions": [
+    "chấm dứt hôn nhân",
+    "ly hôn",
+    "trông nom",
+    "chăm sóc",
+    "nuôi dưỡng",
+    "giáo dục"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "ly hôn"
+    ],
+    [
+      "con",
+      "ly hôn"
+    ],
+    [
+      "cha mẹ",
+      "trông nom"
+    ],
+    [
+      "cha mẹ",
+      "chăm sóc"
+    ],
+    [
+      "cha mẹ",
+      "nuôi dưỡng"
+    ],
+    [
+      "cha mẹ",
+      "giáo dục"
+    ]
+  ]
+}

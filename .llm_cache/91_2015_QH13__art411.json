@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên phải thực hiện nghĩa vụ trước",
+    "bên kia",
+    "bên phải thực hiện nghĩa vụ sau",
+    "bên thực hiện nghĩa vụ trước"
+  ],
+  "actions": [
+    "hoãn thực hiện nghĩa vụ",
+    "thực hiện nghĩa vụ",
+    "có khả năng thực hiện được nghĩa vụ",
+    "có biện pháp bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên phải thực hiện nghĩa vụ trước",
+      "có quyền hoãn thực hiện nghĩa vụ"
+    ],
+    [
+      "bên kia",
+      "không thể thực hiện được nghĩa vụ như đã cam kết"
+    ],
+    [
+      "bên kia",
+      "có khả năng thực hiện được nghĩa vụ"
+    ],
+    [
+      "bên kia",
+      "có biện pháp bảo đảm thực hiện nghĩa vụ"
+    ],
+    [
+      "bên phải thực hiện nghĩa vụ sau",
+      "có quyền hoãn thực hiện nghĩa vụ"
+    ],
+    [
+      "bên thực hiện nghĩa vụ trước",
+      "chưa thực hiện nghĩa vụ của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng song vụ",
+      "nghĩa vụ"
+    ],
+    [
+      "hoãn thực hiện nghĩa vụ",
+      "khả năng thực hiện nghĩa vụ"
+    ],
+    [
+      "hoãn thực hiện nghĩa vụ",
+      "biện pháp bảo đảm thực hiện nghĩa vụ"
+    ],
+    [
+      "bên phải thực hiện nghĩa vụ trước",
+      "bên kia"
+    ],
+    [
+      "bên phải thực hiện nghĩa vụ sau",
+      "bên thực hiện nghĩa vụ trước"
+    ]
+  ]
+}

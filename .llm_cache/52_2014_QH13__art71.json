@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con chưa thành niên",
+    "con đã thành niên",
+    "gia đình"
+  ],
+  "actions": [
+    "chăm sóc",
+    "nuôi dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cha",
+      "chăm sóc"
+    ],
+    [
+      "cha",
+      "nuôi dưỡng"
+    ],
+    [
+      "mẹ",
+      "chăm sóc"
+    ],
+    [
+      "mẹ",
+      "nuôi dưỡng"
+    ],
+    [
+      "con",
+      "chăm sóc"
+    ],
+    [
+      "con",
+      "nuôi dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "chăm sóc",
+      "nuôi dưỡng"
+    ],
+    [
+      "con chưa thành niên",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "con đã thành niên",
+      "không có khả năng lao động"
+    ],
+    [
+      "con đã thành niên",
+      "không có tài sản để tự nuôi mình"
+    ],
+    [
+      "cha mẹ",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "cha mẹ",
+      "ốm đau"
+    ]
+  ]
+}

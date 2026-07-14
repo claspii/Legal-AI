@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thanh tra lao động",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "thanh tra việc chấp hành",
+    "điều tra tai nạn lao động",
+    "vi phạm an toàn, vệ sinh lao động",
+    "tham gia hướng dẫn",
+    "giải quyết khiếu nại, tố cáo",
+    "xử lý theo thẩm quyền",
+    "kiến nghị cơ quan có thẩm quyền xử lý"
+  ],
+  "actor_actions": [
+    [
+      "thanh tra lao động",
+      "thanh tra việc chấp hành quy định của pháp luật về lao động"
+    ],
+    [
+      "thanh tra lao động",
+      "điều tra tai nạn lao động và vi phạm an toàn, vệ sinh lao động"
+    ],
+    [
+      "thanh tra lao động",
+      "tham gia hướng dẫn áp dụng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về điều kiện lao động, an toàn, vệ sinh lao động"
+    ],
+    [
+      "thanh tra lao động",
+      "giải quyết khiếu nại, tố cáo về lao động theo quy định của pháp luật"
+    ],
+    [
+      "thanh tra lao động",
+      "xử lý theo thẩm quyền"
+    ],
+    [
+      "thanh tra lao động",
+      "kiến nghị cơ quan có thẩm quyền xử lý vi phạm pháp luật về lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tai nạn lao động",
+      "vi phạm an toàn, vệ sinh lao động"
+    ],
+    [
+      "hệ thống tiêu chuẩn",
+      "quy chuẩn kỹ thuật về điều kiện lao động, an toàn, vệ sinh lao động"
+    ],
+    [
+      "khiếu nại",
+      "tố cáo về lao động"
+    ],
+    [
+      "thanh tra lao động",
+      "xử lý vi phạm pháp luật về lao động"
+    ]
+  ]
+}

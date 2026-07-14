@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị giao kết hợp đồng",
+    "bên đề nghị",
+    "bên được đề nghị"
+  ],
+  "actions": [
+    "chết",
+    "mất năng lực hành vi dân sự",
+    "có khó khăn trong nhận thức, làm chủ hành vi",
+    "trả lời chấp nhận giao kết hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị",
+      "chết"
+    ],
+    [
+      "bên đề nghị",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "bên đề nghị",
+      "có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "bên được đề nghị",
+      "trả lời chấp nhận giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên đề nghị giao kết hợp đồng",
+      "bên được đề nghị"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "giá trị"
+    ],
+    [
+      "nội dung giao kết",
+      "nhân thân bên đề nghị"
+    ]
+  ]
+}

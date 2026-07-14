@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [
+    "chiếm hữu liên tục"
+  ],
+  "actors": [
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "người chiếm hữu"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "giải quyết",
+    "suy đoán"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền khác",
+      "giải quyết"
+    ],
+    [
+      "người chiếm hữu",
+      "chiếm hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu liên tục",
+      "tài sản"
+    ],
+    [
+      "chiếm hữu liên tục",
+      "quyền đối với tài sản"
+    ],
+    [
+      "chiếm hữu không liên tục",
+      "căn cứ"
+    ],
+    [
+      "chiếm hữu không liên tục",
+      "tình trạng và quyền của người chiếm hữu"
+    ]
+  ]
+}

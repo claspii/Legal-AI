@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phân loại",
+    "xác định"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tài sản",
+      "động sản"
+    ],
+    [
+      "tài sản",
+      "bất động sản"
+    ],
+    [
+      "phân loại tài sản",
+      "pháp luật của nước nơi có tài sản"
+    ]
+  ]
+}

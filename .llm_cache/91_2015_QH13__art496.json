@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mượn tài sản",
+    "người khác",
+    "bên cho mượn"
+  ],
+  "actions": [
+    "giữ gìn",
+    "bảo quản",
+    "thay đổi tình trạng",
+    "sửa chữa",
+    "cho mượn lại",
+    "trả lại",
+    "bồi thường thiệt hại",
+    "chịu rủi ro"
+  ],
+  "actor_actions": [
+    [
+      "bên mượn tài sản",
+      "giữ gìn"
+    ],
+    [
+      "bên mượn tài sản",
+      "bảo quản"
+    ],
+    [
+      "bên mượn tài sản",
+      "thay đổi tình trạng"
+    ],
+    [
+      "bên mượn tài sản",
+      "sửa chữa"
+    ],
+    [
+      "bên mượn tài sản",
+      "cho mượn lại"
+    ],
+    [
+      "bên mượn tài sản",
+      "trả lại"
+    ],
+    [
+      "bên mượn tài sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên mượn tài sản",
+      "chịu rủi ro"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mượn tài sản",
+      "tài sản mượn"
+    ],
+    [
+      "bên mượn tài sản",
+      "bên cho mượn"
+    ],
+    [
+      "tài sản mượn",
+      "hư hỏng thông thường"
+    ],
+    [
+      "tài sản mượn",
+      "mục đích mượn"
+    ],
+    [
+      "tài sản mượn",
+      "thời gian chậm trả"
+    ]
+  ]
+}

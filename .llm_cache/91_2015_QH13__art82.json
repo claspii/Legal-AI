@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "cá nhân",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "thành lập",
+    "đăng ký",
+    "công bố công khai"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "được thành lập"
+    ],
+    [
+      "cá nhân",
+      "thành lập"
+    ],
+    [
+      "pháp nhân",
+      "thành lập"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "thành lập"
+    ],
+    [
+      "pháp nhân",
+      "đăng ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "thành lập"
+    ],
+    [
+      "pháp nhân",
+      "đăng ký"
+    ],
+    [
+      "đăng ký pháp nhân",
+      "đăng ký thành lập"
+    ],
+    [
+      "đăng ký pháp nhân",
+      "đăng ký thay đổi"
+    ]
+  ]
+}

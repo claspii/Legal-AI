@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người để lại di chúc",
+    "người thừa kế",
+    "người khác"
+  ],
+  "actions": [
+    "phân chia di sản",
+    "xác định rõ",
+    "chỉ định",
+    "nhận hiện vật",
+    "yêu cầu bồi thường thiệt hại",
+    "xác định phân chia di sản"
+  ],
+  "actor_actions": [
+    [
+      "người để lại di chúc",
+      "xác định rõ"
+    ],
+    [
+      "người thừa kế",
+      "nhận hiện vật"
+    ],
+    [
+      "người thừa kế",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phân chia di sản",
+      "di chúc"
+    ],
+    [
+      "di sản",
+      "người thừa kế"
+    ],
+    [
+      "hiện vật",
+      "hoa lợi"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "hiện vật",
+      "giá trị"
+    ],
+    [
+      "khối di sản",
+      "giá trị"
+    ]
+  ]
+}

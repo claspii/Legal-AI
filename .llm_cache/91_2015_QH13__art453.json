@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "trả chậm",
+    "trả dần",
+    "nhận tài sản",
+    "bảo lưu quyền sở hữu",
+    "lập thành văn bản",
+    "sử dụng tài sản",
+    "chịu rủi ro"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên mua",
+      "trả chậm"
+    ],
+    [
+      "bên mua",
+      "trả dần"
+    ],
+    [
+      "bên mua",
+      "nhận tài sản"
+    ],
+    [
+      "bên bán",
+      "bảo lưu quyền sở hữu"
+    ],
+    [
+      "bên mua",
+      "sử dụng tài sản"
+    ],
+    [
+      "bên mua",
+      "chịu rủi ro"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua trả chậm",
+      "hợp đồng mua trả chậm"
+    ],
+    [
+      "mua trả dần",
+      "hợp đồng mua trả dần"
+    ],
+    [
+      "bên mua",
+      "tài sản mua"
+    ],
+    [
+      "bên bán",
+      "quyền sở hữu"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người tham gia giao thông đường bộ",
+    "người điều khiển hoặc hướng dẫn giao thông",
+    "người bị nạn",
+    "người phạm tội"
+  ],
+  "actions": [
+    "tham gia giao thông đường bộ",
+    "vi phạm quy định về an toàn giao thông đường bộ",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạm tội",
+    "bỏ chạy để trốn tránh trách nhiệm",
+    "không cứu giúp người bị nạn",
+    "không chấp hành hiệu lệnh"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "tham gia giao thông đường bộ"
+    ],
+    [
+      "người nào",
+      "vi phạm quy định về an toàn giao thông đường bộ"
+    ],
+    [
+      "người tham gia giao thông đường bộ",
+      "vi phạm quy định về an toàn giao thông đường bộ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao thông đường bộ",
+      "an toàn giao thông đường bộ"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "nồng độ cồn",
+      "mức quy định"
+    ],
+    [
+      "chất ma túy",
+      "chất kích thích mạnh khác"
+    ]
+  ]
+}

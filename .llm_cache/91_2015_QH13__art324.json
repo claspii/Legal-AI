@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba giữ tài sản thế chấp",
+    "bên nhận thế chấp",
+    "bên thế chấp"
+  ],
+  "actions": [
+    "khai thác công dụng tài sản thế chấp",
+    "trả thù lao",
+    "trả chi phí bảo quản",
+    "bảo quản",
+    "giữ gìn tài sản thế chấp",
+    "bồi thường",
+    "giao lại tài sản thế chấp"
+  ],
+  "actor_actions": [
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "khai thác công dụng tài sản thế chấp"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "được trả thù lao"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "được trả chi phí bảo quản"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "bảo quản tài sản thế chấp"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "giữ gìn tài sản thế chấp"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "bồi thường"
+    ],
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "giao lại tài sản thế chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thứ ba giữ tài sản thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản thế chấp",
+      "bên nhận thế chấp"
+    ],
+    [
+      "tài sản thế chấp",
+      "bên thế chấp"
+    ]
+  ]
+}

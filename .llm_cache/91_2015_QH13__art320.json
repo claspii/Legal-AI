@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thế chấp",
+    "bên nhận thế chấp",
+    "các bên",
+    "luật",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao giấy tờ",
+    "bảo quản, giữ gìn",
+    "áp dụng biện pháp",
+    "sửa chữa",
+    "thông báo",
+    "hủy hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "duy trì hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên thế chấp",
+      "giao giấy tờ liên quan đến tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "bảo quản, giữ gìn tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "áp dụng các biện pháp cần thiết để khắc phục"
+    ],
+    [
+      "bên thế chấp",
+      "sửa chữa"
+    ],
+    [
+      "bên thế chấp",
+      "thay thế bằng tài sản khác"
+    ],
+    [
+      "bên thế chấp",
+      "cung cấp thông tin về thực trạng tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "giao tài sản thế chấp cho bên nhận thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "thông báo cho bên nhận thế chấp về các quyền của người thứ ba"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "bên nhận thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "tài sản thế chấp",
+      "giấy tờ liên quan đến tài sản thế chấp"
+    ],
+    [
+      "tài sản thế chấp",
+      "hợp đồng thế chấp tài sản"
+    ],
+    [
+      "bên thế chấp",
+      "bên nhận thế chấp"
+    ],
+    [
+      "tài sản thế chấp",
+      "quyền của người thứ ba"
+    ]
+  ]
+}

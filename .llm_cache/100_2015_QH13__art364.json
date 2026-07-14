@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn",
+    "người đưa hối lộ",
+    "tổ chức khác",
+    "công chức nước ngoài",
+    "công chức của tổ chức quốc tế công",
+    "người có chức vụ trong các doanh nghiệp, tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "đưa hối lộ",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "khai báo",
+    "trả lại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đưa hối lộ"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "làm hoặc không làm một việc"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người bị ép buộc đưa hối lộ",
+      "khai báo"
+    ],
+    [
+      "người bị ép buộc đưa hối lộ",
+      "được trả lại"
+    ],
+    [
+      "người đưa hối lộ",
+      "khai báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người đưa hối lộ",
+      "người có chức vụ, quyền hạn"
+    ],
+    [
+      "đưa hối lộ",
+      "lợi ích vật chất"
+    ],
+    [
+      "đưa hối lộ",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "công chức nước ngoài",
+      "công chức của tổ chức quốc tế công"
+    ]
+  ]
+}

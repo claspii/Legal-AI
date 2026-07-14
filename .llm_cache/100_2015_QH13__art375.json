@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "điều tra viên",
+    "kiểm sát viên",
+    "thẩm phán",
+    "hội thẩm",
+    "thư ký tòa án",
+    "người bào chữa",
+    "người bảo vệ quyền lợi của đương sự",
+    "người phạm tội"
+  ],
+  "actions": [
+    "làm sai lệch hồ sơ vụ án, vụ việc",
+    "thêm",
+    "bớt",
+    "sửa đổi",
+    "đánh tráo",
+    "hủy",
+    "làm hư hỏng các tài liệu, vật chứng",
+    "làm sai lệch nội dung vụ án, vụ việc"
+  ],
+  "actor_actions": [
+    [
+      "điều tra viên",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "kiểm sát viên",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "thẩm phán",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "hội thẩm",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "thư ký tòa án",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "người bào chữa",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "người bảo vệ quyền lợi của đương sự",
+      "làm sai lệch hồ sơ vụ án, vụ việc"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hồ sơ vụ án",
+      "vụ việc"
+    ],
+    [
+      "vụ án",
+      "vụ việc"
+    ],
+    [
+      "kết án oan",
+      "người vô tội"
+    ],
+    [
+      "bỏ lọt",
+      "tội phạm"
+    ],
+    [
+      "tài liệu",
+      "vật chứng"
+    ]
+  ]
+}

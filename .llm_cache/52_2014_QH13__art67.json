@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "vợ",
+    "chồng",
+    "người đó"
+  ],
+  "actions": [
+    "tuyên bố là đã chết",
+    "trở về",
+    "kết hôn",
+    "ra quyết định",
+    "hủy bỏ",
+    "khôi phục"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "ra quyết định"
+    ],
+    [
+      "vợ",
+      "kết hôn"
+    ],
+    [
+      "chồng",
+      "kết hôn"
+    ],
+    [
+      "tòa án",
+      "hủy bỏ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quan hệ nhân thân",
+      "quan hệ tài sản"
+    ],
+    [
+      "hôn nhân",
+      "ly hôn"
+    ],
+    [
+      "tài sản riêng",
+      "tài sản"
+    ]
+  ]
+}

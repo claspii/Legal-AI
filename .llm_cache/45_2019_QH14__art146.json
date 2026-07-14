@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chưa đủ 15 tuổi",
+    "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "làm việc",
+    "làm thêm giờ"
+  ],
+  "actor_actions": [
+    [
+      "người chưa đủ 15 tuổi",
+      "làm việc"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "làm thêm giờ"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm việc"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm thêm giờ"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "ban hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chưa đủ 15 tuổi",
+      "thời giờ làm việc"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "thời giờ làm việc"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "làm thêm giờ"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "làm việc vào ban đêm"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm thêm giờ"
+    ],
+    [
+      "người từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm việc vào ban đêm"
+    ],
+    [
+      "danh mục",
+      "nghề"
+    ],
+    [
+      "danh mục",
+      "công việc"
+    ]
+  ]
+}

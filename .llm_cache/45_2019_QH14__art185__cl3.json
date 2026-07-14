@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "trọng tài viên lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "công đoàn cấp tỉnh",
+    "tổ chức đại diện của người sử dụng lao động",
+    "thư ký hội đồng trọng tài lao động"
+  ],
+  "actions": [
+    "quy định",
+    "đề cử",
+    "cử",
+    "đáp ứng đầy đủ các tiêu chuẩn",
+    "thực hiện nhiệm vụ",
+    "làm việc"
+  ],
+  "actor_actions": [
+    [
+      "trọng tài viên lao động",
+      "quy định"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "cử"
+    ],
+    [
+      "công đoàn cấp tỉnh",
+      "cử"
+    ],
+    [
+      "tổ chức đại diện của người sử dụng lao động",
+      "cử"
+    ],
+    [
+      "thư ký hội đồng trọng tài lao động",
+      "thực hiện nhiệm vụ"
+    ],
+    [
+      "trọng tài viên lao động",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "trọng tài viên lao động"
+    ],
+    [
+      "trọng tài viên lao động",
+      "tiêu chuẩn"
+    ],
+    [
+      "trọng tài viên lao động",
+      "chế độ làm việc"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "thư ký hội đồng trọng tài lao động"
+    ]
+  ]
+}

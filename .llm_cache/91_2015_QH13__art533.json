@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên thuê vận chuyển"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "áp dụng",
+    "thanh toán",
+    "chuyển lên"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cước phí vận chuyển",
+      "thỏa thuận"
+    ],
+    [
+      "cước phí vận chuyển",
+      "pháp luật có quy định"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "thanh toán"
+    ],
+    [
+      "cước phí vận chuyển",
+      "tài sản được chuyển lên phương tiện vận chuyển"
+    ]
+  ]
+}

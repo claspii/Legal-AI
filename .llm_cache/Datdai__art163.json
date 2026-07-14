@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "xây dựng",
+    "kết nối, chia sẻ dữ liệu"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hệ thống thông tin quốc gia về đất đai",
+      "hạ tầng kỹ thuật công nghệ thông tin"
+    ],
+    [
+      "hệ thống thông tin quốc gia về đất đai",
+      "phần mềm của hệ thống thông tin quốc gia về đất đai"
+    ],
+    [
+      "hệ thống thông tin quốc gia về đất đai",
+      "cơ sở dữ liệu quốc gia về đất đai"
+    ],
+    [
+      "hệ thống thông tin quốc gia về đất đai",
+      "cơ sở dữ liệu quốc gia"
+    ],
+    [
+      "hệ thống thông tin quốc gia về đất đai",
+      "cơ sở dữ liệu của các bộ, ngành, địa phương"
+    ],
+    [
+      "chính phủ điện tử",
+      "chính phủ số"
+    ],
+    [
+      "kinh tế số",
+      "xã hội số"
+    ],
+    [
+      "cải cách hành chính",
+      "chuyển đổi số trong lĩnh vực đất đai"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan có thẩm quyền khác",
+    "cơ quan",
+    "tổ chức",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "hủy quyết định cá biệt trái pháp luật",
+    "giải quyết yêu cầu bảo vệ quyền dân sự",
+    "khôi phục quyền dân sự bị xâm phạm",
+    "bảo vệ quyền dân sự"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "hủy quyết định cá biệt trái pháp luật"
+    ],
+    [
+      "cơ quan có thẩm quyền khác",
+      "hủy quyết định cá biệt trái pháp luật"
+    ],
+    [
+      "tòa án",
+      "giải quyết yêu cầu bảo vệ quyền dân sự"
+    ],
+    [
+      "cơ quan có thẩm quyền khác",
+      "giải quyết yêu cầu bảo vệ quyền dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định cá biệt trái pháp luật",
+      "quyền dân sự bị xâm phạm"
+    ],
+    [
+      "quyền dân sự bị xâm phạm",
+      "khôi phục quyền dân sự"
+    ],
+    [
+      "khôi phục quyền dân sự",
+      "bảo vệ quyền dân sự"
+    ]
+  ]
+}

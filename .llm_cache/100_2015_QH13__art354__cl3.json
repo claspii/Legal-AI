@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "nhận hối lộ",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "lợi ích vật chất"
+    ],
+    [
+      "nhận hối lộ",
+      "của hối lộ"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

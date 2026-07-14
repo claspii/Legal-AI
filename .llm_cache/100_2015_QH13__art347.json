@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "xuất cảnh trái phép",
+    "nhập cảnh trái phép",
+    "ở lại việt nam trái phép",
+    "bị xử phạt vi phạm hành chính",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xuất cảnh trái phép"
+    ],
+    [
+      "người",
+      "nhập cảnh trái phép"
+    ],
+    [
+      "người",
+      "ở lại việt nam trái phép"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xuất cảnh trái phép",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "nhập cảnh trái phép",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "ở lại việt nam trái phép",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "vi phạm"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan thi hành án hình sự có thẩm quyền",
+    "tòa án",
+    "người bị kết án",
+    "người được tha tù trước thời hạn có điều kiện"
+  ],
+  "actions": [
+    "đề nghị",
+    "quyết định tha tù trước thời hạn có điều kiện",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan thi hành án hình sự có thẩm quyền",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định tha tù trước thời hạn có điều kiện"
+    ],
+    [
+      "người được tha tù trước thời hạn có điều kiện",
+      "phải thực hiện các nghĩa vụ trong thời gian thử thách"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "thời gian thử thách"
+    ],
+    [
+      "thời gian thử thách",
+      "thời gian còn lại của hình phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác",
+    "bị xử phạt vi phạm hành chính về hành vi này",
+    "bị kết án về tội này",
+    "chưa được xóa án tích",
+    "vi phạm",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm chết người",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người",
+      "bị kết án về tội này"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành nghề mê tín, dị đoan",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "hành nghề mê tín, dị đoan",
+      "bị kết án"
+    ],
+    [
+      "làm chết người",
+      "phạt tù"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ],
+    [
+      "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội",
+      "phạt tù"
+    ]
+  ]
+}

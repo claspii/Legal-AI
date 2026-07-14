@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [
+    "tài sản riêng của con"
+  ],
+  "actors": [
+    "con",
+    "cha mẹ"
+  ],
+  "actions": [
+    "có quyền có tài sản riêng",
+    "có nghĩa vụ chăm lo đời sống chung của gia đình",
+    "đóng góp vào việc đáp ứng nhu cầu thiết yếu của gia đình",
+    "đóng góp thu nhập vào việc đáp ứng nhu cầu của gia đình"
+  ],
+  "actor_actions": [
+    [
+      "con",
+      "có quyền có tài sản riêng"
+    ],
+    [
+      "con từ đủ 15 tuổi trở lên",
+      "sống chung với cha mẹ"
+    ],
+    [
+      "con từ đủ 15 tuổi trở lên",
+      "có nghĩa vụ chăm lo đời sống chung của gia đình"
+    ],
+    [
+      "con từ đủ 15 tuổi trở lên",
+      "đóng góp vào việc đáp ứng nhu cầu thiết yếu của gia đình"
+    ],
+    [
+      "con đã thành niên",
+      "có nghĩa vụ đóng góp thu nhập vào việc đáp ứng nhu cầu của gia đình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con",
+      "tài sản riêng của con"
+    ],
+    [
+      "con từ đủ 15 tuổi trở lên",
+      "nghĩa vụ chăm lo đời sống chung của gia đình"
+    ],
+    [
+      "con từ đủ 15 tuổi trở lên",
+      "thu nhập"
+    ],
+    [
+      "con đã thành niên",
+      "nghĩa vụ đóng góp thu nhập"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "gây thiệt hại",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "tài sản trị giá 500.000.000 đồng trở lên",
+      "gây thiệt hại"
+    ],
+    [
+      "tài sản trị giá từ 200.000.000 đồng đến dưới 500.000.000 đồng",
+      "gây thiệt hại"
+    ]
+  ]
+}

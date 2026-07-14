@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+    "người chưa thành niên",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "làm các công việc sau đây",
+    "làm việc ở các nơi sau đây",
+    "quy định danh mục",
+    "mang, vác, nâng các vật nặng",
+    "sản xuất, kinh doanh cồn, rượu, bia, thuốc lá, chất tác động đến tinh thần hoặc chất gây nghiện khác",
+    "sản xuất, sử dụng hoặc vận chuyển hóa chất, khí gas, chất nổ",
+    "bảo trì, bảo dưỡng thiết bị, máy móc",
+    "phá dỡ các công trình xây dựng"
+  ],
+  "actor_actions": [
+    [
+      "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm các công việc sau đây"
+    ],
+    [
+      "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "làm việc ở các nơi sau đây"
+    ],
+    [
+      "bộ trưởng bộ lao động - thương binh và xã hội",
+      "quy định danh mục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "công việc cấm sử dụng"
+    ],
+    [
+      "người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi",
+      "nơi làm việc cấm sử dụng"
+    ],
+    [
+      "công việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách",
+      "người chưa thành niên"
+    ],
+    [
+      "nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách",
+      "người chưa thành niên"
+    ]
+  ]
+}

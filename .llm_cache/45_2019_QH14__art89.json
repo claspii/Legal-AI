@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chi trả",
+    "thương lượng",
+    "ký kết",
+    "sửa đổi",
+    "bổ sung",
+    "gửi",
+    "công bố"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chi trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chi phí",
+      "thương lượng"
+    ],
+    [
+      "chi phí",
+      "ký kết"
+    ],
+    [
+      "chi phí",
+      "sửa đổi"
+    ],
+    [
+      "chi phí",
+      "bổ sung"
+    ],
+    [
+      "chi phí",
+      "gửi"
+    ],
+    [
+      "chi phí",
+      "công bố"
+    ],
+    [
+      "thương lượng",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "ký kết",
+      "thỏa ước lao động tập thể"
+    ]
+  ]
+}

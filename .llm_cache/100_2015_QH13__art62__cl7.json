@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được miễn chấp hành hình phạt",
+    "tòa án"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "thực hiện nghĩa vụ dân sự",
+    "tuyên"
+  ],
+  "actor_actions": [
+    [
+      "người được miễn chấp hành hình phạt",
+      "thực hiện nghĩa vụ dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "nghĩa vụ dân sự",
+      "bản án"
+    ]
+  ]
+}

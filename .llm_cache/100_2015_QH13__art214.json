@@ -1,0 +1,108 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "cơ quan bảo hiểm xã hội",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chiếm đoạt tiền bảo hiểm xã hội",
+    "chiếm đoạt tiền bảo hiểm thất nghiệp",
+    "gây thiệt hại",
+    "lập hồ sơ giả",
+    "làm sai lệch nội dung hồ sơ bảo hiểm xã hội",
+    "làm sai lệch nội dung hồ sơ bảo hiểm thất nghiệp",
+    "lừa dối",
+    "dùng hồ sơ giả",
+    "dùng hồ sơ đã bị làm sai lệch nội dung",
+    "hưởng các chế độ bảo hiểm xã hội",
+    "hưởng các chế độ bảo hiểm thất nghiệp",
+    "có tổ chức",
+    "có tính chất chuyên nghiệp",
+    "dùng thủ đoạn tinh vi",
+    "dùng thủ đoạn xảo quyệt",
+    "tái phạm nguy hiểm",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện một trong các hành vi sau đây"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt tiền bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt tiền bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "lập hồ sơ giả"
+    ],
+    [
+      "người nào",
+      "làm sai lệch nội dung hồ sơ bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "làm sai lệch nội dung hồ sơ bảo hiểm thất nghiệp"
+    ],
+    [
+      "người nào",
+      "lừa dối cơ quan bảo hiểm xã hội"
+    ],
+    [
+      "người nào",
+      "dùng hồ sơ giả"
+    ],
+    [
+      "người nào",
+      "dùng hồ sơ đã bị làm sai lệch nội dung lừa dối cơ quan bảo hiểm xã hội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gian lận bảo hiểm xã hội",
+      "gian lận bảo hiểm thất nghiệp"
+    ],
+    [
+      "chiếm đoạt tiền bảo hiểm xã hội",
+      "gây thiệt hại"
+    ],
+    [
+      "hồ sơ giả",
+      "hồ sơ đã bị làm sai lệch nội dung"
+    ],
+    [
+      "lập hồ sơ giả",
+      "làm sai lệch nội dung hồ sơ"
+    ],
+    [
+      "chiếm đoạt tiền bảo hiểm xã hội, bảo hiểm thất nghiệp",
+      "phạt tiền"
+    ],
+    [
+      "chiếm đoạt tiền bảo hiểm xã hội, bảo hiểm thất nghiệp",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "chiếm đoạt tiền bảo hiểm xã hội, bảo hiểm thất nghiệp",
+      "phạt tù"
+    ],
+    [
+      "có tổ chức",
+      "có tính chất chuyên nghiệp"
+    ]
+  ]
+}

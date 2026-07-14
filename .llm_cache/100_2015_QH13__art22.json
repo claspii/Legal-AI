@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [
+    "phòng vệ chính đáng",
+    "vượt quá giới hạn phòng vệ chính đáng"
+  ],
+  "actors": [
+    "người",
+    "Nhà nước",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "bảo vệ",
+    "chống trả",
+    "xâm phạm",
+    "chống trả rõ ràng quá mức cần thiết",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bảo vệ"
+    ],
+    [
+      "người",
+      "chống trả"
+    ],
+    [
+      "người đang có hành vi xâm phạm",
+      "xâm phạm"
+    ],
+    [
+      "người",
+      "chống trả rõ ràng quá mức cần thiết"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phòng vệ chính đáng",
+      "không phải là tội phạm"
+    ],
+    [
+      "vượt quá giới hạn phòng vệ chính đáng",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "hành vi chống trả",
+      "tính chất và mức độ nguy hiểm cho xã hội của hành vi xâm hại"
+    ]
+  ]
+}

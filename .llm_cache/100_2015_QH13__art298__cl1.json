@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "vi phạm quy định về xây dựng",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vi phạm quy định về xây dựng"
+    ],
+    [
+      "người nào",
+      "làm chết"
+    ],
+    [
+      "người nào",
+      "gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về xây dựng",
+      "khảo sát"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "thiết kế"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "thi công"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "sử dụng nguyên liệu"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "sử dụng vật liệu"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "sử dụng máy móc"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "giám sát"
+    ],
+    [
+      "vi phạm quy định về xây dựng",
+      "nghiệm thu công trình"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức chính trị - xã hội",
+    "bên vay vốn",
+    "người vay",
+    "tổ chức tín dụng"
+  ],
+  "actions": [
+    "cho vay có bảo đảm bằng tín chấp",
+    "lập thành văn bản",
+    "xác nhận",
+    "thỏa thuận bảo đảm bằng tín chấp"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức chính trị - xã hội",
+      "xác nhận"
+    ],
+    [
+      "tổ chức tín dụng",
+      "cho vay"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cho vay",
+      "bảo đảm bằng tín chấp"
+    ],
+    [
+      "thỏa thuận",
+      "bảo đảm bằng tín chấp"
+    ]
+  ]
+}

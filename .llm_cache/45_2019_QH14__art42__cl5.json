@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "thay đổi cơ cấu",
+    "thay đổi công nghệ",
+    "cho thôi việc",
+    "trả trợ cấp mất việc làm",
+    "giải quyết việc làm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thay đổi cơ cấu"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi công nghệ"
+    ],
+    [
+      "người sử dụng lao động",
+      "cho thôi việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả trợ cấp mất việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "giải quyết việc làm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế",
+      "nghĩa vụ của người sử dụng lao động"
+    ],
+    [
+      "không thể giải quyết được việc làm",
+      "cho người lao động thôi việc"
+    ],
+    [
+      "cho người lao động thôi việc",
+      "trả trợ cấp mất việc làm"
+    ]
+  ]
+}

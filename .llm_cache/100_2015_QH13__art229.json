@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ",
+    "lạm dụng chức vụ",
+    "giao đất",
+    "thu hồi",
+    "cho thuê",
+    "chuyển quyền sử dụng",
+    "chuyển mục đích sử dụng đất",
+    "bị phạt cải tạo không giam giữ",
+    "phạt tù",
+    "bị xử lý kỷ luật",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ"
+    ],
+    [
+      "người",
+      "lạm dụng chức vụ"
+    ],
+    [
+      "người",
+      "giao đất"
+    ],
+    [
+      "người",
+      "thu hồi"
+    ],
+    [
+      "người",
+      "cho thuê"
+    ],
+    [
+      "người",
+      "chuyển quyền sử dụng"
+    ],
+    [
+      "người",
+      "chuyển mục đích sử dụng đất"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đất trồng lúa",
+      "diện tích"
+    ],
+    [
+      "đất rừng đặc dụng, rừng phòng hộ, rừng sản xuất",
+      "diện tích"
+    ],
+    [
+      "đất nông nghiệp khác và đất phi nông nghiệp",
+      "diện tích"
+    ],
+    [
+      "đất nông nghiệp",
+      "giá trị quyền dụng đất"
+    ],
+    [
+      "đất phi nông nghiệp",
+      "giá trị quyền dụng đất"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ]
+  ]
+}

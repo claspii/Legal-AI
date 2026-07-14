@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "nghỉ hằng năm",
+    "đi",
+    "tính thêm thời gian đi đường"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ],
+    [
+      "người lao động",
+      "đi"
+    ],
+    [
+      "người lao động",
+      "tính thêm thời gian đi đường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghỉ hằng năm",
+      "thời gian đi đường"
+    ]
+  ]
+}

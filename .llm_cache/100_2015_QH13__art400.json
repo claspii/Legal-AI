@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "địch",
+    "chỉ huy",
+    "sĩ quan",
+    "tù binh khác"
+  ],
+  "actions": [
+    "khai báo bí mật công tác quân sự",
+    "tự nguyện làm việc cho địch",
+    "đối xử tàn ác",
+    "lôi kéo người khác khai báo, làm việc cho địch",
+    "giao nộp cho địch vật, tài liệu bí mật nhà nước",
+    "khai báo bí mật nhà nước"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "khai báo bí mật công tác quân sự"
+    ],
+    [
+      "người",
+      "tự nguyện làm việc cho địch"
+    ],
+    [
+      "người",
+      "đối xử tàn ác với tù binh khác"
+    ],
+    [
+      "người",
+      "lôi kéo người khác khai báo, làm việc cho địch"
+    ],
+    [
+      "người",
+      "giao nộp cho địch vật, tài liệu bí mật nhà nước"
+    ],
+    [
+      "người",
+      "khai báo bí mật nhà nước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khai báo bí mật công tác quân sự",
+      "tù binh"
+    ],
+    [
+      "tự nguyện làm việc cho địch",
+      "tù binh"
+    ],
+    [
+      "gây hậu quả nghiêm trọng",
+      "gây hậu quả rất nghiêm trọng"
+    ],
+    [
+      "gây hậu quả nghiêm trọng",
+      "gây hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

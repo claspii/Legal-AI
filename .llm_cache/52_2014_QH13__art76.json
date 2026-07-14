@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con",
+    "cha mẹ",
+    "người khác",
+    "người tặng cho tài sản",
+    "người giám hộ"
+  ],
+  "actions": [
+    "quản lý tài sản riêng",
+    "tự mình quản lý tài sản riêng",
+    "ủy quyền",
+    "giao lại",
+    "giám hộ",
+    "chỉ định"
+  ],
+  "actor_actions": [
+    [
+      "con",
+      "tự mình quản lý tài sản riêng"
+    ],
+    [
+      "con",
+      "nhờ cha mẹ quản lý"
+    ],
+    [
+      "cha mẹ",
+      "quản lý tài sản riêng của con"
+    ],
+    [
+      "cha mẹ",
+      "ủy quyền cho người khác quản lý tài sản riêng của con"
+    ],
+    [
+      "người tặng cho tài sản",
+      "chỉ định người khác quản lý tài sản đó"
+    ],
+    [
+      "người giám hộ",
+      "quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con",
+      "tài sản riêng của con"
+    ],
+    [
+      "cha mẹ",
+      "tài sản riêng của con"
+    ],
+    [
+      "người khác",
+      "tài sản riêng của con"
+    ],
+    [
+      "con",
+      "năng lực hành vi dân sự"
+    ],
+    [
+      "cha mẹ",
+      "người giám hộ"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "hành khách",
+    "người có quyền nhận hành lý"
+  ],
+  "actions": [
+    "chuyên chở",
+    "bảo đảm",
+    "mua bảo hiểm",
+    "hoàn trả"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "chuyên chở"
+    ],
+    [
+      "bên vận chuyển",
+      "bảo đảm"
+    ],
+    [
+      "bên vận chuyển",
+      "mua bảo hiểm"
+    ],
+    [
+      "bên vận chuyển",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vận chuyển",
+      "hành khách"
+    ],
+    [
+      "bên vận chuyển",
+      "hành lý"
+    ],
+    [
+      "hành khách",
+      "hành lý"
+    ],
+    [
+      "cước phí vận chuyển",
+      "bên vận chuyển"
+    ]
+  ]
+}

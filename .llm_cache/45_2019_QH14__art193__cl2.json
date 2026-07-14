@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "nhận được yêu cầu",
+    "thành lập"
+  ],
+  "actor_actions": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "ban trọng tài lao động",
+      "thành lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "ban trọng tài lao động",
+      "thành lập để giải quyết tranh chấp"
+    ]
+  ]
+}

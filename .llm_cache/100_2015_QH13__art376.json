@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giao trách nhiệm trực tiếp quản lý, canh gác, áp giải người bị bắt, người bị tạm giữ, tạm giam, người đang chấp hành hình phạt tù",
+    "người bị bắt",
+    "người bị tạm giữ",
+    "người bị tạm giam",
+    "người đang chấp hành án phạt tù",
+    "người bỏ trốn",
+    "người tiến hành tố tụng",
+    "người tham gia tố tụng"
+  ],
+  "actions": [
+    "trốn",
+    "không thực hiện quy định",
+    "thực hiện không đúng quy định",
+    "làm vụ án bị tạm đình chỉ",
+    "trả thù",
+    "tiếp tục thực hiện tội phạm",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người được giao trách nhiệm trực tiếp quản lý, canh gác, áp giải người bị bắt, người bị tạm giữ, tạm giam, người đang chấp hành hình phạt tù",
+      "không thực hiện quy định"
+    ],
+    [
+      "người được giao trách nhiệm trực tiếp quản lý, canh gác, áp giải người bị bắt, người bị tạm giữ, tạm giam, người đang chấp hành hình phạt tù",
+      "thực hiện không đúng quy định"
+    ],
+    [
+      "người bỏ trốn",
+      "trả thù người tiến hành tố tụng"
+    ],
+    [
+      "người bỏ trốn",
+      "trả thù người tham gia tố tụng"
+    ],
+    [
+      "người bỏ trốn",
+      "tiếp tục thực hiện tội phạm ít nghiêm trọng"
+    ],
+    [
+      "người bỏ trốn",
+      "tiếp tục thực hiện tội phạm nghiêm trọng"
+    ],
+    [
+      "người bỏ trốn",
+      "tiếp tục thực hiện tội phạm rất nghiêm trọng"
+    ],
+    [
+      "người bỏ trốn",
+      "tiếp tục thực hiện tội phạm đặc biệt nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị bắt",
+      "trốn"
+    ],
+    [
+      "người bị tạm giữ",
+      "trốn"
+    ],
+    [
+      "người bị tạm giam",
+      "trốn"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "trốn"
+    ],
+    [
+      "thiếu trách nhiệm",
+      "người trốn"
+    ],
+    [
+      "người bỏ trốn",
+      "làm vụ án bị tạm đình chỉ"
+    ],
+    [
+      "người bỏ trốn",
+      "trả thù"
+    ],
+    [
+      "người bỏ trốn",
+      "tiếp tục thực hiện tội phạm"
+    ]
+  ]
+}

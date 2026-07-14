@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [
+    "chấp nhận đề nghị giao kết hợp đồng"
+  ],
+  "actors": [
+    "bên được đề nghị",
+    "các bên"
+  ],
+  "actions": [
+    "chấp nhận đề nghị giao kết hợp đồng",
+    "trả lời",
+    "giao kết hợp đồng",
+    "có thỏa thuận",
+    "xác lập thói quen"
+  ],
+  "actor_actions": [
+    [
+      "bên được đề nghị",
+      "trả lời"
+    ],
+    [
+      "bên được đề nghị",
+      "chấp nhận toàn bộ nội dung của đề nghị"
+    ],
+    [
+      "bên được đề nghị",
+      "im lặng"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận"
+    ],
+    [
+      "các bên",
+      "xác lập thói quen"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấp nhận đề nghị giao kết hợp đồng",
+      "trả lời của bên được đề nghị"
+    ],
+    [
+      "chấp nhận đề nghị giao kết hợp đồng",
+      "nội dung của đề nghị"
+    ],
+    [
+      "sự im lặng của bên được đề nghị",
+      "chấp nhận đề nghị giao kết hợp đồng"
+    ],
+    [
+      "thỏa thuận",
+      "chấp nhận đề nghị giao kết hợp đồng"
+    ],
+    [
+      "thói quen",
+      "chấp nhận đề nghị giao kết hợp đồng"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng",
+    "người thứ ba"
+  ],
+  "actions": [
+    "chia tài sản chung",
+    "thỏa thuận",
+    "làm thay đổi quyền, nghĩa vụ về tài sản",
+    "xác lập"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "chia tài sản chung"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "vợ chồng",
+      "làm thay đổi quyền, nghĩa vụ về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chia tài sản chung",
+      "tài sản riêng của vợ, chồng"
+    ],
+    [
+      "chia tài sản chung",
+      "tài sản chung của vợ chồng"
+    ],
+    [
+      "thỏa thuận của vợ chồng",
+      "quyền, nghĩa vụ về tài sản"
+    ],
+    [
+      "quyền, nghĩa vụ về tài sản",
+      "người thứ ba"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "thời kỳ hôn nhân"
+    ]
+  ]
+}

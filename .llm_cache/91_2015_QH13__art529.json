@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "hành khách"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "vi phạm nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "hành khách",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên vận chuyển",
+      "vi phạm nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vận chuyển hành khách",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên vận chuyển",
+      "hợp đồng vận chuyển hành khách"
+    ],
+    [
+      "hành khách",
+      "hợp đồng vận chuyển hành khách"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ]
+  ]
+}

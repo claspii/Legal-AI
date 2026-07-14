@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người thứ ba"
+  ],
+  "actions": [
+    "đại diện",
+    "xác lập giao dịch",
+    "thực hiện giao dịch",
+    "chấm dứt giao dịch",
+    "bảo vệ quyền lợi"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "đại diện"
+    ],
+    [
+      "chồng",
+      "đại diện"
+    ],
+    [
+      "vợ",
+      "xác lập giao dịch"
+    ],
+    [
+      "chồng",
+      "xác lập giao dịch"
+    ],
+    [
+      "vợ",
+      "thực hiện giao dịch"
+    ],
+    [
+      "chồng",
+      "thực hiện giao dịch"
+    ],
+    [
+      "vợ",
+      "chấm dứt giao dịch"
+    ],
+    [
+      "chồng",
+      "chấm dứt giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "giấy chứng nhận quyền sở hữu",
+      "giấy chứng nhận quyền sử dụng"
+    ],
+    [
+      "tài sản chung",
+      "giấy chứng nhận quyền sở hữu"
+    ],
+    [
+      "tài sản chung",
+      "giấy chứng nhận quyền sử dụng"
+    ],
+    [
+      "đại diện giữa vợ và chồng",
+      "giao dịch"
+    ],
+    [
+      "giao dịch",
+      "vô hiệu"
+    ],
+    [
+      "người thứ ba",
+      "bảo vệ quyền lợi"
+    ]
+  ]
+}

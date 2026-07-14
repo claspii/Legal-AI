@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "xúc phạm quốc kỳ",
+    "xúc phạm quốc huy",
+    "xúc phạm quốc ca",
+    "phạt cảnh cáo",
+    "cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "xúc phạm quốc kỳ"
+    ],
+    [
+      "người nào",
+      "xúc phạm quốc huy"
+    ],
+    [
+      "người nào",
+      "xúc phạm quốc ca"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quốc kỳ",
+      "quốc huy"
+    ],
+    [
+      "quốc kỳ",
+      "quốc ca"
+    ],
+    [
+      "quốc huy",
+      "quốc ca"
+    ],
+    [
+      "phạt cảnh cáo",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt cảnh cáo",
+      "phạt tù"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

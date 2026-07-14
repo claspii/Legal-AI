@@ -1,0 +1,99 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "nhà nước"
+  ],
+  "actions": [
+    "sử dụng người dưới 16 tuổi làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng người dưới 16 tuổi làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "đã bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "đã bị kết án"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "còn vi phạm"
+    ],
+    [
+      "nhà nước",
+      "quy định"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 16 tuổi",
+      "công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại"
+    ],
+    [
+      "vi phạm quy định về sử dụng người lao động dưới 16 tuổi",
+      "phạt tiền"
+    ],
+    [
+      "vi phạm quy định về sử dụng người lao động dưới 16 tuổi",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "vi phạm quy định về sử dụng người lao động dưới 16 tuổi",
+      "phạt tù"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "còn vi phạm"
+    ],
+    [
+      "bị kết án",
+      "chưa được xóa án tích"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

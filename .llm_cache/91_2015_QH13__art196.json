@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "cá nhân",
+    "pháp nhân",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "hạn chế",
+    "mua",
+    "bán",
+    "dành quyền ưu tiên mua"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "có quyền ưu tiên mua"
+    ],
+    [
+      "chủ sở hữu",
+      "phải dành quyền ưu tiên mua"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền định đoạt",
+      "hạn chế"
+    ],
+    [
+      "tài sản đem bán",
+      "di tích lịch sử - văn hóa"
+    ],
+    [
+      "nhà nước",
+      "quyền ưu tiên mua"
+    ],
+    [
+      "cá nhân",
+      "quyền ưu tiên mua"
+    ],
+    [
+      "pháp nhân",
+      "quyền ưu tiên mua"
+    ],
+    [
+      "chủ sở hữu",
+      "dành quyền ưu tiên mua"
+    ]
+  ]
+}

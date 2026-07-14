@@ -1,0 +1,104 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "nạn nhân",
+    "ông",
+    "bà",
+    "cha",
+    "mẹ",
+    "người nuôi dưỡng",
+    "thầy giáo",
+    "cô giáo"
+  ],
+  "actions": [
+    "giết người",
+    "bị phạt tù",
+    "thực hiện tội phạm",
+    "che giấu tội phạm",
+    "thuê giết người",
+    "giết người thuê",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "phạt quản chế",
+    "cấm cư trú"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giết người"
+    ],
+    [
+      "người",
+      "thực hiện tội phạm"
+    ],
+    [
+      "người",
+      "che giấu tội phạm"
+    ],
+    [
+      "người",
+      "thuê giết người"
+    ],
+    [
+      "người",
+      "giết người thuê"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm cư trú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giết người",
+      "bị phạt tù"
+    ],
+    [
+      "giết người dưới 16 tuổi",
+      "bị phạt tù"
+    ],
+    [
+      "giết phụ nữ mà biết là có thai",
+      "bị phạt tù"
+    ],
+    [
+      "giết người đang thi hành công vụ",
+      "bị phạt tù"
+    ],
+    [
+      "giết ông, bà, cha, mẹ, người nuôi dưỡng, thầy giáo, cô giáo của mình",
+      "bị phạt tù"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "phạm tội",
+      "cấm cư trú"
+    ]
+  ]
+}

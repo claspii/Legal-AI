@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "người con hiếu thảo của gia đình",
+    "công dân có ích cho xã hội",
+    "con chưa thành niên",
+    "con đã thành niên mất năng lực hành vi dân sự",
+    "con không có khả năng lao động và không có tài sản để tự nuôi mình"
+  ],
+  "actions": [
+    "thương yêu",
+    "tôn trọng ý kiến",
+    "chăm lo việc học tập, giáo dục",
+    "phát triển lành mạnh về thể chất, trí tuệ, đạo đức",
+    "trở thành người con hiếu thảo của gia đình, công dân có ích cho xã hội",
+    "trông nom",
+    "nuôi dưỡng",
+    "chăm sóc",
+    "bảo vệ quyền, lợi ích hợp pháp",
+    "giám hộ",
+    "đại diện theo quy định của bộ luật dân sự",
+    "không được phân biệt đối xử",
+    "không được lạm dụng sức lao động",
+    "không được xúi giục, ép buộc làm việc trái pháp luật, trái đạo đức xã hội"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "thương yêu con"
+    ],
+    [
+      "cha mẹ",
+      "tôn trọng ý kiến của con"
+    ],
+    [
+      "cha mẹ",
+      "chăm lo việc học tập, giáo dục để con phát triển lành mạnh về thể chất, trí tuệ, đạo đức, trở thành người con hiếu thảo của gia đình, công dân có ích cho xã hội"
+    ],
+    [
+      "cha mẹ",
+      "trông nom, nuôi dưỡng, chăm sóc, bảo vệ quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình"
+    ],
+    [
+      "cha mẹ",
+      "giám hộ hoặc đại diện theo quy định của bộ luật dân sự cho con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "cha mẹ",
+      "không được phân biệt đối xử với con trên cơ sở giới hoặc theo tình trạng hôn nhân của cha mẹ"
+    ],
+    [
+      "cha mẹ",
+      "không được lạm dụng sức lao động của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động"
+    ],
+    [
+      "cha mẹ",
+      "không được xúi giục, ép buộc con làm việc trái pháp luật, trái đạo đức xã hội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "con chưa thành niên",
+      "quyền"
+    ],
+    [
+      "con chưa thành niên",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "con đã thành niên mất năng lực hành vi dân sự",
+      "quyền"
+    ],
+    [
+      "con đã thành niên mất năng lực hành vi dân sự",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "con không có khả năng lao động và không có tài sản để tự nuôi mình",
+      "quyền"
+    ],
+    [
+      "con không có khả năng lao động và không có tài sản để tự nuôi mình",
+      "lợi ích hợp pháp"
+    ]
+  ]
+}

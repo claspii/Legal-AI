@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đề nghị giao kết hợp đồng",
+    "bên được đề nghị"
+  ],
+  "actions": [
+    "hủy bỏ đề nghị",
+    "nhận được thông báo",
+    "gửi thông báo chấp nhận đề nghị"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị giao kết hợp đồng",
+      "hủy bỏ đề nghị"
+    ],
+    [
+      "bên được đề nghị",
+      "nhận được thông báo"
+    ],
+    [
+      "người này",
+      "gửi thông báo chấp nhận đề nghị giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đề nghị giao kết hợp đồng",
+      "hủy bỏ đề nghị"
+    ],
+    [
+      "hủy bỏ đề nghị",
+      "thông báo về việc hủy bỏ đề nghị"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "thông báo chấp nhận đề nghị giao kết hợp đồng"
+    ]
+  ]
+}

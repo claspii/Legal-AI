@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "trộm cắp tài sản",
+    "lợi dụng hoàn cảnh chiến tranh",
+    "lợi dụng tình trạng khẩn cấp"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "phạm tội",
+      "trộm cắp tài sản"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trộm cắp tài sản"
+    ],
+    [
+      "hoàn cảnh chiến tranh",
+      "tình trạng khẩn cấp"
+    ]
+  ]
+}

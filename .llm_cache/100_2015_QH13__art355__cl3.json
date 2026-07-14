@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "doanh nghiệp",
+    "tổ chức khác"
+  ],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "gây thiệt hại về tài sản",
+    "bị phá sản",
+    "ngừng hoạt động",
+    "gây ảnh hưởng xấu"
+  ],
+  "actor_actions": [
+    [
+      "doanh nghiệp",
+      "bị phá sản"
+    ],
+    [
+      "tổ chức khác",
+      "bị phá sản"
+    ],
+    [
+      "doanh nghiệp",
+      "ngừng hoạt động"
+    ],
+    [
+      "tổ chức khác",
+      "ngừng hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "tài sản trị giá"
+    ],
+    [
+      "doanh nghiệp",
+      "bị phá sản"
+    ],
+    [
+      "tổ chức khác",
+      "bị phá sản"
+    ],
+    [
+      "doanh nghiệp",
+      "ngừng hoạt động"
+    ],
+    [
+      "tổ chức khác",
+      "ngừng hoạt động"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "an ninh"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "trật tự"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "an toàn xã hội"
+    ]
+  ]
+}

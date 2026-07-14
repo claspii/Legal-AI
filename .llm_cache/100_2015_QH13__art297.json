@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "phụ nữ",
+    "người già yếu",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cưỡng bức lao động",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "ép buộc",
+    "lao động",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "vi phạm",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "làm chết",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "ép buộc người khác lao động"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ lực",
+      "ép buộc lao động"
+    ],
+    [
+      "đe dọa dùng vũ lực",
+      "ép buộc lao động"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạt tù từ 03 năm đến 07 năm"
+    ]
+  ]
+}

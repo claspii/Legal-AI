@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận bảo đảm",
+    "người thứ ba"
+  ],
+  "actions": [
+    "nắm giữ tài sản bảo đảm",
+    "chiếm giữ tài sản bảo đảm",
+    "đăng ký biện pháp bảo đảm",
+    "phát sinh hiệu lực đối kháng",
+    "truy đòi tài sản bảo đảm",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận bảo đảm",
+      "nắm giữ tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "chiếm giữ tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "truy đòi tài sản bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "biện pháp bảo đảm",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "biện pháp bảo đảm",
+      "đăng ký biện pháp bảo đảm"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "tài sản bảo đảm"
+    ]
+  ]
+}

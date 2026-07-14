@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "đồng đội",
+    "chỉ huy",
+    "sỹ quan",
+    "cấp trên",
+    "nạn nhân"
+  ],
+  "actions": [
+    "xúc phạm nghiêm trọng nhân phẩm, danh dự",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xúc phạm nghiêm trọng nhân phẩm, danh dự đồng đội"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sỹ quan",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "chỉ huy",
+      "sỹ quan"
+    ],
+    [
+      "chỉ huy",
+      "cấp trên"
+    ],
+    [
+      "rối loạn tâm thần",
+      "hành vi"
+    ],
+    [
+      "người",
+      "đồng đội"
+    ],
+    [
+      "phạm tội",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "phạm tội",
+      "làm nạn nhân tự sát"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "người lao động",
+    "thành viên ban lãnh đạo của các tổ chức đại diện người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "tiến hành đình công",
+    "lấy ý kiến",
+    "tổ chức",
+    "lãnh đạo",
+    "thông báo",
+    "gây khó khăn",
+    "cản trở",
+    "can thiệp"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "tiến hành đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "lấy ý kiến"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tổ chức"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "lãnh đạo"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "thông báo"
+    ],
+    [
+      "người sử dụng lao động",
+      "gây khó khăn"
+    ],
+    [
+      "người sử dụng lao động",
+      "cản trở"
+    ],
+    [
+      "người sử dụng lao động",
+      "can thiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lấy ý kiến",
+      "đình công"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "lấy ý kiến"
+    ],
+    [
+      "người lao động",
+      "lấy ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "hoạt động sản xuất, kinh doanh"
+    ],
+    [
+      "lấy ý kiến",
+      "phiếu"
+    ],
+    [
+      "lấy ý kiến",
+      "chữ ký"
+    ]
+  ]
+}

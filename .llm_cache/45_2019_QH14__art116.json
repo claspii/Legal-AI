@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "bộ, ngành quản lý",
+    "bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "quy định",
+    "thống nhất",
+    "tuân thủ"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "bộ, ngành quản lý",
+      "quy định"
+    ],
+    [
+      "bộ, ngành quản lý",
+      "thống nhất"
+    ],
+    [
+      "bộ, ngành quản lý",
+      "tuân thủ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời giờ làm việc",
+      "thời giờ nghỉ ngơi"
+    ],
+    [
+      "công việc có tính chất đặc biệt",
+      "thời giờ làm việc"
+    ],
+    [
+      "công việc có tính chất đặc biệt",
+      "thời giờ nghỉ ngơi"
+    ]
+  ]
+}

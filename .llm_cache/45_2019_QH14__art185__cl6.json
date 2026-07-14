@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "trọng tài viên lao động",
+    "hội đồng trọng tài lao động",
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "quy định chi tiết",
+    "bổ nhiệm",
+    "miễn nhiệm",
+    "tổ chức",
+    "hoạt động",
+    "thành lập"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "trọng tài viên lao động",
+      "bổ nhiệm"
+    ],
+    [
+      "trọng tài viên lao động",
+      "miễn nhiệm"
+    ],
+    [
+      "trọng tài viên lao động",
+      "hoạt động"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "tổ chức"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "hoạt động"
+    ],
+    [
+      "ban trọng tài lao động",
+      "thành lập"
+    ],
+    [
+      "ban trọng tài lao động",
+      "hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiêu chuẩn",
+      "trọng tài viên lao động"
+    ],
+    [
+      "điều kiện",
+      "trọng tài viên lao động"
+    ],
+    [
+      "trình tự",
+      "bổ nhiệm"
+    ],
+    [
+      "thủ tục",
+      "bổ nhiệm"
+    ],
+    [
+      "chế độ",
+      "trọng tài viên lao động"
+    ],
+    [
+      "điều kiện",
+      "hoạt động của trọng tài viên lao động"
+    ],
+    [
+      "tổ chức",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "hoạt động",
+      "hội đồng trọng tài lao động"
+    ]
+  ]
+}

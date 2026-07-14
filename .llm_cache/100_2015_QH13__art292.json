@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cung cấp dịch vụ trái phép",
+    "thu lợi bất chính",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cung cấp dịch vụ trái phép"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "doanh thu"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "dịch vụ trái phép",
+      "kinh doanh vàng trên tài khoản"
+    ],
+    [
+      "dịch vụ trái phép",
+      "sàn giao dịch thương mại điện tử"
+    ],
+    [
+      "dịch vụ trái phép",
+      "kinh doanh đa cấp"
+    ],
+    [
+      "dịch vụ trái phép",
+      "trung gian thanh toán"
+    ],
+    [
+      "dịch vụ trái phép",
+      "trò chơi điện tử trên mạng"
+    ]
+  ]
+}

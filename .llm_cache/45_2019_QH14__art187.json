@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "tòa án nhân dân"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động cá nhân"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "tổ chức",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "cá nhân",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "hòa giải viên lao động",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "tòa án nhân dân",
+      "giải quyết tranh chấp lao động cá nhân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thẩm quyền",
+      "giải quyết tranh chấp lao động cá nhân"
+    ],
+    [
+      "cơ quan",
+      "thẩm quyền"
+    ],
+    [
+      "tổ chức",
+      "thẩm quyền"
+    ],
+    [
+      "cá nhân",
+      "thẩm quyền"
+    ],
+    [
+      "hòa giải viên lao động",
+      "thẩm quyền"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "thẩm quyền"
+    ],
+    [
+      "tòa án nhân dân",
+      "thẩm quyền"
+    ]
+  ]
+}

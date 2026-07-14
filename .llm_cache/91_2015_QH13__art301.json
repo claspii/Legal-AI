@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đang giữ tài sản bảo đảm",
+    "bên nhận bảo đảm",
+    "tòa án"
+  ],
+  "actions": [
+    "giao tài sản bảo đảm để xử lý",
+    "xử lý",
+    "yêu cầu tòa án giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "người đang giữ tài sản bảo đảm",
+      "giao tài sản bảo đảm để xử lý"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "yêu cầu tòa án giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bảo đảm",
+      "xử lý tài sản bảo đảm"
+    ],
+    [
+      "người đang giữ tài sản bảo đảm",
+      "bên nhận bảo đảm"
+    ]
+  ]
+}

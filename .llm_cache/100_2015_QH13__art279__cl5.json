@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của các phương tiện giao thông đường không"
+  ],
+  "actions": [
+    "cho đưa vào sử dụng các phương tiện rõ ràng không bảo đảm an toàn kỹ thuật",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người có trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của các phương tiện giao thông đường không",
+      "cho đưa vào sử dụng các phương tiện rõ ràng không bảo đảm an toàn kỹ thuật"
+    ],
+    [
+      "người có trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của các phương tiện giao thông đường không",
+      "gây thương tích"
+    ],
+    [
+      "người có trách nhiệm trực tiếp về việc điều động hoặc về tình trạng kỹ thuật của các phương tiện giao thông đường không",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường không",
+      "không bảo đảm an toàn kỹ thuật"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% đến 60%"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

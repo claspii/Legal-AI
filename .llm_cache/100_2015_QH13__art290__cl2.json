@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sử dụng mạng máy tính",
+    "sử dụng mạng viễn thông",
+    "sử dụng phương tiện điện tử",
+    "thực hiện hành vi chiếm đoạt tài sản",
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "mạng viễn thông",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "phương tiện điện tử",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "số lượng thẻ giả"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "giá trị tài sản"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "thiệt hại"
+    ]
+  ]
+}

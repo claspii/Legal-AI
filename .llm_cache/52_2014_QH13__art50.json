@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "vợ",
+    "chồng",
+    "cha",
+    "mẹ",
+    "con",
+    "thành viên khác của gia đình",
+    "tòa án nhân dân tối cao"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "tuyên bố vô hiệu",
+    "vi phạm",
+    "hướng dẫn"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "thỏa thuận"
+    ],
+    [
+      "chồng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "tuyên bố vô hiệu"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "chủ trì phối hợp"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "hướng dẫn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế độ tài sản của vợ chồng",
+      "vô hiệu"
+    ],
+    [
+      "thỏa thuận",
+      "điều kiện có hiệu lực của giao dịch"
+    ],
+    [
+      "thỏa thuận",
+      "quyền được cấp dưỡng"
+    ],
+    [
+      "thỏa thuận",
+      "quyền được thừa kế"
+    ],
+    [
+      "thỏa thuận",
+      "quyền, lợi ích hợp pháp khác của cha, mẹ, con và thành viên khác của gia đình"
+    ]
+  ]
+}

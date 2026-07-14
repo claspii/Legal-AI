@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quốc hội",
+    "mặt trận tổ quốc việt nam",
+    "các tổ chức thành viên của mặt trận",
+    "hội đồng nhân dân các cấp"
+  ],
+  "actions": [
+    "giám sát",
+    "quản lý",
+    "sử dụng đất đai"
+  ],
+  "actor_actions": [
+    [
+      "quốc hội",
+      "thực hiện quyền giám sát"
+    ],
+    [
+      "mặt trận tổ quốc việt nam",
+      "thực hiện quyền giám sát"
+    ],
+    [
+      "các tổ chức thành viên của mặt trận",
+      "thực hiện quyền giám sát"
+    ],
+    [
+      "hội đồng nhân dân các cấp",
+      "thực hiện quyền giám sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quốc hội",
+      "giám sát"
+    ],
+    [
+      "mặt trận tổ quốc việt nam",
+      "giám sát"
+    ],
+    [
+      "hội đồng nhân dân các cấp",
+      "giám sát"
+    ],
+    [
+      "giám sát",
+      "quản lý, sử dụng đất đai"
+    ],
+    [
+      "hiến pháp",
+      "luật hoạt động giám sát của quốc hội và hội đồng nhân dân"
+    ],
+    [
+      "luật mặt trận tổ quốc việt nam",
+      "luật tổ chức chính quyền địa phương"
+    ]
+  ]
+}

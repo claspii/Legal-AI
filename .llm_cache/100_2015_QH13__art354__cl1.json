@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người đó",
+    "người đưa hối lộ",
+    "người hoặc tổ chức khác"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "nhận",
+    "làm",
+    "không làm",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "bị kết án",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "nhận"
+    ],
+    [
+      "người",
+      "làm"
+    ],
+    [
+      "người",
+      "không làm"
+    ],
+    [
+      "người đưa hối lộ",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "tiền",
+      "lợi ích vật chất khác"
+    ],
+    [
+      "lợi ích vật chất",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "bị xử lý kỷ luật",
+      "vi phạm"
+    ],
+    [
+      "bị kết án",
+      "xóa án tích"
+    ]
+  ]
+}

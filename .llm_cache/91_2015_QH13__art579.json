@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "cơ quan nhà nước có thẩm quyền",
+    "người được lợi về tài sản",
+    "người bị thiệt hại"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng tài sản",
+    "hoàn trả",
+    "giao",
+    "được lợi về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "hoàn trả"
+    ],
+    [
+      "người sử dụng tài sản",
+      "hoàn trả"
+    ],
+    [
+      "người chiếm hữu",
+      "giao"
+    ],
+    [
+      "người sử dụng tài sản",
+      "giao"
+    ],
+    [
+      "người được lợi về tài sản",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "sử dụng tài sản"
+    ],
+    [
+      "chiếm hữu",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "sử dụng tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "hoàn trả",
+      "tài sản"
+    ],
+    [
+      "được lợi về tài sản",
+      "không có căn cứ pháp luật"
+    ],
+    [
+      "được lợi về tài sản",
+      "bị thiệt hại"
+    ]
+  ]
+}

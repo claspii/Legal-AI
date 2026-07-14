@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định",
+    "sản xuất",
+    "trang bị",
+    "sử dụng",
+    "bảo quản",
+    "lưu giữ",
+    "vận chuyển",
+    "mua bán"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất phóng xạ",
+      "vật liệu hạt nhân"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "sức khỏe",
+      "tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "lấy ý kiến về đình công",
+    "ra quyết định đình công",
+    "thông báo đình công",
+    "tiến hành đình công"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "lấy ý kiến về đình công",
+      "đình công"
+    ],
+    [
+      "ra quyết định đình công",
+      "đình công"
+    ],
+    [
+      "thông báo đình công",
+      "đình công"
+    ],
+    [
+      "tiến hành đình công",
+      "đình công"
+    ]
+  ]
+}

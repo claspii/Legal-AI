@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [
+    "nơi cư trú của cá nhân"
+  ],
+  "actors": [
+    "cá nhân",
+    "người đó",
+    "một bên trong quan hệ dân sự",
+    "bên kia"
+  ],
+  "actions": [
+    "sinh sống",
+    "xác định được nơi cư trú",
+    "thay đổi nơi cư trú",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "sinh sống"
+    ],
+    [
+      "người đó",
+      "sinh sống"
+    ],
+    [
+      "một bên trong quan hệ dân sự",
+      "thay đổi nơi cư trú"
+    ],
+    [
+      "một bên trong quan hệ dân sự",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nơi cư trú của cá nhân",
+      "sinh sống"
+    ],
+    [
+      "nơi cư trú của cá nhân",
+      "quan hệ dân sự"
+    ],
+    [
+      "thay đổi nơi cư trú",
+      "thực hiện quyền, nghĩa vụ"
+    ],
+    [
+      "thay đổi nơi cư trú",
+      "thông báo"
+    ]
+  ]
+}

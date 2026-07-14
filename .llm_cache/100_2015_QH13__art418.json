@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sĩ quan",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "chiếm đoạt",
+    "hủy hoại",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt"
+    ],
+    [
+      "người",
+      "hủy hoại"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt",
+      "di vật của tử sỹ"
+    ],
+    [
+      "hủy hoại",
+      "di vật của tử sỹ"
+    ]
+  ]
+}

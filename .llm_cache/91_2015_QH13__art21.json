@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [
+    "người chưa thành niên"
+  ],
+  "actors": [
+    "người chưa thành niên",
+    "người chưa đủ sáu tuổi",
+    "người đại diện theo pháp luật",
+    "người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi",
+    "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "phải được đồng ý",
+    "tự mình xác lập, thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người chưa đủ sáu tuổi",
+      "xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện theo pháp luật của người đó",
+      "xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi",
+      "xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "đồng ý"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "tự mình xác lập, thực hiện giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chưa thành niên",
+      "người chưa đủ mười tám tuổi"
+    ],
+    [
+      "người chưa đủ sáu tuổi",
+      "giao dịch dân sự"
+    ],
+    [
+      "người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi",
+      "giao dịch dân sự"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "giao dịch dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "người đại diện theo pháp luật"
+    ]
+  ]
+}

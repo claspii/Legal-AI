@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chủ sở hữu",
+    "quản lý phương tiện tham gia giao thông đường bộ",
+    "người",
+    "người không có giấy phép lái xe",
+    "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật",
+    "người phạm tội"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+    "điều khiển phương tiện tham gia giao thông đường bộ",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người chủ sở hữu, quản lý phương tiện tham gia giao thông đường bộ",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người không có giấy phép lái xe",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+      "người không có giấy phép lái xe"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+      "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+      "người không đủ các điều kiện khác theo quy định của pháp luật"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "mức phạt"
+    ]
+  ]
+}

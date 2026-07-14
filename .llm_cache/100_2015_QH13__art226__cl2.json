@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu nhãn hiệu",
+    "chủ sở hữu chỉ dẫn địa lý"
+  ],
+  "actions": [
+    "phạm tội",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chủ sở hữu nhãn hiệu",
+      "chỉ dẫn địa lý"
+    ],
+    [
+      "phạm tội",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "gây thiệt hại"
+    ]
+  ]
+}

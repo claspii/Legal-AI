@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [
+    "đối tượng của hợp đồng dịch vụ"
+  ],
+  "actors": [],
+  "actions": [
+    "thực hiện được",
+    "vi phạm",
+    "trái"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hợp đồng dịch vụ",
+      "công việc"
+    ],
+    [
+      "công việc",
+      "điều cấm của luật"
+    ],
+    [
+      "công việc",
+      "đạo đức xã hội"
+    ]
+  ]
+}

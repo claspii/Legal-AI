@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người dưới 18 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "người đó"
+  ],
+  "actions": [
+    "xét xử cùng một lần",
+    "quyết định hình phạt",
+    "tổng hợp hình phạt chung",
+    "áp dụng",
+    "phạm nhiều tội",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xét xử cùng một lần"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "tổng hợp hình phạt chung"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "phạm nhiều tội"
+    ],
+    [
+      "người đó",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt chung",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt chung",
+      "tù có thời hạn"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "tổng hợp hình phạt"
+    ],
+    [
+      "mức hình phạt",
+      "tội được thực hiện trước khi đủ 16 tuổi"
+    ],
+    [
+      "mức hình phạt",
+      "tội được thực hiện sau khi đủ 16 tuổi"
+    ],
+    [
+      "mức hình phạt",
+      "tội được thực hiện khi chưa đủ 18 tuổi"
+    ],
+    [
+      "mức hình phạt",
+      "tội được thực hiện khi đã đủ 18 tuổi"
+    ]
+  ]
+}

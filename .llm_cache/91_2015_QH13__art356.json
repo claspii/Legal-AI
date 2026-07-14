@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bị vi phạm",
+    "bên vi phạm"
+  ],
+  "actions": [
+    "giao vật",
+    "thanh toán giá trị của vật",
+    "bồi thường thiệt hại",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên bị vi phạm",
+      "yêu cầu"
+    ],
+    [
+      "bên vi phạm",
+      "giao vật"
+    ],
+    [
+      "bên vi phạm",
+      "thanh toán giá trị của vật"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ giao vật đặc định",
+      "bên bị vi phạm"
+    ],
+    [
+      "nghĩa vụ giao vật đặc định",
+      "bên vi phạm"
+    ],
+    [
+      "nghĩa vụ giao vật cùng loại",
+      "bên bị vi phạm"
+    ],
+    [
+      "nghĩa vụ giao vật cùng loại",
+      "bên vi phạm"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

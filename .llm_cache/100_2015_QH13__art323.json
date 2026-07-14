@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội",
+    "người khác"
+  ],
+  "actions": [
+    "chứa chấp tài sản",
+    "tiêu thụ tài sản",
+    "phạm tội",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "thu lợi bất chính",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chứa chấp tài sản"
+    ],
+    [
+      "người nào",
+      "tiêu thụ tài sản"
+    ],
+    [
+      "người khác",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chứa chấp",
+      "tiêu thụ tài sản"
+    ],
+    [
+      "tài sản",
+      "vật phạm pháp"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "tài sản trị giá",
+      "thu lợi bất chính"
+    ],
+    [
+      "tịch thu một phần",
+      "toàn bộ tài sản"
+    ]
+  ]
+}

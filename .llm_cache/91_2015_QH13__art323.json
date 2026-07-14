@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận thế chấp",
+    "bên thế chấp",
+    "người thứ ba",
+    "luật"
+  ],
+  "actions": [
+    "xem xét",
+    "kiểm tra trực tiếp",
+    "yêu cầu",
+    "cung cấp thông tin",
+    "áp dụng các biện pháp cần thiết",
+    "bảo toàn tài sản",
+    "thực hiện việc đăng ký thế chấp",
+    "giao tài sản",
+    "giữ giấy tờ",
+    "xử lý tài sản thế chấp"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận thế chấp",
+      "xem xét"
+    ],
+    [
+      "bên nhận thế chấp",
+      "kiểm tra trực tiếp"
+    ],
+    [
+      "bên nhận thế chấp",
+      "yêu cầu bên thế chấp cung cấp thông tin"
+    ],
+    [
+      "bên nhận thế chấp",
+      "yêu cầu bên thế chấp áp dụng các biện pháp cần thiết để bảo toàn tài sản"
+    ],
+    [
+      "bên nhận thế chấp",
+      "thực hiện việc đăng ký thế chấp"
+    ],
+    [
+      "bên nhận thế chấp",
+      "yêu cầu bên thế chấp hoặc người thứ ba giữ tài sản thế chấp giao tài sản"
+    ],
+    [
+      "bên nhận thế chấp",
+      "giữ giấy tờ liên quan đến tài sản thế chấp"
+    ],
+    [
+      "bên nhận thế chấp",
+      "xử lý tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên thế chấp",
+      "áp dụng các biện pháp cần thiết để bảo toàn tài sản"
+    ],
+    [
+      "bên thế chấp",
+      "giao tài sản"
+    ],
+    [
+      "người thứ ba",
+      "giao tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên nhận thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "bên thế chấp",
+      "tài sản thế chấp"
+    ],
+    [
+      "đăng ký thế chấp",
+      "pháp luật"
+    ],
+    [
+      "giấy tờ liên quan đến tài sản thế chấp",
+      "tài sản thế chấp"
+    ]
+  ]
+}

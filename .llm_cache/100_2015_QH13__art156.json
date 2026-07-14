@@ -1,0 +1,109 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "cơ quan có thẩm quyền",
+    "ông",
+    "bà",
+    "cha",
+    "mẹ",
+    "người dạy dỗ",
+    "người nuôi dưỡng",
+    "người chăm sóc",
+    "người giáo dục",
+    "người chữa bệnh",
+    "nạn nhân"
+  ],
+  "actions": [
+    "bịa đặt",
+    "loan truyền",
+    "xúc phạm",
+    "gây thiệt hại",
+    "tố cáo",
+    "phạm tội",
+    "thi hành công vụ",
+    "sử dụng mạng máy tính",
+    "sử dụng mạng viễn thông",
+    "sử dụng phương tiện điện tử để phạm tội",
+    "gây rối loạn tâm thần và hành vi",
+    "vu khống",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bịa đặt"
+    ],
+    [
+      "người",
+      "loan truyền"
+    ],
+    [
+      "người",
+      "tố cáo"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "vu khống"
+    ],
+    [
+      "người khác",
+      "phạm tội"
+    ],
+    [
+      "người đang thi hành công vụ",
+      "thi hành công vụ"
+    ],
+    [
+      "nạn nhân",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "nạn nhân",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "nhân phẩm",
+      "sức khỏe"
+    ],
+    [
+      "danh dự",
+      "sức khỏe"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "rối loạn tâm thần",
+      "hành vi"
+    ]
+  ]
+}

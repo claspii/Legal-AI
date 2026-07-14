@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "khai thác công dụng",
+    "hưởng hoa lợi",
+    "hưởng lợi tức"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hợp đồng thuê khoán",
+      "đất đai"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "rừng"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "mặt nước chưa khai thác"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "gia súc"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "cơ sở sản xuất"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "cơ sở kinh doanh"
+    ],
+    [
+      "hợp đồng thuê khoán",
+      "tư liệu sản xuất khác"
+    ]
+  ]
+}

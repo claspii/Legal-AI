@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người giám hộ",
+    "người đang bị truy cứu trách nhiệm hình sự",
+    "người bị kết án",
+    "tòa án",
+    "người khác",
+    "con chưa thành niên"
+  ],
+  "actions": [
+    "làm người giám hộ",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ",
+    "truy cứu trách nhiệm hình sự",
+    "kết án",
+    "xoá án tích",
+    "xâm phạm tính mạng",
+    "tuyên bố hạn chế quyền"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "làm người giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện quyền"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người bị truy cứu trách nhiệm hình sự",
+      "bị truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "người bị kết án",
+      "bị kết án"
+    ],
+    [
+      "người bị kết án",
+      "xoá án tích"
+    ],
+    [
+      "người khác",
+      "xâm phạm tính mạng"
+    ],
+    [
+      "tòa án",
+      "tuyên bố hạn chế quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "người giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "quyền"
+    ],
+    [
+      "người giám hộ",
+      "nghĩa vụ"
+    ],
+    [
+      "tư cách đạo đức",
+      "người giám hộ"
+    ],
+    [
+      "truy cứu trách nhiệm hình sự",
+      "người giám hộ"
+    ],
+    [
+      "kết án",
+      "người giám hộ"
+    ],
+    [
+      "hạn chế quyền",
+      "con chưa thành niên"
+    ]
+  ]
+}

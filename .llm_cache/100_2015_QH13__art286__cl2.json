@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phát tán chương trình tin học gây hại",
+    "có tổ chức",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm lây nhiễm",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phát tán chương trình tin học gây hại",
+      "mạng máy tính"
+    ],
+    [
+      "phát tán chương trình tin học gây hại",
+      "mạng viễn thông"
+    ],
+    [
+      "phát tán chương trình tin học gây hại",
+      "phương tiện điện tử"
+    ],
+    [
+      "thu lợi bất chính",
+      "thiệt hại"
+    ],
+    [
+      "làm lây nhiễm",
+      "phương tiện điện tử"
+    ],
+    [
+      "làm lây nhiễm",
+      "hệ thống thông tin"
+    ]
+  ]
+}

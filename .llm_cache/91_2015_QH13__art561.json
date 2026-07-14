@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên gửi",
+    "bên giữ"
+  ],
+  "actions": [
+    "trả tiền công",
+    "lấy lại tài sản",
+    "thỏa thuận",
+    "thanh toán chi phí",
+    "yêu cầu",
+    "bồi thường thiệt hại",
+    "nhận tiền công"
+  ],
+  "actor_actions": [
+    [
+      "bên gửi",
+      "trả đủ tiền công"
+    ],
+    [
+      "bên gửi",
+      "lấy lại tài sản"
+    ],
+    [
+      "bên gửi",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên giữ",
+      "yêu cầu bên gửi lấy lại tài sản"
+    ],
+    [
+      "bên giữ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên giữ",
+      "không được nhận tiền công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên gửi",
+      "tiền công"
+    ],
+    [
+      "bên giữ",
+      "tiền công"
+    ],
+    [
+      "bên gửi",
+      "tài sản gửi giữ"
+    ],
+    [
+      "bên giữ",
+      "tài sản"
+    ],
+    [
+      "tiền công",
+      "chi phí cần thiết"
+    ],
+    [
+      "tiền công",
+      "thiệt hại"
+    ]
+  ]
+}

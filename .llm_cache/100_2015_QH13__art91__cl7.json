@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi phạm tội",
+    "người chưa đủ 16 tuổi phạm tội"
+  ],
+  "actions": [
+    "tính để xác định tái phạm",
+    "tính để xác định tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "nguyên tắc xử lý"
+    ],
+    [
+      "người chưa đủ 16 tuổi phạm tội",
+      "án đã tuyên"
+    ],
+    [
+      "tái phạm",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

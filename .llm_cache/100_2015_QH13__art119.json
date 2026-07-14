@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị giam giữ",
+    "người bị áp giải"
+  ],
+  "actions": [
+    "phá cơ sở giam giữ",
+    "tổ chức trốn khỏi cơ sở giam giữ",
+    "đánh tháo người bị giam giữ",
+    "đánh tháo người bị áp giải",
+    "trốn khỏi cơ sở giam giữ",
+    "chuẩn bị phạm tội này"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phá cơ sở giam giữ"
+    ],
+    [
+      "người",
+      "tổ chức trốn khỏi cơ sở giam giữ"
+    ],
+    [
+      "người",
+      "đánh tháo người bị giam giữ"
+    ],
+    [
+      "người",
+      "đánh tháo người bị áp giải"
+    ],
+    [
+      "người",
+      "trốn khỏi cơ sở giam giữ"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chống phá cơ sở giam giữ",
+      "tội chống phá cơ sở giam giữ"
+    ]
+  ]
+}

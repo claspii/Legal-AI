@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [
+    "quyền sử dụng"
+  ],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "khai thác công dụng",
+    "hưởng hoa lợi",
+    "hưởng lợi tức",
+    "chuyển giao"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền sử dụng",
+      "quyền sở hữu"
+    ],
+    [
+      "quyền sử dụng",
+      "tài sản"
+    ],
+    [
+      "quyền sử dụng",
+      "thỏa thuận"
+    ],
+    [
+      "quyền sử dụng",
+      "quy định của pháp luật"
+    ]
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng đất",
+    "nhà nước",
+    "người khác"
+  ],
+  "actions": [
+    "được cấp",
+    "hưởng",
+    "đầu tư",
+    "bảo vệ",
+    "cải tạo",
+    "phát triển",
+    "hướng dẫn",
+    "giúp đỡ",
+    "bảo hộ",
+    "xâm phạm",
+    "chuyển mục đích",
+    "thu hồi",
+    "bồi thường",
+    "hỗ trợ",
+    "tái định cư",
+    "khiếu nại",
+    "tố cáo",
+    "khởi kiện",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng đất",
+      "được cấp"
+    ],
+    [
+      "người sử dụng đất",
+      "hưởng"
+    ],
+    [
+      "nhà nước",
+      "đầu tư"
+    ],
+    [
+      "nhà nước",
+      "hướng dẫn"
+    ],
+    [
+      "nhà nước",
+      "giúp đỡ"
+    ],
+    [
+      "nhà nước",
+      "bảo hộ"
+    ],
+    [
+      "người khác",
+      "xâm phạm"
+    ],
+    [
+      "người sử dụng đất",
+      "chuyển mục đích"
+    ],
+    [
+      "nhà nước",
+      "thu hồi"
+    ],
+    [
+      "người sử dụng đất",
+      "được bồi thường"
+    ],
+    [
+      "người sử dụng đất",
+      "khiếu nại"
+    ],
+    [
+      "người sử dụng đất",
+      "tố cáo"
+    ],
+    [
+      "người sử dụng đất",
+      "khởi kiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền chung",
+      "người sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "tài sản gắn liền với đất"
+    ],
+    [
+      "thành quả lao động",
+      "kết quả đầu tư"
+    ],
+    [
+      "bảo vệ",
+      "cải tạo"
+    ],
+    [
+      "cải tạo",
+      "phục hồi"
+    ],
+    [
+      "bồi thường",
+      "hỗ trợ"
+    ],
+    [
+      "hỗ trợ",
+      "tái định cư"
+    ],
+    [
+      "khiếu nại",
+      "tố cáo"
+    ],
+    [
+      "tố cáo",
+      "khởi kiện"
+    ]
+  ]
+}

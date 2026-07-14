@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [
+    "phân biệt đối xử trong lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "công đoàn",
+    "tổ chức của người lao động tại doanh nghiệp"
+  ],
+  "actions": [
+    "phân biệt",
+    "loại trừ",
+    "ưu tiên",
+    "thành lập công đoàn",
+    "gia nhập công đoàn",
+    "hoạt động công đoàn",
+    "duy trì việc làm",
+    "bảo vệ việc làm"
+  ],
+  "actor_actions": [
+    [
+      "công đoàn",
+      "thành lập"
+    ],
+    [
+      "công đoàn",
+      "gia nhập"
+    ],
+    [
+      "công đoàn",
+      "hoạt động"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "thành lập"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "gia nhập"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phân biệt đối xử trong lao động",
+      "bình đẳng về cơ hội việc làm hoặc nghề nghiệp"
+    ],
+    [
+      "phân biệt đối xử trong lao động",
+      "yêu cầu đặc thù của công việc"
+    ],
+    [
+      "người lao động",
+      "người lao động dễ bị tổn thương"
+    ]
+  ]
+}

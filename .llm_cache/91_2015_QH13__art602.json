@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể làm ô nhiễm môi trường"
+  ],
+  "actions": [
+    "bồi thường",
+    "làm ô nhiễm môi trường",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể làm ô nhiễm môi trường",
+      "làm ô nhiễm môi trường"
+    ],
+    [
+      "chủ thể làm ô nhiễm môi trường",
+      "gây thiệt hại"
+    ],
+    [
+      "chủ thể làm ô nhiễm môi trường",
+      "phải bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm ô nhiễm môi trường",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "chủ thể làm ô nhiễm môi trường",
+      "bồi thường"
+    ]
+  ]
+}

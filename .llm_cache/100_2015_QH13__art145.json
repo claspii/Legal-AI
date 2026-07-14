@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "nạn nhân"
+  ],
+  "actions": [
+    "giao cấu",
+    "thực hiện hành vi quan hệ tình dục khác",
+    "phạm tội",
+    "làm nạn nhân có thai",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giao cấu"
+    ],
+    [
+      "người",
+      "thực hiện hành vi quan hệ tình dục khác"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "làm nạn nhân có thai"
+    ],
+    [
+      "người phạm tội",
+      "gây thương tích"
+    ],
+    [
+      "người phạm tội",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao cấu",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "hành vi quan hệ tình dục khác",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "người đủ 18 tuổi trở lên",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% đến 60%"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "61% trở lên"
+    ],
+    [
+      "phạm tội",
+      "có tính chất loạn luân"
+    ],
+    [
+      "phạm tội",
+      "biết mình bị nhiễm HIV"
+    ]
+  ]
+}

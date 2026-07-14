@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu bất động sản chịu hưởng quyền",
+    "chủ sở hữu bất động sản hưởng quyền"
+  ],
+  "actions": [
+    "thông báo trước",
+    "tạo điều kiện thuận lợi",
+    "thay đổi việc thực hiện quyền",
+    "sử dụng, khai thác bất động sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu bất động sản chịu hưởng quyền",
+      "thông báo trước"
+    ],
+    [
+      "chủ sở hữu bất động sản chịu hưởng quyền",
+      "tạo điều kiện thuận lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bất động sản chịu hưởng quyền",
+      "bất động sản hưởng quyền"
+    ],
+    [
+      "thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền",
+      "thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền"
+    ]
+  ]
+}

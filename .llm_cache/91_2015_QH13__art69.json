@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đang quản lý tài sản của người vắng mặt tại nơi cư trú",
+    "tòa án",
+    "vợ hoặc chồng của người bị tuyên bố mất tích",
+    "người bị tuyên bố mất tích",
+    "con thành niên",
+    "cha, mẹ của người mất tích",
+    "người thân thích",
+    "người khác"
+  ],
+  "actions": [
+    "quản lý tài sản",
+    "tuyên bố mất tích",
+    "giải quyết ly hôn",
+    "giao cho",
+    "chỉ định"
+  ],
+  "actor_actions": [
+    [
+      "người đang quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "tiếp tục quản lý tài sản"
+    ],
+    [
+      "người đang quản lý tài sản của người vắng mặt tại nơi cư trú",
+      "có các quyền, nghĩa vụ"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất tích"
+    ],
+    [
+      "tòa án",
+      "giải quyết cho vợ hoặc chồng của người bị tuyên bố mất tích ly hôn"
+    ],
+    [
+      "tòa án",
+      "chỉ định người khác quản lý tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị tuyên bố mất tích",
+      "tài sản của người mất tích"
+    ],
+    [
+      "quản lý tài sản",
+      "người bị tuyên bố mất tích"
+    ],
+    [
+      "người vắng mặt tại nơi cư trú",
+      "người bị tuyên bố mất tích"
+    ],
+    [
+      "vợ hoặc chồng của người bị tuyên bố mất tích",
+      "ly hôn"
+    ]
+  ]
+}

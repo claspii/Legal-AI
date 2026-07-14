@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "cơ quan nhà nước có thẩm quyền",
+    "người tiêu dùng"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định",
+    "công bố",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quy định"
+    ],
+    [
+      "các bên",
+      "giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất lượng của tài sản mua bán",
+      "tiêu chuẩn"
+    ],
+    [
+      "chất lượng của tài sản mua bán",
+      "mục đích giao kết hợp đồng"
+    ],
+    [
+      "chất lượng của tài sản mua bán",
+      "Luật bảo vệ quyền lợi người tiêu dùng"
+    ],
+    [
+      "thỏa thuận",
+      "chất lượng của tài sản mua bán"
+    ]
+  ]
+}

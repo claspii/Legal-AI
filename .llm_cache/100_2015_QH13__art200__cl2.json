@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "trốn thuế"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội trốn thuế",
+      "phạt tiền"
+    ],
+    [
+      "tội trốn thuế",
+      "phạt tù"
+    ],
+    [
+      "trốn thuế",
+      "có tổ chức"
+    ],
+    [
+      "trốn thuế",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "trốn thuế",
+      "phạm tội 02 lần trở lên"
+    ],
+    [
+      "trốn thuế",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "lực lượng vũ trang nhân dân",
+    "bộ quốc phòng",
+    "bộ công an",
+    "phạm nhân",
+    "trại viên",
+    "học sinh"
+  ],
+  "actions": [
+    "thu hồi đất",
+    "quản lý"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thu hồi đất"
+    ],
+    [
+      "bộ quốc phòng",
+      "quản lý"
+    ],
+    [
+      "bộ công an",
+      "quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu hồi đất",
+      "mục đích quốc phòng, an ninh"
+    ],
+    [
+      "làm nơi đóng quân",
+      "quốc phòng, an ninh"
+    ],
+    [
+      "làm trụ sở làm việc",
+      "quốc phòng, an ninh"
+    ],
+    [
+      "làm căn cứ quân sự",
+      "quốc phòng, an ninh"
+    ],
+    [
+      "công trình phòng thủ quốc gia",
+      "quốc phòng, an ninh"
+    ],
+    [
+      "công trình đặc biệt về quốc phòng, an ninh",
+      "quốc phòng, an ninh"
+    ]
+  ]
+}

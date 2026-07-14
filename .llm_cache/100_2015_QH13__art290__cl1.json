@@ -1,0 +1,104 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "chủ tài khoản",
+    "chủ thẻ"
+  ],
+  "actions": [
+    "sử dụng mạng máy tính",
+    "sử dụng mạng viễn thông",
+    "sử dụng phương tiện điện tử",
+    "chiếm đoạt tài sản",
+    "thanh toán hàng hóa, dịch vụ",
+    "làm thẻ ngân hàng giả",
+    "tàng trữ thẻ ngân hàng giả",
+    "mua bán thẻ ngân hàng giả",
+    "sử dụng thẻ ngân hàng giả",
+    "lưu hành thẻ ngân hàng giả",
+    "truy cập bất hợp pháp",
+    "lừa đảo trong thương mại điện tử",
+    "lừa đảo trong thanh toán điện tử",
+    "thiết lập trái phép dịch vụ viễn thông",
+    "cung cấp trái phép dịch vụ viễn thông"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng mạng máy tính"
+    ],
+    [
+      "người",
+      "sử dụng mạng viễn thông"
+    ],
+    [
+      "người",
+      "sử dụng phương tiện điện tử"
+    ],
+    [
+      "người",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "thanh toán hàng hóa, dịch vụ"
+    ],
+    [
+      "người",
+      "làm thẻ ngân hàng giả"
+    ],
+    [
+      "người",
+      "truy cập bất hợp pháp"
+    ],
+    [
+      "người",
+      "lừa đảo trong thương mại điện tử"
+    ],
+    [
+      "người",
+      "thiết lập trái phép dịch vụ viễn thông"
+    ],
+    [
+      "người",
+      "cung cấp trái phép dịch vụ viễn thông"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "mạng viễn thông",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "phương tiện điện tử",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "thông tin về tài khoản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "thẻ ngân hàng",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "thẻ ngân hàng giả",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "truy cập bất hợp pháp",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "thương mại điện tử",
+      "chiếm đoạt tài sản"
+    ]
+  ]
+}

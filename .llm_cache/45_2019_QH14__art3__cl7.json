@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "cưỡng bức lao động"
+  ],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "ép buộc",
+    "làm việc trái ý muốn"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc trái ý muốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cưỡng bức lao động",
+      "vũ lực"
+    ],
+    [
+      "cưỡng bức lao động",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "cưỡng bức lao động",
+      "thủ đoạn khác"
+    ],
+    [
+      "cưỡng bức lao động",
+      "ép buộc người lao động làm việc trái ý muốn"
+    ]
+  ]
+}

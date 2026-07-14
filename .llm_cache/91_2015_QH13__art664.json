@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cộng hòa xã hội chủ nghĩa việt nam",
+    "các bên"
+  ],
+  "actions": [
+    "xác định pháp luật áp dụng",
+    "là thành viên",
+    "có quyền lựa chọn"
+  ],
+  "actor_actions": [
+    [
+      "cộng hòa xã hội chủ nghĩa việt nam",
+      "là thành viên"
+    ],
+    [
+      "các bên",
+      "có quyền lựa chọn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật áp dụng",
+      "quan hệ dân sự có yếu tố nước ngoài"
+    ],
+    [
+      "điều ước quốc tế",
+      "luật việt nam"
+    ],
+    [
+      "pháp luật áp dụng",
+      "lựa chọn của các bên"
+    ],
+    [
+      "pháp luật áp dụng",
+      "pháp luật của nước có mối liên hệ gắn bó nhất"
+    ]
+  ]
+}

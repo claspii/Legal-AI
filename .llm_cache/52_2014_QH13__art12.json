@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hai bên kết hôn",
+    "cha",
+    "mẹ",
+    "con"
+  ],
+  "actions": [
+    "hủy kết hôn trái pháp luật",
+    "chấm dứt quan hệ như vợ chồng",
+    "giải quyết",
+    "ly hôn"
+  ],
+  "actor_actions": [
+    [
+      "hai bên kết hôn",
+      "chấm dứt quan hệ như vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn trái pháp luật",
+      "hủy kết hôn trái pháp luật"
+    ],
+    [
+      "hủy kết hôn trái pháp luật",
+      "chấm dứt quan hệ như vợ chồng"
+    ],
+    [
+      "quyền, nghĩa vụ của cha, mẹ, con",
+      "ly hôn"
+    ],
+    [
+      "quan hệ tài sản",
+      "quan hệ hợp đồng"
+    ]
+  ]
+}

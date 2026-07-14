@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền"
+  ],
+  "actions": [
+    "áp dụng biện pháp cần thiết, hợp lý",
+    "ngăn chặn thiệt hại",
+    "hạn chế thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "áp dụng biện pháp cần thiết, hợp lý"
+    ],
+    [
+      "bên có quyền",
+      "ngăn chặn thiệt hại"
+    ],
+    [
+      "bên có quyền",
+      "hạn chế thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ngăn chặn",
+      "hạn chế thiệt hại"
+    ]
+  ]
+}

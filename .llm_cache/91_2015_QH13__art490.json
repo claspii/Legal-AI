@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên thuê khoán",
+    "bên cho thuê khoán"
+  ],
+  "actions": [
+    "bảo quản",
+    "bảo dưỡng",
+    "định đoạt",
+    "khai thác",
+    "làm mất",
+    "hư hỏng",
+    "bồi thường thiệt hại",
+    "sửa chữa",
+    "cải tạo",
+    "thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê khoán",
+      "bảo quản tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "bảo dưỡng tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "làm mất tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "hư hỏng tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên thuê khoán",
+      "tự mình sửa chữa tài sản thuê khoán"
+    ],
+    [
+      "bên thuê khoán",
+      "cải tạo tài sản thuê khoán"
+    ],
+    [
+      "bên cho thuê khoán",
+      "thanh toán chi phí hợp lý để sửa chữa, cải tạo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên thuê khoán",
+      "tài sản thuê khoán"
+    ],
+    [
+      "bên cho thuê khoán",
+      "tài sản thuê khoán"
+    ],
+    [
+      "bảo quản",
+      "bảo dưỡng"
+    ],
+    [
+      "làm mất",
+      "hư hỏng"
+    ],
+    [
+      "sửa chữa",
+      "cải tạo"
+    ]
+  ]
+}

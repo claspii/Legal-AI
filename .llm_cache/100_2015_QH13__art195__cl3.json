@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "gây thiệt hại",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hàng giả",
+      "thức ăn dùng để chăn nuôi"
+    ],
+    [
+      "hàng giả",
+      "phân bón"
+    ],
+    [
+      "hàng giả",
+      "thuốc thú y"
+    ],
+    [
+      "hàng giả",
+      "thuốc bảo vệ thực vật"
+    ],
+    [
+      "hàng giả",
+      "giống cây trồng"
+    ],
+    [
+      "hàng giả",
+      "vật nuôi"
+    ],
+    [
+      "hàng giả",
+      "giá bán"
+    ],
+    [
+      "hàng giả",
+      "giá niêm yết"
+    ]
+  ]
+}

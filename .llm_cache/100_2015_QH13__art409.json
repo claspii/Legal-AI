@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "vi phạm quy định về trực ban, trực chiến, trực chỉ huy",
+    "không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy",
+    "gây hậu quả nghiêm trọng",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trực ban",
+      "trực chiến"
+    ],
+    [
+      "trực chiến",
+      "trực chỉ huy"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "chế độ trực ban",
+      "chế độ trực chiến"
+    ],
+    [
+      "chế độ trực chiến",
+      "chế độ trực chỉ huy"
+    ],
+    [
+      "chiến đấu",
+      "phục vụ chiến đấu"
+    ]
+  ]
+}

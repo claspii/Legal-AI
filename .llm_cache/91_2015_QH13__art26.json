@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [
+    "cha đẻ, mẹ đẻ"
+  ],
+  "actors": [
+    "cá nhân",
+    "cha đẻ",
+    "mẹ đẻ",
+    "cha mẹ",
+    "trẻ em",
+    "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+    "người có yêu cầu đăng ký khai sinh",
+    "người nhờ mang thai hộ",
+    "người được sinh ra từ việc mang thai hộ",
+    "cha nuôi",
+    "mẹ nuôi",
+    "cha mẹ nuôi",
+    "công dân việt nam"
+  ],
+  "actions": [
+    "có họ, tên",
+    "xác định theo họ, tên khai sinh",
+    "xác định theo thỏa thuận",
+    "xác định theo tập quán",
+    "xác định theo họ của mẹ đẻ",
+    "bị bỏ rơi",
+    "được nhận làm con nuôi",
+    "xác định theo họ của cha nuôi hoặc họ của mẹ nuôi",
+    "xác định theo đề nghị",
+    "tạm thời nuôi dưỡng",
+    "xác định dựa trên sự kiện sinh đẻ",
+    "đặt tên",
+    "xâm phạm",
+    "trái với các nguyên tắc cơ bản của pháp luật dân sự",
+    "xác lập, thực hiện quyền, nghĩa vụ dân sự",
+    "sử dụng bí danh, bút danh",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có họ, tên"
+    ],
+    [
+      "cá nhân",
+      "xác lập, thực hiện quyền, nghĩa vụ dân sự"
+    ],
+    [
+      "cá nhân",
+      "sử dụng bí danh, bút danh"
+    ],
+    [
+      "cha mẹ",
+      "thỏa thuận"
+    ],
+    [
+      "người đứng đầu cơ sở nuôi dưỡng trẻ em",
+      "đề nghị"
+    ],
+    [
+      "người có yêu cầu đăng ký khai sinh cho trẻ em",
+      "đề nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "họ",
+      "tên"
+    ],
+    [
+      "cha đẻ",
+      "mẹ đẻ"
+    ],
+    [
+      "cha nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "bí danh",
+      "bút danh"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ]
+  ]
+}

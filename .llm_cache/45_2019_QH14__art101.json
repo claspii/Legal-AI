@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "tạm ứng tiền lương",
+    "nghỉ việc",
+    "thực hiện nghĩa vụ công dân",
+    "hoàn trả",
+    "nhập ngũ",
+    "nghỉ hằng năm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "tạm ứng tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "cho tạm ứng tiền lương"
+    ],
+    [
+      "người lao động",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "thực hiện nghĩa vụ công dân"
+    ],
+    [
+      "người lao động",
+      "hoàn trả số tiền đã tạm ứng"
+    ],
+    [
+      "người lao động",
+      "nhập ngũ"
+    ],
+    [
+      "người lao động",
+      "nghỉ hằng năm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiền lương"
+    ],
+    [
+      "tạm ứng tiền lương",
+      "điều kiện thỏa thuận"
+    ],
+    [
+      "tạm ứng tiền lương",
+      "nghĩa vụ công dân"
+    ],
+    [
+      "tạm ứng tiền lương",
+      "nghỉ hằng năm"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan có thẩm quyền",
+    "pháp nhân",
+    "người được đại diện",
+    "người đại diện",
+    "cá nhân"
+  ],
+  "actions": [
+    "xác định",
+    "chấm dứt",
+    "đơn phương chấm dứt thực hiện việc ủy quyền",
+    "chết",
+    "chấm dứt tồn tại",
+    "khôi phục"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan có thẩm quyền",
+      "quyết định"
+    ],
+    [
+      "người được đại diện",
+      "đơn phương chấm dứt thực hiện việc ủy quyền"
+    ],
+    [
+      "người đại diện",
+      "đơn phương chấm dứt thực hiện việc ủy quyền"
+    ],
+    [
+      "người được đại diện là cá nhân",
+      "chết"
+    ],
+    [
+      "người đại diện là cá nhân",
+      "chết"
+    ],
+    [
+      "người được đại diện là pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người đại diện là pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người được đại diện là cá nhân",
+      "thành niên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn đại diện",
+      "văn bản ủy quyền"
+    ],
+    [
+      "thời hạn đại diện",
+      "quyết định của cơ quan có thẩm quyền"
+    ],
+    [
+      "thời hạn đại diện",
+      "điều lệ của pháp nhân"
+    ],
+    [
+      "thời hạn đại diện",
+      "quy định của pháp luật"
+    ],
+    [
+      "đại diện theo ủy quyền",
+      "chấm dứt"
+    ],
+    [
+      "đại diện theo pháp luật",
+      "chấm dứt"
+    ],
+    [
+      "thời hạn đại diện",
+      "giao dịch dân sự"
+    ]
+  ]
+}

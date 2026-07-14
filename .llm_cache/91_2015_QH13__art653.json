@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "con nuôi",
+    "cha nuôi",
+    "mẹ nuôi",
+    "cha đẻ",
+    "mẹ đẻ"
+  ],
+  "actions": [
+    "thừa kế di sản"
+  ],
+  "actor_actions": [
+    [
+      "con nuôi",
+      "thừa kế di sản"
+    ],
+    [
+      "cha nuôi",
+      "thừa kế di sản"
+    ],
+    [
+      "mẹ nuôi",
+      "thừa kế di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con nuôi",
+      "cha nuôi"
+    ],
+    [
+      "con nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "con nuôi",
+      "cha đẻ"
+    ],
+    [
+      "con nuôi",
+      "mẹ đẻ"
+    ],
+    [
+      "cha nuôi",
+      "mẹ nuôi"
+    ]
+  ]
+}

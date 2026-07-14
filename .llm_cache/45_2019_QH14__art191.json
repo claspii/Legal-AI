@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "tòa án nhân dân",
+    "tòa án"
+  ],
+  "actions": [
+    "giải quyết",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan, tổ chức, cá nhân",
+      "giải quyết tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "hòa giải viên lao động",
+      "giải quyết tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "tòa án nhân dân",
+      "giải quyết tranh chấp lao động tập thể về quyền"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hòa giải"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giải quyết tranh chấp lao động tập thể về quyền",
+      "hòa giải viên lao động"
+    ],
+    [
+      "giải quyết tranh chấp lao động tập thể về quyền",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "giải quyết tranh chấp lao động tập thể về quyền",
+      "tòa án nhân dân"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "thủ tục hòa giải"
+    ]
+  ]
+}

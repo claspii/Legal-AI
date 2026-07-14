@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nam",
+    "nữ",
+    "vợ",
+    "chồng",
+    "các bên"
+  ],
+  "actions": [
+    "chung sống",
+    "đăng ký kết hôn",
+    "làm phát sinh quyền",
+    "làm phát sinh nghĩa vụ",
+    "giải quyết",
+    "thực hiện việc đăng ký kết hôn",
+    "xác lập quan hệ hôn nhân"
+  ],
+  "actor_actions": [
+    [
+      "nam, nữ",
+      "chung sống với nhau như vợ chồng mà không đăng ký kết hôn"
+    ],
+    [
+      "nam, nữ",
+      "thực hiện việc đăng ký kết hôn"
+    ],
+    [
+      "quan hệ hôn nhân",
+      "được xác lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn",
+      "không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng"
+    ],
+    [
+      "quyền, nghĩa vụ đối với con",
+      "được giải quyết theo quy định tại điều 15 và điều 16 của luật này"
+    ],
+    [
+      "tài sản",
+      "được giải quyết theo quy định tại điều 15 và điều 16 của luật này"
+    ],
+    [
+      "nghĩa vụ và hợp đồng giữa các bên",
+      "được giải quyết theo quy định tại điều 15 và điều 16 của luật này"
+    ],
+    [
+      "nam, nữ chung sống với nhau như vợ chồng và đăng ký kết hôn",
+      "quan hệ hôn nhân được xác lập từ thời điểm đăng ký kết hôn"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thứ ba",
+    "bên có nghĩa vụ",
+    "bên có quyền",
+    "bên"
+  ],
+  "actions": [
+    "từ chối lợi ích",
+    "thực hiện nghĩa vụ",
+    "thông báo",
+    "hoàn trả",
+    "thực hiện cam kết",
+    "hoàn thành"
+  ],
+  "actor_actions": [
+    [
+      "người thứ ba",
+      "từ chối lợi ích"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thông báo"
+    ],
+    [
+      "bên",
+      "hoàn trả"
+    ],
+    [
+      "bên có quyền",
+      "thực hiện cam kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thứ ba",
+      "lợi ích"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "nghĩa vụ"
+    ],
+    [
+      "hợp đồng",
+      "lợi ích của người thứ ba"
+    ]
+  ]
+}

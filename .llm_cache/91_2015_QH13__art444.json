@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua",
+    "người thứ ba",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "bảo đảm quyền sở hữu",
+    "mua bán",
+    "tranh chấp",
+    "bảo vệ quyền lợi",
+    "hủy bỏ hợp đồng",
+    "bồi thường thiệt hại",
+    "trả lại tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "bảo đảm quyền sở hữu"
+    ],
+    [
+      "bên bán",
+      "đứng về phía bên mua để bảo vệ quyền lợi"
+    ],
+    [
+      "bên mua",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên mua",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên mua",
+      "trả lại tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bán",
+      "bên mua"
+    ],
+    [
+      "tài sản mua bán",
+      "quyền sở hữu"
+    ],
+    [
+      "bên bán",
+      "tài sản đã bán"
+    ],
+    [
+      "bên mua",
+      "tài sản mua bán"
+    ]
+  ]
+}

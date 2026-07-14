@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "làm trung gian dụ dỗ",
+    "dẫn dắt để người khác thực hiện việc mua dâm, bán dâm",
+    "phạt tù",
+    "thu lợi bất chính",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "làm trung gian dụ dỗ"
+    ],
+    [
+      "người nào",
+      "dẫn dắt để người khác thực hiện việc mua dâm, bán dâm"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội môi giới mại dâm",
+      "mua dâm"
+    ],
+    [
+      "tội môi giới mại dâm",
+      "bán dâm"
+    ],
+    [
+      "phạt tù từ 06 tháng đến 03 năm",
+      "người nào làm trung gian dụ dỗ, dẫn dắt để người khác thực hiện việc mua dâm, bán dâm"
+    ],
+    [
+      "phạt tù từ 03 năm đến 07 năm",
+      "người từ đủ 16 tuổi đến dưới 18 tuổi"
+    ],
+    [
+      "phạt tù từ 03 năm đến 07 năm",
+      "có tổ chức"
+    ],
+    [
+      "phạt tù từ 03 năm đến 07 năm",
+      "có tính chất chuyên nghiệp"
+    ]
+  ]
+}

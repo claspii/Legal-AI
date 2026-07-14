@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "thành viên hợp tác",
+    "người đại diện"
+  ],
+  "actions": [
+    "đóng góp",
+    "phân chia",
+    "tham gia",
+    "rút khỏi",
+    "chấm dứt"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "tham gia"
+    ],
+    [
+      "thành viên hợp tác",
+      "rút khỏi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng hợp tác",
+      "nội dung"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "mục đích"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "thời hạn"
+    ],
+    [
+      "tài sản",
+      "đóng góp"
+    ],
+    [
+      "sức lao động",
+      "đóng góp"
+    ],
+    [
+      "hoa lợi",
+      "phân chia"
+    ],
+    [
+      "lợi tức",
+      "phân chia"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

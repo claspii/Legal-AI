@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "phạt vi phạm"
+  ],
+  "actors": [
+    "bên",
+    "bên vi phạm nghĩa vụ",
+    "bên bị vi phạm"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "vi phạm nghĩa vụ",
+    "nộp một khoản tiền",
+    "bồi thường thiệt hại",
+    "chịu phạt vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên vi phạm nghĩa vụ",
+      "nộp một khoản tiền"
+    ],
+    [
+      "bên vi phạm nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên vi phạm nghĩa vụ",
+      "chịu phạt vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt vi phạm",
+      "hợp đồng"
+    ],
+    [
+      "phạt vi phạm",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "phạt vi phạm"
+    ]
+  ]
+}

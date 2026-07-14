@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "vận chuyển trái phép",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "còn vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vận chuyển qua biên giới"
+    ],
+    [
+      "người nào",
+      "vận chuyển từ khu phi thuế quan vào nội địa hoặc ngược lại"
+    ],
+    [
+      "người nào",
+      "bị phạt tiền"
+    ],
+    [
+      "người nào",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "còn vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hàng hóa",
+      "tiền việt nam"
+    ],
+    [
+      "tiền việt nam",
+      "ngoại tệ"
+    ],
+    [
+      "ngoại tệ",
+      "kim khí quý"
+    ],
+    [
+      "kim khí quý",
+      "đá quý"
+    ],
+    [
+      "di vật",
+      "cổ vật"
+    ],
+    [
+      "cổ vật",
+      "vật có giá trị lịch sử, văn hóa"
+    ],
+    [
+      "biên giới",
+      "khu phi thuế quan"
+    ],
+    [
+      "biên giới",
+      "nội địa"
+    ]
+  ]
+}

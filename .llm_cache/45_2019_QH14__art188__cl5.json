@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "biên bản",
+    "bên tranh chấp"
+  ],
+  "actions": [
+    "gửi"
+  ],
+  "actor_actions": [
+    [
+      "biên bản",
+      "gửi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bản sao biên bản hòa giải thành",
+      "bên tranh chấp"
+    ],
+    [
+      "bản sao biên bản hòa giải không thành",
+      "bên tranh chấp"
+    ],
+    [
+      "bản sao biên bản hòa giải thành",
+      "gửi"
+    ],
+    [
+      "bản sao biên bản hòa giải không thành",
+      "gửi"
+    ]
+  ]
+}

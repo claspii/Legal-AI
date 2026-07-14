@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền",
+    "người khác"
+  ],
+  "actions": [
+    "không thực hiện một công việc",
+    "tiếp tục thực hiện",
+    "tự mình thực hiện",
+    "giao người khác thực hiện",
+    "thanh toán chi phí",
+    "bồi thường thiệt hại",
+    "chấm dứt việc thực hiện",
+    "khôi phục tình trạng ban đầu"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện một công việc"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu"
+    ],
+    [
+      "bên có quyền",
+      "tự mình thực hiện"
+    ],
+    [
+      "bên có quyền",
+      "giao người khác thực hiện"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "không được thực hiện một công việc"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện công việc đó"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không thực hiện một công việc",
+      "yêu cầu tiếp tục thực hiện"
+    ],
+    [
+      "không thực hiện một công việc",
+      "tự mình thực hiện"
+    ],
+    [
+      "không thực hiện một công việc",
+      "giao người khác thực hiện"
+    ],
+    [
+      "không thực hiện một công việc",
+      "thanh toán chi phí hợp lý"
+    ],
+    [
+      "không thực hiện một công việc",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "không được thực hiện một công việc mà lại thực hiện",
+      "chấm dứt việc thực hiện"
+    ],
+    [
+      "không được thực hiện một công việc mà lại thực hiện",
+      "khôi phục tình trạng ban đầu"
+    ],
+    [
+      "không được thực hiện một công việc mà lại thực hiện",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

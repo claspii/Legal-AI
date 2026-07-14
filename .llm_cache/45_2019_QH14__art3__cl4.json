@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [
+    "tổ chức đại diện người sử dụng lao động"
+  ],
+  "actors": [
+    "tổ chức đại diện người sử dụng lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thành lập",
+    "đại diện",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "thành lập"
+    ],
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "đại diện"
+    ],
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "quan hệ lao động"
+    ],
+    [
+      "quyền, lợi ích hợp pháp",
+      "người sử dụng lao động"
+    ]
+  ]
+}

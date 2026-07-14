@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người không có khả năng tự vệ"
+  ],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "dùng thủ đoạn nguy hiểm",
+    "hành hung để tẩu thoát",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây ảnh hưởng xấu",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trị giá từ 50.000.000 đồng đến dưới 200.000.000 đồng"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể từ 11% đến 30%"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể từ 11% đến 30%"
+    ],
+    [
+      "gây ảnh hưởng xấu",
+      "an ninh, trật tự, an toàn xã hội"
+    ]
+  ]
+}

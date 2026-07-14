@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người bị kết án",
+    "một người"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "xét xử",
+    "phạm nhiều tội",
+    "tổng hợp hình phạt",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "tổng hợp hình phạt"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành"
+    ],
+    [
+      "một người",
+      "phạm nhiều tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt bổ sung",
+      "hình phạt chung"
+    ],
+    [
+      "hình phạt đã tuyên là cùng loại",
+      "hình phạt chung"
+    ],
+    [
+      "hình phạt tiền",
+      "các khoản tiền phạt"
+    ],
+    [
+      "hình phạt đã tuyên là khác loại",
+      "người bị kết án phải chấp hành tất cả các hình phạt đã tuyên"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên ngay tình",
+    "bên có lỗi"
+  ],
+  "actions": [
+    "làm phát sinh",
+    "thay đổi",
+    "chấm dứt",
+    "khôi phục lại tình trạng ban đầu",
+    "hoàn trả",
+    "thu hoa lợi",
+    "thu lợi tức",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "khôi phục lại tình trạng ban đầu"
+    ],
+    [
+      "các bên",
+      "hoàn trả"
+    ],
+    [
+      "bên ngay tình",
+      "thu hoa lợi"
+    ],
+    [
+      "bên ngay tình",
+      "thu lợi tức"
+    ],
+    [
+      "bên có lỗi",
+      "gây thiệt hại"
+    ],
+    [
+      "bên có lỗi",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự vô hiệu",
+      "quyền dân sự"
+    ],
+    [
+      "giao dịch dân sự vô hiệu",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "giao dịch dân sự vô hiệu",
+      "quyền nhân thân"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ]
+  ]
+}

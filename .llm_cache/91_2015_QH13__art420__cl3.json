@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "một trong các bên",
+    "tòa án"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "sửa đổi hợp đồng",
+    "yêu cầu",
+    "chấm dứt hợp đồng",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "một trong các bên",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "tòa án",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoàn cảnh thay đổi cơ bản",
+      "sửa đổi hợp đồng"
+    ],
+    [
+      "hoàn cảnh thay đổi cơ bản",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "chấm dứt hợp đồng",
+      "gây thiệt hại"
+    ],
+    [
+      "sửa đổi hợp đồng",
+      "chi phí để thực hiện hợp đồng"
+    ]
+  ]
+}

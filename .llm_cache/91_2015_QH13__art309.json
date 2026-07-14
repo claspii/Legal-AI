@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [
+    "cầm cố tài sản"
+  ],
+  "actors": [
+    "bên cầm cố",
+    "bên nhận cầm cố"
+  ],
+  "actions": [
+    "giao tài sản",
+    "bảo đảm thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm cố",
+      "giao tài sản"
+    ],
+    [
+      "bên cầm cố",
+      "bảo đảm thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cầm cố tài sản",
+      "bên cầm cố"
+    ],
+    [
+      "cầm cố tài sản",
+      "bên nhận cầm cố"
+    ],
+    [
+      "cầm cố tài sản",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "giao tài sản",
+      "bảo đảm thực hiện nghĩa vụ"
+    ]
+  ]
+}

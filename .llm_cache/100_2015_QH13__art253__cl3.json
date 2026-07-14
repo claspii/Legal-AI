@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tiền chất",
+      "thể rắn"
+    ],
+    [
+      "tiền chất",
+      "thể lỏng"
+    ],
+    [
+      "tiền chất có khối lượng từ 500 gam đến dưới 1200 gam",
+      "phạt tù từ 13 năm đến 20 năm"
+    ],
+    [
+      "tiền chất có khối lượng từ 750 mililít đến dưới 1.850 mililít",
+      "phạt tù từ 13 năm đến 20 năm"
+    ]
+  ]
+}

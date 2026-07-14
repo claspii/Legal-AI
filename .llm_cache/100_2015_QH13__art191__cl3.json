@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "phạm tội",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tàng trữ",
+      "hàng cấm"
+    ],
+    [
+      "vận chuyển",
+      "hàng cấm"
+    ],
+    [
+      "hàng phạm pháp",
+      "trị giá"
+    ],
+    [
+      "thu lợi bất chính",
+      "500.000.000 đồng"
+    ],
+    [
+      "qua biên giới",
+      "từ khu phi thuế quan vào nội địa"
+    ]
+  ]
+}

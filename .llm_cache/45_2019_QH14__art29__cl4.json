@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "không đồng ý tạm thời làm công việc khác so với hợp đồng lao động",
+    "ngừng việc",
+    "trả lương ngừng việc"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "không đồng ý tạm thời làm công việc khác so với hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "ngừng việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải trả lương ngừng việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "công việc khác so với hợp đồng lao động"
+    ],
+    [
+      "ngừng việc",
+      "lương ngừng việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương ngừng việc"
+    ]
+  ]
+}

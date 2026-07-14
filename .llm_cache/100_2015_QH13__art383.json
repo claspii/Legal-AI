@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người làm chứng",
+    "người giám định",
+    "người định giá tài sản",
+    "người dịch thuật",
+    "người phạm tội"
+  ],
+  "actions": [
+    "từ chối khai báo",
+    "từ chối kết luận giám định",
+    "từ chối định giá tài sản",
+    "từ chối cung cấp tài liệu",
+    "trốn tránh việc kết luận giám định",
+    "trốn tránh việc định giá tài sản",
+    "trốn tránh việc thẩm định giá tài sản",
+    "bị phạt cảnh cáo",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người làm chứng",
+      "từ chối khai báo"
+    ],
+    [
+      "người giám định",
+      "từ chối khai báo"
+    ],
+    [
+      "người giám định",
+      "trốn tránh việc kết luận giám định"
+    ],
+    [
+      "người định giá tài sản",
+      "trốn tránh việc định giá tài sản"
+    ],
+    [
+      "người định giá tài sản",
+      "trốn tránh việc thẩm định giá tài sản"
+    ],
+    [
+      "người dịch thuật",
+      "từ chối cung cấp tài liệu"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt cảnh cáo"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết luận giám định",
+      "định giá tài sản"
+    ],
+    [
+      "khai báo",
+      "cung cấp tài liệu"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [
+    "thay đổi cơ cấu, công nghệ",
+    "vì lý do kinh tế"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "nhà nước",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "thay đổi cơ cấu tổ chức",
+    "tổ chức lại lao động",
+    "thay đổi quy trình",
+    "thay đổi công nghệ",
+    "thay đổi máy móc",
+    "thay đổi thiết bị sản xuất, kinh doanh",
+    "thay đổi sản phẩm",
+    "thay đổi cơ cấu sản phẩm"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thay đổi cơ cấu tổ chức"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức lại lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi quy trình"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi công nghệ"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi máy móc"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi thiết bị sản xuất, kinh doanh"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi sản phẩm"
+    ],
+    [
+      "người sử dụng lao động",
+      "thay đổi cơ cấu sản phẩm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thay đổi cơ cấu, công nghệ",
+      "ảnh hưởng đến việc làm của nhiều người lao động"
+    ],
+    [
+      "thay đổi cơ cấu, công nghệ",
+      "xây dựng và thực hiện phương án sử dụng lao động"
+    ],
+    [
+      "thay đổi cơ cấu, công nghệ",
+      "đào tạo lại người lao động"
+    ],
+    [
+      "vì lý do kinh tế",
+      "nhiều người lao động có nguy cơ mất việc làm"
+    ],
+    [
+      "vì lý do kinh tế",
+      "xây dựng và thực hiện phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động không thể giải quyết được việc làm",
+      "trả trợ cấp mất việc làm"
+    ],
+    [
+      "cho thôi việc đối với người lao động",
+      "trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "cho thôi việc đối với người lao động",
+      "thông báo cho ủy ban nhân dân cấp tỉnh và cho người lao động"
+    ]
+  ]
+}

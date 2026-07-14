@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [
+    "hoàn cảnh thay đổi cơ bản"
+  ],
+  "actors": [
+    "bên"
+  ],
+  "actions": [
+    "thực hiện hợp đồng",
+    "thay đổi",
+    "giao kết hợp đồng",
+    "ngăn chặn",
+    "giảm thiểu",
+    "áp dụng biện pháp"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "giao kết hợp đồng"
+    ],
+    [
+      "bên",
+      "thực hiện hợp đồng"
+    ],
+    [
+      "bên",
+      "áp dụng biện pháp"
+    ],
+    [
+      "bên",
+      "ngăn chặn"
+    ],
+    [
+      "bên",
+      "giảm thiểu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoàn cảnh thay đổi cơ bản",
+      "hợp đồng"
+    ],
+    [
+      "thay đổi hoàn cảnh",
+      "giao kết hợp đồng"
+    ],
+    [
+      "nội dung hợp đồng",
+      "thiệt hại nghiêm trọng"
+    ],
+    [
+      "lợi ích bị ảnh hưởng",
+      "biện pháp cần thiết"
+    ]
+  ]
+}

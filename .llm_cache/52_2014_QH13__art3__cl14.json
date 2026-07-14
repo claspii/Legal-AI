@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "ly hôn"
+  ],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt",
+    "có hiệu lực pháp luật"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "ly hôn",
+      "quan hệ vợ chồng"
+    ],
+    [
+      "ly hôn",
+      "bản án"
+    ],
+    [
+      "ly hôn",
+      "quyết định"
+    ],
+    [
+      "bản án",
+      "tòa án"
+    ],
+    [
+      "quyết định",
+      "tòa án"
+    ]
+  ]
+}

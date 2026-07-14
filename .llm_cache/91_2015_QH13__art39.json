@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "vợ",
+    "chồng",
+    "cha",
+    "mẹ",
+    "con",
+    "thành viên gia đình"
+  ],
+  "actions": [
+    "kết hôn",
+    "ly hôn",
+    "xác định cha",
+    "xác định mẹ",
+    "xác định con",
+    "được nhận làm con nuôi",
+    "nuôi con nuôi",
+    "thực hiện quyền nhân thân"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "kết hôn"
+    ],
+    [
+      "cá nhân",
+      "ly hôn"
+    ],
+    [
+      "cá nhân",
+      "xác định cha"
+    ],
+    [
+      "cá nhân",
+      "xác định mẹ"
+    ],
+    [
+      "cá nhân",
+      "xác định con"
+    ],
+    [
+      "cá nhân",
+      "được nhận làm con nuôi"
+    ],
+    [
+      "cá nhân",
+      "nuôi con nuôi"
+    ],
+    [
+      "cá nhân",
+      "thực hiện quyền nhân thân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền nhân thân",
+      "hôn nhân"
+    ],
+    [
+      "quyền nhân thân",
+      "gia đình"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ]
+  ]
+}

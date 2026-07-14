@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "vợ",
+    "chồng",
+    "tòa án",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt hiệu lực của việc chia tài sản chung",
+    "thỏa thuận",
+    "xác định tài sản chung",
+    "xác định tài sản riêng",
+    "công nhận"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "chấm dứt hiệu lực của việc chia tài sản chung"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "công nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chia tài sản chung",
+      "thời kỳ hôn nhân"
+    ],
+    [
+      "tài sản chung",
+      "tài sản riêng"
+    ],
+    [
+      "thỏa thuận",
+      "chấm dứt hiệu lực của việc chia tài sản chung"
+    ]
+  ]
+}

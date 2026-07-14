@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên tranh chấp",
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "tổ chức đại diện người lao động",
+    "các bên"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động tập thể về lợi ích",
+    "thực hiện",
+    "hòa giải",
+    "tiến hành hòa giải",
+    "ký",
+    "lựa chọn",
+    "yêu cầu",
+    "đình công"
+  ],
+  "actor_actions": [
+    [
+      "các bên tranh chấp",
+      "lựa chọn"
+    ],
+    [
+      "các bên tranh chấp",
+      "yêu cầu"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "tiến hành thủ tục"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "đình công"
+    ],
+    [
+      "hòa giải viên lao động",
+      "tiến hành hòa giải"
+    ],
+    [
+      "các bên tranh chấp",
+      "ký"
+    ],
+    [
+      "hòa giải viên lao động",
+      "ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải thành",
+      "biên bản hòa giải thành"
+    ],
+    [
+      "hòa giải thành",
+      "thỏa ước lao động tập thể của doanh nghiệp"
+    ],
+    [
+      "hòa giải không thành",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "tranh chấp lao động tập thể về lợi ích",
+      "hòa giải"
+    ],
+    [
+      "hòa giải không thành",
+      "đình công"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [
+    "lỗi cố ý",
+    "lỗi vô ý"
+  ],
+  "actors": [
+    "một người"
+  ],
+  "actions": [
+    "nhận thức rõ",
+    "gây thiệt hại",
+    "thực hiện",
+    "mong muốn",
+    "để mặc cho thiệt hại xảy ra",
+    "không thấy trước",
+    "biết trước",
+    "ngăn chặn được"
+  ],
+  "actor_actions": [
+    [
+      "một người",
+      "nhận thức rõ"
+    ],
+    [
+      "một người",
+      "gây thiệt hại"
+    ],
+    [
+      "một người",
+      "thực hiện"
+    ],
+    [
+      "một người",
+      "mong muốn"
+    ],
+    [
+      "một người",
+      "để mặc cho thiệt hại xảy ra"
+    ],
+    [
+      "một người",
+      "không thấy trước"
+    ],
+    [
+      "một người",
+      "biết trước"
+    ],
+    [
+      "một người",
+      "ngăn chặn được"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lỗi trong trách nhiệm dân sự",
+      "lỗi cố ý"
+    ],
+    [
+      "lỗi trong trách nhiệm dân sự",
+      "lỗi vô ý"
+    ],
+    [
+      "lỗi cố ý",
+      "thiệt hại"
+    ],
+    [
+      "lỗi vô ý",
+      "thiệt hại"
+    ]
+  ]
+}

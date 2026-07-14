@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bắt được gia súc",
+    "ủy ban nhân dân cấp xã",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "nuôi giữ",
+    "báo",
+    "thông báo công khai",
+    "nhận lại",
+    "thanh toán",
+    "hưởng",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người bắt được gia súc",
+      "nuôi giữ"
+    ],
+    [
+      "người bắt được gia súc",
+      "báo"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "thông báo công khai"
+    ],
+    [
+      "chủ sở hữu",
+      "nhận lại"
+    ],
+    [
+      "chủ sở hữu",
+      "thanh toán"
+    ],
+    [
+      "người bắt được gia súc",
+      "hưởng"
+    ],
+    [
+      "người bắt được gia súc",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gia súc bị thất lạc",
+      "quyền sở hữu"
+    ],
+    [
+      "nuôi giữ",
+      "chi phí"
+    ],
+    [
+      "gia súc sinh ra",
+      "người bắt được gia súc"
+    ],
+    [
+      "lỗi cố ý",
+      "thiệt hại"
+    ]
+  ]
+}

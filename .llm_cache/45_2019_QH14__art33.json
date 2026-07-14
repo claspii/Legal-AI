@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên",
+    "hai bên"
+  ],
+  "actions": [
+    "sửa đổi",
+    "bổ sung",
+    "báo",
+    "thỏa thuận",
+    "ký kết",
+    "giao kết",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "yêu cầu sửa đổi"
+    ],
+    [
+      "bên",
+      "yêu cầu bổ sung"
+    ],
+    [
+      "bên",
+      "báo"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận được"
+    ],
+    [
+      "hai bên",
+      "tiến hành bằng việc ký kết phụ lục hợp đồng lao động"
+    ],
+    [
+      "hai bên",
+      "giao kết hợp đồng lao động mới"
+    ],
+    [
+      "hai bên",
+      "không thỏa thuận được"
+    ],
+    [
+      "hai bên",
+      "tiếp tục thực hiện hợp đồng lao động đã giao kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "sửa đổi hợp đồng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "bổ sung hợp đồng lao động"
+    ],
+    [
+      "sửa đổi hợp đồng lao động",
+      "phụ lục hợp đồng lao động"
+    ],
+    [
+      "bổ sung hợp đồng lao động",
+      "phụ lục hợp đồng lao động"
+    ],
+    [
+      "sửa đổi hợp đồng lao động",
+      "hợp đồng lao động mới"
+    ],
+    [
+      "bổ sung hợp đồng lao động",
+      "hợp đồng lao động mới"
+    ]
+  ]
+}

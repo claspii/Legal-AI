@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [
+    "hợp đồng hợp tác"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "đóng góp tài sản",
+    "đóng góp công sức",
+    "thực hiện công việc",
+    "hưởng lợi",
+    "chịu trách nhiệm",
+    "lập thành văn bản"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "thỏa thuận"
+    ],
+    [
+      "pháp nhân",
+      "thỏa thuận"
+    ],
+    [
+      "cá nhân",
+      "đóng góp tài sản"
+    ],
+    [
+      "pháp nhân",
+      "đóng góp tài sản"
+    ],
+    [
+      "cá nhân",
+      "đóng góp công sức"
+    ],
+    [
+      "pháp nhân",
+      "đóng góp công sức"
+    ],
+    [
+      "cá nhân",
+      "hưởng lợi"
+    ],
+    [
+      "pháp nhân",
+      "hưởng lợi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng hợp tác",
+      "thỏa thuận"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "tài sản"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "công sức"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "công việc"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "lợi"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "trách nhiệm"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "văn bản"
+    ]
+  ]
+}

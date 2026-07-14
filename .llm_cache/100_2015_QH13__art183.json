@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "những người chưa đến tuổi kết hôn"
+  ],
+  "actions": [
+    "tổ chức tảo hôn",
+    "lấy vợ",
+    "lấy chồng",
+    "kết hôn",
+    "xử phạt vi phạm hành chính",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tổ chức việc lấy vợ"
+    ],
+    [
+      "người",
+      "tổ chức việc lấy chồng"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "còn vi phạm"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "những người chưa đến tuổi kết hôn",
+      "lấy vợ"
+    ],
+    [
+      "những người chưa đến tuổi kết hôn",
+      "lấy chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức tảo hôn",
+      "lấy vợ"
+    ],
+    [
+      "tổ chức tảo hôn",
+      "lấy chồng"
+    ],
+    [
+      "chưa đến tuổi kết hôn",
+      "lấy vợ"
+    ],
+    [
+      "chưa đến tuổi kết hôn",
+      "lấy chồng"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "còn vi phạm"
+    ]
+  ]
+}

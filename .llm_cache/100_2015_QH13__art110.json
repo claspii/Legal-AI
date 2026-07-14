@@ -1,0 +1,115 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nước cộng hòa xã hội chủ nghĩa việt nam",
+    "nước ngoài",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "hoạt động tình báo",
+    "phá hoại",
+    "gây cơ sở",
+    "hoạt động thám báo",
+    "chỉ điểm",
+    "chứa chấp",
+    "dẫn đường",
+    "cung cấp",
+    "thu thập",
+    "sử dụng chống",
+    "chuẩn bị phạm tội",
+    "nhận làm gián điệp",
+    "không thực hiện nhiệm vụ được giao",
+    "tự thú",
+    "thành khẩn khai báo",
+    "miễn trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "hoạt động tình báo"
+    ],
+    [
+      "người",
+      "phá hoại"
+    ],
+    [
+      "người",
+      "gây cơ sở"
+    ],
+    [
+      "người",
+      "hoạt động thám báo"
+    ],
+    [
+      "người",
+      "chỉ điểm"
+    ],
+    [
+      "người",
+      "chứa chấp"
+    ],
+    [
+      "người",
+      "dẫn đường"
+    ],
+    [
+      "người",
+      "cung cấp"
+    ],
+    [
+      "người",
+      "thu thập"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người",
+      "đã nhận làm gián điệp"
+    ],
+    [
+      "người",
+      "không thực hiện nhiệm vụ được giao"
+    ],
+    [
+      "người",
+      "tự thú"
+    ],
+    [
+      "người",
+      "thành khẩn khai báo"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "miễn trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hoạt động tình báo",
+      "phá hoại"
+    ],
+    [
+      "bí mật nhà nước",
+      "nước ngoài"
+    ],
+    [
+      "tin tức",
+      "tài liệu khác"
+    ],
+    [
+      "gián điệp",
+      "tự thú"
+    ],
+    [
+      "tự thú",
+      "thành khẩn khai báo"
+    ],
+    [
+      "gián điệp",
+      "miễn trách nhiệm hình sự"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người từ đủ 16 đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi",
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "áp dụng",
+    "khấu trừ"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ 16 đến dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người từ đủ 14 tuổi đến dưới 16 tuổi",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "người dưới 18 tuổi phạm tội"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "thời hạn cải tạo không giam giữ"
+    ]
+  ]
+}

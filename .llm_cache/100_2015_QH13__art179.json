@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "cơ quan",
+    "tổ chức",
+    "doanh nghiệp",
+    "người phạm tội"
+  ],
+  "actions": [
+    "thiếu trách nhiệm gây thiệt hại",
+    "phạm tội gây thiệt hại",
+    "bị phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "có nhiệm vụ trực tiếp trong công tác quản lý tài sản"
+    ],
+    [
+      "người",
+      "thiếu trách nhiệm mà để mất mát, hư hỏng, lãng phí gây thiệt hại"
+    ],
+    [
+      "người",
+      "phạm tội gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị phạt cảnh cáo"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiếu trách nhiệm",
+      "thiệt hại"
+    ],
+    [
+      "tài sản của nhà nước",
+      "thiệt hại"
+    ],
+    [
+      "tài sản của cơ quan",
+      "thiệt hại"
+    ],
+    [
+      "tài sản của tổ chức",
+      "thiệt hại"
+    ],
+    [
+      "tài sản của doanh nghiệp",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại từ 100.000.000 đồng đến dưới 500.000.000 đồng",
+      "phạt cảnh cáo"
+    ],
+    [
+      "thiệt hại từ 100.000.000 đồng đến dưới 500.000.000 đồng",
+      "phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "thiệt hại từ 500.000.000 đồng đến dưới 2.000.000.000 đồng",
+      "phạt tù từ 01 năm đến 05 năm"
+    ]
+  ]
+}

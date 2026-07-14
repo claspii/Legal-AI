@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên giữ",
+    "bên gửi"
+  ],
+  "actions": [
+    "trả lại tài sản",
+    "yêu cầu",
+    "chịu chi phí vận chuyển"
+  ],
+  "actor_actions": [
+    [
+      "bên giữ",
+      "trả lại tài sản đã nhận"
+    ],
+    [
+      "bên giữ",
+      "trả lại hoa lợi"
+    ],
+    [
+      "bên gửi",
+      "yêu cầu trả tài sản ở địa điểm khác"
+    ],
+    [
+      "bên gửi",
+      "chịu chi phí vận chuyển"
+    ],
+    [
+      "bên giữ",
+      "trả lại tài sản đúng thời hạn"
+    ],
+    [
+      "bên giữ",
+      "yêu cầu bên gửi lấy lại tài sản trước thời hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản gửi giữ",
+      "hoa lợi"
+    ],
+    [
+      "bên giữ",
+      "tài sản gửi giữ"
+    ],
+    [
+      "bên gửi",
+      "tài sản gửi giữ"
+    ]
+  ]
+}

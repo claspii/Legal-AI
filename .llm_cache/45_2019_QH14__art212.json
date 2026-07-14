@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người làm việc không có quan hệ lao động",
+    "tổ chức của người lao động tại doanh nghiệp"
+  ],
+  "actions": [
+    "ban hành văn bản quy phạm pháp luật về lao động",
+    "tổ chức thực hiện văn bản quy phạm pháp luật về lao động",
+    "theo dõi cung cầu và biến động cung, cầu lao động",
+    "thống kê cung cầu và biến động cung, cầu lao động",
+    "cung cấp thông tin về cung cầu và biến động cung, cầu lao động",
+    "quyết định chính sách tiền lương đối với người lao động",
+    "quyết định chính sách về nguồn nhân lực",
+    "quyết định quy hoạch về nguồn nhân lực"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "cung",
+      "cầu lao động"
+    ],
+    [
+      "chính sách tiền lương",
+      "người lao động"
+    ],
+    [
+      "nguồn nhân lực",
+      "phân bố và sử dụng lao động toàn xã hội"
+    ],
+    [
+      "giáo dục nghề nghiệp",
+      "phát triển kỹ năng nghề"
+    ],
+    [
+      "khung trình độ kỹ năng nghề quốc gia",
+      "khung trình độ quốc gia Việt Nam"
+    ],
+    [
+      "lao động",
+      "thị trường lao động"
+    ],
+    [
+      "mức sống",
+      "tiền lương và thu nhập của người lao động"
+    ],
+    [
+      "quản lý lao động",
+      "số lượng, chất lượng và biến động lao động"
+    ]
+  ]
+}

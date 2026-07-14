@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "chuẩn bị phạm tội",
+    "chịu trách nhiệm hình sự",
+    "phản bội tổ quốc",
+    "gián điệp",
+    "xâm phạm an ninh lãnh thổ",
+    "bạo loạn",
+    "khủng bố nhằm chống chính quyền nhân dân",
+    "phá hoại cơ sở vật chất - kỹ thuật của nước cộng hòa xã hội chủ nghĩa việt nam",
+    "làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuẩn bị phạm tội",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

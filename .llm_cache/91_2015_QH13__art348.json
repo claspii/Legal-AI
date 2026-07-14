@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cầm giữ",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "yêu cầu",
+    "thực hiện đầy đủ nghĩa vụ",
+    "thanh toán chi phí",
+    "khai thác tài sản",
+    "thu hoa lợi, lợi tức",
+    "bù trừ"
+  ],
+  "actor_actions": [
+    [
+      "bên cầm giữ",
+      "yêu cầu"
+    ],
+    [
+      "bên cầm giữ",
+      "được khai thác tài sản"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện đầy đủ nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cầm giữ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "bên cầm giữ",
+      "tài sản cầm giữ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản cầm giữ",
+      "hoa lợi, lợi tức"
+    ],
+    [
+      "giá trị khai thác tài sản cầm giữ",
+      "giá trị nghĩa vụ"
+    ]
+  ]
+}

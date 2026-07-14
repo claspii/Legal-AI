@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất trái phép chất ma túy",
+    "phạt tù",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất trái phép chất ma túy"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất trái phép chất ma túy",
+      "hình thức"
+    ],
+    [
+      "chất ma túy",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy",
+      "thể tích"
+    ],
+    [
+      "tái phạm",
+      "nguy hiểm"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "cơ quan",
+      "tổ chức"
+    ],
+    [
+      "nhựa thuốc phiện",
+      "nhựa cần sa"
+    ],
+    [
+      "hêrôin",
+      "côcain"
+    ]
+  ]
+}

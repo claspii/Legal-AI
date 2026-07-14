@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người học nghề",
+    "người tập nghề",
+    "người chưa thành niên"
+  ],
+  "actions": [
+    "phân biệt đối xử trong lao động",
+    "ngược đãi",
+    "cưỡng bức lao động",
+    "quấy rối tình dục",
+    "trục lợi",
+    "bóc lột sức lao động",
+    "lôi kéo"
+  ],
+  "actor_actions": [
+    [
+      "người học nghề",
+      "bị lôi kéo, dụ dỗ, ép buộc vào hoạt động trái pháp luật"
+    ],
+    [
+      "người tập nghề",
+      "bị lôi kéo, dụ dỗ, ép buộc vào hoạt động trái pháp luật"
+    ],
+    [
+      "người lao động",
+      "bị lừa gạt"
+    ],
+    [
+      "người lao động",
+      "bị tuyển dụng với mục đích mua bán người"
+    ],
+    [
+      "người lao động",
+      "bị bóc lột"
+    ],
+    [
+      "người lao động",
+      "bị cưỡng bức lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "dạy nghề",
+      "tập nghề"
+    ],
+    [
+      "người học nghề",
+      "người tập nghề"
+    ],
+    [
+      "dịch vụ việc làm",
+      "hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng"
+    ],
+    [
+      "lao động chưa qua đào tạo",
+      "lao động chưa có chứng chỉ kỹ năng nghề quốc gia"
+    ]
+  ]
+}

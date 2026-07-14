@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [
+    "quản chế"
+  ],
+  "actors": [
+    "người bị kết án phạt tù",
+    "chính quyền địa phương",
+    "nhân dân địa phương",
+    "người phạm tội xâm phạm an ninh quốc gia",
+    "người tái phạm nguy hiểm"
+  ],
+  "actions": [
+    "cư trú",
+    "làm ăn sinh sống",
+    "cải tạo",
+    "kiểm soát",
+    "giáo dục",
+    "ra khỏi nơi cư trú",
+    "bị tước một số quyền công dân",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án phạt tù",
+      "cư trú"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "làm ăn sinh sống"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "cải tạo"
+    ],
+    [
+      "chính quyền địa phương",
+      "kiểm soát"
+    ],
+    [
+      "nhân dân địa phương",
+      "giáo dục"
+    ],
+    [
+      "người bị kết án",
+      "không được tự ý ra khỏi nơi cư trú"
+    ],
+    [
+      "người bị kết án",
+      "bị tước một số quyền công dân"
+    ],
+    [
+      "người bị kết án",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người bị kết án",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quản chế",
+      "người bị kết án phạt tù"
+    ],
+    [
+      "quản chế",
+      "thời hạn quản chế"
+    ],
+    [
+      "quản chế",
+      "hình phạt tù"
+    ],
+    [
+      "quản chế",
+      "quyền công dân"
+    ]
+  ]
+}

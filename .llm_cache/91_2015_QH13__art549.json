@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "giao sản phẩm",
+    "nhận sản phẩm"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận gia công",
+      "giao sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "nhận sản phẩm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao sản phẩm",
+      "nhận sản phẩm"
+    ],
+    [
+      "bên nhận gia công",
+      "bên đặt gia công"
+    ]
+  ]
+}

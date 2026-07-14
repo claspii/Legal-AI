@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "vi phạm",
+    "cho phép xây nhà, công trình",
+    "tự ý xây nhà, công trình"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "cho phép xây nhà, công trình"
+    ],
+    [
+      "người",
+      "tự ý xây nhà, công trình"
+    ],
+    [
+      "người",
+      "gây nổ"
+    ],
+    [
+      "người",
+      "đốt rừng làm nương rẫy"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "vi phạm quy định",
+      "an toàn vận hành công trình điện"
+    ],
+    [
+      "hành lang bảo vệ",
+      "công trình điện"
+    ],
+    [
+      "hành lang bảo vệ",
+      "đường cáp điện ngầm"
+    ],
+    [
+      "thiết bị điện",
+      "không bảo đảm an toàn"
+    ]
+  ]
+}

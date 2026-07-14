@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước"
+  ],
+  "actions": [
+    "vi phạm quy định về bồi thường, hỗ trợ, tái định cư khi nhà nước thu hồi đất",
+    "lợi dụng chức vụ, quyền hạn",
+    "gây thiệt hại về tài sản",
+    "xử lý kỷ luật",
+    "vi phạm",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "vi phạm quy định của pháp luật về bồi thường về đất, hỗ trợ và tái định cư"
+    ],
+    [
+      "người",
+      "vi phạm quy định của pháp luật về bồi thường về tài sản, về sản xuất kinh doanh"
+    ],
+    [
+      "nhà nước",
+      "thu hồi đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bồi thường",
+      "hỗ trợ"
+    ],
+    [
+      "hỗ trợ",
+      "tái định cư"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "trị giá tài sản"
+    ]
+  ]
+}

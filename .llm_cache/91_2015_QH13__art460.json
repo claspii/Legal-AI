@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên tặng cho",
+    "bên được tặng cho",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "tặng cho tài sản",
+    "thanh toán chi phí",
+    "làm tăng giá trị của tài sản",
+    "lấy lại tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên tặng cho",
+      "tặng cho tài sản"
+    ],
+    [
+      "bên tặng cho",
+      "thanh toán chi phí"
+    ],
+    [
+      "chủ sở hữu",
+      "lấy lại tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "chi phí"
+    ],
+    [
+      "bên tặng cho",
+      "tài sản"
+    ],
+    [
+      "bên được tặng cho",
+      "tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+    "người vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người"
+    ],
+    [
+      "người vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+      "làm chết người"
+    ],
+    [
+      "vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ]
+  ]
+}

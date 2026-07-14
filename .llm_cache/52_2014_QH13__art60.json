@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giải quyết",
+    "ly hôn",
+    "có hiệu lực",
+    "thỏa thuận",
+    "có tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "ly hôn"
+    ],
+    [
+      "vợ chồng",
+      "có thỏa thuận khác"
+    ],
+    [
+      "người thứ ba",
+      "có thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền, nghĩa vụ tài sản",
+      "ly hôn"
+    ],
+    [
+      "quyền, nghĩa vụ tài sản",
+      "người thứ ba"
+    ]
+  ]
+}

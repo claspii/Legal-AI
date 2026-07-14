@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ"
+  ],
+  "actions": [
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính phủ",
+      "trình tự, thủ tục xử lý kỷ luật lao động"
+    ]
+  ]
+}

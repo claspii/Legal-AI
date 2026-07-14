@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [
+    "quan hệ dân sự có yếu tố nước ngoài"
+  ],
+  "actors": [
+    "cá nhân nước ngoài",
+    "pháp nhân nước ngoài",
+    "công dân việt nam",
+    "pháp nhân việt nam"
+  ],
+  "actions": [
+    "áp dụng",
+    "quy định",
+    "xác lập",
+    "thay đổi",
+    "thực hiện",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "luật khác",
+      "quy định"
+    ],
+    [
+      "quan hệ dân sự có yếu tố nước ngoài",
+      "pháp luật áp dụng"
+    ],
+    [
+      "cá nhân nước ngoài",
+      "bên tham gia"
+    ],
+    [
+      "pháp nhân nước ngoài",
+      "bên tham gia"
+    ],
+    [
+      "công dân việt nam",
+      "bên tham gia"
+    ],
+    [
+      "pháp nhân việt nam",
+      "bên tham gia"
+    ],
+    [
+      "quan hệ dân sự",
+      "xác lập"
+    ],
+    [
+      "quan hệ dân sự",
+      "thay đổi"
+    ]
+  ]
+}

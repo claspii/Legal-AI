@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên khó khăn, túng thiếu",
+    "vợ",
+    "chồng",
+    "bên kia"
+  ],
+  "actions": [
+    "ly hôn",
+    "yêu cầu cấp dưỡng",
+    "cấp dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "bên khó khăn, túng thiếu",
+      "yêu cầu cấp dưỡng"
+    ],
+    [
+      "bên kia",
+      "cấp dưỡng"
+    ],
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "khó khăn, túng thiếu",
+      "yêu cầu cấp dưỡng"
+    ],
+    [
+      "yêu cầu cấp dưỡng",
+      "lý do chính đáng"
+    ],
+    [
+      "nghĩa vụ cấp dưỡng",
+      "khả năng"
+    ]
+  ]
+}

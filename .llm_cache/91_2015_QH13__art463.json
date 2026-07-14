@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [
+    "hợp đồng vay tài sản"
+  ],
+  "actors": [
+    "bên cho vay",
+    "bên vay"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao tài sản",
+    "hoàn trả",
+    "trả lãi"
+  ],
+  "actor_actions": [
+    [
+      "bên cho vay",
+      "giao tài sản"
+    ],
+    [
+      "bên vay",
+      "hoàn trả"
+    ],
+    [
+      "bên vay",
+      "trả lãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho vay",
+      "bên vay"
+    ],
+    [
+      "hợp đồng vay tài sản",
+      "thỏa thuận"
+    ],
+    [
+      "tài sản",
+      "số lượng"
+    ],
+    [
+      "tài sản",
+      "chất lượng"
+    ],
+    [
+      "tài sản",
+      "lãi"
+    ]
+  ]
+}

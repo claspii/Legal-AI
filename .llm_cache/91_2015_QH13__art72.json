@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người",
+    "người bị tòa án tuyên bố là đã chết"
+  ],
+  "actions": [
+    "tuyên bố",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "tuyên bố một người là đã chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ nhân thân",
+      "người đã chết"
+    ],
+    [
+      "quan hệ tài sản",
+      "người đã chết"
+    ],
+    [
+      "quan hệ về hôn nhân",
+      "người đã chết"
+    ],
+    [
+      "gia đình",
+      "người đã chết"
+    ],
+    [
+      "quyết định của tòa án tuyên bố một người là đã chết có hiệu lực pháp luật",
+      "quan hệ về hôn nhân"
+    ],
+    [
+      "quyết định của tòa án tuyên bố một người là đã chết có hiệu lực pháp luật",
+      "gia đình"
+    ],
+    [
+      "quyết định của tòa án tuyên bố một người là đã chết có hiệu lực pháp luật",
+      "quan hệ nhân thân khác"
+    ],
+    [
+      "tài sản",
+      "pháp luật về thừa kế"
+    ]
+  ]
+}

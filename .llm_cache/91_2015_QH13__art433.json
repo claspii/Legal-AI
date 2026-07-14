@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người thứ ba",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định",
+    "giao kết hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "giao kết hợp đồng"
+    ],
+    [
+      "người thứ ba",
+      "xác định"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giá",
+      "phương thức thanh toán"
+    ],
+    [
+      "thỏa thuận",
+      "giá"
+    ],
+    [
+      "thỏa thuận",
+      "phương thức thanh toán"
+    ],
+    [
+      "giá thị trường",
+      "giá"
+    ],
+    [
+      "phương thức thanh toán",
+      "tập quán"
+    ]
+  ]
+}

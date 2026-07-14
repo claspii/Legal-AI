@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "người lao động"
+  ],
+  "actions": [
+    "trốn đóng bảo hiểm xã hội",
+    "trốn đóng bảo hiểm y tế",
+    "trốn đóng bảo hiểm thất nghiệp",
+    "bị phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "phạt tiền"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "người lao động"
+    ],
+    [
+      "bảo hiểm y tế",
+      "người lao động"
+    ],
+    [
+      "bảo hiểm thất nghiệp",
+      "người lao động"
+    ],
+    [
+      "tội trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp",
+      "pháp nhân thương mại"
+    ]
+  ]
+}

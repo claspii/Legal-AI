@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [
+    "người lao động nước ngoài làm việc tại việt nam"
+  ],
+  "actors": [
+    "người lao động nước ngoài",
+    "bộ trưởng bộ y tế",
+    "cơ quan nhà nước có thẩm quyền của việt nam",
+    "hai bên",
+    "nước cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actions": [
+    "làm việc",
+    "đáp ứng điều kiện",
+    "cấp giấy phép lao động",
+    "thỏa thuận giao kết hợp đồng lao động",
+    "tuân theo pháp luật",
+    "được pháp luật bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "người lao động nước ngoài",
+      "đáp ứng điều kiện"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền của việt nam",
+      "cấp giấy phép lao động"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận giao kết hợp đồng lao động"
+    ],
+    [
+      "người lao động nước ngoài",
+      "tuân theo pháp luật lao động việt nam"
+    ],
+    [
+      "người lao động nước ngoài",
+      "được pháp luật việt nam bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động nước ngoài",
+      "điều kiện"
+    ],
+    [
+      "giấy phép lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động nước ngoài",
+      "pháp luật lao động việt nam"
+    ]
+  ]
+}

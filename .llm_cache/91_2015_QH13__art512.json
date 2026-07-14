@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hợp tác",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng hợp tác",
+    "thanh toán nợ",
+    "chia tài sản chung"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "thỏa thuận chấm dứt hợp đồng hợp tác"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quyết định chấm dứt hợp đồng hợp tác"
+    ],
+    [
+      "thành viên hợp tác",
+      "thanh toán các khoản nợ"
+    ],
+    [
+      "thành viên hợp tác",
+      "chia tài sản chung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng hợp tác",
+      "chấm dứt"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "thời hạn"
+    ],
+    [
+      "hợp đồng hợp tác",
+      "mục đích hợp tác"
+    ],
+    [
+      "khoản nợ",
+      "thanh toán"
+    ],
+    [
+      "tài sản chung",
+      "trả nợ"
+    ],
+    [
+      "tài sản riêng",
+      "thanh toán nợ"
+    ],
+    [
+      "tài sản chung",
+      "chia"
+    ],
+    [
+      "tỷ lệ phần đóng góp",
+      "chia tài sản chung"
+    ]
+  ]
+}

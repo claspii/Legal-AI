@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động",
+    "người lao động",
+    "hòa giải viên lao động",
+    "ban trọng tài lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "đình công",
+    "hòa giải",
+    "tiến hành thủ tục",
+    "không được thành lập",
+    "không ra quyết định giải quyết tranh chấp",
+    "không thực hiện quyết định giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động",
+      "tiến hành thủ tục"
+    ],
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "hòa giải viên lao động",
+      "không tiến hành hòa giải"
+    ],
+    [
+      "ban trọng tài lao động",
+      "không được thành lập"
+    ],
+    [
+      "ban trọng tài lao động",
+      "không ra quyết định giải quyết tranh chấp"
+    ],
+    [
+      "người sử dụng lao động",
+      "không thực hiện quyết định giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "tranh chấp lao động tập thể về lợi ích",
+      "đình công"
+    ],
+    [
+      "hòa giải",
+      "đình công"
+    ],
+    [
+      "ban trọng tài lao động",
+      "đình công"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho vay",
+    "bên vay"
+  ],
+  "actions": [
+    "giao tài sản",
+    "bồi thường thiệt hại",
+    "yêu cầu trả lại tài sản",
+    "báo",
+    "nhận tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên cho vay",
+      "giao tài sản"
+    ],
+    [
+      "bên cho vay",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên cho vay",
+      "báo"
+    ],
+    [
+      "bên cho vay",
+      "yêu cầu trả lại tài sản"
+    ],
+    [
+      "bên vay",
+      "nhận tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho vay",
+      "bên vay"
+    ],
+    [
+      "nghĩa vụ của bên cho vay",
+      "tài sản"
+    ]
+  ]
+}

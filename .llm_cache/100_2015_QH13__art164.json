@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "dùng thủ đoạn khác",
+    "ngăn cản",
+    "ép buộc",
+    "thực hiện quyền tự do tín ngưỡng, tôn giáo",
+    "theo hoặc không theo một tôn giáo nào",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác"
+    ],
+    [
+      "người",
+      "ngăn cản"
+    ],
+    [
+      "người",
+      "ép buộc"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ],
+    [
+      "người khác",
+      "thực hiện quyền tự do tín ngưỡng, tôn giáo"
+    ],
+    [
+      "người khác",
+      "theo hoặc không theo một tôn giáo nào"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội xâm phạm quyền tự do tín ngưỡng, tôn giáo của người khác",
+      "quyền tự do tín ngưỡng, tôn giáo"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được cấp dưỡng",
+    "người cấp dưỡng",
+    "bên được cấp dưỡng"
+  ],
+  "actions": [
+    "chấm dứt",
+    "cấp dưỡng",
+    "có khả năng lao động",
+    "có tài sản",
+    "tự nuôi mình",
+    "nhận làm con nuôi",
+    "trực tiếp nuôi dưỡng",
+    "chết",
+    "ly hôn",
+    "kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "chấm dứt"
+    ],
+    [
+      "người được cấp dưỡng",
+      "có khả năng lao động"
+    ],
+    [
+      "người được cấp dưỡng",
+      "có tài sản"
+    ],
+    [
+      "người được cấp dưỡng",
+      "tự nuôi mình"
+    ],
+    [
+      "người được cấp dưỡng",
+      "được nhận làm con nuôi"
+    ],
+    [
+      "người cấp dưỡng",
+      "trực tiếp nuôi dưỡng người được cấp dưỡng"
+    ],
+    [
+      "người cấp dưỡng",
+      "chết"
+    ],
+    [
+      "người được cấp dưỡng",
+      "chết"
+    ],
+    [
+      "bên được cấp dưỡng",
+      "kết hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "chấm dứt"
+    ],
+    [
+      "người được cấp dưỡng",
+      "thành niên"
+    ],
+    [
+      "người được cấp dưỡng",
+      "có khả năng lao động"
+    ],
+    [
+      "người được cấp dưỡng",
+      "có tài sản"
+    ],
+    [
+      "người được cấp dưỡng",
+      "con nuôi"
+    ],
+    [
+      "người cấp dưỡng",
+      "người được cấp dưỡng"
+    ],
+    [
+      "người cấp dưỡng",
+      "chết"
+    ],
+    [
+      "người được cấp dưỡng",
+      "chết"
+    ],
+    [
+      "bên được cấp dưỡng",
+      "ly hôn"
+    ],
+    [
+      "bên được cấp dưỡng",
+      "kết hôn"
+    ]
+  ]
+}

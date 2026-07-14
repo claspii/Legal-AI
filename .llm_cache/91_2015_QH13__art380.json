@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "chấm dứt nghĩa vụ",
+    "hòa nhập"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "chấm dứt nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [
+    "tịch thu tài sản"
+  ],
+  "actors": [
+    "người bị kết án",
+    "gia đình"
+  ],
+  "actions": [
+    "tịch thu tài sản",
+    "tước một phần hoặc toàn bộ tài sản",
+    "nộp vào ngân sách nhà nước",
+    "áp dụng",
+    "xâm phạm an ninh quốc gia",
+    "để cho có điều kiện sinh sống"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "để cho có điều kiện sinh sống"
+    ],
+    [
+      "gia đình",
+      "để cho có điều kiện sinh sống"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tịch thu tài sản",
+      "tước một phần hoặc toàn bộ tài sản"
+    ],
+    [
+      "tịch thu tài sản",
+      "nộp vào ngân sách nhà nước"
+    ],
+    [
+      "tịch thu tài sản",
+      "tội phạm nghiêm trọng"
+    ],
+    [
+      "tịch thu tài sản",
+      "tội phạm rất nghiêm trọng"
+    ],
+    [
+      "tịch thu tài sản",
+      "tội phạm đặc biệt nghiêm trọng xâm phạm an ninh quốc gia"
+    ],
+    [
+      "tịch thu tài sản",
+      "tội phạm về ma túy"
+    ],
+    [
+      "tịch thu tài sản",
+      "tội phạm tham nhũng"
+    ]
+  ]
+}

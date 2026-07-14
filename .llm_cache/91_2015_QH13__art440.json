@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán",
+    "các bên"
+  ],
+  "actions": [
+    "thanh toán tiền",
+    "trả lãi",
+    "giao tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên mua",
+      "thanh toán tiền"
+    ],
+    [
+      "các bên",
+      "thỏa thuận về thời hạn giao tài sản"
+    ],
+    [
+      "bên mua",
+      "trả lãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn giao tài sản",
+      "thời hạn thanh toán tiền"
+    ],
+    [
+      "nghĩa vụ trả tiền",
+      "lãi trên số tiền chậm trả"
+    ]
+  ]
+}

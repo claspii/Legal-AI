@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "các bên"
+  ],
+  "actions": [
+    "chấm dứt",
+    "thuộc quyền sở hữu",
+    "sử dụng",
+    "khai thác",
+    "làm phát sinh",
+    "hưởng quyền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thuộc quyền sở hữu"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền đối với bất động sản liền kề",
+      "chấm dứt"
+    ],
+    [
+      "bất động sản hưởng quyền",
+      "bất động sản chịu hưởng quyền"
+    ],
+    [
+      "bất động sản",
+      "sử dụng"
+    ],
+    [
+      "bất động sản",
+      "khai thác"
+    ],
+    [
+      "nhu cầu hưởng quyền",
+      "làm phát sinh"
+    ],
+    [
+      "thỏa thuận",
+      "các bên"
+    ]
+  ]
+}

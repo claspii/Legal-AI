@@ -1,0 +1,28 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "bồi thường",
+    "vi phạm nghĩa vụ gây ra",
+    "thỏa thuận khác",
+    "luật có quy định khác"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "bồi thường",
+      "thiệt hại"
+    ]
+  ]
+}

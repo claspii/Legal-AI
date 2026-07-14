@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có quyền yêu cầu"
+  ],
+  "actions": [
+    "biết",
+    "xâm phạm",
+    "tính thời hiệu",
+    "yêu cầu giải quyết việc dân sự",
+    "khởi kiện vụ án dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền yêu cầu",
+      "biết"
+    ],
+    [
+      "người có quyền yêu cầu",
+      "xâm phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu khởi kiện vụ án dân sự",
+      "ngày biết quyền, lợi ích hợp pháp bị xâm phạm"
+    ],
+    [
+      "thời hiệu yêu cầu giải quyết việc dân sự",
+      "ngày phát sinh quyền yêu cầu"
+    ]
+  ]
+}

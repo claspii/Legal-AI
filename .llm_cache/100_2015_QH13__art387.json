@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị bắt",
+    "người bị tạm giữ",
+    "người tạm giam",
+    "người đang bị áp giải",
+    "người xét xử",
+    "người chấp hành án phạt tù",
+    "người canh gác",
+    "người bị kết án"
+  ],
+  "actions": [
+    "đánh tháo",
+    "bị bắt",
+    "tạm giữ",
+    "tạm giam",
+    "bị áp giải",
+    "xét xử",
+    "chấp hành án phạt tù",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đánh tháo"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ"
+    ],
+    [
+      "người",
+      "lợi dụng quyền hạn"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đánh tháo",
+      "người bị bắt"
+    ],
+    [
+      "đánh tháo",
+      "người bị tạm giữ"
+    ],
+    [
+      "đánh tháo",
+      "người tạm giam"
+    ],
+    [
+      "đánh tháo",
+      "người đang bị áp giải"
+    ],
+    [
+      "đánh tháo",
+      "người chấp hành án phạt tù"
+    ],
+    [
+      "đánh tháo",
+      "tội xâm phạm an ninh quốc gia"
+    ],
+    [
+      "đánh tháo",
+      "người bị kết án tử hình"
+    ]
+  ]
+}

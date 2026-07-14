@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác"
+  ],
+  "actions": [
+    "bị tịch thu",
+    "sung quỹ nhà nước",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản bị tịch thu",
+      "sung quỹ nhà nước"
+    ],
+    [
+      "phạm tội",
+      "vi phạm hành chính"
+    ],
+    [
+      "bản án",
+      "quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác"
+    ]
+  ]
+}

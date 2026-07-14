@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "thành viên của pháp nhân",
+    "pháp nhân nước ngoài"
+  ],
+  "actions": [
+    "xác định quốc tịch",
+    "thành lập",
+    "tổ chức",
+    "tổ chức lại",
+    "giải thể",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "thành lập"
+    ],
+    [
+      "pháp nhân",
+      "tổ chức"
+    ],
+    [
+      "pháp nhân",
+      "tổ chức lại"
+    ],
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "pháp nhân nước ngoài",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "pháp nhân nước ngoài",
+      "thực hiện giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quốc tịch của pháp nhân",
+      "pháp luật của nước nơi pháp nhân thành lập"
+    ],
+    [
+      "năng lực pháp luật dân sự của pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "tên gọi của pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "đại diện theo pháp luật của pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "việc tổ chức, tổ chức lại, giải thể pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "quan hệ giữa pháp nhân với thành viên của pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân",
+      "pháp luật của nước mà pháp nhân có quốc tịch"
+    ],
+    [
+      "năng lực pháp luật dân sự của pháp nhân nước ngoài",
+      "pháp luật việt nam"
+    ]
+  ]
+}

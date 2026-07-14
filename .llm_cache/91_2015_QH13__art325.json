@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng đất",
+    "chủ sở hữu tài sản gắn liền với đất",
+    "bên thế chấp",
+    "người nhận chuyển quyền sử dụng đất"
+  ],
+  "actions": [
+    "thế chấp quyền sử dụng đất",
+    "thế chấp tài sản gắn liền với đất",
+    "xử lý",
+    "sử dụng đất",
+    "chuyển giao"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng đất",
+      "thế chấp quyền sử dụng đất"
+    ],
+    [
+      "chủ sở hữu tài sản gắn liền với đất",
+      "tiếp tục sử dụng đất"
+    ],
+    [
+      "bên thế chấp",
+      "chuyển giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sử dụng đất",
+      "tài sản gắn liền với đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "thế chấp quyền sử dụng đất"
+    ],
+    [
+      "tài sản gắn liền với đất",
+      "thế chấp tài sản gắn liền với đất"
+    ],
+    [
+      "người sử dụng đất",
+      "chủ sở hữu tài sản gắn liền với đất"
+    ],
+    [
+      "quyền và nghĩa vụ của bên thế chấp",
+      "người nhận chuyển quyền sử dụng đất"
+    ]
+  ]
+}

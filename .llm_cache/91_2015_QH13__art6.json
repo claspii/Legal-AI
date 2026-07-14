@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "áp dụng tương tự pháp luật",
+    "áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự",
+    "áp dụng các nguyên tắc cơ bản của pháp luật dân sự",
+    "áp dụng án lệ",
+    "áp dụng lẽ công bằng"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự",
+      "áp dụng tương tự pháp luật"
+    ],
+    [
+      "pháp luật không có quy định",
+      "áp dụng tương tự pháp luật"
+    ],
+    [
+      "không có tập quán được áp dụng",
+      "áp dụng tương tự pháp luật"
+    ],
+    [
+      "không thể áp dụng tương tự pháp luật",
+      "áp dụng các nguyên tắc cơ bản của pháp luật dân sự"
+    ],
+    [
+      "không thể áp dụng tương tự pháp luật",
+      "án lệ"
+    ],
+    [
+      "không thể áp dụng tương tự pháp luật",
+      "lẽ công bằng"
+    ]
+  ]
+}

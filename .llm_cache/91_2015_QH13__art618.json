@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người quản lý di sản",
+    "người thừa kế",
+    "người thứ ba",
+    "người đang chiếm hữu",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "đại diện",
+    "hưởng thù lao",
+    "thanh toán chi phí",
+    "tiếp tục sử dụng",
+    "đạt được thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người quản lý di sản",
+      "đại diện"
+    ],
+    [
+      "người quản lý di sản",
+      "hưởng thù lao"
+    ],
+    [
+      "người quản lý di sản",
+      "thanh toán chi phí"
+    ],
+    [
+      "người đang chiếm hữu",
+      "tiếp tục sử dụng"
+    ],
+    [
+      "người đang chiếm hữu",
+      "hưởng thù lao"
+    ],
+    [
+      "người đang chiếm hữu",
+      "thanh toán chi phí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người quản lý di sản",
+      "di sản thừa kế"
+    ],
+    [
+      "người quản lý di sản",
+      "người thừa kế"
+    ],
+    [
+      "người quản lý di sản",
+      "thù lao"
+    ],
+    [
+      "người quản lý di sản",
+      "chi phí bảo quản di sản"
+    ],
+    [
+      "người đang chiếm hữu",
+      "di sản"
+    ],
+    [
+      "người đang chiếm hữu",
+      "người thừa kế"
+    ]
+  ]
+}

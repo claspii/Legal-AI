@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "chủ thể khác",
+    "người khác"
+  ],
+  "actions": [
+    "bình đẳng",
+    "phân biệt đối xử",
+    "bảo hộ",
+    "xác lập",
+    "thực hiện",
+    "chấm dứt",
+    "cam kết",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "bình đẳng"
+    ],
+    [
+      "pháp nhân",
+      "bình đẳng"
+    ],
+    [
+      "cá nhân",
+      "xác lập"
+    ],
+    [
+      "pháp nhân",
+      "xác lập"
+    ],
+    [
+      "cá nhân",
+      "chịu trách nhiệm"
+    ],
+    [
+      "pháp nhân",
+      "chịu trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "pháp nhân"
+    ],
+    [
+      "quyền nhân thân",
+      "tài sản"
+    ],
+    [
+      "tự do",
+      "tự nguyện cam kết"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích dân tộc"
+    ],
+    [
+      "lợi ích quốc gia",
+      "lợi ích công cộng"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp của người khác"
+    ]
+  ]
+}

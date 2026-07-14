@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "che giấu",
+    "trốn tránh nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "bên",
+      "che giấu"
+    ],
+    [
+      "bên",
+      "trốn tránh nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự giả tạo",
+      "giao dịch dân sự bị che giấu"
+    ],
+    [
+      "giao dịch dân sự vô hiệu",
+      "giao dịch dân sự có hiệu lực"
+    ],
+    [
+      "giao dịch dân sự giả tạo",
+      "vô hiệu"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "tổ chức đại diện người sử dụng lao động",
+    "quan hệ lao động",
+    "người làm việc không có quan hệ lao động",
+    "cưỡng bức lao động",
+    "phân biệt đối xử trong lao động",
+    "quấy rối tình dục tại nơi làm việc"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "doanh nghiệp",
+    "cơ quan",
+    "tổ chức",
+    "hợp tác xã",
+    "hộ gia đình",
+    "cá nhân"
+  ],
+  "actions": [
+    "làm việc",
+    "trả lương",
+    "chịu sự quản lý, điều hành, giám sát",
+    "thuê mướn",
+    "sử dụng",
+    "thành lập",
+    "bảo vệ quyền và lợi ích hợp pháp",
+    "thương lượng tập thể"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "được trả lương"
+    ],
+    [
+      "người lao động",
+      "chịu sự quản lý, điều hành, giám sát"
+    ],
+    [
+      "người sử dụng lao động",
+      "thuê mướn"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động"
+    ],
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "người lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "công đoàn cơ sở"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ]
+  ]
+}

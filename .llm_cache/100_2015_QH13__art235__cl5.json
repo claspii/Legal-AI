@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị phạt tiền",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm hoạt động"
+    ]
+  ],
+  "related_concepts": []
+}

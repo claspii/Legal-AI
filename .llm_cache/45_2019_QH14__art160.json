@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người khuyết tật",
+    "người sử dụng lao động",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "sử dụng",
+    "làm thêm giờ",
+    "làm việc vào ban đêm",
+    "đồng ý",
+    "làm công việc nặng nhọc, độc hại, nguy hiểm",
+    "cung cấp đầy đủ thông tin"
+  ],
+  "actor_actions": [
+    [
+      "người lao động là người khuyết tật",
+      "đồng ý"
+    ],
+    [
+      "người khuyết tật",
+      "đồng ý"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động là người khuyết tật nhẹ suy giảm khả năng lao động từ 51% trở lên, khuyết tật nặng hoặc khuyết tật đặc biệt nặng làm thêm giờ, làm việc vào ban đêm"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng người lao động là người khuyết tật làm công việc nặng nhọc, độc hại, nguy hiểm"
+    ],
+    [
+      "người sử dụng lao động",
+      "cung cấp đầy đủ thông tin"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người khuyết tật"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động là người khuyết tật"
+    ],
+    [
+      "người khuyết tật",
+      "làm thêm giờ"
+    ],
+    [
+      "người khuyết tật",
+      "làm việc vào ban đêm"
+    ],
+    [
+      "người khuyết tật",
+      "công việc nặng nhọc, độc hại, nguy hiểm"
+    ]
+  ]
+}

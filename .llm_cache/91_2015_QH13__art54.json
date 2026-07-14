@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người giám hộ đương nhiên",
+    "ủy ban nhân dân cấp xã",
+    "người được giám hộ",
+    "tòa án",
+    "người giám hộ",
+    "pháp nhân"
+  ],
+  "actions": [
+    "cử",
+    "chỉ định",
+    "giám hộ",
+    "tranh chấp",
+    "xem xét nguyện vọng",
+    "được sự đồng ý",
+    "lập thành văn bản",
+    "thực hiện việc giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "ủy ban nhân dân cấp xã",
+      "cử người giám hộ"
+    ],
+    [
+      "tòa án",
+      "chỉ định người giám hộ"
+    ],
+    [
+      "người được cử làm người giám hộ",
+      "được sự đồng ý"
+    ],
+    [
+      "tòa án",
+      "đề nghị một pháp nhân thực hiện việc giám hộ"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện việc giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chưa thành niên",
+      "người giám hộ"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "người giám hộ"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "cử người giám hộ"
+    ],
+    [
+      "tòa án",
+      "chỉ định người giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "quyền"
+    ],
+    [
+      "người giám hộ",
+      "nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [
+    "yêu sách của cải trong kết hôn"
+  ],
+  "actors": [
+    "nam",
+    "nữ"
+  ],
+  "actions": [
+    "kết hôn",
+    "đòi hỏi",
+    "cản trở"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "yêu sách của cải trong kết hôn",
+      "kết hôn tự nguyện"
+    ]
+  ]
+}

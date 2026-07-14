@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác",
+    "người phạm tội"
+  ],
+  "actions": [
+    "thu thập",
+    "tàng trữ",
+    "trao đổi",
+    "mua bán",
+    "công khai hóa",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thu thập"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "trao đổi"
+    ],
+    [
+      "người nào",
+      "mua bán"
+    ],
+    [
+      "người nào",
+      "công khai hóa"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin về tài khoản ngân hàng",
+      "số lượng tài khoản"
+    ],
+    [
+      "thông tin về tài khoản ngân hàng",
+      "thu lợi bất chính"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ],
+    [
+      "phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "phạm tội",
+      "tịch thu tài sản"
+    ]
+  ]
+}

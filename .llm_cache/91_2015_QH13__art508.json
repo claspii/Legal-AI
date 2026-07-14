@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hợp tác",
+    "người đại diện",
+    "chủ thể"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "cử người đại diện",
+    "tham gia xác lập, thực hiện giao dịch dân sự",
+    "làm phát sinh quyền, nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "cử người đại diện"
+    ],
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "thành viên hợp tác",
+      "tham gia xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "chủ thể",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "chủ thể",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "chủ thể",
+      "làm phát sinh quyền, nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thành viên hợp tác",
+      "người đại diện"
+    ],
+    [
+      "người đại diện",
+      "giao dịch dân sự"
+    ],
+    [
+      "thành viên hợp tác",
+      "giao dịch dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "quyền, nghĩa vụ"
+    ]
+  ]
+}

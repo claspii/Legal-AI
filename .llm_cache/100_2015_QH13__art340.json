@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "sửa chữa",
+    "làm sai lệch nội dung",
+    "sử dụng",
+    "thực hiện tội phạm",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "phạt cảnh cáo",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sửa chữa"
+    ],
+    [
+      "người",
+      "làm sai lệch nội dung"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "thực hiện tội phạm"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sửa chữa",
+      "giấy chứng nhận"
+    ],
+    [
+      "sử dụng",
+      "giấy tờ đó thực hiện tội phạm"
+    ],
+    [
+      "hành vi",
+      "vi phạm hành chính"
+    ],
+    [
+      "hình phạt",
+      "phạt cảnh cáo"
+    ],
+    [
+      "hình phạt",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt",
+      "phạt tù"
+    ],
+    [
+      "giấy tờ, tài liệu",
+      "sửa chữa hoặc làm sai lệch"
+    ]
+  ]
+}

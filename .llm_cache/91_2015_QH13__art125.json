@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người bị hạn chế năng lực hành vi dân sự",
+    "người đại diện",
+    "tòa án",
+    "người xác lập giao dịch"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "tuyên bố",
+    "đồng ý",
+    "làm phát sinh quyền",
+    "miễn trừ nghĩa vụ",
+    "thừa nhận hiệu lực"
+  ],
+  "actor_actions": [
+    [
+      "người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi hoặc người bị hạn chế năng lực hành vi dân sự",
+      "xác lập"
+    ],
+    [
+      "người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi hoặc người bị hạn chế năng lực hành vi dân sự",
+      "thực hiện"
+    ],
+    [
+      "tòa án",
+      "tuyên bố"
+    ],
+    [
+      "người đại diện",
+      "xác lập"
+    ],
+    [
+      "người đại diện",
+      "thực hiện"
+    ],
+    [
+      "người đại diện",
+      "đồng ý"
+    ],
+    [
+      "giao dịch dân sự",
+      "làm phát sinh quyền"
+    ],
+    [
+      "giao dịch dân sự",
+      "miễn trừ nghĩa vụ"
+    ],
+    [
+      "người xác lập giao dịch",
+      "thừa nhận hiệu lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "người chưa thành niên"
+    ],
+    [
+      "giao dịch dân sự",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "giao dịch dân sự",
+      "người bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "vô hiệu"
+    ],
+    [
+      "người chưa thành niên",
+      "người đại diện"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "người đại diện"
+    ],
+    [
+      "giao dịch dân sự",
+      "hiệu lực"
+    ]
+  ]
+}

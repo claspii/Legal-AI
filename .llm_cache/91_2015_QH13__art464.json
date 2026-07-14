@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vay"
+  ],
+  "actions": [
+    "trở thành chủ sở hữu",
+    "nhận tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên vay",
+      "trở thành chủ sở hữu"
+    ],
+    [
+      "bên vay",
+      "nhận tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản vay",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản vay",
+      "nhận tài sản"
+    ]
+  ]
+}

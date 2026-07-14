@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "các bên",
+    "bên tranh chấp"
+  ],
+  "actions": [
+    "hướng dẫn",
+    "hỗ trợ",
+    "thương lượng",
+    "giải quyết tranh chấp",
+    "lập biên bản hòa giải thành",
+    "ký",
+    "đưa ra phương án hòa giải",
+    "chấp nhận phương án hòa giải",
+    "lập biên bản hòa giải không thành"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "hướng dẫn"
+    ],
+    [
+      "hòa giải viên lao động",
+      "hỗ trợ"
+    ],
+    [
+      "các bên",
+      "thương lượng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "hòa giải viên lao động",
+      "lập biên bản hòa giải thành"
+    ],
+    [
+      "bên tranh chấp",
+      "ký"
+    ],
+    [
+      "hòa giải viên lao động",
+      "đưa ra phương án hòa giải"
+    ],
+    [
+      "các bên",
+      "chấp nhận phương án hòa giải"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải viên lao động",
+      "tranh chấp lao động cá nhân"
+    ],
+    [
+      "biên bản hòa giải thành",
+      "chữ ký của các bên tranh chấp"
+    ],
+    [
+      "biên bản hòa giải thành",
+      "chữ ký của hòa giải viên lao động"
+    ],
+    [
+      "biên bản hòa giải không thành",
+      "chữ ký của bên tranh chấp có mặt"
+    ],
+    [
+      "biên bản hòa giải không thành",
+      "chữ ký của hòa giải viên lao động"
+    ]
+  ]
+}

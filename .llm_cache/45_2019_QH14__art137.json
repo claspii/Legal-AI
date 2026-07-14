@@ -1,0 +1,98 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "lao động nữ",
+    "tòa án",
+    "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "làm việc ban đêm",
+    "làm thêm giờ",
+    "đi công tác xa",
+    "nuôi con dưới 12 tháng tuổi",
+    "chuyển sang làm công việc nhẹ hơn, an toàn hơn",
+    "giảm bớt 01 giờ làm việc hằng ngày",
+    "sa thải",
+    "đơn phương chấm dứt hợp đồng lao động",
+    "kết hôn",
+    "mang thai",
+    "nghỉ thai sản",
+    "giao kết hợp đồng lao động mới",
+    "nghỉ mỗi ngày 30 phút",
+    "nghỉ mỗi ngày 60 phút"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động làm việc ban đêm"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động làm thêm giờ"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được sử dụng người lao động đi công tác xa"
+    ],
+    [
+      "lao động nữ",
+      "mang thai từ tháng thứ 07"
+    ],
+    [
+      "lao động nữ",
+      "nuôi con dưới 12 tháng tuổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "chuyển sang làm công việc nhẹ hơn, an toàn hơn"
+    ],
+    [
+      "người sử dụng lao động",
+      "giảm bớt 01 giờ làm việc hằng ngày"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được sa thải"
+    ],
+    [
+      "người sử dụng lao động",
+      "không được đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "lao động nữ",
+      "được ưu tiên giao kết hợp đồng lao động mới"
+    ],
+    [
+      "lao động nữ",
+      "được nghỉ mỗi ngày 30 phút"
+    ],
+    [
+      "lao động nữ",
+      "được nghỉ mỗi ngày 60 phút"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ",
+      "bảo vệ thai sản"
+    ],
+    [
+      "lao động nữ",
+      "mang thai"
+    ],
+    [
+      "lao động nữ",
+      "nuôi con dưới 12 tháng tuổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "hợp đồng lao động"
+    ],
+    [
+      "tiền lương",
+      "hợp đồng lao động"
+    ]
+  ]
+}

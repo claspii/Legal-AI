@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức dịch vụ việc làm",
+    "pháp luật"
+  ],
+  "actions": [
+    "lựa chọn việc làm",
+    "làm việc",
+    "liên hệ",
+    "tìm kiếm việc làm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "lựa chọn việc làm"
+    ],
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "liên hệ"
+    ],
+    [
+      "người lao động",
+      "tìm kiếm việc làm"
+    ],
+    [
+      "pháp luật",
+      "cấm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "việc làm"
+    ],
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "người lao động",
+      "tổ chức dịch vụ việc làm"
+    ],
+    [
+      "việc làm",
+      "pháp luật"
+    ]
+  ]
+}

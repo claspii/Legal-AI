@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ sở hữu vật chính",
+    "chủ sở hữu vật phụ"
+  ],
+  "actions": [
+    "sáp nhập",
+    "tạo thành vật không chia được",
+    "xác định tài sản đem sáp nhập là vật chính",
+    "xác định tài sản đem sáp nhập là vật phụ",
+    "thanh toán",
+    "có thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "sáp nhập"
+    ],
+    [
+      "chủ sở hữu tài sản mới",
+      "thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "tài sản của nhiều chủ sở hữu khác nhau",
+      "sáp nhập"
+    ],
+    [
+      "vật không chia được",
+      "tài sản thuộc sở hữu chung"
+    ],
+    [
+      "vật chính",
+      "vật phụ"
+    ],
+    [
+      "vật mới được tạo thành",
+      "tài sản thuộc sở hữu chung"
+    ]
+  ]
+}

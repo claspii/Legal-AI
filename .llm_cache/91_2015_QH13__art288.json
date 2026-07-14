@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ liên đới"
+  ],
+  "actors": [
+    "nhiều người",
+    "bên có quyền",
+    "người có nghĩa vụ",
+    "người có nghĩa vụ liên đới"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ liên đới",
+    "yêu cầu",
+    "thực hiện toàn bộ nghĩa vụ",
+    "miễn thực hiện nghĩa vụ",
+    "chỉ định",
+    "miễn",
+    "thực hiện phần nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "nhiều người",
+      "thực hiện nghĩa vụ liên đới"
+    ],
+    [
+      "bên có quyền",
+      "yêu cầu"
+    ],
+    [
+      "người có nghĩa vụ",
+      "thực hiện toàn bộ nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "chỉ định"
+    ],
+    [
+      "bên có quyền",
+      "miễn"
+    ],
+    [
+      "người có nghĩa vụ liên đới",
+      "được miễn thực hiện nghĩa vụ"
+    ],
+    [
+      "những người còn lại",
+      "liên đới thực hiện phần nghĩa vụ của họ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ liên đới",
+      "nhiều người"
+    ],
+    [
+      "bên có quyền",
+      "người có nghĩa vụ liên đới"
+    ],
+    [
+      "thực hiện toàn bộ nghĩa vụ",
+      "yêu cầu"
+    ],
+    [
+      "miễn thực hiện nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "thực hiện phần nghĩa vụ",
+      "người có nghĩa vụ liên đới"
+    ]
+  ]
+}

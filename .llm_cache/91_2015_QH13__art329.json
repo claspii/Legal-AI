@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [
+    "ký cược"
+  ],
+  "actors": [
+    "bên thuê tài sản",
+    "bên cho thuê"
+  ],
+  "actions": [
+    "ký cược",
+    "giao",
+    "bảo đảm",
+    "trả lại",
+    "trả tiền thuê",
+    "nhận lại",
+    "đòi lại"
+  ],
+  "actor_actions": [
+    [
+      "bên thuê tài sản",
+      "ký cược"
+    ],
+    [
+      "bên thuê tài sản",
+      "giao"
+    ],
+    [
+      "bên thuê tài sản",
+      "trả lại tài sản thuê"
+    ],
+    [
+      "bên thuê tài sản",
+      "trả tiền thuê"
+    ],
+    [
+      "bên thuê tài sản",
+      "nhận lại tài sản ký cược"
+    ],
+    [
+      "bên cho thuê",
+      "đòi lại tài sản thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ký cược",
+      "tài sản ký cược"
+    ],
+    [
+      "bên thuê tài sản",
+      "tài sản thuê"
+    ],
+    [
+      "bên cho thuê",
+      "tài sản thuê"
+    ],
+    [
+      "ký cược",
+      "trả lại tài sản thuê"
+    ],
+    [
+      "tài sản ký cược",
+      "tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "tiền thuê"
+    ]
+  ]
+}

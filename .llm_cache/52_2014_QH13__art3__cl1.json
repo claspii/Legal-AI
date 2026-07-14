@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [
+    "hôn nhân"
+  ],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "kết hôn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "hôn nhân",
+      "quan hệ"
+    ],
+    [
+      "hôn nhân",
+      "kết hôn"
+    ]
+  ]
+}

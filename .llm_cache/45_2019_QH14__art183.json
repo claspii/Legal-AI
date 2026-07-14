@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức",
+    "cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+    "các bên tranh chấp",
+    "cá nhân có liên quan",
+    "người làm chứng"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "yêu cầu cung cấp tài liệu",
+    "yêu cầu cung cấp chứng cứ",
+    "trưng cầu giám định",
+    "mời người làm chứng"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "yêu cầu cung cấp tài liệu"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "yêu cầu cung cấp chứng cứ"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "trưng cầu giám định"
+    ],
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "mời người làm chứng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+      "quyền"
+    ],
+    [
+      "tranh chấp lao động",
+      "giải quyết"
+    ],
+    [
+      "các bên tranh chấp",
+      "cung cấp tài liệu, chứng cứ"
+    ],
+    [
+      "cá nhân có liên quan",
+      "cung cấp tài liệu, chứng cứ"
+    ]
+  ]
+}

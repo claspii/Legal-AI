@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "pháp luật",
+    "cơ quan có thẩm quyền",
+    "bên bán"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định",
+    "giao kết hợp đồng",
+    "chịu chi phí"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "chịu chi phí vận chuyển"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chi phí vận chuyển",
+      "chuyển quyền sở hữu"
+    ],
+    [
+      "chi phí vận chuyển",
+      "chi phí liên quan đến việc chuyển quyền sở hữu"
+    ],
+    [
+      "thỏa thuận",
+      "chi phí vận chuyển"
+    ],
+    [
+      "thỏa thuận",
+      "chi phí liên quan đến việc chuyển quyền sở hữu"
+    ]
+  ]
+}

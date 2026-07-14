@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chuyển người lao động làm công việc khác",
+    "quy định cụ thể trong nội quy lao động",
+    "báo cho người lao động biết trước",
+    "thông báo rõ thời hạn làm tạm thời",
+    "bố trí công việc phù hợp",
+    "trả lương theo công việc mới",
+    "giữ nguyên tiền lương của công việc cũ",
+    "trả lương ngừng việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "chuyển người lao động làm công việc khác"
+    ],
+    [
+      "người sử dụng lao động",
+      "quy định cụ thể trong nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "báo cho người lao động biết trước"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo rõ thời hạn làm tạm thời"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí công việc phù hợp"
+    ],
+    [
+      "người lao động",
+      "chuyển sang làm công việc khác"
+    ],
+    [
+      "người lao động",
+      "được trả lương theo công việc mới"
+    ],
+    [
+      "người lao động",
+      "được giữ nguyên tiền lương của công việc cũ"
+    ],
+    [
+      "người sử dụng lao động",
+      "trả lương ngừng việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "công việc khác so với hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "nội quy lao động"
+    ],
+    [
+      "tiền lương của công việc mới",
+      "tiền lương của công việc cũ"
+    ],
+    [
+      "người lao động không đồng ý",
+      "ngừng việc"
+    ],
+    [
+      "ngừng việc",
+      "lương ngừng việc"
+    ]
+  ]
+}

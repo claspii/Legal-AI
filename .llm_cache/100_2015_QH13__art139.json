@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vô ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "vi phạm quy tắc nghề nghiệp",
+    "vi phạm quy tắc hành chính",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "vô ý gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe của người khác"
+    ],
+    [
+      "người nào",
+      "vi phạm quy tắc nghề nghiệp"
+    ],
+    [
+      "người nào",
+      "vi phạm quy tắc hành chính"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vô ý gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "vi phạm quy tắc nghề nghiệp",
+      "vô ý gây thương tích"
+    ],
+    [
+      "vi phạm quy tắc hành chính",
+      "vô ý gây thương tích"
+    ],
+    [
+      "phạt tiền",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phạt tù",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

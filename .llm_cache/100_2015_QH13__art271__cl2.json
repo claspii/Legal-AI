@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "làm chết"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "gây thương tích"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt",
+      "phạm tội"
+    ],
+    [
+      "làm chết người",
+      "phạm tội"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạm tội"
+    ]
+  ]
+}

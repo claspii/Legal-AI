@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng dụng",
+    "cá nhân",
+    "pháp nhân",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quy định",
+    "chấm dứt tồn tại",
+    "cho thuê"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "người hưởng dụng",
+      "cho thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền hưởng dụng",
+      "thời hạn"
+    ],
+    [
+      "người hưởng dụng",
+      "cá nhân"
+    ],
+    [
+      "người hưởng dụng",
+      "pháp nhân"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có yêu cầu",
+    "cha",
+    "mẹ",
+    "con",
+    "người thân thích",
+    "tòa án"
+  ],
+  "actions": [
+    "xác định",
+    "chết",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "người có yêu cầu",
+      "chết"
+    ],
+    [
+      "người thân thích",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có yêu cầu",
+      "chết"
+    ],
+    [
+      "người thân thích",
+      "người có yêu cầu"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "mẹ",
+      "con"
+    ]
+  ]
+}

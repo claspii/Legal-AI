@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "chịu rủi ro",
+    "giao",
+    "nhận",
+    "mua bán",
+    "đăng ký quyền sở hữu",
+    "hoàn thành thủ tục đăng ký"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "chịu rủi ro"
+    ],
+    [
+      "bên mua",
+      "chịu rủi ro"
+    ],
+    [
+      "bên mua",
+      "nhận tài sản"
+    ],
+    [
+      "bên bán",
+      "hoàn thành thủ tục đăng ký"
+    ],
+    [
+      "bên mua",
+      "hoàn thành thủ tục đăng ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bán",
+      "tài sản"
+    ],
+    [
+      "bên mua",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "rủi ro"
+    ],
+    [
+      "hợp đồng mua bán tài sản",
+      "đăng ký quyền sở hữu"
+    ]
+  ]
+}

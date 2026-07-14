@@ -1,0 +1,95 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "phạm tội",
+    "bị phạt tù",
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản",
+    "đình chỉ hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "cấm hành nghề"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất, buôn bán hàng giả là lương thực, thực phẩm, phụ gia thực phẩm",
+      "phạt tù"
+    ],
+    [
+      "hàng giả",
+      "giá bán"
+    ],
+    [
+      "hàng giả",
+      "giá niêm yết"
+    ],
+    [
+      "hàng giả",
+      "giá ghi trong hóa đơn"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ],
+    [
+      "tổn hại sức khỏe",
+      "phạt tù"
+    ],
+    [
+      "làm chết người",
+      "phạt tù"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho thuê",
+    "bên thuê"
+  ],
+  "actions": [
+    "giao tài sản",
+    "cung cấp thông tin",
+    "gia hạn giao tài sản",
+    "hủy bỏ hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "sửa chữa",
+    "giảm giá thuê"
+  ],
+  "actor_actions": [
+    [
+      "bên cho thuê",
+      "giao tài sản"
+    ],
+    [
+      "bên cho thuê",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên thuê",
+      "gia hạn giao tài sản"
+    ],
+    [
+      "bên thuê",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên thuê",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên thuê",
+      "sửa chữa"
+    ],
+    [
+      "bên thuê",
+      "giảm giá thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho thuê",
+      "tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "tài sản thuê"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

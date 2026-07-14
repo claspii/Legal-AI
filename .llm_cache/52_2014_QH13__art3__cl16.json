@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [
+    "thành viên gia đình"
+  ],
+  "actors": [
+    "vợ",
+    "chồng",
+    "cha mẹ đẻ",
+    "cha mẹ nuôi",
+    "cha dượng",
+    "mẹ kế",
+    "cha mẹ vợ",
+    "cha mẹ chồng"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thành viên gia đình",
+      "vợ"
+    ],
+    [
+      "thành viên gia đình",
+      "chồng"
+    ],
+    [
+      "thành viên gia đình",
+      "cha mẹ đẻ"
+    ],
+    [
+      "thành viên gia đình",
+      "cha mẹ nuôi"
+    ],
+    [
+      "thành viên gia đình",
+      "cha dượng"
+    ],
+    [
+      "thành viên gia đình",
+      "mẹ kế"
+    ],
+    [
+      "thành viên gia đình",
+      "cha mẹ vợ"
+    ],
+    [
+      "thành viên gia đình",
+      "cha mẹ chồng"
+    ]
+  ]
+}

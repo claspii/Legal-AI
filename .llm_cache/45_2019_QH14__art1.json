@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "tổ chức đại diện người sử dụng lao động",
+    "nhà nước"
+  ],
+  "actions": [
+    "quy định",
+    "quản lý"
+  ],
+  "actor_actions": [
+    [
+      "bộ luật lao động",
+      "quy định"
+    ],
+    [
+      "nhà nước",
+      "quản lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm vi điều chỉnh",
+      "bộ luật lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "tiêu chuẩn lao động"
+    ],
+    [
+      "quan hệ lao động",
+      "quyền"
+    ],
+    [
+      "quan hệ lao động",
+      "nghĩa vụ"
+    ],
+    [
+      "quan hệ lao động",
+      "trách nhiệm"
+    ],
+    [
+      "quản lý nhà nước",
+      "lao động"
+    ]
+  ]
+}

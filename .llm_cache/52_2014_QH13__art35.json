@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "định đoạt",
+    "thỏa thuận",
+    "đăng ký quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu",
+      "tài sản chung"
+    ],
+    [
+      "sử dụng",
+      "tài sản chung"
+    ],
+    [
+      "định đoạt",
+      "tài sản chung"
+    ],
+    [
+      "bất động sản",
+      "tài sản chung"
+    ],
+    [
+      "động sản",
+      "tài sản chung"
+    ],
+    [
+      "tài sản",
+      "nguồn tạo ra thu nhập chủ yếu của gia đình"
+    ]
+  ]
+}

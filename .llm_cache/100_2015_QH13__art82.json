@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "pháp nhân thương mại phạm tội"
+  ],
+  "actions": [
+    "quyết định áp dụng",
+    "áp dụng",
+    "khôi phục lại tình trạng ban đầu",
+    "thực hiện biện pháp",
+    "buộc tháo dỡ công trình",
+    "buộc khắc phục tình trạng ô nhiễm môi trường",
+    "buộc đưa ra khỏi lãnh thổ",
+    "buộc tái xuất hàng hóa",
+    "buộc tiêu hủy",
+    "buộc loại bỏ yếu tố vi phạm",
+    "buộc thu hồi sản phẩm"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định áp dụng các biện pháp tư pháp"
+    ],
+    [
+      "tòa án",
+      "quyết định áp dụng biện pháp tư pháp buộc pháp nhân thương mại phạm tội phải khôi phục lại tình trạng ban đầu"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khôi phục lại tình trạng ban đầu"
+    ],
+    [
+      "tòa án",
+      "quyết định buộc pháp nhân thương mại phạm tội phải thực hiện một hoặc một số biện pháp nhằm khắc phục, ngăn chặn hậu quả của tội phạm"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "tháo dỡ công trình"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khắc phục tình trạng ô nhiễm môi trường"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "đưa ra khỏi lãnh thổ nước cộng hòa xã hội chủ nghĩa việt nam"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "biện pháp tư pháp",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "biện pháp tư pháp",
+      "khôi phục lại tình trạng ban đầu"
+    ],
+    [
+      "biện pháp tư pháp",
+      "khắc phục hậu quả"
+    ],
+    [
+      "biện pháp tư pháp",
+      "ngăn chặn hậu quả"
+    ],
+    [
+      "tình trạng ban đầu",
+      "hành vi phạm tội"
+    ],
+    [
+      "tội phạm",
+      "hậu quả"
+    ],
+    [
+      "công trình xây dựng",
+      "giấy phép"
+    ],
+    [
+      "hàng hóa",
+      "quyền sở hữu trí tuệ"
+    ]
+  ]
+}

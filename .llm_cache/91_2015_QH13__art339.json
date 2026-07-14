@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên nhận bảo lãnh",
+    "bên được bảo lãnh",
+    "các bên"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "thực hiện không đúng nghĩa vụ",
+    "yêu cầu thực hiện nghĩa vụ bảo lãnh",
+    "thỏa thuận",
+    "bù trừ nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên được bảo lãnh",
+      "không thực hiện nghĩa vụ của mình"
+    ],
+    [
+      "bên được bảo lãnh",
+      "thực hiện không đúng nghĩa vụ của mình"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "có quyền yêu cầu bên bảo lãnh phải thực hiện nghĩa vụ bảo lãnh"
+    ],
+    [
+      "bên bảo lãnh",
+      "phải thực hiện nghĩa vụ bảo lãnh"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận"
+    ],
+    [
+      "bên bảo lãnh",
+      "chỉ phải thực hiện nghĩa vụ thay cho bên được bảo lãnh"
+    ],
+    [
+      "bên được bảo lãnh",
+      "không có khả năng thực hiện nghĩa vụ"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "không được yêu cầu bên bảo lãnh thực hiện nghĩa vụ thay cho bên được bảo lãnh khi nghĩa vụ chưa đến hạn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bảo lãnh",
+      "bên nhận bảo lãnh"
+    ],
+    [
+      "bên bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "bên nhận bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "nghĩa vụ của bên được bảo lãnh",
+      "nghĩa vụ bảo lãnh"
+    ]
+  ]
+}

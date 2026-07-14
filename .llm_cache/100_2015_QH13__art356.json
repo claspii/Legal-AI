@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ",
+    "làm trái công vụ",
+    "gây thiệt hại về tài sản",
+    "phạm tội",
+    "bị cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ"
+    ],
+    [
+      "người",
+      "làm trái công vụ"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "gây thiệt hại đến lợi ích của nhà nước"
+    ],
+    [
+      "người",
+      "gây thiệt hại đến quyền, lợi ích hợp pháp của tổ chức, cá nhân"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "lợi ích của nhà nước",
+      "quyền, lợi ích hợp pháp của tổ chức, cá nhân"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "mức phạt"
+    ],
+    [
+      "vụ lợi",
+      "động cơ cá nhân khác"
+    ]
+  ]
+}

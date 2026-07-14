@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "ông",
+    "bà",
+    "cha",
+    "mẹ",
+    "con",
+    "cháu",
+    "anh chị em ruột",
+    "vợ",
+    "chồng",
+    "người phạm tội",
+    "người bào chữa"
+  ],
+  "actions": [
+    "không tố giác tội phạm",
+    "chịu trách nhiệm hình sự",
+    "không phải chịu trách nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không tố giác tội phạm"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "người không tố giác",
+      "không phải chịu trách nhiệm"
+    ],
+    [
+      "người bào chữa",
+      "không phải chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không tố giác tội phạm",
+      "tội xâm phạm an ninh quốc gia"
+    ],
+    [
+      "không tố giác tội phạm",
+      "tội đặc biệt nghiêm trọng khác"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "người không tố giác"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "người bào chữa"
+    ],
+    [
+      "người không tố giác",
+      "người phạm tội"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chính quyền nhân dân"
+  ],
+  "actions": [
+    "trốn đi nước ngoài",
+    "trốn ở lại nước ngoài",
+    "chống chính quyền nhân dân",
+    "bị phạt tù",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trốn đi nước ngoài"
+    ],
+    [
+      "người",
+      "trốn ở lại nước ngoài"
+    ],
+    [
+      "người",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ]
+  ],
+  "related_concepts": []
+}

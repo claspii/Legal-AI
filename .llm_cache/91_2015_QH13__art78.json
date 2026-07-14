@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "pháp luật"
+  ],
+  "actions": [
+    "có tên gọi",
+    "thể hiện",
+    "phân biệt",
+    "sử dụng tên gọi",
+    "công nhận",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "có tên gọi"
+    ],
+    [
+      "pháp nhân",
+      "thể hiện"
+    ],
+    [
+      "pháp nhân",
+      "phân biệt"
+    ],
+    [
+      "pháp nhân",
+      "sử dụng tên gọi"
+    ],
+    [
+      "pháp luật",
+      "công nhận"
+    ],
+    [
+      "pháp luật",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "tên gọi"
+    ],
+    [
+      "tên gọi của pháp nhân",
+      "giao dịch dân sự"
+    ]
+  ]
+}

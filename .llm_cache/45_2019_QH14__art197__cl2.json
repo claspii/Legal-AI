@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động tập thể về lợi ích",
+    "nhận được yêu cầu giải quyết tranh chấp",
+    "được thành lập để giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết tranh chấp lao động tập thể về lợi ích"
+    ],
+    [
+      "ban trọng tài lao động",
+      "nhận được yêu cầu giải quyết tranh chấp"
+    ],
+    [
+      "ban trọng tài lao động",
+      "được thành lập để giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ban trọng tài lao động",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "tranh chấp lao động tập thể về lợi ích"
+    ]
+  ]
+}

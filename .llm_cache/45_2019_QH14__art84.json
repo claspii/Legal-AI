@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "tổ chức đại diện của người lao động",
+    "cơ quan nhà nước có thẩm quyền",
+    "chính phủ",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "đề nghị",
+    "quyết định mở rộng phạm vi áp dụng",
+    "quy định chi tiết",
+    "quy định trình tự, thủ tục và thẩm quyền quyết định mở rộng phạm vi áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đề nghị cơ quan nhà nước có thẩm quyền quyết định mở rộng phạm vi áp dụng"
+    ],
+    [
+      "tổ chức đại diện của người lao động",
+      "đề nghị cơ quan nhà nước có thẩm quyền quyết định mở rộng phạm vi áp dụng"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quyết định mở rộng phạm vi áp dụng"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "chính phủ",
+      "quy định trình tự, thủ tục và thẩm quyền quyết định mở rộng phạm vi áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể ngành",
+      "phạm vi áp dụng"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "phạm vi áp dụng"
+    ],
+    [
+      "người lao động",
+      "thỏa ước lao động tập thể ngành"
+    ],
+    [
+      "doanh nghiệp",
+      "thỏa ước lao động tập thể ngành"
+    ],
+    [
+      "khu công nghiệp",
+      "doanh nghiệp cùng ngành, nghề, lĩnh vực"
+    ],
+    [
+      "khu kinh tế",
+      "doanh nghiệp cùng ngành, nghề, lĩnh vực"
+    ],
+    [
+      "khu chế xuất",
+      "doanh nghiệp cùng ngành, nghề, lĩnh vực"
+    ],
+    [
+      "khu công nghệ cao",
+      "doanh nghiệp cùng ngành, nghề, lĩnh vực"
+    ]
+  ]
+}

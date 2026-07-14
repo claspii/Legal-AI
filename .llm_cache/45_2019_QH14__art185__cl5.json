@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "làm việc",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "ban trọng tài lao động",
+      "làm việc"
+    ],
+    [
+      "ban trọng tài lao động",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nguyên tắc tập thể",
+      "quyết định theo đa số"
+    ]
+  ]
+}

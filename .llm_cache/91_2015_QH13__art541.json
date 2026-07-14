@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "bên thuê vận chuyển",
+    "người thứ ba"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "để tài sản bị mất",
+    "hư hỏng",
+    "vận chuyển",
+    "đóng gói",
+    "bảo đảm an toàn",
+    "chịu trách nhiệm bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên vận chuyển",
+      "để tài sản bị mất"
+    ],
+    [
+      "bên vận chuyển",
+      "hư hỏng"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên vận chuyển",
+      "không phải chịu trách nhiệm bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vận chuyển",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên thuê vận chuyển",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "tài sản bị mất",
+      "thiệt hại"
+    ],
+    [
+      "tài sản hư hỏng",
+      "thiệt hại"
+    ],
+    [
+      "tài sản vận chuyển có tính chất nguy hiểm, độc hại",
+      "thiệt hại"
+    ],
+    [
+      "trường hợp bất khả kháng",
+      "tài sản vận chuyển bị mất, hư hỏng hoặc bị hủy hoại"
+    ]
+  ]
+}

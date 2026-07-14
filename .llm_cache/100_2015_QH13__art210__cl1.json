@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà đầu tư"
+  ],
+  "actions": [
+    "sử dụng thông tin nội bộ để mua bán chứng khoán",
+    "mua bán chứng khoán",
+    "tiết lộ thông tin",
+    "cung cấp thông tin",
+    "tư vấn cho người khác mua bán chứng khoán",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng thông tin này để mua bán chứng khoán"
+    ],
+    [
+      "người",
+      "tiết lộ, cung cấp thông tin này"
+    ],
+    [
+      "người",
+      "tư vấn cho người khác mua bán chứng khoán"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin liên quan đến công ty đại chúng hoặc quỹ đại chúng",
+      "giá chứng khoán của công ty đại chúng hoặc quỹ đại chúng đó"
+    ]
+  ]
+}

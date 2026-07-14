@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hợp tác"
+  ],
+  "actions": [
+    "hưởng hoa lợi",
+    "hưởng lợi tức",
+    "tham gia quyết định",
+    "giám sát hoạt động hợp tác",
+    "bồi thường thiệt hại",
+    "gây ra",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hợp tác",
+      "hưởng hoa lợi"
+    ],
+    [
+      "thành viên hợp tác",
+      "hưởng lợi tức"
+    ],
+    [
+      "thành viên hợp tác",
+      "tham gia quyết định"
+    ],
+    [
+      "thành viên hợp tác",
+      "giám sát hoạt động hợp tác"
+    ],
+    [
+      "thành viên hợp tác",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "thành viên hợp tác",
+      "thực hiện quyền"
+    ],
+    [
+      "thành viên hợp tác",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thành viên hợp tác",
+      "quyền"
+    ],
+    [
+      "thành viên hợp tác",
+      "nghĩa vụ"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "hoạt động hợp tác",
+      "hợp đồng hợp tác"
+    ],
+    [
+      "lỗi",
+      "thiệt hại"
+    ],
+    [
+      "hợp đồng",
+      "quyền"
+    ],
+    [
+      "hợp đồng",
+      "nghĩa vụ"
+    ]
+  ]
+}

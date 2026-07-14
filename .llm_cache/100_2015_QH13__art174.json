@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người bị hại",
+    "gia đình họ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "vi phạm",
+    "bị kết án",
+    "xóa án tích",
+    "gây ảnh hưởng xấu",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người nào",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "chiếm đoạt"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ],
+    [
+      "phương tiện kiếm sống chính",
+      "người bị hại"
+    ],
+    [
+      "kỷ vật",
+      "giá trị đặc biệt về mặt tinh thần"
+    ]
+  ]
+}

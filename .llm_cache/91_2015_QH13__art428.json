@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "bên kia",
+    "bên đơn phương chấm dứt thực hiện hợp đồng",
+    "bên bị thiệt hại",
+    "bên đã thực hiện nghĩa vụ"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "bồi thường thiệt hại",
+    "vi phạm nghiêm trọng nghĩa vụ trong hợp đồng",
+    "thông báo",
+    "chấm dứt hợp đồng",
+    "tiếp tục thực hiện nghĩa vụ",
+    "yêu cầu thanh toán",
+    "thực hiện trách nhiệm dân sự"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "một bên",
+      "không phải bồi thường thiệt hại"
+    ],
+    [
+      "bên kia",
+      "vi phạm nghiêm trọng nghĩa vụ trong hợp đồng"
+    ],
+    [
+      "bên đơn phương chấm dứt thực hiện hợp đồng",
+      "thông báo"
+    ],
+    [
+      "bên đơn phương chấm dứt thực hiện hợp đồng",
+      "bồi thường"
+    ],
+    [
+      "các bên",
+      "không phải tiếp tục thực hiện nghĩa vụ"
+    ],
+    [
+      "bên đã thực hiện nghĩa vụ",
+      "yêu cầu bên kia thanh toán phần nghĩa vụ đã thực hiện"
+    ],
+    [
+      "bên bị thiệt hại",
+      "được bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đơn phương chấm dứt thực hiện hợp đồng",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "đơn phương chấm dứt thực hiện hợp đồng",
+      "thông báo"
+    ],
+    [
+      "vi phạm nghiêm trọng nghĩa vụ trong hợp đồng",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "hợp đồng bị đơn phương chấm dứt thực hiện",
+      "hợp đồng chấm dứt"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "đơn phương chấm dứt thực hiện hợp đồng không có căn cứ",
+      "vi phạm nghĩa vụ"
+    ],
+    [
+      "vi phạm nghĩa vụ",
+      "trách nhiệm dân sự"
+    ]
+  ]
+}

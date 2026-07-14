@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đã giao dịch với người đại diện",
+    "người đại diện"
+  ],
+  "actions": [
+    "chấm dứt thực hiện",
+    "hủy bỏ",
+    "yêu cầu bồi thường thiệt hại",
+    "giao dịch"
+  ],
+  "actor_actions": [
+    [
+      "người đã giao dịch với người đại diện",
+      "chấm dứt thực hiện"
+    ],
+    [
+      "người đã giao dịch với người đại diện",
+      "hủy bỏ"
+    ],
+    [
+      "người đã giao dịch với người đại diện",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "người đó",
+      "biết hoặc phải biết về việc vượt quá phạm vi đại diện mà vẫn giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "phạm vi đại diện"
+    ],
+    [
+      "giao dịch dân sự",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

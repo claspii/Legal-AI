@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện hành vi nguy hiểm cho xã hội",
+    "viện kiểm sát",
+    "tòa án",
+    "người phạm tội",
+    "người đang chấp hành hình phạt tù"
+  ],
+  "actions": [
+    "bắt buộc chữa bệnh",
+    "thực hiện hành vi nguy hiểm cho xã hội",
+    "quyết định đưa họ vào một cơ sở điều trị chuyên khoa",
+    "mắc bệnh",
+    "mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình",
+    "chịu trách nhiệm hình sự",
+    "chấp hành hình phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "viện kiểm sát",
+      "quyết định đưa họ vào một cơ sở điều trị chuyên khoa"
+    ],
+    [
+      "tòa án",
+      "quyết định đưa họ vào một cơ sở điều trị chuyên khoa"
+    ],
+    [
+      "người thực hiện hành vi nguy hiểm cho xã hội",
+      "thực hiện hành vi nguy hiểm cho xã hội"
+    ],
+    [
+      "người phạm tội",
+      "mắc bệnh"
+    ],
+    [
+      "người đang chấp hành hình phạt tù",
+      "bị bệnh"
+    ],
+    [
+      "người phạm tội",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "người đang chấp hành hình phạt tù",
+      "chấp hành hình phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bắt buộc chữa bệnh",
+      "hành vi nguy hiểm cho xã hội"
+    ],
+    [
+      "bắt buộc chữa bệnh",
+      "mất khả năng nhận thức hoặc khả năng điều khiển hành vi"
+    ],
+    [
+      "kết luận giám định pháp y",
+      "quyết định đưa họ vào một cơ sở điều trị chuyên khoa"
+    ],
+    [
+      "kết luận giám định pháp y tâm thần",
+      "quyết định đưa họ vào một cơ sở điều trị chuyên khoa"
+    ],
+    [
+      "bắt buộc chữa bệnh",
+      "chấp hành hình phạt tù"
+    ],
+    [
+      "khỏi bệnh",
+      "tiếp tục chấp hành hình phạt"
+    ]
+  ]
+}

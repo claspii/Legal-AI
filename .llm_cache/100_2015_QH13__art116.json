@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chính quyền nhân dân",
+    "lực lượng vũ trang nhân dân",
+    "tổ chức chính trị - xã hội",
+    "người theo tôn giáo",
+    "người không theo tôn giáo",
+    "tín đồ tôn giáo"
+  ],
+  "actions": [
+    "thực hiện hành vi",
+    "gây chia rẽ",
+    "gây hằn thù",
+    "kỳ thị",
+    "ly khai dân tộc",
+    "xâm phạm quyền bình đẳng",
+    "phá hoại việc thực hiện chính sách đoàn kết quốc tế",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "gây chia rẽ"
+    ],
+    [
+      "người",
+      "gây hằn thù"
+    ],
+    [
+      "người",
+      "kỳ thị"
+    ],
+    [
+      "người",
+      "ly khai dân tộc"
+    ],
+    [
+      "người",
+      "xâm phạm quyền bình đẳng"
+    ],
+    [
+      "người",
+      "phá hoại việc thực hiện chính sách đoàn kết quốc tế"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính sách đoàn kết",
+      "phá hoại chính sách đoàn kết"
+    ],
+    [
+      "chính quyền nhân dân",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "nhân dân",
+      "tầng lớp nhân dân"
+    ],
+    [
+      "tôn giáo",
+      "người theo tôn giáo"
+    ],
+    [
+      "tôn giáo",
+      "người không theo tôn giáo"
+    ],
+    [
+      "tôn giáo",
+      "tín đồ tôn giáo"
+    ],
+    [
+      "dân tộc",
+      "ly khai dân tộc"
+    ],
+    [
+      "cộng đồng các dân tộc việt nam",
+      "quyền bình đẳng"
+    ]
+  ]
+}

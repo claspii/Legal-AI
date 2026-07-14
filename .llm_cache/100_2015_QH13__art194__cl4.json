@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "sản xuất",
+    "buôn bán",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "2.000.000.000 đồng trở lên"
+    ],
+    [
+      "làm chết",
+      "02 người trở lên"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe",
+      "02 người trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể của mỗi người",
+      "61% trở lên"
+    ],
+    [
+      "tổng tỷ lệ tổn thương cơ thể của những người này",
+      "122% trở lên"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "1.500.000.000 đồng trở lên"
+    ],
+    [
+      "thuốc chữa bệnh",
+      "thuốc phòng bệnh"
+    ]
+  ]
+}

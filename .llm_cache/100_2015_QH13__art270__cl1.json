@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép lái tàu",
+    "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+    "người đang trong tình trạng có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật"
+  ],
+  "actions": [
+    "điều động",
+    "giao cho",
+    "điều khiển",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều động"
+    ],
+    [
+      "người",
+      "giao cho"
+    ],
+    [
+      "người không có giấy phép lái tàu",
+      "điều khiển"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+      "điều khiển"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều động",
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "giao cho",
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+    ],
+    [
+      "gây thiệt hại",
+      "làm chết 01 người"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người với tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%"
+    ],
+    [
+      "gây thiệt hại",
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng"
+    ],
+    [
+      "hình phạt",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

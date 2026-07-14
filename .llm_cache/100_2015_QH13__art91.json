@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người dưới 18 tuổi phạm tội",
+    "tòa án",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "người từ đủ 14 tuổi đến dưới 16 tuổi"
+  ],
+  "actions": [
+    "xử lý",
+    "miễn trách nhiệm hình sự",
+    "áp dụng biện pháp",
+    "truy cứu trách nhiệm hình sự",
+    "xét xử",
+    "áp dụng hình phạt",
+    "xử phạt tù chung thân",
+    "xử phạt tử hình"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "áp dụng các biện pháp"
+    ],
+    [
+      "tòa án",
+      "xét xử"
+    ],
+    [
+      "tòa án",
+      "áp dụng hình phạt"
+    ],
+    [
+      "tòa án",
+      "áp dụng hình phạt tù có thời hạn"
+    ],
+    [
+      "tòa án",
+      "cho người dưới 18 tuổi phạm tội được hưởng mức án nhẹ hơn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "xử lý"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "áp dụng biện pháp giáo dục"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "hình phạt tù có thời hạn"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "độ tuổi"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "khả năng nhận thức"
+    ]
+  ]
+}

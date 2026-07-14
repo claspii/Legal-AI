@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án"
+  ],
+  "actions": [
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "chấp hành xong hình phạt tù",
+    "hưởng án treo"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "đảm nhiệm chức vụ"
+    ],
+    [
+      "người bị kết án",
+      "hành nghề"
+    ],
+    [
+      "người bị kết án",
+      "làm công việc đó"
+    ],
+    [
+      "người bị kết án",
+      "hưởng án treo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm đảm nhiệm chức vụ",
+      "hình phạt tù"
+    ],
+    [
+      "cấm hành nghề",
+      "hình phạt tù"
+    ],
+    [
+      "làm công việc nhất định",
+      "hình phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cảnh cáo"
+    ],
+    [
+      "cấm hành nghề",
+      "cảnh cáo"
+    ],
+    [
+      "làm công việc nhất định",
+      "cảnh cáo"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "phạt tiền"
+    ],
+    [
+      "cấm hành nghề",
+      "phạt tiền"
+    ]
+  ]
+}

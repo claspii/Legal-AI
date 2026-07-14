@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "bên kia",
+    "bên vi phạm"
+  ],
+  "actions": [
+    "thông báo",
+    "chấp nhận giao kết hợp đồng",
+    "bảo mật thông tin",
+    "sử dụng thông tin",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "thông báo"
+    ],
+    [
+      "một bên",
+      "nhận được thông tin bí mật"
+    ],
+    [
+      "một bên",
+      "bảo mật thông tin"
+    ],
+    [
+      "một bên",
+      "không được sử dụng thông tin"
+    ],
+    [
+      "bên vi phạm",
+      "gây thiệt hại"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin",
+      "giao kết hợp đồng"
+    ],
+    [
+      "thông tin bí mật",
+      "bảo mật thông tin"
+    ],
+    [
+      "vi phạm",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ]
+  ]
+}

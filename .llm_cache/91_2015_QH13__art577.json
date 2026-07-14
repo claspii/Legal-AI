@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện công việc không có ủy quyền",
+    "người có công việc được thực hiện"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "gây thiệt hại",
+    "thực hiện công việc",
+    "giảm mức bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "gây thiệt hại"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công việc không có ủy quyền",
+      "thiệt hại"
+    ],
+    [
+      "cố ý",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "vô ý",
+      "giảm mức bồi thường"
+    ]
+  ]
+}

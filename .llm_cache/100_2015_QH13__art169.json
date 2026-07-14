@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác",
+    "nạn nhân"
+  ],
+  "actions": [
+    "bắt cóc",
+    "chiếm đoạt tài sản",
+    "phạm tội",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "làm chết người",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bắt cóc người khác làm con tin nhằm chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm cư trú"
+    ],
+    [
+      "người phạm tội",
+      "bị tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bắt cóc",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "bắt cóc",
+      "làm con tin"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "phạm tội",
+      "tù"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ]
+  ]
+}

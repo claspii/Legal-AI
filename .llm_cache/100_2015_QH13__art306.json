@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chính phủ",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt",
+    "xử phạt vi phạm hành chính",
+    "kết án"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chế tạo"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "mua bán trái phép"
+    ],
+    [
+      "người",
+      "chiếm đoạt"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "phạt quản chế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "súng săn",
+      "vũ khí thô sơ"
+    ],
+    [
+      "vũ khí thô sơ",
+      "vũ khí thể thao"
+    ],
+    [
+      "vũ khí thể thao",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "công cụ hỗ trợ",
+      "vũ khí khác có tính năng tác dụng tương tự"
+    ],
+    [
+      "làm chết 01 người trở lên",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể 61% trở lên",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên"
+    ],
+    [
+      "tổng tỷ lệ tổn thương cơ thể của những người này từ 61% đến 121%",
+      "gây thiệt hại về tài sản 100.000.000 đồng trở lên"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "cảnh cáo",
+    "áp dụng",
+    "miễn hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "cảnh cáo",
+      "áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cảnh cáo",
+      "hình phạt"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "miễn hình phạt"
+    ]
+  ]
+}

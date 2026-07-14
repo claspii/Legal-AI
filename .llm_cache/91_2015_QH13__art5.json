@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [
+    "tập quán"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "các bên"
+  ],
+  "actions": [
+    "xác định",
+    "hình thành",
+    "lặp lại",
+    "thừa nhận",
+    "áp dụng",
+    "thỏa thuận",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác định quyền"
+    ],
+    [
+      "cá nhân",
+      "xác định nghĩa vụ"
+    ],
+    [
+      "pháp nhân",
+      "xác định quyền"
+    ],
+    [
+      "pháp nhân",
+      "xác định nghĩa vụ"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tập quán",
+      "quy tắc xử sự"
+    ],
+    [
+      "tập quán",
+      "quan hệ dân sự"
+    ],
+    [
+      "tập quán",
+      "pháp luật dân sự"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "pháp luật",
+      "quy định"
+    ],
+    [
+      "tập quán",
+      "nguyên tắc cơ bản của pháp luật dân sự"
+    ]
+  ]
+}

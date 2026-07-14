@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "phạm tội",
+    "gây thiệt hại",
+    "ngăn chặn",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "tính mạng"
+    ],
+    [
+      "thiệt hại",
+      "sức khỏe"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

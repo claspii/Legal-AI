@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "trẻ em",
+    "cha đẻ",
+    "mẹ đẻ"
+  ],
+  "actions": [
+    "khai sinh",
+    "khai tử",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "khai sinh"
+    ],
+    [
+      "cá nhân",
+      "khai tử"
+    ],
+    [
+      "trẻ em",
+      "khai sinh"
+    ],
+    [
+      "trẻ em",
+      "khai tử"
+    ],
+    [
+      "cha đẻ",
+      "yêu cầu"
+    ],
+    [
+      "mẹ đẻ",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khai sinh",
+      "khai tử"
+    ],
+    [
+      "khai sinh",
+      "cá nhân"
+    ],
+    [
+      "khai tử",
+      "cá nhân"
+    ],
+    [
+      "khai sinh",
+      "trẻ em"
+    ],
+    [
+      "khai tử",
+      "trẻ em"
+    ]
+  ]
+}

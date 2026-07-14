@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "thời điểm mở thừa kế",
+    "địa điểm mở thừa kế"
+  ],
+  "actors": [
+    "người có tài sản",
+    "tòa án",
+    "người",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "chết",
+    "tuyên bố",
+    "cư trú"
+  ],
+  "actor_actions": [
+    [
+      "người có tài sản",
+      "chết"
+    ],
+    [
+      "tòa án",
+      "tuyên bố"
+    ],
+    [
+      "người để lại di sản",
+      "cư trú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời điểm mở thừa kế",
+      "người có tài sản"
+    ],
+    [
+      "thời điểm mở thừa kế",
+      "tòa án"
+    ],
+    [
+      "địa điểm mở thừa kế",
+      "người để lại di sản"
+    ],
+    [
+      "địa điểm mở thừa kế",
+      "di sản"
+    ]
+  ]
+}

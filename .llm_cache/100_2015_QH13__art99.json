@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạt tiền",
+    "có thu nhập",
+    "có tài sản riêng",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạt tiền"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "có thu nhập"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "có tài sản riêng"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "hình phạt chính"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "có thu nhập"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "có tài sản riêng"
+    ],
+    [
+      "mức tiền phạt",
+      "điều luật quy định"
+    ]
+  ]
+}

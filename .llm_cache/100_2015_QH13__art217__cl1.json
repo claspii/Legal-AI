@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "doanh nghiệp",
+    "bên",
+    "các bên của thỏa thuận"
+  ],
+  "actions": [
+    "trực tiếp tham gia",
+    "thực hiện các hành vi vi phạm quy định về cạnh tranh",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "thỏa thuận ngăn cản",
+    "kìm hãm không cho doanh nghiệp khác tham gia thị trường hoặc phát triển kinh doanh",
+    "thỏa thuận loại bỏ khỏi thị trường",
+    "thỏa thuận hạn chế cạnh tranh",
+    "thỏa thuận ấn định giá hàng hóa, dịch vụ",
+    "thỏa thuận phân chia thị trường tiêu thụ, nguồn cung cấp hàng hóa, nguồn cung dịch vụ",
+    "thỏa thuận hạn chế hoặc kiểm soát số lượng, khối lượng sản xuất, mua bán hàng hóa, dịch vụ",
+    "thỏa thuận hạn chế phát triển kỹ thuật, công nghệ, hạn chế đầu tư",
+    "thỏa thuận áp đặt cho doanh nghiệp khác điều kiện ký kết hợp đồng mua, bán hàng hóa, dịch vụ",
+    "buộc doanh nghiệp khác chấp nhận nghĩa vụ không liên quan trực tiếp đến đối tượng của hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trực tiếp tham gia hoặc thực hiện các hành vi vi phạm quy định về cạnh tranh"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "doanh nghiệp",
+      "tham gia thị trường"
+    ],
+    [
+      "doanh nghiệp",
+      "phát triển kinh doanh"
+    ],
+    [
+      "các bên tham gia thỏa thuận",
+      "có thị phần kết hợp trên thị trường liên quan 30% trở lên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "thiệt hại"
+    ],
+    [
+      "thỏa thuận",
+      "hạn chế cạnh tranh"
+    ],
+    [
+      "doanh nghiệp",
+      "thị trường"
+    ],
+    [
+      "hàng hóa",
+      "dịch vụ"
+    ],
+    [
+      "kỹ thuật",
+      "công nghệ"
+    ],
+    [
+      "thị phần",
+      "thị trường liên quan"
+    ],
+    [
+      "thỏa thuận ấn định giá",
+      "thỏa thuận phân chia thị trường"
+    ],
+    [
+      "thỏa thuận hạn chế sản xuất",
+      "thỏa thuận hạn chế phát triển"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "lợi dụng thiên tai",
+    "lợi dụng dịch bệnh"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "trị giá từ 200.000.000 đồng đến dưới 500.000.000 đồng"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "trị giá từ 50.000.000 đồng đến dưới 200.000.000 đồng"
+    ]
+  ]
+}

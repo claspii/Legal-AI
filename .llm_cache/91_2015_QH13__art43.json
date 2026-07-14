@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "nơi cư trú của vợ, chồng"
+  ],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "chung sống",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "chung sống"
+    ],
+    [
+      "vợ, chồng",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "nơi cư trú",
+      "vợ"
+    ],
+    [
+      "nơi cư trú",
+      "chồng"
+    ],
+    [
+      "nơi cư trú",
+      "thỏa thuận"
+    ]
+  ]
+}

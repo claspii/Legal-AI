@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vi phạm các quy định về cung ứng điện",
+    "làm chết người",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội vi phạm các quy định về cung ứng điện",
+      "phạm tội"
+    ],
+    [
+      "làm chết người",
+      "phạm tội"
+    ],
+    [
+      "gây thương tích",
+      "phạm tội"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "phạm tội"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạm tội"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ]
+  ]
+}

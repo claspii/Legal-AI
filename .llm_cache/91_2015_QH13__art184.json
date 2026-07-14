@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người nào",
+    "người có tranh chấp"
+  ],
+  "actions": [
+    "suy đoán là ngay tình",
+    "cho rằng",
+    "chứng minh",
+    "có tranh chấp",
+    "suy đoán là người có quyền",
+    "áp dụng thời hiệu hưởng quyền",
+    "hưởng hoa lợi, lợi tức"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "suy đoán là ngay tình"
+    ],
+    [
+      "người nào",
+      "cho rằng"
+    ],
+    [
+      "người nào",
+      "chứng minh"
+    ],
+    [
+      "người chiếm hữu",
+      "suy đoán là người có quyền"
+    ],
+    [
+      "người có tranh chấp",
+      "chứng minh"
+    ],
+    [
+      "người chiếm hữu ngay tình, liên tục, công khai",
+      "áp dụng thời hiệu hưởng quyền"
+    ],
+    [
+      "người chiếm hữu ngay tình, liên tục, công khai",
+      "hưởng hoa lợi, lợi tức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chiếm hữu",
+      "ngay tình"
+    ],
+    [
+      "người chiếm hữu",
+      "quyền đối với tài sản"
+    ],
+    [
+      "người chiếm hữu ngay tình",
+      "thời hiệu hưởng quyền"
+    ],
+    [
+      "người chiếm hữu ngay tình",
+      "hoa lợi, lợi tức"
+    ]
+  ]
+}

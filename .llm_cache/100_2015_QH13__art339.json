@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "giả mạo chức vụ",
+    "giả mạo cấp bậc",
+    "giả mạo vị trí công tác",
+    "thực hiện hành vi trái pháp luật",
+    "chiếm đoạt tài sản",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "giả mạo chức vụ"
+    ],
+    [
+      "người nào",
+      "giả mạo cấp bậc"
+    ],
+    [
+      "người nào",
+      "giả mạo vị trí công tác"
+    ],
+    [
+      "người nào",
+      "thực hiện hành vi trái pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giả mạo chức vụ",
+      "thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "giả mạo cấp bậc",
+      "thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "giả mạo vị trí công tác",
+      "thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "hành vi trái pháp luật",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "bị phạt cải tạo không giam giữ",
+      "bị phạt tù"
+    ]
+  ]
+}

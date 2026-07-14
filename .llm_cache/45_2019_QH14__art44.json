@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "các bên liên quan",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "tiếp tục sử dụng",
+    "đào tạo lại",
+    "chuyển sang làm việc không trọn thời gian",
+    "nghỉ hưu",
+    "chấm dứt hợp đồng lao động",
+    "xây dựng phương án sử dụng lao động",
+    "trao đổi ý kiến",
+    "thông báo công khai"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "tiếp tục được sử dụng"
+    ],
+    [
+      "người lao động",
+      "được đào tạo lại để tiếp tục sử dụng"
+    ],
+    [
+      "người lao động",
+      "được chuyển sang làm việc không trọn thời gian"
+    ],
+    [
+      "người lao động",
+      "nghỉ hưu"
+    ],
+    [
+      "người lao động",
+      "phải chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "xây dựng phương án sử dụng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "trao đổi ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo công khai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương án sử dụng lao động",
+      "nội dung chủ yếu"
+    ],
+    [
+      "phương án sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "phương án sử dụng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "phương án sử dụng lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "số lượng",
+      "danh sách người lao động"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "biện pháp",
+      "nguồn tài chính"
+    ],
+    [
+      "hợp đồng lao động",
+      "chấm dứt"
+    ]
+  ]
+}

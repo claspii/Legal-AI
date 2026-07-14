@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên",
+    "bên kia"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "biết",
+    "thông báo",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên",
+      "giao kết hợp đồng"
+    ],
+    [
+      "bên",
+      "biết"
+    ],
+    [
+      "bên",
+      "thông báo"
+    ],
+    [
+      "bên",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên kia",
+      "biết"
+    ],
+    [
+      "bên kia",
+      "giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "đối tượng không thể thực hiện được"
+    ],
+    [
+      "hợp đồng",
+      "vô hiệu"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "hợp đồng vô hiệu"
+    ],
+    [
+      "giao kết hợp đồng",
+      "đối tượng không thể thực hiện được"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "mua bán",
+    "chiếm đoạt",
+    "phạt tù",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây chết người",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "mua bán mô hoặc bộ phận cơ thể người khác"
+    ],
+    [
+      "người",
+      "chiếm đoạt mô hoặc bộ phận cơ thể người khác"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mô",
+      "bộ phận cơ thể người"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tù",
+      "phạt tiền"
+    ]
+  ]
+}

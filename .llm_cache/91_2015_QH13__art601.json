@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [
+    "nguồn nguy hiểm cao độ"
+  ],
+  "actors": [
+    "chủ sở hữu nguồn nguy hiểm cao độ",
+    "người khác",
+    "chủ sở hữu",
+    "người chiếm hữu",
+    "người sử dụng nguồn nguy hiểm cao độ",
+    "người bị thiệt hại",
+    "người đang chiếm hữu, sử dụng nguồn nguy hiểm cao độ trái pháp luật"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "vận hành",
+    "sử dụng",
+    "bảo quản",
+    "trông giữ",
+    "vận chuyển",
+    "chiếm hữu",
+    "gây ra"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "vận hành"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "sử dụng"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "bảo quản"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "trông giữ"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "vận chuyển"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người khác",
+      "bồi thường"
+    ],
+    [
+      "chủ sở hữu",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nguồn nguy hiểm cao độ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "chủ sở hữu nguồn nguy hiểm cao độ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu, sử dụng nguồn nguy hiểm cao độ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "lỗi cố ý của người bị thiệt hại",
+      "thiệt hại xảy ra"
+    ],
+    [
+      "bất khả kháng",
+      "thiệt hại xảy ra"
+    ],
+    [
+      "tình thế cấp thiết",
+      "thiệt hại xảy ra"
+    ],
+    [
+      "nguồn nguy hiểm cao độ bị chiếm hữu, sử dụng trái pháp luật",
+      "người đang chiếm hữu, sử dụng nguồn nguy hiểm cao độ trái pháp luật"
+    ]
+  ]
+}

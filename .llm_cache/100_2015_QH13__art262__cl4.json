@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chịu trách nhiệm trực tiếp về việc điều động",
+    "người chịu trách nhiệm trực tiếp về tình trạng kỹ thuật",
+    "người"
+  ],
+  "actions": [
+    "cho phép đưa vào sử dụng phương tiện giao thông cơ giới đường bộ",
+    "cho phép đưa vào sử dụng xe máy chuyên dùng",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động",
+      "cho phép đưa vào sử dụng phương tiện giao thông cơ giới đường bộ"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp về việc điều động",
+      "cho phép đưa vào sử dụng xe máy chuyên dùng"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp về tình trạng kỹ thuật",
+      "cho phép đưa vào sử dụng phương tiện giao thông cơ giới đường bộ"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp về tình trạng kỹ thuật",
+      "cho phép đưa vào sử dụng xe máy chuyên dùng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông cơ giới đường bộ",
+      "không bảo đảm tiêu chuẩn an toàn kỹ thuật tham gia giao thông"
+    ],
+    [
+      "xe máy chuyên dùng",
+      "không bảo đảm tiêu chuẩn an toàn kỹ thuật tham gia giao thông"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "31% đến 60%"
+    ],
+    [
+      "phạt tiền",
+      "20.000.000 đồng đến 100.000.000 đồng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "03 năm"
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người môi giới hối lộ",
+    "doanh nghiệp",
+    "tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "môi giới hối lộ",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "khai báo",
+    "miễn trách nhiệm hình sự",
+    "xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "môi giới hối lộ"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "người môi giới hối lộ",
+      "khai báo"
+    ],
+    [
+      "người môi giới hối lộ",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người",
+      "xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "môi giới hối lộ",
+      "của hối lộ"
+    ],
+    [
+      "của hối lộ",
+      "tiền"
+    ],
+    [
+      "của hối lộ",
+      "tài sản"
+    ],
+    [
+      "của hối lộ",
+      "lợi ích vật chất"
+    ],
+    [
+      "của hối lộ",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "phạm tội",
+      "dùng thủ đoạn xảo quyệt"
+    ],
+    [
+      "phạm tội",
+      "lợi dụng chức vụ, quyền hạn"
+    ]
+  ]
+}

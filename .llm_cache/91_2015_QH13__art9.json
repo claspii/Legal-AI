@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "luật"
+  ],
+  "actions": [
+    "thực hiện quyền dân sự",
+    "chấm dứt quyền"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "thực hiện quyền dân sự"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện quyền dân sự"
+    ],
+    [
+      "cá nhân",
+      "không thực hiện quyền dân sự"
+    ],
+    [
+      "pháp nhân",
+      "không thực hiện quyền dân sự"
+    ]
+  ],
+  "related_concepts": []
+}

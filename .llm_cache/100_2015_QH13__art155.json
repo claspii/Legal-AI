@@ -1,0 +1,99 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người đang thi hành công vụ",
+    "người dạy dỗ",
+    "người nuôi dưỡng",
+    "người chăm sóc",
+    "người chữa bệnh"
+  ],
+  "actions": [
+    "xúc phạm nghiêm trọng nhân phẩm",
+    "xúc phạm nghiêm trọng danh dự",
+    "phạt cảnh cáo",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạm tội",
+    "phạt tù",
+    "lợi dụng chức vụ",
+    "lợi dụng quyền hạn",
+    "sử dụng mạng máy tính",
+    "sử dụng mạng viễn thông",
+    "sử dụng phương tiện điện tử",
+    "gây rối loạn tâm thần và hành vi",
+    "làm nạn nhân tự sát",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "xúc phạm nghiêm trọng nhân phẩm"
+    ],
+    [
+      "người",
+      "xúc phạm nghiêm trọng danh dự"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ"
+    ],
+    [
+      "người",
+      "lợi dụng quyền hạn"
+    ],
+    [
+      "người",
+      "sử dụng mạng máy tính"
+    ],
+    [
+      "người",
+      "sử dụng mạng viễn thông"
+    ],
+    [
+      "người",
+      "sử dụng phương tiện điện tử"
+    ],
+    [
+      "người",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người",
+      "làm nạn nhân tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "rối loạn tâm thần",
+      "hành vi"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "phạm tội",
+      "hình phạt"
+    ]
+  ]
+}

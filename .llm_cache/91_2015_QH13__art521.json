@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cung ứng dịch vụ",
+    "bên sử dụng dịch vụ"
+  ],
+  "actions": [
+    "tiếp tục thực hiện công việc",
+    "biết",
+    "không phản đối",
+    "tiếp tục thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên cung ứng dịch vụ",
+      "tiếp tục thực hiện công việc"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "biết"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "không phản đối"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng dịch vụ",
+      "công việc"
+    ],
+    [
+      "thời hạn thực hiện công việc",
+      "hợp đồng dịch vụ"
+    ]
+  ]
+}

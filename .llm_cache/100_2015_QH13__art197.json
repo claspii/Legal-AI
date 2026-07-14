@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "quảng cáo gian dối",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "quảng cáo gian dối"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người nào",
+      "còn vi phạm"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quảng cáo gian dối",
+      "hàng hóa"
+    ],
+    [
+      "quảng cáo gian dối",
+      "dịch vụ"
+    ],
+    [
+      "bị xử phạt vi phạm hành chính",
+      "hành vi này"
+    ],
+    [
+      "bị kết án",
+      "tội này"
+    ],
+    [
+      "phạt tiền",
+      "từ 10.000.000 đồng đến 100.000.000 đồng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "đến 03 năm"
+    ],
+    [
+      "phạt tiền",
+      "từ 5.000.000 đồng đến 50.000.000 đồng"
+    ],
+    [
+      "cấm hành nghề hoặc làm công việc nhất định",
+      "từ 01 năm đến 05 năm"
+    ]
+  ]
+}

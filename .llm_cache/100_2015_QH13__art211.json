@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà đầu tư",
+    "pháp nhân thương mại",
+    "người khác"
+  ],
+  "actions": [
+    "thao túng thị trường chứng khoán",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "sử dụng tài khoản giao dịch",
+    "thông đồng",
+    "mua, bán chứng khoán",
+    "đặt lệnh mua và bán",
+    "giao dịch mua bán chứng khoán",
+    "tạo giá chứng khoán",
+    "tạo cung cầu giả tạo",
+    "liên tục mua hoặc bán chứng khoán",
+    "tạo ra mức giá đóng cửa hoặc giá mở cửa mới",
+    "giao dịch chứng khoán bằng hình thức cấu kết",
+    "lôi kéo người khác liên tục đặt lệnh mua, bán chứng khoán",
+    "gây ảnh hưởng lớn đến cung cầu và giá chứng khoán",
+    "thao túng giá chứng khoán",
+    "đưa ra ý kiến",
+    "thực hiện giao dịch",
+    "nắm giữ vị thế",
+    "sử dụng các phương thức",
+    "thực hiện các hành vi giao dịch khác",
+    "tạo cung cầu giả tạo",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện một trong các hành vi"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "thiệt hại cho nhà đầu tư"
+    ],
+    [
+      "hành vi thao túng",
+      "tạo cung cầu giả tạo"
+    ],
+    [
+      "hành vi thao túng",
+      "thao túng giá chứng khoán"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ]
+  ]
+}

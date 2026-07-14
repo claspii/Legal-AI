@@ -1,0 +1,24 @@
+{
+  "concepts_defined": [
+    "vật chính",
+    "vật phụ"
+  ],
+  "actors": [],
+  "actions": [
+    "khai thác công dụng",
+    "thực hiện nghĩa vụ chuyển giao",
+    "chuyển giao",
+    "có thỏa thuận"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "vật chính",
+      "vật phụ"
+    ],
+    [
+      "vật chính",
+      "công dụng"
+    ]
+  ]
+}

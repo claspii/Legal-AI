@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "công chức nước ngoài",
+    "công chức của tổ chức quốc tế công",
+    "người có chức vụ trong các doanh nghiệp, tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "đưa hối lộ",
+    "sẽ đưa hối lộ",
+    "bị xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "đưa hối lộ"
+    ],
+    [
+      "người nào",
+      "sẽ đưa hối lộ"
+    ],
+    [
+      "người nào",
+      "bị xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hối lộ",
+      "công chức nước ngoài"
+    ],
+    [
+      "hối lộ",
+      "công chức của tổ chức quốc tế công"
+    ],
+    [
+      "hối lộ",
+      "người có chức vụ trong các doanh nghiệp, tổ chức ngoài nhà nước"
+    ]
+  ]
+}

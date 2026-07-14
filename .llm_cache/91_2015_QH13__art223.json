@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giao tài sản"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "giao tài sản",
+    "mua bán",
+    "tặng cho",
+    "trao đổi",
+    "cho vay",
+    "chuyển quyền sở hữu",
+    "có quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "người được giao tài sản",
+      "có quyền sở hữu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "hợp đồng mua bán",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng tặng cho",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng trao đổi",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng cho vay",
+      "quyền sở hữu"
+    ],
+    [
+      "hợp đồng chuyển quyền sở hữu",
+      "quyền sở hữu"
+    ]
+  ]
+}

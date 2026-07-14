@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "mua bán người",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "lừa gạt",
+    "chuyển giao",
+    "tiếp nhận",
+    "tuyển mộ",
+    "vận chuyển"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "lừa gạt"
+    ],
+    [
+      "người",
+      "chuyển giao"
+    ],
+    [
+      "người",
+      "tiếp nhận"
+    ],
+    [
+      "người",
+      "tuyển mộ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "chuyển giao",
+      "tiếp nhận"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "bóc lột tình dục",
+      "cưỡng bức lao động"
+    ],
+    [
+      "gây rối loạn tâm thần",
+      "hành vi của nạn nhân"
+    ]
+  ]
+}

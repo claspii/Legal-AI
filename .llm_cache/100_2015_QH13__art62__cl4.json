@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án phạt tù",
+    "viện trưởng viện kiểm sát",
+    "tòa án",
+    "người đó"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "tạm đình chỉ chấp hành hình phạt",
+    "lập công",
+    "chấp hành tốt pháp luật",
+    "quyết định miễn chấp hành phần hình phạt còn lại"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án phạt tù",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "tạm đình chỉ chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "lập công"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "chấp hành tốt pháp luật"
+    ],
+    [
+      "viện trưởng viện kiểm sát",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định miễn chấp hành phần hình phạt còn lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "tạm đình chỉ chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "lập công"
+    ],
+    [
+      "người bị kết án phạt tù",
+      "chấp hành tốt pháp luật"
+    ],
+    [
+      "miễn chấp hành hình phạt",
+      "hoàn cảnh gia đình đặc biệt khó khăn"
+    ]
+  ]
+}

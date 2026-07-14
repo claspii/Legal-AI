@@ -1,0 +1,48 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể giao dịch",
+    "bên",
+    "các bên"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "áp dụng pháp luật",
+    "sửa đổi",
+    "bổ sung",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể giao dịch",
+      "tiếp tục thực hiện"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "nội dung"
+    ],
+    [
+      "giao dịch dân sự",
+      "hình thức"
+    ],
+    [
+      "áp dụng pháp luật",
+      "bộ luật này"
+    ],
+    [
+      "áp dụng pháp luật",
+      "bộ luật dân sự số 33/2005/qh11"
+    ],
+    [
+      "thời hiệu",
+      "bộ luật này"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "không hoàn thành công việc",
+    "bị ốm đau, tai nạn",
+    "điều trị",
+    "hồi phục",
+    "giảm chỗ làm việc",
+    "bỏ việc",
+    "cung cấp không trung thực thông tin"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "không hoàn thành công việc"
+    ],
+    [
+      "người lao động",
+      "bị ốm đau, tai nạn"
+    ],
+    [
+      "người lao động",
+      "bỏ việc"
+    ],
+    [
+      "người lao động",
+      "cung cấp không trung thực thông tin"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "người lao động"
+    ],
+    [
+      "quy chế đánh giá mức độ hoàn thành công việc",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa",
+      "giảm chỗ làm việc"
+    ],
+    [
+      "hợp đồng lao động không xác định thời hạn",
+      "12 tháng liên tục"
+    ]
+  ]
+}

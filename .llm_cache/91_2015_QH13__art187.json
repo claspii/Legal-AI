@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người được chủ sở hữu ủy quyền quản lý tài sản"
+  ],
+  "actions": [
+    "ủy quyền quản lý tài sản",
+    "chiếm hữu tài sản",
+    "trở thành chủ sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "ủy quyền quản lý tài sản"
+    ],
+    [
+      "người được chủ sở hữu ủy quyền quản lý tài sản",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "người được chủ sở hữu ủy quyền quản lý tài sản",
+      "trở thành chủ sở hữu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "ủy quyền quản lý tài sản",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "người được chủ sở hữu ủy quyền quản lý tài sản"
+    ]
+  ]
+}

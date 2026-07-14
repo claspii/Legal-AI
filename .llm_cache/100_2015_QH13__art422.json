@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "cấp trên"
+  ],
+  "actions": [
+    "thực hiện hành vi tiêu diệt hàng loạt dân cư",
+    "phá hủy nguồn sống",
+    "phá hoại cuộc sống văn hóa, tinh thần",
+    "làm đảo lộn nền tảng của một xã hội",
+    "phá hoại xã hội",
+    "thực hiện hành vi diệt chủng khác",
+    "thực hiện hành vi diệt sinh",
+    "thực hiện hành vi diệt môi trường tự nhiên",
+    "phạm tội",
+    "bị ép buộc",
+    "thi hành mệnh lệnh"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện hành vi tiêu diệt hàng loạt dân cư"
+    ],
+    [
+      "người nào",
+      "phá hủy nguồn sống"
+    ],
+    [
+      "người nào",
+      "phá hoại cuộc sống văn hóa, tinh thần"
+    ],
+    [
+      "người nào",
+      "làm đảo lộn nền tảng của một xã hội"
+    ],
+    [
+      "người nào",
+      "phá hoại xã hội"
+    ],
+    [
+      "người nào",
+      "thực hiện hành vi diệt chủng khác"
+    ],
+    [
+      "người nào",
+      "thực hiện hành vi diệt sinh"
+    ],
+    [
+      "người nào",
+      "thực hiện hành vi diệt môi trường tự nhiên"
+    ],
+    [
+      "người nào",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": []
+}

@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết 02 người",
+      "phạt tù từ 03 năm đến 07 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người với tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên",
+      "phạt tù từ 03 năm đến 07 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 122% đến 200%",
+      "phạt tù từ 03 năm đến 07 năm"
+    ],
+    [
+      "gây thiệt hại về tài sản từ 500.000.000 đồng đến dưới 1.500.000.000 đồng",
+      "phạt tù từ 03 năm đến 07 năm"
+    ]
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động nước ngoài",
+    "chủ sở hữu",
+    "thành viên góp vốn",
+    "công ty trách nhiệm hữu hạn",
+    "Chủ tịch Hội đồng quản trị",
+    "thành viên Hội đồng quản trị",
+    "công ty cổ phần",
+    "Trưởng văn phòng đại diện",
+    "tổ chức quốc tế",
+    "tổ chức phi chính phủ nước ngoài",
+    "chuyên gia Việt Nam",
+    "chuyên gia nước ngoài",
+    "luật sư nước ngoài",
+    "người nước ngoài",
+    "người Việt Nam",
+    "Chính phủ",
+    "nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+  ],
+  "actions": [
+    "làm việc tại Việt Nam",
+    "góp vốn",
+    "chịu trách nhiệm chính",
+    "thực hiện chào bán dịch vụ",
+    "xử lý sự cố, tình huống kỹ thuật, công nghệ phức tạp",
+    "hành nghề luật sư",
+    "kết hôn",
+    "sinh sống"
+  ],
+  "actor_actions": [
+    [
+      "người lao động nước ngoài",
+      "làm việc tại Việt Nam"
+    ],
+    [
+      "chủ sở hữu hoặc thành viên góp vốn của công ty trách nhiệm hữu hạn",
+      "góp vốn"
+    ],
+    [
+      "Chủ tịch Hội đồng quản trị hoặc thành viên Hội đồng quản trị của công ty cổ phần",
+      "góp vốn"
+    ],
+    [
+      "Trưởng văn phòng đại diện, dự án hoặc tổ chức quốc tế, tổ chức phi chính phủ nước ngoài",
+      "chịu trách nhiệm chính về hoạt động"
+    ],
+    [
+      "người nước ngoài",
+      "thực hiện chào bán dịch vụ"
+    ],
+    [
+      "người nước ngoài",
+      "xử lý sự cố, tình huống kỹ thuật, công nghệ phức tạp"
+    ],
+    [
+      "luật sư nước ngoài",
+      "hành nghề luật sư tại Việt Nam"
+    ],
+    [
+      "người nước ngoài",
+      "kết hôn với người Việt Nam"
+    ],
+    [
+      "người nước ngoài",
+      "sinh sống trên lãnh thổ Việt Nam"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động nước ngoài",
+      "giấy phép lao động"
+    ],
+    [
+      "chủ sở hữu hoặc thành viên góp vốn của công ty trách nhiệm hữu hạn",
+      "giá trị góp vốn"
+    ],
+    [
+      "Chủ tịch Hội đồng quản trị hoặc thành viên Hội đồng quản trị của công ty cổ phần",
+      "giá trị góp vốn"
+    ],
+    [
+      "luật sư nước ngoài",
+      "Giấy phép hành nghề luật sư tại Việt Nam"
+    ],
+    [
+      "người nước ngoài",
+      "kết hôn với người Việt Nam"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác"
+  ],
+  "actions": [
+    "cưỡng ép kết hôn",
+    "ly hôn",
+    "cản trở hôn nhân tự nguyện, tiến bộ",
+    "cản trở ly hôn tự nguyện",
+    "hành hạ",
+    "ngược đãi",
+    "uy hiếp tinh thần",
+    "yêu sách của cải"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cưỡng ép người khác kết hôn trái với sự tự nguyện của họ"
+    ],
+    [
+      "người nào",
+      "cản trở người khác kết hôn hoặc duy trì quan hệ hôn nhân tự nguyện, tiến bộ"
+    ],
+    [
+      "người nào",
+      "cưỡng ép hoặc cản trở người khác ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "ly hôn"
+    ],
+    [
+      "kết hôn",
+      "hôn nhân tự nguyện, tiến bộ"
+    ],
+    [
+      "ly hôn",
+      "ly hôn tự nguyện"
+    ]
+  ]
+}

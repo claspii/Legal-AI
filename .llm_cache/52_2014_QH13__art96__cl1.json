@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [
+    "bên nhờ mang thai hộ",
+    "bên mang thai hộ"
+  ],
+  "actors": [
+    "vợ chồng",
+    "bên nhờ mang thai hộ",
+    "người mang thai hộ",
+    "bên mang thai hộ",
+    "con"
+  ],
+  "actions": [
+    "mang thai hộ",
+    "thỏa thuận",
+    "nhờ mang thai hộ",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ",
+    "giải quyết hậu quả",
+    "hỗ trợ",
+    "nhận con",
+    "vi phạm cam kết"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "mang thai hộ"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "nhờ mang thai hộ"
+    ],
+    [
+      "bên mang thai hộ",
+      "mang thai hộ"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "thực hiện quyền"
+    ],
+    [
+      "bên mang thai hộ",
+      "thực hiện quyền"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "nhận con"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "vi phạm cam kết"
+    ],
+    [
+      "bên mang thai hộ",
+      "vi phạm cam kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa thuận",
+      "mang thai hộ vì mục đích nhân đạo"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "bên mang thai hộ"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "thỏa thuận",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "tai biến sản khoa",
+      "hỗ trợ để bảo đảm sức khỏe sinh sản"
+    ],
+    [
+      "con",
+      "nhận con"
+    ]
+  ]
+}

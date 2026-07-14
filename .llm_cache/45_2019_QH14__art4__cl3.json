@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người làm việc không có quan hệ lao động",
+    "lao động"
+  ],
+  "actions": [
+    "tạo điều kiện thuận lợi",
+    "tạo việc làm",
+    "tự tạo việc làm",
+    "dạy nghề",
+    "học nghề",
+    "sản xuất",
+    "kinh doanh",
+    "thu hút nhiều lao động",
+    "áp dụng một số quy định"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "tạo điều kiện thuận lợi"
+    ],
+    [
+      "nhà nước",
+      "áp dụng một số quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tạo việc làm",
+      "tự tạo việc làm"
+    ],
+    [
+      "dạy nghề",
+      "học nghề"
+    ],
+    [
+      "sản xuất",
+      "kinh doanh"
+    ],
+    [
+      "việc làm",
+      "người làm việc không có quan hệ lao động"
+    ]
+  ]
+}

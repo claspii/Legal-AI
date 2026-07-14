@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con chưa thành niên",
+    "con đã thành niên mất năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "cha mẹ",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "bộ luật dân sự"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "mua bán",
+    "phạm tội",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng hoạt động cho nhận con nuôi",
+    "có trách nhiệm chăm sóc, nuôi dưỡng",
+    "đưa nạn nhân ra khỏi biên giới",
+    "gây rối loạn tâm thần và hành vi",
+    "gây thương tích hoặc gây tổn hại sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "lợi dụng hoạt động cho nhận con nuôi"
+    ],
+    [
+      "người",
+      "có trách nhiệm chăm sóc, nuôi dưỡng"
+    ],
+    [
+      "người",
+      "đưa nạn nhân ra khỏi biên giới"
+    ],
+    [
+      "người",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người",
+      "gây thương tích hoặc gây tổn hại sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 16 tuổi",
+      "nạn nhân"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "tâm thần",
+      "hành vi"
+    ],
+    [
+      "thương tích",
+      "tổn hại sức khỏe"
+    ],
+    [
+      "biên giới",
+      "nước cộng hòa xã hội chủ nghĩa việt nam"
+    ]
+  ]
+}

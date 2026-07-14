@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [
+    "quyền khác đối với tài sản"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "nắm giữ",
+    "chi phối"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "nắm giữ"
+    ],
+    [
+      "chủ thể",
+      "chi phối"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền khác đối với tài sản",
+      "quyền đối với bất động sản liền kề"
+    ],
+    [
+      "quyền khác đối với tài sản",
+      "quyền hưởng dụng"
+    ],
+    [
+      "quyền khác đối với tài sản",
+      "quyền bề mặt"
+    ],
+    [
+      "chủ thể",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "quyền sở hữu"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "tòa án",
+    "chánh án tòa án"
+  ],
+  "actions": [
+    "tổng hợp hình phạt của nhiều bản án",
+    "chấp hành một bản án",
+    "bị xét xử về tội đã phạm",
+    "quyết định hình phạt",
+    "quyết định hình phạt chung",
+    "trừ vào thời hạn chấp hành hình phạt chung",
+    "thực hiện hành vi phạm tội mới",
+    "tổng hợp với phần hình phạt chưa chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "đang chấp hành một bản án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xét xử về tội đã phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đang phải chấp hành một bản án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phải chấp hành nhiều bản án"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt chung"
+    ],
+    [
+      "tòa án",
+      "xét xử"
+    ],
+    [
+      "chánh án tòa án",
+      "ra quyết định tổng hợp hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "bản án"
+    ],
+    [
+      "hình phạt",
+      "bản án"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "hình phạt chung",
+      "điều 86 của bộ luật này"
+    ],
+    [
+      "tội đã phạm",
+      "bản án"
+    ],
+    [
+      "hình phạt",
+      "đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "hình phạt",
+      "cấm kinh doanh"
+    ],
+    [
+      "hình phạt",
+      "cấm hoạt động trong một số lĩnh vực nhất định"
+    ]
+  ]
+}

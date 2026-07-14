@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "nhân dân",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "quấy nhiễu nhân dân",
+    "xử lý kỷ luật",
+    "vi phạm",
+    "gây hậu quả nghiêm trọng",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "lôi kéo người khác phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "quấy nhiễu nhân dân"
+    ],
+    [
+      "người nào",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người nào",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người nào",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người nào",
+      "phạt tù"
+    ],
+    [
+      "người nào",
+      "lôi kéo người khác phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi quấy nhiễu nhân dân",
+      "xử lý kỷ luật"
+    ],
+    [
+      "hành vi quấy nhiễu nhân dân",
+      "vi phạm"
+    ],
+    [
+      "hành vi quấy nhiễu nhân dân",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ],
+    [
+      "khu vực có chiến sự",
+      "phạm tội"
+    ],
+    [
+      "khu vực đã có lệnh ban bố tình trạng khẩn cấp",
+      "phạm tội"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "phạm tội"
+    ]
+  ]
+}

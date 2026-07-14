@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "có tổ chức",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "sử dụng công cụ hoặc phương tiện săn bắt bị cấm",
+    "săn bắt trong khu vực bị cấm hoặc vào thời gian bị cấm",
+    "buôn bán, vận chuyển qua biên giới",
+    "thu lợi bất chính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "động vật nguy cấp, quý hiếm nhóm iib",
+      "phụ lục ii của công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp"
+    ],
+    [
+      "động vật hoang dã thông thường",
+      "bộ phận, sản phẩm của các động vật đó"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ]
+  ]
+}

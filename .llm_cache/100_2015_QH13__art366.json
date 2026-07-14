@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn"
+  ],
+  "actions": [
+    "lợi dụng ảnh hưởng đối với người có chức vụ quyền hạn để trục lợi",
+    "nhận bất kỳ lợi ích nào",
+    "dùng ảnh hưởng của mình thúc đẩy người có chức vụ, quyền hạn làm hoặc không làm một việc",
+    "làm một việc không được phép làm",
+    "bị xử lý kỷ luật về hành vi này",
+    "vi phạm",
+    "phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "trực tiếp hoặc qua trung gian nhận bất kỳ lợi ích nào dưới mọi hình thức"
+    ],
+    [
+      "người",
+      "dùng ảnh hưởng của mình thúc đẩy người có chức vụ, quyền hạn làm hoặc không làm một việc thuộc trách nhiệm của họ"
+    ],
+    [
+      "người",
+      "dùng ảnh hưởng của mình thúc đẩy người có chức vụ, quyền hạn làm một việc không được phép làm"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật về hành vi này mà còn vi phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lợi dụng ảnh hưởng đối với người có chức vụ quyền hạn để trục lợi",
+      "nhận bất kỳ lợi ích nào"
+    ],
+    [
+      "lợi ích",
+      "tiền"
+    ],
+    [
+      "lợi ích",
+      "tài sản"
+    ],
+    [
+      "lợi ích",
+      "lợi ích vật chất khác"
+    ],
+    [
+      "lợi ích",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "người",
+      "người có chức vụ, quyền hạn"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "phạt tiền",
+      "cấm hành nghề"
+    ],
+    [
+      "phạt tiền",
+      "tịch thu tài sản"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "tịch thu tài sản"
+    ],
+    [
+      "cấm hành nghề",
+      "tịch thu tài sản"
+    ]
+  ]
+}

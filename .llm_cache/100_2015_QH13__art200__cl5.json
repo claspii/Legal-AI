@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "trốn thuế",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "bị phạt tiền",
+    "bị đình chỉ hoạt động có thời hạn",
+    "bị đình chỉ hoạt động vĩnh viễn",
+    "cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội quy định tại điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi quy định tại khoản 1 điều này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án về tội này"
+    ],
+    [
+      "pháp nhân thương mại",
+      "còn vi phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội trốn thuế",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "hành vi quy định tại khoản 1 điều này",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "hành vi quy định tại khoản 1 điều này",
+      "bị kết án"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại khoản 2 điều này",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại khoản 3 điều này",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại khoản 3 điều này",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "phạm tội thuộc trường hợp quy định tại điều 79 của bộ luật này",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "bị cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "bị cấm huy động vốn"
+    ]
+  ]
+}

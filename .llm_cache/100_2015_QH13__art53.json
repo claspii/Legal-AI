@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [
+    "tái phạm",
+    "tái phạm nguy hiểm"
+  ],
+  "actors": [],
+  "actions": [
+    "kết án",
+    "xóa án tích",
+    "thực hiện hành vi phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tái phạm",
+      "án tích"
+    ],
+    [
+      "tái phạm",
+      "hành vi phạm tội"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "tội phạm rất nghiêm trọng"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "tội phạm đặc biệt nghiêm trọng"
+    ]
+  ]
+}

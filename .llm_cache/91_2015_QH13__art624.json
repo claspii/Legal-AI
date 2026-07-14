@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "di chúc"
+  ],
+  "actors": [
+    "cá nhân",
+    "người khác"
+  ],
+  "actions": [
+    "thể hiện ý chí",
+    "chuyển tài sản"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "thể hiện ý chí"
+    ],
+    [
+      "cá nhân",
+      "chuyển tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "ý chí"
+    ],
+    [
+      "di chúc",
+      "tài sản"
+    ],
+    [
+      "ý chí",
+      "cá nhân"
+    ],
+    [
+      "tài sản",
+      "người khác"
+    ]
+  ]
+}

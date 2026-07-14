@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giáo dục",
+    "trường giáo dưỡng",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt trước thời hạn",
+    "chấp hành",
+    "đề nghị",
+    "quản lý",
+    "giáo dục",
+    "quyết định chấm dứt thời hạn"
+  ],
+  "actor_actions": [
+    [
+      "người được giáo dục",
+      "chấp hành một phần hai thời hạn"
+    ],
+    [
+      "trường giáo dưỡng",
+      "đề nghị"
+    ],
+    [
+      "trường giáo dưỡng",
+      "quản lý"
+    ],
+    [
+      "trường giáo dưỡng",
+      "giáo dục"
+    ],
+    [
+      "tòa án",
+      "quyết định chấm dứt thời hạn giáo dục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "biện pháp giáo dục",
+      "trường giáo dưỡng"
+    ],
+    [
+      "chấm dứt trước thời hạn",
+      "giáo dục tại trường giáo dưỡng"
+    ],
+    [
+      "người được giáo dục",
+      "tiến bộ"
+    ],
+    [
+      "thời hạn",
+      "giáo dục"
+    ]
+  ]
+}

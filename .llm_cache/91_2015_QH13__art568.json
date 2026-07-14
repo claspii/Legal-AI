@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên ủy quyền",
+    "bên được ủy quyền"
+  ],
+  "actions": [
+    "yêu cầu thông báo",
+    "thông báo đầy đủ",
+    "thực hiện công việc ủy quyền",
+    "yêu cầu giao lại tài sản",
+    "bồi thường thiệt hại",
+    "vi phạm nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên ủy quyền",
+      "yêu cầu thông báo"
+    ],
+    [
+      "bên được ủy quyền",
+      "thông báo đầy đủ"
+    ],
+    [
+      "bên ủy quyền",
+      "yêu cầu giao lại tài sản"
+    ],
+    [
+      "bên ủy quyền",
+      "được bồi thường thiệt hại"
+    ],
+    [
+      "bên được ủy quyền",
+      "vi phạm nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên ủy quyền",
+      "bên được ủy quyền"
+    ],
+    [
+      "công việc ủy quyền",
+      "tài sản"
+    ],
+    [
+      "công việc ủy quyền",
+      "lợi ích"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "vi phạm nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người chiếm hữu",
+    "người được giao quản lý"
+  ],
+  "actions": [
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "phải bồi thường thiệt hại"
+    ],
+    [
+      "người chiếm hữu",
+      "phải bồi thường thiệt hại"
+    ],
+    [
+      "người được giao quản lý",
+      "phải bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "thiệt hại do cây cối gây ra"
+    ],
+    [
+      "người chiếm hữu",
+      "thiệt hại do cây cối gây ra"
+    ],
+    [
+      "người được giao quản lý",
+      "thiệt hại do cây cối gây ra"
+    ]
+  ]
+}

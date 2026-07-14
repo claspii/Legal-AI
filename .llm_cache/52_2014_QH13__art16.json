@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nam",
+    "nữ",
+    "các bên",
+    "phụ nữ",
+    "con"
+  ],
+  "actions": [
+    "giải quyết",
+    "chung sống",
+    "không đăng ký kết hôn",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "nam",
+      "chung sống"
+    ],
+    [
+      "nữ",
+      "chung sống"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn",
+      "quan hệ tài sản"
+    ],
+    [
+      "nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn",
+      "nghĩa vụ"
+    ],
+    [
+      "nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn",
+      "hợp đồng"
+    ],
+    [
+      "công việc nội trợ",
+      "lao động có thu nhập"
+    ],
+    [
+      "công việc khác có liên quan để duy trì đời sống chung",
+      "lao động có thu nhập"
+    ]
+  ]
+}

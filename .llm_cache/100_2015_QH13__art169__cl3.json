@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị bắt làm con tin",
+    "nạn nhân"
+  ],
+  "actions": [
+    "bắt cóc nhằm chiếm đoạt tài sản",
+    "chiếm đoạt tài sản",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi"
+  ],
+  "actor_actions": [
+    [
+      "người bị bắt làm con tin",
+      "bị phạt tù"
+    ],
+    [
+      "nạn nhân",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "giá trị"
+    ],
+    [
+      "tổn thương cơ thể",
+      "tỷ lệ"
+    ],
+    [
+      "rối loạn tâm thần và hành vi",
+      "tỷ lệ"
+    ]
+  ]
+}

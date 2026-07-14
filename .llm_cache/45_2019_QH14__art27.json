@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "mỗi bên"
+  ],
+  "actions": [
+    "thông báo kết quả thử việc",
+    "thực hiện hợp đồng lao động",
+    "giao kết hợp đồng lao động",
+    "chấm dứt hợp đồng lao động",
+    "hủy bỏ hợp đồng thử việc",
+    "hủy bỏ hợp đồng lao động",
+    "báo trước",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thông báo kết quả thử việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "tiếp tục thực hiện hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "mỗi bên",
+      "hủy bỏ hợp đồng thử việc"
+    ],
+    [
+      "mỗi bên",
+      "hủy bỏ hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian thử việc",
+      "kết quả thử việc"
+    ],
+    [
+      "thử việc đạt yêu cầu",
+      "tiếp tục thực hiện hợp đồng lao động"
+    ],
+    [
+      "thử việc đạt yêu cầu",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "thử việc không đạt yêu cầu",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "không cần báo trước"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "không phải bồi thường"
+    ],
+    [
+      "hợp đồng lao động",
+      "hợp đồng thử việc"
+    ]
+  ]
+}

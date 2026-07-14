@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "người lao động",
+    "chủ sở hữu pháp nhân",
+    "thành viên góp vốn",
+    "quỹ xã hội",
+    "quỹ từ thiện",
+    "nhà nước"
+  ],
+  "actions": [
+    "thanh toán tài sản",
+    "giải thể",
+    "thanh toán nợ lương",
+    "thanh toán trợ cấp thôi việc",
+    "thanh toán bảo hiểm xã hội",
+    "thanh toán bảo hiểm y tế",
+    "chuyển giao"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "pháp nhân",
+      "thanh toán tài sản"
+    ],
+    [
+      "quỹ xã hội",
+      "chuyển giao"
+    ],
+    [
+      "quỹ từ thiện",
+      "chuyển giao"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản của pháp nhân",
+      "chi phí giải thể pháp nhân"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "nợ lương"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "trợ cấp thôi việc"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "bảo hiểm y tế"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "nợ thuế"
+    ],
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "quỹ xã hội",
+      "quỹ từ thiện"
+    ]
+  ]
+}

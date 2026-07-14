@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án phạt tiền",
+    "viện trưởng viện kiểm sát",
+    "tòa án"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "chấp hành hình phạt",
+    "lâm vào hoàn cảnh kinh tế đặc biệt khó khăn",
+    "lập công lớn",
+    "đề nghị",
+    "quyết định miễn chấp hành phần tiền phạt còn lại"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án phạt tiền",
+      "chấp hành được một phần hình phạt"
+    ],
+    [
+      "người bị kết án phạt tiền",
+      "bị lâm vào hoàn cảnh kinh tế đặc biệt khó khăn kéo dài"
+    ],
+    [
+      "người bị kết án phạt tiền",
+      "lập công lớn"
+    ],
+    [
+      "viện trưởng viện kiểm sát",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định miễn chấp hành phần tiền phạt còn lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "người bị kết án phạt tiền"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn",
+      "thiên tai"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn",
+      "hỏa hoạn"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn",
+      "tai nạn"
+    ],
+    [
+      "hoàn cảnh kinh tế đặc biệt khó khăn",
+      "ốm đau"
+    ]
+  ]
+}

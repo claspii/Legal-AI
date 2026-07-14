@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người lao động là người khuyết tật",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "bảo trợ quyền lao động",
+    "tự tạo việc làm",
+    "có chính sách khuyến khích",
+    "ưu đãi phù hợp",
+    "tạo việc làm",
+    "nhận vào làm việc"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo trợ quyền lao động"
+    ],
+    [
+      "nhà nước",
+      "có chính sách khuyến khích"
+    ],
+    [
+      "nhà nước",
+      "ưu đãi phù hợp"
+    ],
+    [
+      "người lao động là người khuyết tật",
+      "tự tạo việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "tạo việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "nhận vào làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính sách",
+      "khuyến khích"
+    ],
+    [
+      "chính sách",
+      "ưu đãi"
+    ],
+    [
+      "quyền lao động",
+      "người khuyết tật"
+    ],
+    [
+      "tạo việc làm",
+      "người khuyết tật"
+    ]
+  ]
+}

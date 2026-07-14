@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt chất ma túy",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất ma túy",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy",
+      "thể tích"
+    ]
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người đó",
+    "người có hình ảnh",
+    "các bên",
+    "người đại diện theo pháp luật",
+    "tòa án",
+    "người vi phạm",
+    "cơ quan"
+  ],
+  "actions": [
+    "sử dụng hình ảnh",
+    "đồng ý",
+    "trả thù lao",
+    "có thỏa thuận",
+    "làm tổn hại",
+    "yêu cầu",
+    "ra quyết định",
+    "thu hồi"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "có quyền đối với hình ảnh của mình"
+    ],
+    [
+      "người đó",
+      "đồng ý"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận khác"
+    ],
+    [
+      "người có hình ảnh",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "ra quyết định"
+    ],
+    [
+      "người vi phạm",
+      "thu hồi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "hình ảnh"
+    ],
+    [
+      "sử dụng hình ảnh",
+      "đồng ý"
+    ],
+    [
+      "sử dụng hình ảnh vì mục đích thương mại",
+      "trả thù lao"
+    ],
+    [
+      "lợi ích quốc gia",
+      "sử dụng hình ảnh"
+    ],
+    [
+      "lợi ích công cộng",
+      "sử dụng hình ảnh"
+    ],
+    [
+      "hoạt động công cộng",
+      "sử dụng hình ảnh"
+    ],
+    [
+      "vi phạm",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "hình ảnh",
+      "danh dự, nhân phẩm, uy tín"
+    ]
+  ]
+}

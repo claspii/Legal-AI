@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng đất",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "lập hồ sơ địa chính",
+    "chỉnh lý hồ sơ địa chính",
+    "cập nhật hồ sơ địa chính",
+    "thực hiện thủ tục hành chính về đất đai"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng đất",
+      "thực hiện thủ tục hành chính về đất đai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hồ sơ địa chính",
+      "thửa đất"
+    ],
+    [
+      "hồ sơ địa chính",
+      "tính khoa học"
+    ],
+    [
+      "hồ sơ địa chính",
+      "thống nhất thông tin"
+    ],
+    [
+      "hồ sơ địa chính",
+      "hiện trạng quản lý, sử dụng đất"
+    ],
+    [
+      "hồ sơ địa chính",
+      "đơn vị hành chính cấp xã"
+    ],
+    [
+      "hồ sơ địa chính",
+      "đơn vị hành chính cấp huyện"
+    ],
+    [
+      "hồ sơ địa chính",
+      "biến động"
+    ],
+    [
+      "hồ sơ địa chính",
+      "tình hình quản lý, sử dụng đất"
+    ]
+  ]
+}

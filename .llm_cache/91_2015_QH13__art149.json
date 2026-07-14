@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [
+    "thời hiệu"
+  ],
+  "actors": [
+    "chủ thể",
+    "tòa án",
+    "một bên",
+    "các bên",
+    "người được hưởng lợi"
+  ],
+  "actions": [
+    "áp dụng",
+    "yêu cầu",
+    "ra bản án",
+    "ra quyết định",
+    "giải quyết vụ, việc",
+    "từ chối áp dụng",
+    "trốn tránh thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "áp dụng quy định về thời hiệu"
+    ],
+    [
+      "một bên",
+      "yêu cầu áp dụng thời hiệu"
+    ],
+    [
+      "các bên",
+      "yêu cầu áp dụng thời hiệu"
+    ],
+    [
+      "tòa án cấp sơ thẩm",
+      "ra bản án, quyết định"
+    ],
+    [
+      "người được hưởng lợi",
+      "từ chối áp dụng thời hiệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu",
+      "hậu quả pháp lý"
+    ],
+    [
+      "thời hiệu",
+      "bản án"
+    ],
+    [
+      "thời hiệu",
+      "quyết định"
+    ],
+    [
+      "áp dụng thời hiệu",
+      "yêu cầu áp dụng thời hiệu"
+    ],
+    [
+      "từ chối áp dụng thời hiệu",
+      "trốn tránh thực hiện nghĩa vụ"
+    ]
+  ]
+}

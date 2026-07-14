@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "xúi giục",
+    "giúp",
+    "tự sát",
+    "kích động",
+    "dụ dỗ",
+    "thúc đẩy",
+    "tạo điều kiện vật chất",
+    "tạo điều kiện tinh thần"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "kích động"
+    ],
+    [
+      "người",
+      "dụ dỗ"
+    ],
+    [
+      "người",
+      "thúc đẩy"
+    ],
+    [
+      "người",
+      "tạo điều kiện vật chất"
+    ],
+    [
+      "người",
+      "tạo điều kiện tinh thần"
+    ],
+    [
+      "người khác",
+      "tự tước đoạt tính mạng của họ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "nhân phẩm"
+    ],
+    [
+      "tính mạng",
+      "danh dự"
+    ],
+    [
+      "sức khỏe",
+      "nhân phẩm"
+    ],
+    [
+      "sức khỏe",
+      "danh dự"
+    ],
+    [
+      "nhân phẩm",
+      "danh dự"
+    ]
+  ]
+}

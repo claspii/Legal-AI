@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào",
+    "người phạm tội"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị xử lý kỷ luật",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "cắt điện",
+    "từ chối cung cấp điện",
+    "trì hoãn việc xử lý sự cố điện",
+    "làm chết người"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người nào",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "cắt điện"
+    ],
+    [
+      "người nào",
+      "từ chối cung cấp điện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "cắt điện",
+      "không có căn cứ"
+    ],
+    [
+      "cắt điện",
+      "không thông báo theo quy định"
+    ],
+    [
+      "từ chối cung cấp điện",
+      "không có căn cứ"
+    ],
+    [
+      "trì hoãn việc xử lý sự cố điện",
+      "không có lý do chính đáng"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

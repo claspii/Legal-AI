@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người thành niên",
+    "cha",
+    "mẹ",
+    "người giám hộ"
+  ],
+  "actions": [
+    "lập di chúc",
+    "định đoạt tài sản",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "người thành niên",
+      "lập di chúc"
+    ],
+    [
+      "người thành niên",
+      "định đoạt tài sản"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "lập di chúc"
+    ],
+    [
+      "cha",
+      "đồng ý"
+    ],
+    [
+      "mẹ",
+      "đồng ý"
+    ],
+    [
+      "người giám hộ",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lập di chúc",
+      "di chúc"
+    ],
+    [
+      "di chúc",
+      "tài sản"
+    ],
+    [
+      "người thành niên",
+      "lập di chúc"
+    ]
+  ]
+}

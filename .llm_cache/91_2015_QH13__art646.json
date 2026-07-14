@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [
+    "di tặng"
+  ],
+  "actors": [
+    "người lập di chúc",
+    "người khác",
+    "người được di tặng",
+    "cá nhân",
+    "người để lại di sản"
+  ],
+  "actions": [
+    "di tặng",
+    "lập di chúc",
+    "ghi",
+    "tặng cho",
+    "mở thừa kế",
+    "sinh ra",
+    "thành thai",
+    "tồn tại",
+    "thực hiện nghĩa vụ tài sản",
+    "thanh toán nghĩa vụ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "dành một phần di sản để tặng cho người khác"
+    ],
+    [
+      "người lập di chúc",
+      "thanh toán nghĩa vụ tài sản"
+    ],
+    [
+      "người được di tặng",
+      "thực hiện nghĩa vụ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di tặng",
+      "di chúc"
+    ],
+    [
+      "di tặng",
+      "di sản"
+    ],
+    [
+      "người được di tặng",
+      "thời điểm mở thừa kế"
+    ],
+    [
+      "người được di tặng",
+      "nghĩa vụ tài sản"
+    ],
+    [
+      "di sản",
+      "nghĩa vụ tài sản"
+    ]
+  ]
+}

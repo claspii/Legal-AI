@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan có thẩm quyền của nước ngoài",
+    "chính phủ",
+    "tòa án nước ngoài",
+    "cơ quan khác có thẩm quyền của nước ngoài"
+  ],
+  "actions": [
+    "công nhận",
+    "ghi chú",
+    "thi hành",
+    "quy định",
+    "ghi vào sổ hộ tịch",
+    "không công nhận"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "công nhận"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "chính phủ",
+      "ghi vào sổ hộ tịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công nhận bản án, quyết định",
+      "tòa án nước ngoài"
+    ],
+    [
+      "ghi chú bản án, quyết định",
+      "cơ quan có thẩm quyền của nước ngoài"
+    ],
+    [
+      "hôn nhân",
+      "gia đình"
+    ],
+    [
+      "bản án",
+      "quyết định"
+    ]
+  ]
+}

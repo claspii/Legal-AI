@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "nhập khẩu, phát tán các loài ngoại lai xâm hại",
+    "thực hiện hành vi",
+    "nhập khẩu trái phép",
+    "phát tán",
+    "phạm tội",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "nhập khẩu trái phép"
+    ],
+    [
+      "người",
+      "phát tán"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhập khẩu trái phép loài động vật, thực vật ngoại lai xâm hại",
+      "vật phạm pháp trị giá"
+    ],
+    [
+      "phát tán loài động vật, thực vật ngoại lai xâm hại",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "phạt tù",
+      "có tổ chức"
+    ],
+    [
+      "phạt tiền",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ],
+    [
+      "cấm hành nghề",
+      "làm công việc nhất định"
+    ],
+    [
+      "phạt tiền",
+      "đình chỉ hoạt động có thời hạn"
+    ]
+  ]
+}

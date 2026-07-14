@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có chức vụ, quyền hạn",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "sửa chữa, làm sai lệch nội dung giấy tờ, tài liệu",
+    "làm, cấp giấy tờ giả",
+    "giả mạo chữ ký",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "làm công việc nhất định",
+    "bị phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "sửa chữa, làm sai lệch nội dung giấy tờ, tài liệu"
+    ],
+    [
+      "người",
+      "làm, cấp giấy tờ giả"
+    ],
+    [
+      "người",
+      "giả mạo chữ ký"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "giấy tờ",
+      "tài liệu"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "tội phạm nghiêm trọng"
+    ],
+    [
+      "tội phạm rất nghiêm trọng",
+      "tội phạm đặc biệt nghiêm trọng"
+    ]
+  ]
+}

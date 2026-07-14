@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [
+    "quan hệ hôn nhân và gia đình có yếu tố nước ngoài"
+  ],
+  "actors": [
+    "người nước ngoài",
+    "người việt nam định cư ở nước ngoài",
+    "công dân việt nam"
+  ],
+  "actions": [
+    "xác lập",
+    "thay đổi",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quan hệ hôn nhân và gia đình có yếu tố nước ngoài",
+      "người nước ngoài"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình có yếu tố nước ngoài",
+      "người việt nam định cư ở nước ngoài"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình",
+      "pháp luật nước ngoài"
+    ],
+    [
+      "quan hệ hôn nhân và gia đình",
+      "tài sản"
+    ],
+    [
+      "xác lập",
+      "quan hệ hôn nhân và gia đình"
+    ],
+    [
+      "thay đổi",
+      "quan hệ hôn nhân và gia đình"
+    ],
+    [
+      "chấm dứt",
+      "quan hệ hôn nhân và gia đình"
+    ]
+  ]
+}

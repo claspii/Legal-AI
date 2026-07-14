@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "chính phủ",
+    "ủy ban thường vụ quốc hội",
+    "quốc hội"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "quy định",
+    "đề xuất",
+    "quyết định điều chỉnh",
+    "báo cáo",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "chính phủ",
+      "đề xuất"
+    ],
+    [
+      "ủy ban thường vụ quốc hội",
+      "quyết định điều chỉnh"
+    ],
+    [
+      "ủy ban thường vụ quốc hội",
+      "báo cáo"
+    ],
+    [
+      "các bên",
+      "xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lãi suất vay",
+      "khoản tiền vay"
+    ],
+    [
+      "lãi suất",
+      "thỏa thuận"
+    ],
+    [
+      "lãi suất",
+      "tranh chấp"
+    ],
+    [
+      "lãi suất",
+      "trả nợ"
+    ]
+  ]
+}

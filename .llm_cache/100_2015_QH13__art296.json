@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "sử dụng người lao động",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sử dụng người dưới 16 tuổi"
+    ],
+    [
+      "nhà nước",
+      "quy định"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 16 tuổi",
+      "công việc nặng nhọc"
+    ],
+    [
+      "người dưới 16 tuổi",
+      "công việc nguy hiểm"
+    ],
+    [
+      "người dưới 16 tuổi",
+      "chất độc hại"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "án tích"
+    ]
+  ]
+}

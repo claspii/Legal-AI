@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "người lao động nước ngoài"
+  ],
+  "actions": [
+    "quy định",
+    "cấp",
+    "cấp lại",
+    "gia hạn",
+    "thu hồi"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép lao động",
+      "giấy xác nhận không thuộc diện cấp giấy phép lao động"
+    ],
+    [
+      "điều kiện",
+      "trình tự"
+    ],
+    [
+      "trình tự",
+      "thủ tục"
+    ],
+    [
+      "cấp",
+      "cấp lại"
+    ],
+    [
+      "gia hạn",
+      "thu hồi"
+    ],
+    [
+      "người lao động nước ngoài",
+      "làm việc tại việt nam"
+    ]
+  ]
+}

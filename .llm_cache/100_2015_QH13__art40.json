@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [
+    "tử hình"
+  ],
+  "actors": [
+    "người phạm tội",
+    "phụ nữ có thai",
+    "phụ nữ đang nuôi con dưới 36 tháng tuổi",
+    "người đủ 75 tuổi trở lên",
+    "người bị kết án",
+    "cơ quan chức năng",
+    "người bị kết án tử hình"
+  ],
+  "actions": [
+    "áp dụng",
+    "phạm tội",
+    "xâm phạm an ninh quốc gia",
+    "xâm phạm tính mạng con người",
+    "quy định",
+    "không áp dụng hình phạt tử hình",
+    "nuôi con dưới 36 tháng tuổi",
+    "không thi hành án tử hình"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người bị kết án",
+      "không thi hành án tử hình"
+    ],
+    [
+      "người bị kết án tử hình",
+      "ân giảm"
+    ],
+    [
+      "người bị kết án tử hình",
+      "chuyển thành tù chung thân"
+    ],
+    [
+      "người bị kết án tử hình",
+      "nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ"
+    ],
+    [
+      "người bị kết án tử hình",
+      "hợp tác tích cực với cơ quan chức năng"
+    ],
+    [
+      "cơ quan chức năng",
+      "phát hiện"
+    ],
+    [
+      "cơ quan chức năng",
+      "điều tra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tử hình",
+      "hình phạt đặc biệt"
+    ],
+    [
+      "tử hình",
+      "tù chung thân"
+    ],
+    [
+      "phụ nữ có thai",
+      "không áp dụng hình phạt tử hình"
+    ],
+    [
+      "phụ nữ đang nuôi con dưới 36 tháng tuổi",
+      "không áp dụng hình phạt tử hình"
+    ],
+    [
+      "người đủ 75 tuổi trở lên",
+      "không áp dụng hình phạt tử hình"
+    ],
+    [
+      "tội tham ô tài sản",
+      "không thi hành án tử hình"
+    ],
+    [
+      "tội nhận hối lộ",
+      "không thi hành án tử hình"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "phá sản"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "phá sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá sản",
+      "pháp nhân"
+    ],
+    [
+      "phá sản pháp nhân",
+      "pháp luật về phá sản"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "người khác"
+  ],
+  "actions": [
+    "sử dụng tài sản",
+    "gây thiệt hại",
+    "làm ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "sử dụng tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "gây thiệt hại"
+    ],
+    [
+      "chủ sở hữu",
+      "làm ảnh hưởng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lợi ích quốc gia",
+      "lợi ích dân tộc"
+    ],
+    [
+      "lợi ích dân tộc",
+      "lợi ích công cộng"
+    ],
+    [
+      "lợi ích công cộng",
+      "quyền và lợi ích hợp pháp của người khác"
+    ]
+  ]
+}

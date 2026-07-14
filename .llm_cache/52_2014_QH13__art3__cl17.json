@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [
+    "những người cùng dòng máu về trực hệ"
+  ],
+  "actors": [
+    "người này"
+  ],
+  "actions": [
+    "sinh ra"
+  ],
+  "actor_actions": [
+    [
+      "người này",
+      "sinh ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "những người cùng dòng máu về trực hệ",
+      "quan hệ huyết thống"
+    ]
+  ]
+}

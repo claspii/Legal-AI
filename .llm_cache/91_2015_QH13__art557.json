@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên giữ tài sản",
+    "bên gửi"
+  ],
+  "actions": [
+    "bảo quản tài sản",
+    "trả lại tài sản",
+    "thay đổi cách bảo quản tài sản",
+    "báo",
+    "thông báo",
+    "yêu cầu",
+    "thực hiện các biện pháp",
+    "thanh toán chi phí",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên giữ tài sản",
+      "bảo quản tài sản"
+    ],
+    [
+      "bên giữ tài sản",
+      "trả lại tài sản"
+    ],
+    [
+      "bên giữ tài sản",
+      "thay đổi cách bảo quản tài sản"
+    ],
+    [
+      "bên giữ tài sản",
+      "báo"
+    ],
+    [
+      "bên giữ tài sản",
+      "thông báo"
+    ],
+    [
+      "bên giữ tài sản",
+      "yêu cầu"
+    ],
+    [
+      "bên giữ tài sản",
+      "thực hiện các biện pháp"
+    ],
+    [
+      "bên giữ tài sản",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "bên gửi",
+      "thanh toán chi phí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên giữ tài sản",
+      "tài sản"
+    ],
+    [
+      "bên gửi",
+      "tài sản"
+    ],
+    [
+      "bên giữ tài sản",
+      "bên gửi"
+    ],
+    [
+      "bảo quản tài sản",
+      "trả lại tài sản"
+    ],
+    [
+      "hư hỏng",
+      "tiêu hủy"
+    ],
+    [
+      "thiệt hại",
+      "bất khả kháng"
+    ]
+  ]
+}

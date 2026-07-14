@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [
+    "quyền nhân thân"
+  ],
+  "actors": [
+    "cá nhân",
+    "người khác",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người đại diện theo pháp luật",
+    "tòa án",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "chuyển giao",
+    "xác lập",
+    "thực hiện",
+    "quy định",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "gắn liền với"
+    ],
+    [
+      "người khác",
+      "không thể chuyển giao"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "đồng ý"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "vợ",
+      "đồng ý"
+    ],
+    [
+      "chồng",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền nhân thân",
+      "cá nhân"
+    ],
+    [
+      "quyền nhân thân",
+      "quan hệ dân sự"
+    ],
+    [
+      "người chưa thành niên",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "người bị tuyên bố mất tích",
+      "vợ"
+    ],
+    [
+      "người đã chết",
+      "chồng"
+    ],
+    [
+      "người có khó khăn trong nhận thức, làm chủ hành vi",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "quan hệ dân sự",
+      "xác lập"
+    ]
+  ]
+}

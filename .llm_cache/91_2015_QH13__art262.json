@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng dụng",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "tiếp nhận tài sản",
+    "thực hiện đăng ký",
+    "khai thác tài sản",
+    "giữ gìn tài sản",
+    "bảo quản tài sản",
+    "bảo dưỡng tài sản",
+    "sửa chữa tài sản",
+    "khôi phục tình trạng của tài sản",
+    "khắc phục các hậu quả xấu",
+    "hoàn trả tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người hưởng dụng",
+      "tiếp nhận tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "thực hiện đăng ký"
+    ],
+    [
+      "người hưởng dụng",
+      "khai thác tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "giữ gìn tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "bảo quản tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "bảo dưỡng tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "sửa chữa tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "hoàn trả tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người hưởng dụng",
+      "tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "người hưởng dụng",
+      "nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "tài sản"
+    ]
+  ]
+}

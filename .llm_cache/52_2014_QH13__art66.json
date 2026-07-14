@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án",
+    "bên còn sống",
+    "người thừa kế",
+    "gia đình",
+    "người khác"
+  ],
+  "actions": [
+    "chết",
+    "tuyên bố là đã chết",
+    "quản lý tài sản chung",
+    "chia di sản",
+    "yêu cầu chia di sản",
+    "hạn chế phân chia di sản"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "chết"
+    ],
+    [
+      "chồng",
+      "chết"
+    ],
+    [
+      "tòa án",
+      "tuyên bố là đã chết"
+    ],
+    [
+      "bên còn sống",
+      "quản lý tài sản chung"
+    ],
+    [
+      "người thừa kế",
+      "thỏa thuận cử người khác quản lý di sản"
+    ],
+    [
+      "bên còn sống",
+      "yêu cầu tòa án hạn chế phân chia di sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung của vợ chồng",
+      "di sản"
+    ],
+    [
+      "chết",
+      "tuyên bố là đã chết"
+    ],
+    [
+      "di chúc",
+      "chỉ định người khác quản lý di sản"
+    ],
+    [
+      "chia di sản",
+      "chế độ tài sản"
+    ]
+  ]
+}

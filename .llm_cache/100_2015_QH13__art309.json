@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "phát tán",
+    "mua bán trái phép",
+    "chiếm đoạt",
+    "làm chết"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "sản xuất"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "sử dụng"
+    ],
+    [
+      "người nào",
+      "phát tán"
+    ],
+    [
+      "người nào",
+      "mua bán trái phép"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất phóng xạ",
+      "vật liệu hạt nhân"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tù",
+      "tù chung thân"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

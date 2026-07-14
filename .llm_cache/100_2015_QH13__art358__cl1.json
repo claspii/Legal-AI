@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người có chức vụ, quyền hạn"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "đòi",
+    "nhận",
+    "sẽ nhận",
+    "thúc đẩy",
+    "làm một việc thuộc trách nhiệm",
+    "không làm một việc thuộc trách nhiệm",
+    "làm một việc không được phép làm",
+    "bị xử lý kỷ luật",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người nào",
+      "đòi"
+    ],
+    [
+      "người nào",
+      "nhận"
+    ],
+    [
+      "người nào",
+      "sẽ nhận"
+    ],
+    [
+      "người nào",
+      "thúc đẩy"
+    ],
+    [
+      "người nào",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "làm một việc thuộc trách nhiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "tiền",
+      "tài sản"
+    ],
+    [
+      "lợi ích vật chất",
+      "lợi ích phi vật chất"
+    ],
+    [
+      "hành vi này",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "trách nhiệm",
+      "công việc"
+    ]
+  ]
+}

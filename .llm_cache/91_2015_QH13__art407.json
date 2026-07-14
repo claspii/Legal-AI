@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "áp dụng",
+    "chấm dứt",
+    "thỏa thuận",
+    "thay thế"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng vô hiệu",
+      "giao dịch dân sự vô hiệu"
+    ],
+    [
+      "hợp đồng chính",
+      "hợp đồng phụ"
+    ],
+    [
+      "hợp đồng phụ",
+      "hợp đồng chính"
+    ],
+    [
+      "sự vô hiệu của hợp đồng chính",
+      "hợp đồng phụ"
+    ],
+    [
+      "sự vô hiệu của hợp đồng phụ",
+      "hợp đồng chính"
+    ],
+    [
+      "hợp đồng phụ",
+      "biện pháp bảo đảm thực hiện nghĩa vụ"
+    ]
+  ]
+}

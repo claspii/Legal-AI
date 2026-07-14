@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "đồng đội",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "cản trở",
+    "thực hiện nhiệm vụ",
+    "không thực hiện được nhiệm vụ",
+    "thực hiện không đầy đủ nhiệm vụ",
+    "phạm tội",
+    "lôi kéo người khác phạm tội",
+    "dùng vũ lực",
+    "gây hậu quả nghiêm trọng",
+    "gây hậu quả rất nghiêm trọng",
+    "gây hậu quả đặc biệt nghiêm trọng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cản trở đồng đội thực hiện nhiệm vụ"
+    ],
+    [
+      "đồng đội",
+      "không thực hiện được nhiệm vụ"
+    ],
+    [
+      "đồng đội",
+      "thực hiện không đầy đủ nhiệm vụ"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người",
+      "gây hậu quả rất nghiêm trọng"
+    ],
+    [
+      "người",
+      "gây hậu quả đặc biệt nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhiệm vụ",
+      "chiến đấu"
+    ],
+    [
+      "nhiệm vụ",
+      "phục vụ chiến đấu"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ],
+    [
+      "hậu quả nghiêm trọng",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ],
+    [
+      "trong chiến đấu",
+      "trong khu vực có chiến sự"
+    ],
+    [
+      "trong thực hiện nhiệm vụ cứu hộ",
+      "trong thực hiện nhiệm vụ cứu nạn"
+    ]
+  ]
+}

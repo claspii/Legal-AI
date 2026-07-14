@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "cung cấp dịch vụ trái phép trên mạng máy tính, mạng viễn thông",
+    "phạt tiền",
+    "phạt tù"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thu lợi bất chính",
+      "doanh thu"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý",
+    "sản xuất",
+    "sửa chữa",
+    "trang bị",
+    "sử dụng",
+    "bảo quản",
+    "lưu giữ",
+    "vận chuyển",
+    "mua bán"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về quản lý"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ khí",
+      "vật liệu nổ"
+    ],
+    [
+      "vũ khí",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "vật liệu nổ",
+      "công cụ hỗ trợ"
+    ],
+    [
+      "vũ khí quân dụng",
+      "súng săn"
+    ],
+    [
+      "súng săn",
+      "vũ khí thể thao"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tù",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ]
+  ]
+}

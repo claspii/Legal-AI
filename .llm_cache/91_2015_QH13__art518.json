@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cung ứng dịch vụ",
+    "bên sử dụng dịch vụ"
+  ],
+  "actions": [
+    "cung cấp thông tin",
+    "cung cấp tài liệu",
+    "cung cấp phương tiện",
+    "thực hiện công việc",
+    "thay đổi điều kiện dịch vụ",
+    "gây thiệt hại",
+    "báo ngay",
+    "trả tiền dịch vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên cung ứng dịch vụ",
+      "yêu cầu cung cấp thông tin"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "yêu cầu cung cấp tài liệu"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "yêu cầu cung cấp phương tiện"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "cung cấp thông tin"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "cung cấp tài liệu"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "cung cấp phương tiện"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "thay đổi điều kiện dịch vụ"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "báo ngay"
+    ],
+    [
+      "bên cung ứng dịch vụ",
+      "yêu cầu trả tiền dịch vụ"
+    ],
+    [
+      "bên sử dụng dịch vụ",
+      "trả tiền dịch vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cung ứng dịch vụ",
+      "bên sử dụng dịch vụ"
+    ],
+    [
+      "điều kiện dịch vụ",
+      "lợi ích"
+    ],
+    [
+      "chờ ý kiến",
+      "gây thiệt hại"
+    ]
+  ]
+}

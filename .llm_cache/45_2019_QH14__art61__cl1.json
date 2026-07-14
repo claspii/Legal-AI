@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [
+    "học nghề để làm việc cho người sử dụng lao động"
+  ],
+  "actors": [
+    "người sử dụng lao động",
+    "người"
+  ],
+  "actions": [
+    "tuyển",
+    "đào tạo nghề nghiệp",
+    "học nghề",
+    "làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển"
+    ],
+    [
+      "người sử dụng lao động",
+      "đào tạo nghề nghiệp"
+    ],
+    [
+      "người",
+      "học nghề"
+    ],
+    [
+      "người",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "học nghề",
+      "người sử dụng lao động"
+    ],
+    [
+      "tập nghề",
+      "người sử dụng lao động"
+    ],
+    [
+      "đào tạo nghề nghiệp",
+      "nơi làm việc"
+    ],
+    [
+      "học nghề",
+      "chương trình đào tạo"
+    ],
+    [
+      "chương trình đào tạo",
+      "trình độ"
+    ],
+    [
+      "trình độ",
+      "luật giáo dục nghề nghiệp"
+    ]
+  ]
+}

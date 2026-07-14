@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [
+    "mất năng lực hành vi dân sự"
+  ],
+  "actors": [
+    "tòa án",
+    "người có quyền, lợi ích liên quan",
+    "cơ quan, tổ chức hữu quan",
+    "người",
+    "người đại diện theo pháp luật"
+  ],
+  "actions": [
+    "ra quyết định tuyên bố mất năng lực hành vi dân sự",
+    "yêu cầu",
+    "ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự",
+    "nhận thức, làm chủ được hành vi",
+    "xác lập, thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "ra quyết định tuyên bố người này là người mất năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "người có quyền, lợi ích liên quan",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan, tổ chức hữu quan",
+      "yêu cầu"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "xác lập, thực hiện giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mất năng lực hành vi dân sự",
+      "bệnh tâm thần"
+    ],
+    [
+      "mất năng lực hành vi dân sự",
+      "không thể nhận thức, làm chủ được hành vi"
+    ],
+    [
+      "mất năng lực hành vi dân sự",
+      "kết luận giám định pháp y tâm thần"
+    ],
+    [
+      "mất năng lực hành vi dân sự",
+      "người đại diện theo pháp luật"
+    ],
+    [
+      "giao dịch dân sự",
+      "người mất năng lực hành vi dân sự"
+    ]
+  ]
+}

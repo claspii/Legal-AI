@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "thành viên mới của hợp đồng",
+    "thành viên hợp tác"
+  ],
+  "actions": [
+    "gia nhập hợp đồng hợp tác",
+    "trở thành thành viên mới của hợp đồng",
+    "được sự đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "trở thành thành viên mới của hợp đồng"
+    ],
+    [
+      "pháp nhân",
+      "trở thành thành viên mới của hợp đồng"
+    ],
+    [
+      "thành viên mới của hợp đồng",
+      "gia nhập hợp đồng hợp tác"
+    ],
+    [
+      "thành viên hợp tác",
+      "được sự đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng hợp tác",
+      "thành viên mới của hợp đồng"
+    ],
+    [
+      "cá nhân",
+      "thành viên hợp tác"
+    ],
+    [
+      "pháp nhân",
+      "thành viên hợp tác"
+    ]
+  ]
+}

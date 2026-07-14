@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "bộ lao động - thương binh và xã hội",
+    "bộ, cơ quan ngang bộ",
+    "ủy ban nhân dân các cấp"
+  ],
+  "actions": [
+    "thống nhất quản lý nhà nước về lao động",
+    "thực hiện quản lý nhà nước về lao động",
+    "phối hợp với bộ lao động - thương binh và xã hội trong quản lý nhà nước về lao động"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "thống nhất quản lý nhà nước về lao động"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "chịu trách nhiệm trước chính phủ thực hiện quản lý nhà nước về lao động"
+    ],
+    [
+      "bộ, cơ quan ngang bộ",
+      "thực hiện quản lý nhà nước về lao động"
+    ],
+    [
+      "bộ, cơ quan ngang bộ",
+      "phối hợp với bộ lao động - thương binh và xã hội trong quản lý nhà nước về lao động"
+    ],
+    [
+      "ủy ban nhân dân các cấp",
+      "thực hiện quản lý nhà nước về lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chính phủ",
+      "quản lý nhà nước về lao động"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "quản lý nhà nước về lao động"
+    ],
+    [
+      "bộ, cơ quan ngang bộ",
+      "quản lý nhà nước về lao động"
+    ],
+    [
+      "ủy ban nhân dân các cấp",
+      "quản lý nhà nước về lao động"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "tổ chức đại diện người lao động",
+    "tổ chức nghề nghiệp"
+  ],
+  "actions": [
+    "làm việc",
+    "lựa chọn việc làm",
+    "học nghề",
+    "nâng cao trình độ nghề nghiệp",
+    "hưởng lương",
+    "bảo hộ lao động",
+    "thành lập",
+    "gia nhập",
+    "hoạt động",
+    "yêu cầu",
+    "tham gia đối thoại",
+    "thực hiện quy chế dân chủ",
+    "thương lượng tập thể",
+    "tham vấn",
+    "quản lý",
+    "từ chối làm việc",
+    "chấm dứt hợp đồng lao động",
+    "đình công",
+    "thực hiện hợp đồng lao động",
+    "chấp hành kỷ luật lao động",
+    "tuân theo sự quản lý",
+    "điều hành",
+    "giám sát",
+    "thực hiện quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "người lao động",
+      "tự do lựa chọn việc làm"
+    ],
+    [
+      "người lao động",
+      "học nghề"
+    ],
+    [
+      "người lao động",
+      "nâng cao trình độ nghề nghiệp"
+    ],
+    [
+      "người lao động",
+      "hưởng lương"
+    ],
+    [
+      "người lao động",
+      "thành lập"
+    ],
+    [
+      "người lao động",
+      "gia nhập"
+    ],
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "người lao động",
+      "thực hiện hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "chấp hành kỷ luật lao động"
+    ],
+    [
+      "người lao động",
+      "tuân theo sự quản lý"
+    ],
+    [
+      "người lao động",
+      "thực hiện quy định của pháp luật về lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "quản lý"
+    ],
+    [
+      "người sử dụng lao động",
+      "điều hành"
+    ],
+    [
+      "người sử dụng lao động",
+      "giám sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "an toàn lao động",
+      "vệ sinh lao động"
+    ],
+    [
+      "kỷ luật lao động",
+      "nội quy lao động"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm y tế",
+      "bảo hiểm thất nghiệp"
+    ]
+  ]
+}

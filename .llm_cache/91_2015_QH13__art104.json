@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên không có quyền đại diện",
+    "thành viên",
+    "hộ gia đình",
+    "tổ hợp tác",
+    "tổ chức khác không có tư cách pháp nhân",
+    "người đại diện",
+    "bên không có quyền đại diện",
+    "người thứ ba"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "vượt quá phạm vi đại diện",
+    "áp dụng",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "thành viên không có quyền đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "thành viên không có quyền đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "vượt quá phạm vi đại diện"
+    ],
+    [
+      "bên không có quyền đại diện",
+      "gây thiệt hại"
+    ],
+    [
+      "bên không có quyền đại diện",
+      "bồi thường"
+    ],
+    [
+      "người đại diện",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thành viên không có quyền đại diện",
+      "giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "vượt quá phạm vi đại diện"
+    ],
+    [
+      "giao dịch dân sự",
+      "hậu quả pháp lý"
+    ],
+    [
+      "giao dịch dân sự",
+      "thiệt hại"
+    ],
+    [
+      "bên không có quyền đại diện",
+      "bồi thường"
+    ],
+    [
+      "hộ gia đình",
+      "tổ hợp tác"
+    ]
+  ]
+}

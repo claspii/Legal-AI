@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hội đồng trọng tài lao động",
+    "ban trọng tài lao động",
+    "các bên tranh chấp"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "ra quyết định",
+    "gửi quyết định"
+  ],
+  "actor_actions": [
+    [
+      "ban trọng tài lao động",
+      "ra quyết định"
+    ],
+    [
+      "ban trọng tài lao động",
+      "gửi quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động",
+      "quyết định về việc giải quyết tranh chấp"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "ban trọng tài lao động"
+    ]
+  ]
+}

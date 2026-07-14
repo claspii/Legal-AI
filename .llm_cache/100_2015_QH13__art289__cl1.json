@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác"
+  ],
+  "actions": [
+    "cố ý vượt qua cảnh báo",
+    "vượt qua mã truy cập",
+    "vượt qua tường lửa",
+    "sử dụng quyền quản trị",
+    "xâm nhập trái phép",
+    "chiếm quyền điều khiển",
+    "can thiệp vào chức năng hoạt động",
+    "lấy cắp dữ liệu"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cố ý vượt qua cảnh báo"
+    ],
+    [
+      "người nào",
+      "sử dụng quyền quản trị của người khác"
+    ],
+    [
+      "người nào",
+      "xâm nhập trái phép"
+    ],
+    [
+      "người nào",
+      "chiếm quyền điều khiển"
+    ],
+    [
+      "người nào",
+      "can thiệp vào chức năng hoạt động của phương tiện điện tử"
+    ],
+    [
+      "người nào",
+      "lấy cắp dữ liệu"
+    ],
+    [
+      "người nào",
+      "thay đổi dữ liệu"
+    ],
+    [
+      "người nào",
+      "hủy hoại dữ liệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "cảnh báo",
+      "mã truy cập"
+    ],
+    [
+      "mã truy cập",
+      "tường lửa"
+    ],
+    [
+      "dữ liệu",
+      "dịch vụ"
+    ]
+  ]
+}

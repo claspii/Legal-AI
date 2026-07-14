@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "đăng ký quyền sở hữu",
+    "đăng ký quyền sử dụng",
+    "ghi tên",
+    "thỏa thuận",
+    "giao dịch",
+    "giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "ghi tên"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "giao dịch",
+      "thực hiện"
+    ],
+    [
+      "tranh chấp",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "tài sản chung"
+    ],
+    [
+      "quyền sử dụng",
+      "tài sản chung"
+    ],
+    [
+      "giấy chứng nhận quyền sở hữu",
+      "ghi tên"
+    ],
+    [
+      "giấy chứng nhận quyền sử dụng",
+      "ghi tên"
+    ],
+    [
+      "tài sản chung",
+      "đăng ký quyền sở hữu"
+    ],
+    [
+      "tài sản chung",
+      "đăng ký quyền sử dụng"
+    ],
+    [
+      "giao dịch",
+      "tài sản"
+    ]
+  ]
+}

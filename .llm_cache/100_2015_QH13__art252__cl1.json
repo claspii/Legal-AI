@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "chiếm đoạt chất ma túy",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "còn vi phạm",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chiếm đoạt chất ma túy"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "còn vi phạm"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm đoạt chất ma túy",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "chiếm đoạt chất ma túy",
+      "kết án"
+    ],
+    [
+      "chiếm đoạt chất ma túy",
+      "phạt tù"
+    ],
+    [
+      "nhựa thuốc phiện",
+      "khối lượng"
+    ],
+    [
+      "nhựa cần sa",
+      "khối lượng"
+    ],
+    [
+      "cao côca",
+      "khối lượng"
+    ],
+    [
+      "hêrôin",
+      "khối lượng"
+    ],
+    [
+      "côcain",
+      "khối lượng"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "chuyển giao",
+    "tiếp nhận",
+    "tuyển mộ",
+    "vận chuyển",
+    "chứa chấp",
+    "mua bán người",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "chuyển giao"
+    ],
+    [
+      "người",
+      "tiếp nhận"
+    ],
+    [
+      "người",
+      "tuyển mộ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "chứa chấp"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua bán người",
+      "người dưới 16 tuổi"
+    ],
+    [
+      "chuyển giao",
+      "tiếp nhận"
+    ],
+    [
+      "bóc lột tình dục",
+      "cưỡng bức lao động"
+    ],
+    [
+      "rối loạn tâm thần",
+      "hành vi của nạn nhân"
+    ]
+  ]
+}

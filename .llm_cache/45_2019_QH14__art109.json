@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "nghỉ giữa giờ",
+    "làm việc ban đêm",
+    "làm việc theo ca liên tục",
+    "bố trí",
+    "ghi vào nội quy lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc theo thời giờ làm việc"
+    ],
+    [
+      "người lao động",
+      "nghỉ giữa giờ"
+    ],
+    [
+      "người lao động",
+      "làm việc ban đêm"
+    ],
+    [
+      "người lao động",
+      "làm việc theo ca liên tục"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí cho người lao động các đợt nghỉ giải lao"
+    ],
+    [
+      "người sử dụng lao động",
+      "ghi vào nội quy lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "thời giờ làm việc"
+    ],
+    [
+      "nghỉ giữa giờ",
+      "thời giờ làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "nội quy lao động"
+    ],
+    [
+      "nghỉ giữa giờ",
+      "làm việc ban đêm"
+    ],
+    [
+      "nghỉ giữa giờ",
+      "làm việc theo ca liên tục"
+    ]
+  ]
+}

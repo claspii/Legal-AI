@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "những người thừa kế theo di chúc",
+    "người chết",
+    "tòa án"
+  ],
+  "actions": [
+    "giải thích nội dung di chúc",
+    "yêu cầu",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "những người thừa kế theo di chúc",
+      "giải thích nội dung di chúc"
+    ],
+    [
+      "những người thừa kế theo di chúc",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "nội dung di chúc"
+    ],
+    [
+      "người chết",
+      "ý nguyện đích thực"
+    ],
+    [
+      "người chết",
+      "mối quan hệ"
+    ],
+    [
+      "di chúc",
+      "hiệu lực"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [
+    "tù có thời hạn"
+  ],
+  "actors": [
+    "người bị kết án",
+    "người phạm một tội",
+    "người lần đầu phạm tội ít nghiêm trọng do vô ý"
+  ],
+  "actions": [
+    "chấp hành hình phạt",
+    "tạm giữ",
+    "tạm giam",
+    "áp dụng hình phạt tù có thời hạn"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người phạm một tội",
+      "có mức tối thiểu là 03 tháng và mức tối đa là 20 năm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tù có thời hạn",
+      "hình phạt"
+    ],
+    [
+      "thời gian tạm giữ",
+      "thời hạn chấp hành hình phạt tù"
+    ],
+    [
+      "thời gian tạm giam",
+      "thời hạn chấp hành hình phạt tù"
+    ],
+    [
+      "người lần đầu phạm tội ít nghiêm trọng do vô ý",
+      "nơi cư trú rõ ràng"
+    ]
+  ]
+}

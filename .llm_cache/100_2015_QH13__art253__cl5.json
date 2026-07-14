@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thực hiện hành vi phạm tội"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy",
+    "quy đổi",
+    "truy cứu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người thực hiện hành vi phạm tội",
+      "bị truy cứu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền chất ở thể rắn",
+      "tiền chất ở thể lỏng"
+    ],
+    [
+      "tiền chất",
+      "truy cứu trách nhiệm hình sự"
+    ]
+  ]
+}

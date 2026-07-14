@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "vận chuyển trái phép",
+    "bị phạt tiền",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "bị đình chỉ hoạt động",
+    "bị cấm kinh doanh"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vận chuyển qua biên giới"
+    ],
+    [
+      "người",
+      "vận chuyển từ khu phi thuế quan vào nội địa"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vận chuyển trái phép",
+      "hàng hóa"
+    ],
+    [
+      "vận chuyển trái phép",
+      "tiền tệ qua biên giới"
+    ],
+    [
+      "hàng hóa",
+      "tiền việt nam"
+    ],
+    [
+      "hàng hóa",
+      "ngoại tệ"
+    ],
+    [
+      "hàng hóa",
+      "kim khí quý"
+    ],
+    [
+      "hàng hóa",
+      "đá quý"
+    ]
+  ]
+}

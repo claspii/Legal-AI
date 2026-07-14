@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "con"
+  ],
+  "actions": [
+    "xác định",
+    "mang thai hộ",
+    "sinh ra"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "nhờ mang thai hộ"
+    ],
+    [
+      "con",
+      "sinh ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ",
+      "mang thai hộ vì mục đích nhân đạo"
+    ],
+    [
+      "con",
+      "vợ chồng nhờ mang thai hộ"
+    ]
+  ]
+}

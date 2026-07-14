@@ -1,0 +1,92 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "vi phạm các quy định",
+    "nghiên cứu",
+    "thăm dò",
+    "khai thác tài nguyên",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "thu lợi bất chính",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây sự cố môi trường",
+    "làm chết người",
+    "đình chỉ hoạt động",
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm các quy định"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "thực hiện hành vi"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "cấm kinh doanh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghiên cứu",
+      "tài nguyên"
+    ],
+    [
+      "thăm dò",
+      "tài nguyên"
+    ],
+    [
+      "khai thác",
+      "tài nguyên"
+    ],
+    [
+      "thu lợi bất chính",
+      "nghiên cứu"
+    ],
+    [
+      "thu lợi bất chính",
+      "thăm dò"
+    ],
+    [
+      "thu lợi bất chính",
+      "khai thác tài nguyên"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung theo phần",
+    "chủ sở hữu chung khác",
+    "chủ sở hữu đó",
+    "người khác",
+    "người mua",
+    "bên có lỗi",
+    "tòa án"
+  ],
+  "actions": [
+    "định đoạt tài sản chung",
+    "bán phần quyền sở hữu",
+    "ưu tiên mua",
+    "nhận được thông báo",
+    "thông báo bằng văn bản",
+    "yêu cầu tòa án",
+    "chuyển quyền và nghĩa vụ",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung theo phần",
+      "bán phần quyền sở hữu của mình"
+    ],
+    [
+      "chủ sở hữu chung khác",
+      "được quyền ưu tiên mua"
+    ],
+    [
+      "chủ sở hữu chung khác",
+      "nhận được thông báo"
+    ],
+    [
+      "chủ sở hữu đó",
+      "được quyền bán cho người khác"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "có quyền yêu cầu tòa án chuyển sang cho mình quyền và nghĩa vụ của người mua"
+    ],
+    [
+      "bên có lỗi",
+      "phải bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung",
+      "bất động sản"
+    ],
+    [
+      "tài sản chung",
+      "động sản"
+    ],
+    [
+      "bán phần quyền sở hữu",
+      "quyền ưu tiên mua"
+    ],
+    [
+      "vi phạm về quyền ưu tiên mua",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

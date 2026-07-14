@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể quyền bề mặt",
+    "người khác",
+    "chủ thể nhận chuyển giao"
+  ],
+  "actions": [
+    "khai thác",
+    "sử dụng",
+    "xây dựng công trình",
+    "trồng cây",
+    "canh tác",
+    "sở hữu",
+    "chuyển giao",
+    "kế thừa"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể quyền bề mặt",
+      "khai thác"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "sử dụng"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "xây dựng công trình"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "trồng cây"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "canh tác"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "sở hữu"
+    ],
+    [
+      "chủ thể nhận chuyển giao",
+      "kế thừa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền bề mặt",
+      "mặt đất"
+    ],
+    [
+      "quyền bề mặt",
+      "mặt nước"
+    ],
+    [
+      "quyền bề mặt",
+      "khoảng không gian trên mặt đất"
+    ],
+    [
+      "quyền bề mặt",
+      "khoảng không gian trên mặt nước"
+    ],
+    [
+      "quyền bề mặt",
+      "lòng đất"
+    ],
+    [
+      "quyền bề mặt",
+      "quyền sử dụng đất"
+    ],
+    [
+      "quyền bề mặt",
+      "tài sản được tạo lập"
+    ]
+  ]
+}

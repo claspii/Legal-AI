@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người không phải là chủ sở hữu",
+    "chủ sở hữu"
+  ],
+  "actions": [
+    "sử dụng",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "người không phải là chủ sở hữu",
+      "sử dụng"
+    ],
+    [
+      "người không phải là chủ sở hữu",
+      "thỏa thuận"
+    ],
+    [
+      "chủ sở hữu",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không phải là chủ sở hữu",
+      "sử dụng tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "thỏa thuận"
+    ],
+    [
+      "quyền sở hữu",
+      "quyền sử dụng"
+    ]
+  ]
+}

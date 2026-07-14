@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vô ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt cảnh cáo",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vô ý gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt cảnh cáo"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt tiền"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt tù"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt cảnh cáo"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt tiền từ 5.000.000 đồng đến 20.000.000 đồng"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%",
+      "phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể 61% trở lên",
+      "phạt tù từ 03 tháng đến 02 năm"
+    ]
+  ]
+}

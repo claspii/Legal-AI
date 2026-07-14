@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "chính phủ",
+    "ban lãnh đạo",
+    "tổ chức của người lao động tại doanh nghiệp",
+    "người lao động việt nam"
+  ],
+  "actions": [
+    "đăng ký",
+    "bầu",
+    "làm việc",
+    "truy cứu trách nhiệm hình sự",
+    "chấp hành hình phạt",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "đăng ký"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "phải có số lượng tối thiểu thành viên"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "thành viên của tổ chức của người lao động tại doanh nghiệp",
+      "bầu"
+    ],
+    [
+      "ban lãnh đạo",
+      "là người lao động việt nam"
+    ],
+    [
+      "người lao động việt nam",
+      "đang làm việc tại doanh nghiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ban lãnh đạo",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "thành viên",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "người lao động việt nam",
+      "ban lãnh đạo"
+    ],
+    [
+      "truy cứu trách nhiệm hình sự",
+      "người lao động việt nam"
+    ],
+    [
+      "chấp hành hình phạt",
+      "người lao động việt nam"
+    ],
+    [
+      "xóa án tích",
+      "người lao động việt nam"
+    ]
+  ]
+}

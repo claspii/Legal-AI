@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác"
+  ],
+  "actions": [
+    "gây thiệt hại",
+    "ngăn chặn"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "tính mạng",
+      "tài sản"
+    ],
+    [
+      "sức khỏe",
+      "tài sản"
+    ]
+  ]
+}

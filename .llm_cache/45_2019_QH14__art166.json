@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "áp dụng",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+      "chế độ phù hợp về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề"
+    ],
+    [
+      "người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+      "tiền lương, tiền thưởng"
+    ],
+    [
+      "người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+      "thời giờ làm việc, thời giờ nghỉ ngơi"
+    ],
+    [
+      "người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+      "an toàn, vệ sinh lao động"
+    ]
+  ]
+}

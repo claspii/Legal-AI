@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "phụ nữ"
+  ],
+  "actions": [
+    "làm chết người",
+    "dùng vũ lực",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm chết người"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "cấm hành nghề"
+    ],
+    [
+      "người",
+      "làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm chết người",
+      "thi hành công vụ"
+    ],
+    [
+      "làm chết người",
+      "dùng vũ lực"
+    ],
+    [
+      "người dưới 16 tuổi",
+      "phụ nữ có thai"
+    ]
+  ]
+}

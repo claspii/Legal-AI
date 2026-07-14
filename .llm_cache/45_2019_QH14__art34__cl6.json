@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "tuyên bố mất năng lực hành vi dân sự",
+    "tuyên bố mất tích",
+    "tuyên bố đã chết"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "chết"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "tòa án",
+      "tuyên bố mất tích"
+    ],
+    [
+      "tòa án",
+      "tuyên bố đã chết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "chết"
+    ],
+    [
+      "người lao động",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "người lao động",
+      "mất tích"
+    ],
+    [
+      "người lao động",
+      "đã chết"
+    ]
+  ]
+}

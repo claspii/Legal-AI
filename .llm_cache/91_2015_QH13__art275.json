@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phát sinh nghĩa vụ",
+    "thực hiện công việc không có ủy quyền",
+    "chiếm hữu tài sản",
+    "sử dụng tài sản",
+    "được lợi về tài sản không có căn cứ pháp luật",
+    "gây thiệt hại do hành vi trái pháp luật"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "hợp đồng"
+    ],
+    [
+      "nghĩa vụ",
+      "hành vi pháp lý đơn phương"
+    ],
+    [
+      "nghĩa vụ",
+      "thực hiện công việc không có ủy quyền"
+    ],
+    [
+      "nghĩa vụ",
+      "chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật"
+    ],
+    [
+      "nghĩa vụ",
+      "gây thiệt hại do hành vi trái pháp luật"
+    ],
+    [
+      "nghĩa vụ",
+      "căn cứ khác do pháp luật quy định"
+    ]
+  ]
+}

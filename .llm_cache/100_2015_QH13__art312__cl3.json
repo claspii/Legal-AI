@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chết",
+      "03 người trở lên"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể 61% trở lên"
+    ],
+    [
+      "thương tích",
+      "tổng tỷ lệ tổn thương cơ thể 201% trở lên"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tổng tỷ lệ tổn thương cơ thể 201% trở lên"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "1.500.000.000 đồng trở lên"
+    ]
+  ]
+}

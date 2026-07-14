@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "nhận hối lộ",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhận hối lộ",
+      "tiền"
+    ],
+    [
+      "nhận hối lộ",
+      "tài sản"
+    ],
+    [
+      "nhận hối lộ",
+      "lợi ích vật chất khác"
+    ],
+    [
+      "phạm tội",
+      "tù 20 năm"
+    ],
+    [
+      "phạm tội",
+      "tù chung thân"
+    ],
+    [
+      "phạm tội",
+      "tử hình"
+    ]
+  ]
+}

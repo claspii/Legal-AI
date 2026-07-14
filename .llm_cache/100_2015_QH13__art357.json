@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nhà nước",
+    "tổ chức",
+    "cá nhân"
+  ],
+  "actions": [
+    "lạm quyền trong khi thi hành công vụ",
+    "vượt quá quyền hạn của mình làm trái công vụ",
+    "gây thiệt hại về tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vượt quá quyền hạn của mình làm trái công vụ"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lạm quyền",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "lợi ích của nhà nước",
+      "quyền, lợi ích hợp pháp của tổ chức, cá nhân"
+    ]
+  ]
+}

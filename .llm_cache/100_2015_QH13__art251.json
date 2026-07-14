@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người dưới 16 tuổi",
+    "người phạm tội"
+  ],
+  "actions": [
+    "mua bán trái phép chất ma túy",
+    "phạm tội",
+    "có tổ chức",
+    "lợi dụng chức vụ, quyền hạn",
+    "lợi dụng danh nghĩa cơ quan, tổ chức",
+    "sử dụng người dưới 16 tuổi vào việc phạm tội",
+    "bán ma túy cho người dưới 16 tuổi",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "mua bán trái phép chất ma túy"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ],
+    [
+      "người nào",
+      "sử dụng người dưới 16 tuổi vào việc phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất ma túy",
+      "khối lượng"
+    ],
+    [
+      "chất ma túy",
+      "thể tích"
+    ],
+    [
+      "mua bán trái phép chất ma túy",
+      "phạt tù"
+    ],
+    [
+      "tái phạm",
+      "nguy hiểm"
+    ]
+  ]
+}

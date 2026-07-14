@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "viện trưởng viện kiểm sát",
+    "tòa án",
+    "người đó",
+    "cơ quan thi hành án hình sự cấp huyện"
+  ],
+  "actions": [
+    "miễn chấp hành hình phạt",
+    "đặc xá",
+    "đại xá",
+    "chưa chấp hành hình phạt",
+    "quyết định miễn chấp hành hình phạt",
+    "lập công",
+    "mắc bệnh hiểm nghèo",
+    "chấp hành tốt pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "viện trưởng viện kiểm sát",
+      "đề nghị"
+    ],
+    [
+      "tòa án",
+      "quyết định miễn chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án",
+      "lập công"
+    ],
+    [
+      "người bị kết án",
+      "mắc bệnh hiểm nghèo"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành tốt pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "miễn chấp hành hình phạt",
+      "đặc xá"
+    ],
+    [
+      "miễn chấp hành hình phạt",
+      "đại xá"
+    ],
+    [
+      "người bị kết án cải tạo không giam giữ",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án tù có thời hạn đến 03 năm",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "lập công",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "mắc bệnh hiểm nghèo",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "chấp hành tốt pháp luật",
+      "miễn chấp hành hình phạt"
+    ],
+    [
+      "hoàn cảnh gia đình đặc biệt khó khăn",
+      "miễn chấp hành hình phạt"
+    ]
+  ]
+}

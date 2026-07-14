@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên cầm giữ",
+    "người thứ ba"
+  ],
+  "actions": [
+    "xác lập cầm giữ tài sản",
+    "cầm giữ tài sản phát sinh",
+    "thực hiện nghĩa vụ",
+    "chiếm giữ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện không đúng nghĩa vụ"
+    ],
+    [
+      "bên cầm giữ",
+      "chiếm giữ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cầm giữ tài sản",
+      "nghĩa vụ"
+    ],
+    [
+      "cầm giữ tài sản",
+      "hiệu lực đối kháng với người thứ ba"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "xã hội",
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "khuyến khích",
+    "hòa giải",
+    "yêu cầu ly hôn",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "khuyến khích"
+    ],
+    [
+      "xã hội",
+      "khuyến khích"
+    ],
+    [
+      "vợ",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "chồng",
+      "yêu cầu ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải ở cơ sở",
+      "ly hôn"
+    ],
+    [
+      "hòa giải ở cơ sở",
+      "pháp luật về hòa giải ở cơ sở"
+    ]
+  ]
+}

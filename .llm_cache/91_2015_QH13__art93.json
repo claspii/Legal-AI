@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "giải thể",
+    "thực hiện nghĩa vụ về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quyết định"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện đầy đủ các nghĩa vụ về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "pháp nhân",
+      "nghĩa vụ về tài sản"
+    ],
+    [
+      "điều lệ",
+      "thời hạn hoạt động"
+    ]
+  ]
+}

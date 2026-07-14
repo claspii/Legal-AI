@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hộ gia đình",
+    "tổ hợp tác",
+    "tổ chức khác không có tư cách pháp nhân",
+    "thành viên của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+    "người đại diện",
+    "bên tham gia quan hệ dân sự",
+    "thành viên đó"
+  ],
+  "actions": [
+    "tham gia quan hệ dân sự",
+    "tham gia xác lập, thực hiện giao dịch dân sự",
+    "ủy quyền",
+    "lập thành văn bản",
+    "thông báo",
+    "xác lập, thực hiện (quan hệ dân sự)",
+    "xác định chủ thể",
+    "sử dụng đất"
+  ],
+  "actor_actions": [
+    [
+      "thành viên của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "tham gia xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "thành viên của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "ủy quyền cho người đại diện tham gia xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "tham gia xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "thành viên của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "thông báo cho bên tham gia quan hệ dân sự biết"
+    ],
+    [
+      "thành viên đó",
+      "xác lập, thực hiện (quan hệ dân sự)"
+    ],
+    [
+      "hộ gia đình",
+      "sử dụng đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hộ gia đình",
+      "quan hệ dân sự"
+    ],
+    [
+      "tổ hợp tác",
+      "quan hệ dân sự"
+    ],
+    [
+      "tổ chức khác không có tư cách pháp nhân",
+      "quan hệ dân sự"
+    ],
+    [
+      "thành viên của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "chủ thể tham gia xác lập, thực hiện giao dịch dân sự"
+    ],
+    [
+      "ủy quyền",
+      "văn bản"
+    ],
+    [
+      "hộ gia đình sử dụng đất",
+      "luật đất đai"
+    ]
+  ]
+}

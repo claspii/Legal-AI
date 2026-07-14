@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "người lao động"
+  ],
+  "actions": [
+    "đình công",
+    "đe dọa",
+    "quy định",
+    "giải quyết tranh chấp lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "đình công"
+    ],
+    [
+      "chính phủ",
+      "quy định"
+    ],
+    [
+      "chính phủ",
+      "giải quyết tranh chấp lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình công",
+      "quốc phòng"
+    ],
+    [
+      "đình công",
+      "an ninh"
+    ],
+    [
+      "đình công",
+      "trật tự công cộng"
+    ],
+    [
+      "đình công",
+      "sức khỏe của con người"
+    ],
+    [
+      "nơi sử dụng lao động",
+      "đình công"
+    ],
+    [
+      "nơi sử dụng lao động không được đình công",
+      "giải quyết tranh chấp lao động"
+    ]
+  ]
+}

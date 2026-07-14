@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giao kết hợp đồng lao động",
+    "người sử dụng lao động",
+    "người đại diện theo pháp luật của doanh nghiệp",
+    "người được ủy quyền",
+    "người đứng đầu cơ quan, tổ chức có tư cách pháp nhân",
+    "người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+    "cá nhân trực tiếp sử dụng lao động"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "ủy quyền",
+    "trực tiếp sử dụng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người giao kết hợp đồng lao động bên phía người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đại diện theo pháp luật của doanh nghiệp",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người được ủy quyền",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đứng đầu cơ quan, tổ chức có tư cách pháp nhân",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "cá nhân trực tiếp sử dụng lao động",
+      "sử dụng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giao kết hợp đồng lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "người đại diện theo pháp luật của doanh nghiệp",
+      "người được ủy quyền"
+    ],
+    [
+      "người đứng đầu cơ quan, tổ chức có tư cách pháp nhân",
+      "người được ủy quyền"
+    ],
+    [
+      "người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "người được ủy quyền"
+    ]
+  ]
+}

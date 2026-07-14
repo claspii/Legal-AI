@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "giao kết hợp đồng",
+    "thỏa thuận",
+    "đưa ra đề nghị"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "cá nhân",
+      "đưa ra đề nghị"
+    ],
+    [
+      "pháp nhân",
+      "đưa ra đề nghị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "địa điểm giao kết hợp đồng",
+      "thỏa thuận"
+    ],
+    [
+      "địa điểm giao kết hợp đồng",
+      "nơi cư trú"
+    ],
+    [
+      "địa điểm giao kết hợp đồng",
+      "trụ sở"
+    ],
+    [
+      "cá nhân",
+      "nơi cư trú"
+    ],
+    [
+      "pháp nhân",
+      "trụ sở"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "cá nhân"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "pháp nhân"
+    ]
+  ]
+}

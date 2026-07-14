@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "thực hiện",
+    "khai thác trái phép",
+    "tàng trữ",
+    "vận chuyển",
+    "chế biến",
+    "mua bán",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện"
+    ],
+    [
+      "người nào",
+      "khai thác trái phép rừng sản xuất"
+    ],
+    [
+      "người nào",
+      "khai thác trái phép rừng phòng hộ"
+    ],
+    [
+      "người nào",
+      "khai thác trái phép rừng đặc dụng"
+    ],
+    [
+      "người nào",
+      "khai thác trái phép thực vật rừng ngoài gỗ"
+    ],
+    [
+      "người nào",
+      "khai thác thực vật thuộc loài nguy cấp, quý hiếm được ưu tiên bảo vệ, các loại thực vật khác thuộc nhóm IA"
+    ],
+    [
+      "người nào",
+      "tàng trữ, vận chuyển, chế biến, mua bán trái phép"
+    ],
+    [
+      "người nào",
+      "tàng trữ, vận chuyển, chế biến, mua bán trái phép các loài thực vật hoang dã khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khai thác",
+      "bảo vệ rừng"
+    ],
+    [
+      "khai thác",
+      "quản lý lâm sản"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng phòng hộ"
+    ],
+    [
+      "rừng sản xuất",
+      "rừng đặc dụng"
+    ],
+    [
+      "gỗ loài thực vật thông thường",
+      "gỗ loài thực vật rừng nguy cấp, quý, hiếm nhóm IIA"
+    ],
+    [
+      "gỗ loài nguy cấp, quý, hiếm nhóm IA",
+      "gỗ có nguồn gốc từ nước ngoài của loài thuộc phụ lục I công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã, nguy cấp hoặc danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ"
+    ],
+    [
+      "gỗ loài thực vật nguy cấp, quý, hiếm nhóm IIA",
+      "gỗ có nguồn gốc từ nước ngoài của loài thuộc phụ lục II công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã, nguy cấp"
+    ],
+    [
+      "vi phạm hành chính",
+      "tội này"
+    ]
+  ]
+}

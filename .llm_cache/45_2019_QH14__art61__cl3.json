@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "tuyển người",
+    "học nghề",
+    "tập nghề",
+    "làm việc",
+    "đăng ký hoạt động giáo dục nghề nghiệp",
+    "thu học phí",
+    "ký hợp đồng đào tạo"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển người"
+    ],
+    [
+      "người sử dụng lao động",
+      "ký hợp đồng đào tạo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "học nghề",
+      "tập nghề"
+    ]
+  ]
+}

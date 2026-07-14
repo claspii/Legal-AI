@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "tòa án"
+  ],
+  "actions": [
+    "sử dụng tài sản",
+    "chăm sóc",
+    "chi dùng",
+    "được thanh toán",
+    "quản lý tài sản",
+    "đại diện",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "thực hiện quyền",
+    "bảo vệ quyền, lợi ích hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "sử dụng tài sản"
+    ],
+    [
+      "người giám hộ",
+      "chăm sóc"
+    ],
+    [
+      "người giám hộ",
+      "chi dùng"
+    ],
+    [
+      "người giám hộ",
+      "được thanh toán"
+    ],
+    [
+      "người giám hộ",
+      "quản lý tài sản"
+    ],
+    [
+      "người giám hộ",
+      "đại diện"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện quyền"
+    ],
+    [
+      "người giám hộ",
+      "bảo vệ quyền, lợi ích hợp pháp"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ",
+      "người chưa thành niên"
+    ],
+    [
+      "người giám hộ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người giám hộ",
+      "người có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "tài sản",
+      "chi phí hợp lý"
+    ],
+    [
+      "giao dịch dân sự",
+      "quyền, lợi ích hợp pháp"
+    ]
+  ]
+}

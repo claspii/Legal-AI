@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người không có giấy phép người lái tàu bay",
+    "người không đủ các điều kiện khác theo quy định của pháp luật"
+  ],
+  "actions": [
+    "điều động",
+    "giao cho",
+    "điều khiển"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "điều động"
+    ],
+    [
+      "người nào",
+      "giao cho"
+    ],
+    [
+      "người không có giấy phép người lái tàu bay",
+      "điều khiển"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "điều động",
+      "phương tiện giao thông đường không"
+    ],
+    [
+      "giao cho",
+      "phương tiện giao thông đường không"
+    ],
+    [
+      "người không có giấy phép người lái tàu bay",
+      "điều khiển phương tiện giao thông đường không"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện giao thông đường không"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cùng nhận bảo đảm",
+    "người thứ ba",
+    "bên thế quyền ưu tiên thanh toán",
+    "các bên cùng nhận bảo đảm"
+  ],
+  "actions": [
+    "thanh toán",
+    "xác định",
+    "phát sinh hiệu lực đối kháng",
+    "thay đổi",
+    "thỏa thuận thay đổi thứ tự ưu tiên thanh toán",
+    "thế quyền ưu tiên thanh toán"
+  ],
+  "actor_actions": [
+    [
+      "bên cùng nhận bảo đảm",
+      "có thỏa thuận thay đổi thứ tự ưu tiên thanh toán cho nhau"
+    ],
+    [
+      "bên thế quyền ưu tiên thanh toán",
+      "chỉ được ưu tiên thanh toán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "bảo đảm"
+    ],
+    [
+      "thứ tự ưu tiên thanh toán",
+      "các bên cùng nhận tài sản bảo đảm"
+    ],
+    [
+      "biện pháp bảo đảm",
+      "hiệu lực đối kháng với người thứ ba"
+    ],
+    [
+      "thứ tự thanh toán",
+      "thứ tự xác lập hiệu lực đối kháng"
+    ],
+    [
+      "thứ tự thanh toán",
+      "thứ tự xác lập biện pháp bảo đảm"
+    ],
+    [
+      "thứ tự ưu tiên thanh toán",
+      "thay đổi"
+    ]
+  ]
+}

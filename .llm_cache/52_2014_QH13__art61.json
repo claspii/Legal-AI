@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "gia đình",
+    "tòa án"
+  ],
+  "actions": [
+    "sống chung",
+    "ly hôn",
+    "chia tài sản",
+    "thỏa thuận",
+    "giải quyết",
+    "xác định được",
+    "được chia"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "sống chung"
+    ],
+    [
+      "chồng",
+      "sống chung"
+    ],
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "vợ",
+      "được chia"
+    ],
+    [
+      "chồng",
+      "được chia"
+    ],
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ chồng",
+      "gia đình"
+    ],
+    [
+      "chia tài sản",
+      "ly hôn"
+    ],
+    [
+      "tài sản của vợ chồng",
+      "khối tài sản chung của gia đình"
+    ],
+    [
+      "công sức đóng góp",
+      "tạo lập, duy trì, phát triển khối tài sản chung"
+    ],
+    [
+      "công sức đóng góp",
+      "đời sống chung của gia đình"
+    ],
+    [
+      "thỏa thuận",
+      "gia đình"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ]
+}

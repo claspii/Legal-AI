@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "chính phủ"
+  ],
+  "actions": [
+    "miễn thủ tục",
+    "giảm thủ tục",
+    "thực hiện quy định"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện quy định"
+    ],
+    [
+      "người sử dụng lao động",
+      "miễn thủ tục"
+    ],
+    [
+      "người sử dụng lao động",
+      "giảm thủ tục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "miễn thủ tục",
+      "giảm thủ tục"
+    ]
+  ]
+}

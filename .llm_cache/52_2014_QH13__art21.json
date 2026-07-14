@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "tôn trọng",
+    "giữ gìn",
+    "bảo vệ"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "tôn trọng"
+    ],
+    [
+      "vợ, chồng",
+      "giữ gìn"
+    ],
+    [
+      "vợ, chồng",
+      "bảo vệ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "danh dự",
+      "nhân phẩm"
+    ],
+    [
+      "nhân phẩm",
+      "uy tín"
+    ],
+    [
+      "danh dự",
+      "uy tín"
+    ]
+  ]
+}

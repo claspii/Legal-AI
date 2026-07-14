@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người khác",
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người không có khả năng tự vệ"
+  ],
+  "actions": [
+    "cướp tài sản",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "sử dụng vũ khí",
+    "chiếm đoạt tài sản",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội cướp tài sản",
+      "có tổ chức"
+    ],
+    [
+      "tội cướp tài sản",
+      "có tính chất chuyên nghiệp"
+    ],
+    [
+      "tội cướp tài sản",
+      "gây thương tích"
+    ],
+    [
+      "tội cướp tài sản",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tội cướp tài sản",
+      "sử dụng vũ khí"
+    ],
+    [
+      "tội cướp tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "tội cướp tài sản",
+      "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội"
+    ],
+    [
+      "tội cướp tài sản",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

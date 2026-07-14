@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ sở hữu chung",
+    "các bên tham gia"
+  ],
+  "actions": [
+    "bán đấu giá tài sản",
+    "đem bán đấu giá",
+    "có sự đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "đem bán đấu giá"
+    ],
+    [
+      "chủ sở hữu chung",
+      "có sự đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bán đấu giá tài sản",
+      "tài sản"
+    ],
+    [
+      "tài sản",
+      "chủ sở hữu"
+    ],
+    [
+      "tài sản",
+      "sở hữu chung"
+    ],
+    [
+      "bán đấu giá tài sản",
+      "pháp luật"
+    ]
+  ]
+}

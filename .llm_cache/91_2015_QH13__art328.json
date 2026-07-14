@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [
+    "đặt cọc"
+  ],
+  "actors": [
+    "bên đặt cọc",
+    "bên nhận đặt cọc"
+  ],
+  "actions": [
+    "giao",
+    "bảo đảm giao kết hợp đồng",
+    "bảo đảm thực hiện hợp đồng",
+    "trả lại",
+    "trừ để thực hiện nghĩa vụ trả tiền",
+    "từ chối giao kết hợp đồng",
+    "từ chối thực hiện hợp đồng",
+    "trả"
+  ],
+  "actor_actions": [
+    [
+      "bên đặt cọc",
+      "giao"
+    ],
+    [
+      "bên đặt cọc",
+      "từ chối giao kết hợp đồng"
+    ],
+    [
+      "bên đặt cọc",
+      "từ chối thực hiện hợp đồng"
+    ],
+    [
+      "bên nhận đặt cọc",
+      "trả lại"
+    ],
+    [
+      "bên nhận đặt cọc",
+      "trả"
+    ],
+    [
+      "bên nhận đặt cọc",
+      "từ chối giao kết hợp đồng"
+    ],
+    [
+      "bên nhận đặt cọc",
+      "từ chối thực hiện hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đặt cọc",
+      "bên đặt cọc"
+    ],
+    [
+      "đặt cọc",
+      "bên nhận đặt cọc"
+    ],
+    [
+      "bên đặt cọc",
+      "tài sản đặt cọc"
+    ],
+    [
+      "bên nhận đặt cọc",
+      "tài sản đặt cọc"
+    ],
+    [
+      "đặt cọc",
+      "hợp đồng"
+    ],
+    [
+      "tài sản đặt cọc",
+      "hợp đồng"
+    ]
+  ]
+}

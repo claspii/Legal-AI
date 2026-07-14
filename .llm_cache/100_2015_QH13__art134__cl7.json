@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "chuẩn bị phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ đến 02 năm"
+    ],
+    [
+      "người",
+      "bị phạt tù từ 03 tháng đến 02 năm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "người được xóa án tích",
+    "người được miễn hình phạt"
+  ],
+  "actions": [
+    "xóa án tích",
+    "bị kết án",
+    "coi như chưa bị kết án",
+    "bị coi là có án tích"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "được xóa án tích"
+    ],
+    [
+      "người được xóa án tích",
+      "coi như chưa bị kết án"
+    ],
+    [
+      "người bị kết án",
+      "bị coi là có án tích"
+    ],
+    [
+      "người được miễn hình phạt",
+      "bị coi là có án tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xóa án tích",
+      "người bị kết án"
+    ],
+    [
+      "người được xóa án tích",
+      "chưa bị kết án"
+    ],
+    [
+      "tội phạm ít nghiêm trọng",
+      "án tích"
+    ],
+    [
+      "tội phạm nghiêm trọng",
+      "án tích"
+    ],
+    [
+      "miễn hình phạt",
+      "án tích"
+    ]
+  ]
+}

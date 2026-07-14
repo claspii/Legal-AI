@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "giao kết",
+    "giữ",
+    "làm thành"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "giữ"
+    ],
+    [
+      "người sử dụng lao động",
+      "giữ"
+    ],
+    [
+      "hai bên",
+      "giao kết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "văn bản"
+    ],
+    [
+      "hợp đồng lao động",
+      "thông điệp dữ liệu"
+    ],
+    [
+      "hợp đồng lao động",
+      "lời nói"
+    ],
+    [
+      "hợp đồng lao động",
+      "thời hạn dưới 01 tháng"
+    ]
+  ]
+}

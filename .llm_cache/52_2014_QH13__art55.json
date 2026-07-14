@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "hai bên",
+    "Tòa án",
+    "vợ",
+    "con"
+  ],
+  "actions": [
+    "yêu cầu ly hôn",
+    "thuận tình ly hôn",
+    "chia tài sản",
+    "trông nom con",
+    "nuôi dưỡng con",
+    "chăm sóc con",
+    "giáo dục con",
+    "công nhận thuận tình ly hôn",
+    "giải quyết việc ly hôn"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "hai bên",
+      "thuận tình ly hôn"
+    ],
+    [
+      "hai bên",
+      "thỏa thuận"
+    ],
+    [
+      "hai bên",
+      "chia tài sản"
+    ],
+    [
+      "hai bên",
+      "trông nom con"
+    ],
+    [
+      "hai bên",
+      "nuôi dưỡng con"
+    ],
+    [
+      "hai bên",
+      "chăm sóc con"
+    ],
+    [
+      "hai bên",
+      "giáo dục con"
+    ],
+    [
+      "Tòa án",
+      "công nhận thuận tình ly hôn"
+    ],
+    [
+      "Tòa án",
+      "giải quyết việc ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thuận tình ly hôn",
+      "yêu cầu ly hôn"
+    ],
+    [
+      "thuận tình ly hôn",
+      "chia tài sản"
+    ],
+    [
+      "thuận tình ly hôn",
+      "trông nom con"
+    ],
+    [
+      "thuận tình ly hôn",
+      "nuôi dưỡng con"
+    ],
+    [
+      "thuận tình ly hôn",
+      "chăm sóc con"
+    ],
+    [
+      "thuận tình ly hôn",
+      "giáo dục con"
+    ],
+    [
+      "ly hôn",
+      "quyền lợi chính đáng của vợ và con"
+    ],
+    [
+      "tài sản",
+      "quyền lợi chính đáng của vợ và con"
+    ]
+  ]
+}

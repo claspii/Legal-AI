@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sản xuất",
+    "buôn bán hàng giả",
+    "phạm tội",
+    "bị phạt tù",
+    "bị phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "tịch thu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sản xuất hàng giả là thuốc chữa bệnh",
+      "bị phạt tù"
+    ],
+    [
+      "buôn bán hàng giả là thuốc chữa bệnh",
+      "bị phạt tù"
+    ],
+    [
+      "hàng giả trị giá",
+      "phạt tù"
+    ],
+    [
+      "thu lợi bất chính",
+      "phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "phạt tù"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "phạt tù"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tù"
+    ],
+    [
+      "làm chết người",
+      "phạt tù"
+    ]
+  ]
+}

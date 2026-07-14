@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "chế tạo vật liệu nổ"
+    ],
+    [
+      "người nào",
+      "tàng trữ vật liệu nổ"
+    ],
+    [
+      "người nào",
+      "vận chuyển vật liệu nổ"
+    ],
+    [
+      "người nào",
+      "sử dụng vật liệu nổ"
+    ],
+    [
+      "người nào",
+      "mua bán trái phép vật liệu nổ"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt vật liệu nổ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chế tạo",
+      "vật liệu nổ"
+    ],
+    [
+      "tàng trữ",
+      "vật liệu nổ"
+    ],
+    [
+      "vận chuyển",
+      "vật liệu nổ"
+    ],
+    [
+      "sử dụng",
+      "vật liệu nổ"
+    ],
+    [
+      "mua bán trái phép",
+      "vật liệu nổ"
+    ],
+    [
+      "chiếm đoạt",
+      "vật liệu nổ"
+    ]
+  ]
+}

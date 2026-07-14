@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "cơ quan chuyên môn về lao động",
+    "ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "ký kết",
+    "gửi"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "ký kết"
+    ],
+    [
+      "người sử dụng lao động",
+      "gửi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "người sử dụng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "cơ quan chuyên môn về lao động"
+    ],
+    [
+      "cơ quan chuyên môn về lao động",
+      "ủy ban nhân dân cấp tỉnh"
+    ]
+  ]
+}

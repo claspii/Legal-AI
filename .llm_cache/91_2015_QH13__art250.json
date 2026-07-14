@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu nhà",
+    "chủ sở hữu công trình xây dựng khác",
+    "chủ sở hữu bất động sản liền kề"
+  ],
+  "actions": [
+    "lắp đặt đường dẫn nước",
+    "thoát nước mưa"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu nhà",
+      "lắp đặt đường dẫn nước"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "lắp đặt đường dẫn nước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nước mưa",
+      "mái nhà"
+    ],
+    [
+      "nước mưa",
+      "công trình xây dựng"
+    ],
+    [
+      "bất động sản",
+      "bất động sản liền kề"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "thoát nước mưa"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "thoát nước mưa"
+    ]
+  ]
+}

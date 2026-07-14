@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "cho thôi việc",
+    "trao đổi ý kiến",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "cho thôi việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "trao đổi ý kiến"
+    ],
+    [
+      "người sử dụng lao động",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cho thôi việc",
+      "trao đổi ý kiến"
+    ],
+    [
+      "cho thôi việc",
+      "thông báo"
+    ]
+  ]
+}

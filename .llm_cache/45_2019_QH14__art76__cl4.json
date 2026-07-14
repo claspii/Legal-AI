@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "đại diện hợp pháp của các bên thương lượng",
+    "hội đồng thương lượng tập thể",
+    "chủ tịch hội đồng thương lượng tập thể"
+  ],
+  "actions": [
+    "lấy ý kiến",
+    "ký kết thỏa ước lao động tập thể",
+    "tiến hành"
+  ],
+  "actor_actions": [
+    [
+      "đại diện hợp pháp của các bên thương lượng",
+      "ký kết thỏa ước lao động tập thể"
+    ],
+    [
+      "chủ tịch hội đồng thương lượng tập thể",
+      "ký kết thỏa ước lao động tập thể"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "đại diện hợp pháp của các bên thương lượng"
+    ],
+    [
+      "thỏa ước lao động tập thể",
+      "hội đồng thương lượng tập thể"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao tài sản thuê khoán",
+    "lập biên bản",
+    "đánh giá tình trạng",
+    "xác định giá trị",
+    "mời người thứ ba xác định giá trị",
+    "lập thành văn bản"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "lập biên bản"
+    ],
+    [
+      "các bên",
+      "đánh giá tình trạng"
+    ],
+    [
+      "các bên",
+      "xác định giá trị tài sản thuê khoán"
+    ],
+    [
+      "các bên",
+      "mời người thứ ba xác định giá trị"
+    ],
+    [
+      "người thứ ba",
+      "xác định giá trị"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuê khoán",
+      "tình trạng của tài sản thuê khoán"
+    ],
+    [
+      "tài sản thuê khoán",
+      "giá trị tài sản thuê khoán"
+    ],
+    [
+      "biên bản",
+      "tình trạng của tài sản thuê khoán"
+    ],
+    [
+      "biên bản",
+      "giá trị tài sản thuê khoán"
+    ]
+  ]
+}

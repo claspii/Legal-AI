@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người có trách nhiệm trực tiếp",
+    "người phạm tội"
+  ],
+  "actions": [
+    "điều động",
+    "cho đưa vào sử dụng",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cho đưa vào sử dụng"
+    ],
+    [
+      "người có trách nhiệm trực tiếp",
+      "điều động"
+    ],
+    [
+      "người có trách nhiệm trực tiếp",
+      "cho đưa vào sử dụng"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện giao thông đường không",
+      "an toàn kỹ thuật"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

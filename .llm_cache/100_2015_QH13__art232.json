@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "khai thác",
+    "bảo vệ rừng",
+    "quản lý lâm sản",
+    "tàng trữ",
+    "vận chuyển",
+    "chế biến",
+    "mua bán"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện"
+    ],
+    [
+      "người nào",
+      "khai thác"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "chế biến"
+    ],
+    [
+      "người nào",
+      "mua bán"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "rừng sản xuất",
+      "khối lượng"
+    ],
+    [
+      "rừng phòng hộ",
+      "khối lượng"
+    ],
+    [
+      "rừng đặc dụng",
+      "khối lượng"
+    ],
+    [
+      "thực vật rừng ngoài gỗ",
+      "trị giá"
+    ],
+    [
+      "thực vật thuộc loài nguy cấp, quý hiếm được ưu tiên bảo vệ",
+      "trị giá"
+    ],
+    [
+      "thực vật khác thuộc nhóm IA",
+      "trị giá"
+    ],
+    [
+      "gỗ loài nguy cấp, quý, hiếm Nhóm IA",
+      "khối lượng"
+    ],
+    [
+      "gỗ có nguồn gốc từ nước ngoài của loài thuộc Phụ lục I Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã, nguy cấp",
+      "khối lượng"
+    ]
+  ]
+}

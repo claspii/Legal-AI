@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị xử lý kỷ luật lao động",
+    "người bị tạm đình chỉ công việc",
+    "người phải bồi thường theo chế độ trách nhiệm vật chất",
+    "người sử dụng lao động",
+    "cơ quan có thẩm quyền",
+    "chính phủ"
+  ],
+  "actions": [
+    "khiếu nại",
+    "yêu cầu giải quyết tranh chấp lao động",
+    "quy định chi tiết"
+  ],
+  "actor_actions": [
+    [
+      "người bị xử lý kỷ luật lao động",
+      "khiếu nại"
+    ],
+    [
+      "người bị xử lý kỷ luật lao động",
+      "yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "người bị tạm đình chỉ công việc",
+      "khiếu nại"
+    ],
+    [
+      "người bị tạm đình chỉ công việc",
+      "yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "người phải bồi thường theo chế độ trách nhiệm vật chất",
+      "khiếu nại"
+    ],
+    [
+      "người phải bồi thường theo chế độ trách nhiệm vật chất",
+      "yêu cầu giải quyết tranh chấp lao động"
+    ],
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kỷ luật lao động",
+      "trách nhiệm vật chất"
+    ],
+    [
+      "kỷ luật lao động",
+      "tạm đình chỉ công việc"
+    ],
+    [
+      "trách nhiệm vật chất",
+      "bồi thường"
+    ],
+    [
+      "khiếu nại",
+      "tranh chấp lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "người bị xử lý kỷ luật lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "người bị tạm đình chỉ công việc"
+    ]
+  ]
+}

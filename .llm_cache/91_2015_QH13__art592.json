@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chịu trách nhiệm bồi thường",
+    "người khác",
+    "các bên",
+    "nhà nước",
+    "người có danh dự, nhân phẩm, uy tín bị xâm phạm"
+  ],
+  "actions": [
+    "bị xâm phạm",
+    "bồi thường",
+    "thỏa thuận",
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "người chịu trách nhiệm bồi thường",
+      "bồi thường"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "nhà nước",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "danh dự",
+      "nhân phẩm"
+    ],
+    [
+      "nhân phẩm",
+      "uy tín"
+    ],
+    [
+      "thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm",
+      "chi phí hợp lý để hạn chế, khắc phục thiệt hại"
+    ],
+    [
+      "thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm",
+      "thu nhập thực tế bị mất hoặc bị giảm sút"
+    ],
+    [
+      "thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm",
+      "thiệt hại khác do luật quy định"
+    ],
+    [
+      "bồi thường thiệt hại",
+      "bù đắp tổn thất về tinh thần"
+    ]
+  ]
+}

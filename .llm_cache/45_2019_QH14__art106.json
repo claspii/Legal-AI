@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [
+    "giờ làm việc ban đêm"
+  ],
+  "actors": [],
+  "actions": [
+    "tính"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "giờ làm việc ban đêm",
+      "22 giờ"
+    ],
+    [
+      "giờ làm việc ban đêm",
+      "06 giờ sáng ngày hôm sau"
+    ]
+  ]
+}

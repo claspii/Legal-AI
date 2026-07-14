@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người dưới 18 tuổi phạm tội",
+    "công dân"
+  ],
+  "actions": [
+    "xử lý",
+    "giáo dục",
+    "giúp đỡ",
+    "sửa chữa sai lầm",
+    "phát triển lành mạnh",
+    "trở thành công dân có ích"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "sửa chữa sai lầm"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "phát triển lành mạnh"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "trở thành công dân có ích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "xử lý"
+    ],
+    [
+      "xử lý",
+      "giáo dục"
+    ],
+    [
+      "xử lý",
+      "giúp đỡ"
+    ],
+    [
+      "độ tuổi",
+      "khả năng nhận thức"
+    ],
+    [
+      "khả năng nhận thức",
+      "tính chất nguy hiểm cho xã hội của hành vi phạm tội"
+    ],
+    [
+      "nguyên nhân",
+      "điều kiện gây ra tội phạm"
+    ]
+  ]
+}

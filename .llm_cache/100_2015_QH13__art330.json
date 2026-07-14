@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người thi hành công vụ",
+    "người khác"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "dùng thủ đoạn khác",
+    "cản trở",
+    "thực hiện công vụ",
+    "ép buộc",
+    "thực hiện hành vi trái pháp luật",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác"
+    ],
+    [
+      "người",
+      "cản trở"
+    ],
+    [
+      "người thi hành công vụ",
+      "thực hiện công vụ"
+    ],
+    [
+      "người",
+      "ép buộc"
+    ],
+    [
+      "người thi hành công vụ",
+      "thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn khác"
+    ],
+    [
+      "người",
+      "cản trở người thi hành công vụ"
+    ],
+    [
+      "người",
+      "ép buộc người thi hành công vụ"
+    ],
+    [
+      "người thi hành công vụ",
+      "thực hiện công vụ"
+    ],
+    [
+      "người thi hành công vụ",
+      "thực hiện hành vi trái pháp luật"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ]
+  ]
+}

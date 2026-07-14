@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nam",
+    "nữ",
+    "nhà nước",
+    "những người cùng giới tính"
+  ],
+  "actions": [
+    "kết hôn",
+    "quyết định",
+    "thừa nhận"
+  ],
+  "actor_actions": [
+    [
+      "nam",
+      "kết hôn"
+    ],
+    [
+      "nữ",
+      "kết hôn"
+    ],
+    [
+      "nam",
+      "quyết định"
+    ],
+    [
+      "nữ",
+      "quyết định"
+    ],
+    [
+      "nhà nước",
+      "thừa nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "năng lực hành vi dân sự"
+    ],
+    [
+      "kết hôn",
+      "tự nguyện"
+    ],
+    [
+      "nam",
+      "tuổi"
+    ],
+    [
+      "nữ",
+      "tuổi"
+    ],
+    [
+      "kết hôn",
+      "cấm kết hôn"
+    ],
+    [
+      "hôn nhân",
+      "những người cùng giới tính"
+    ]
+  ]
+}

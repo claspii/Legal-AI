@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan đăng ký hộ tịch việt nam",
+    "công dân việt nam",
+    "người nước ngoài",
+    "tòa án",
+    "cha, mẹ, con"
+  ],
+  "actions": [
+    "xác định cha, mẹ, con",
+    "định cư ở nước ngoài",
+    "thường trú tại việt nam",
+    "giải quyết việc xác định cha, mẹ, con"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan đăng ký hộ tịch việt nam",
+      "giải quyết việc xác định cha, mẹ, con"
+    ],
+    [
+      "công dân việt nam",
+      "định cư ở nước ngoài"
+    ],
+    [
+      "người nước ngoài",
+      "thường trú tại việt nam"
+    ],
+    [
+      "tòa án",
+      "giải quyết việc xác định cha, mẹ, con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công dân việt nam",
+      "người nước ngoài"
+    ],
+    [
+      "cơ quan đăng ký hộ tịch việt nam",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "tòa án",
+      "xác định cha, mẹ, con"
+    ],
+    [
+      "cha, mẹ, con",
+      "yếu tố nước ngoài"
+    ]
+  ]
+}

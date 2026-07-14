@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ thay thế được"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "chấp nhận"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện được nghĩa vụ ban đầu"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện một nghĩa vụ khác"
+    ],
+    [
+      "bên có quyền",
+      "chấp nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ thay thế được",
+      "nghĩa vụ ban đầu"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ],
+    [
+      "nghĩa vụ ban đầu",
+      "nghĩa vụ khác"
+    ]
+  ]
+}

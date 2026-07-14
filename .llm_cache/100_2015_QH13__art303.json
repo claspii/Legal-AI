@@ -1,0 +1,80 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia",
+    "phá hủy công trình, cơ sở hoặc phương tiện giao thông vận tải, thông tin - liên lạc, công trình điện, dẫn chất đốt, công trình thủy lợi hoặc công trình quan trọng khác về quốc phòng, an ninh, kinh tế, khoa học - kỹ thuật, văn hóa và xã hội",
+    "phạm tội",
+    "làm công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia hư hỏng, ngưng hoạt động",
+    "làm chết người",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phá hủy công trình, cơ sở hoặc phương tiện giao thông vận tải, thông tin - liên lạc, công trình điện, dẫn chất đốt, công trình thủy lợi hoặc công trình quan trọng khác về quốc phòng, an ninh, kinh tế, khoa học - kỹ thuật, văn hóa và xã hội"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "làm công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia hư hỏng, ngưng hoạt động"
+    ],
+    [
+      "người",
+      "làm chết người"
+    ],
+    [
+      "người",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt quản chế"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia",
+      "an toàn công cộng"
+    ],
+    [
+      "phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia",
+      "trật tự công cộng"
+    ],
+    [
+      "công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia",
+      "quốc phòng"
+    ],
+    [
+      "công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia",
+      "an ninh"
+    ],
+    [
+      "gây thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "phạm tội",
+      "tù"
+    ],
+    [
+      "phạm tội",
+      "phạt quản chế"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "kinh tế - xã hội"
+    ]
+  ]
+}

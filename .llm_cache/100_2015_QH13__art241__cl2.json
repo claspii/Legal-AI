@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp huyện",
+    "chủ tịch ủy ban nhân dân cấp tỉnh"
+  ],
+  "actions": [
+    "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+    "gây thiệt hại về tài sản",
+    "công bố dịch"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "công bố dịch"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "công bố dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "làm lây lan dịch bệnh nguy hiểm cho động vật, thực vật",
+      "công bố dịch"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "công bố dịch"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "công bố dịch"
+    ]
+  ]
+}

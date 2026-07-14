@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể",
+    "ký kết thỏa ước lao động tập thể mới",
+    "thỏa thuận kéo dài thời hạn của thỏa ước lao động tập thể",
+    "lấy ý kiến",
+    "tiếp tục thương lượng",
+    "tiếp tục thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể"
+    ],
+    [
+      "các bên",
+      "ký kết thỏa ước lao động tập thể mới"
+    ],
+    [
+      "các bên",
+      "thỏa thuận kéo dài thời hạn của thỏa ước lao động tập thể"
+    ],
+    [
+      "các bên",
+      "tiếp tục thương lượng"
+    ],
+    [
+      "thỏa ước lao động tập thể cũ",
+      "tiếp tục thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể",
+      "thời hạn"
+    ],
+    [
+      "thương lượng",
+      "ký kết"
+    ]
+  ]
+}

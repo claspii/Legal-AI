@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp huyện",
+    "cơ quan chuyên môn về lao động",
+    "công đoàn cùng cấp",
+    "cơ quan, tổ chức có liên quan",
+    "người sử dụng lao động",
+    "đại diện ban lãnh đạo tổ chức đại diện người lao động tại cơ sở",
+    "cơ quan có thẩm quyền",
+    "cá nhân, tổ chức"
+  ],
+  "actions": [
+    "nhận được thông báo",
+    "chủ trì",
+    "chỉ đạo",
+    "phối hợp",
+    "trực tiếp gặp gỡ",
+    "nghe ý kiến",
+    "hỗ trợ",
+    "tìm biện pháp giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "chủ trì"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "chỉ đạo"
+    ],
+    [
+      "cơ quan chuyên môn về lao động",
+      "phối hợp"
+    ],
+    [
+      "công đoàn cùng cấp",
+      "phối hợp"
+    ],
+    [
+      "cơ quan, tổ chức có liên quan",
+      "phối hợp"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "trực tiếp gặp gỡ"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "nghe ý kiến"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp huyện",
+      "hỗ trợ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình công không đúng trình tự, thủ tục",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "hoạt động sản xuất, kinh doanh",
+      "trở lại bình thường"
+    ],
+    [
+      "hành vi vi phạm pháp luật",
+      "xử lý"
+    ],
+    [
+      "tranh chấp lao động",
+      "giải quyết"
+    ]
+  ]
+}

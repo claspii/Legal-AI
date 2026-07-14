@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "nam",
+    "nữ"
+  ],
+  "actions": [
+    "chung sống",
+    "đăng ký kết hôn",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "nam",
+      "chung sống"
+    ],
+    [
+      "nữ",
+      "chung sống"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nam",
+      "nữ"
+    ],
+    [
+      "cha",
+      "mẹ"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "chung sống với nhau như vợ chồng",
+      "không đăng ký kết hôn"
+    ],
+    [
+      "cha",
+      "con"
+    ],
+    [
+      "mẹ",
+      "con"
+    ]
+  ]
+}

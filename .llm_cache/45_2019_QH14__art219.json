@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "bộ lao động - thương binh và xã hội",
+    "cán bộ, công chức cấp xã",
+    "người hoạt động không chuyên trách ở xã, phường, thị trấn",
+    "chính phủ",
+    "lao động nữ"
+  ],
+  "actions": [
+    "sửa đổi, bổ sung",
+    "nghỉ việc",
+    "đóng bảo hiểm xã hội",
+    "hưởng lương hưu",
+    "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+    "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+    "làm công việc khai thác than trong hầm lò",
+    "bị nhiễm hiv do tai nạn rủi ro nghề nghiệp"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "nghỉ việc"
+    ],
+    [
+      "người lao động",
+      "đóng bảo hiểm xã hội"
+    ],
+    [
+      "người lao động",
+      "hưởng lương hưu"
+    ],
+    [
+      "bộ lao động - thương binh và xã hội",
+      "ban hành danh mục"
+    ],
+    [
+      "người lao động",
+      "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm"
+    ],
+    [
+      "người lao động",
+      "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+    ],
+    [
+      "người lao động",
+      "làm công việc khai thác than trong hầm lò"
+    ],
+    [
+      "người lao động",
+      "bị nhiễm hiv do tai nạn rủi ro nghề nghiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "lương hưu"
+    ],
+    [
+      "tuổi nghỉ hưu",
+      "lương hưu"
+    ],
+    [
+      "đóng bảo hiểm xã hội",
+      "lương hưu"
+    ],
+    [
+      "nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+      "lương hưu"
+    ],
+    [
+      "vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+      "lương hưu"
+    ],
+    [
+      "công việc khai thác than trong hầm lò",
+      "lương hưu"
+    ],
+    [
+      "nhiễm hiv do tai nạn rủi ro nghề nghiệp",
+      "lương hưu"
+    ],
+    [
+      "suy giảm khả năng lao động",
+      "lương hưu"
+    ]
+  ]
+}

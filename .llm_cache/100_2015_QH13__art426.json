@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quốc hội",
+    "chủ tịch quốc hội"
+  ],
+  "actions": [
+    "thi hành",
+    "thông qua"
+  ],
+  "actor_actions": [
+    [
+      "quốc hội",
+      "thông qua"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiệu lực thi hành",
+      "bộ luật này"
+    ],
+    [
+      "bộ luật hình sự số 15/1999/qh10",
+      "hết hiệu lực thi hành"
+    ],
+    [
+      "luật số 37/2009/qh12",
+      "hết hiệu lực thi hành"
+    ],
+    [
+      "kỳ họp thứ 10",
+      "khóa xiii"
+    ]
+  ]
+}

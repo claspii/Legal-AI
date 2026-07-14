@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người hưởng thừa kế",
+    "người chết",
+    "người quản lý di sản",
+    "người thừa kế",
+    "cá nhân"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ tài sản",
+    "để lại",
+    "thỏa thuận",
+    "chia",
+    "nhận"
+  ],
+  "actor_actions": [
+    [
+      "người hưởng thừa kế",
+      "thực hiện nghĩa vụ tài sản"
+    ],
+    [
+      "người chết",
+      "để lại"
+    ],
+    [
+      "người quản lý di sản",
+      "thực hiện nghĩa vụ tài sản"
+    ],
+    [
+      "người thừa kế",
+      "thực hiện nghĩa vụ tài sản"
+    ],
+    [
+      "người thừa kế",
+      "nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ tài sản",
+      "người chết"
+    ],
+    [
+      "nghĩa vụ tài sản",
+      "di sản"
+    ],
+    [
+      "người hưởng thừa kế",
+      "di sản"
+    ],
+    [
+      "người quản lý di sản",
+      "di sản"
+    ],
+    [
+      "người thừa kế",
+      "di sản"
+    ]
+  ]
+}

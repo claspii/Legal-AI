@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "đơn phương chấm dứt hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "chấm dứt hợp đồng lao động"
+    ]
+  ]
+}

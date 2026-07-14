@@ -1,0 +1,84 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "đào mồ mả",
+    "phá mồ mả",
+    "chiếm đoạt đồ vật để ở trong mộ, trên mộ",
+    "xâm phạm thi thể, mồ mả, hài cốt",
+    "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội",
+    "chiếm đoạt vật có giá trị lịch sử, văn hóa",
+    "hủy hoại vật có giá trị lịch sử, văn hóa",
+    "chiếm đoạt bộ phận thi thể, hài cốt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đào mồ mả"
+    ],
+    [
+      "người",
+      "phá mồ mả"
+    ],
+    [
+      "người",
+      "chiếm đoạt đồ vật để ở trong mộ, trên mộ"
+    ],
+    [
+      "người",
+      "xâm phạm thi thể, mồ mả, hài cốt"
+    ],
+    [
+      "người",
+      "gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội"
+    ],
+    [
+      "người",
+      "chiếm đoạt vật có giá trị lịch sử, văn hóa"
+    ],
+    [
+      "người",
+      "hủy hoại vật có giá trị lịch sử, văn hóa"
+    ],
+    [
+      "người",
+      "chiếm đoạt bộ phận thi thể, hài cốt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thi thể",
+      "mồ mả"
+    ],
+    [
+      "thi thể",
+      "hài cốt"
+    ],
+    [
+      "mồ mả",
+      "hài cốt"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "an ninh",
+      "an toàn xã hội"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ],
+    [
+      "vật có giá trị lịch sử",
+      "vật có giá trị văn hóa"
+    ],
+    [
+      "bộ phận thi thể",
+      "hài cốt"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động nữ",
+    "cán bộ, công chức cấp xã",
+    "người hoạt động không chuyên trách ở xã, phường, thị trấn"
+  ],
+  "actions": [
+    "tham gia bảo hiểm xã hội",
+    "nghỉ việc",
+    "đóng bảo hiểm xã hội",
+    "hưởng lương hưu"
+  ],
+  "actor_actions": [
+    [
+      "lao động nữ",
+      "tham gia bảo hiểm xã hội"
+    ],
+    [
+      "lao động nữ",
+      "nghỉ việc"
+    ],
+    [
+      "lao động nữ",
+      "đóng bảo hiểm xã hội"
+    ],
+    [
+      "lao động nữ",
+      "hưởng lương hưu"
+    ],
+    [
+      "cán bộ, công chức cấp xã",
+      "tham gia bảo hiểm xã hội"
+    ],
+    [
+      "cán bộ, công chức cấp xã",
+      "nghỉ việc"
+    ],
+    [
+      "cán bộ, công chức cấp xã",
+      "đóng bảo hiểm xã hội"
+    ],
+    [
+      "cán bộ, công chức cấp xã",
+      "hưởng lương hưu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "nghỉ việc",
+      "lương hưu"
+    ],
+    [
+      "đóng bảo hiểm xã hội",
+      "lương hưu"
+    ],
+    [
+      "tuổi nghỉ hưu",
+      "lương hưu"
+    ]
+  ]
+}

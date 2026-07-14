@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 18 tuổi phạm tội"
+  ],
+  "actions": [
+    "tổng hợp hình phạt",
+    "chấp hành bản án",
+    "bị xét xử",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chấp hành bản án"
+    ],
+    [
+      "người",
+      "bị xét xử"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổng hợp hình phạt",
+      "bản án"
+    ],
+    [
+      "tổng hợp hình phạt",
+      "hình phạt chung"
+    ],
+    [
+      "hình phạt chung",
+      "mức hình phạt cao nhất"
+    ]
+  ]
+}

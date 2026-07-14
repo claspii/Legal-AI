@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "người",
+    "tổ quốc"
+  ],
+  "actions": [
+    "câu kết với nước ngoài nhằm gây nguy hại",
+    "bị phạt tù",
+    "phạm tội",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "câu kết với nước ngoài nhằm gây nguy hại"
+    ],
+    [
+      "công dân việt nam",
+      "bị phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình"
+    ],
+    [
+      "công dân việt nam",
+      "phạm tội trong trường hợp có nhiều tình tiết giảm nhẹ"
+    ],
+    [
+      "công dân việt nam",
+      "bị phạt tù từ 07 năm đến 15 năm"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội này"
+    ],
+    [
+      "người",
+      "bị phạt tù từ 01 năm đến 05 năm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "độc lập",
+      "chủ quyền"
+    ],
+    [
+      "chủ quyền",
+      "thống nhất"
+    ],
+    [
+      "thống nhất",
+      "toàn vẹn lãnh thổ"
+    ],
+    [
+      "chế độ xã hội chủ nghĩa",
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam"
+    ],
+    [
+      "tiềm lực quốc phòng",
+      "an ninh"
+    ],
+    [
+      "phạt tù",
+      "tù chung thân"
+    ],
+    [
+      "tù chung thân",
+      "tử hình"
+    ]
+  ]
+}

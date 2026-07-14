@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "điều khiển phương tiện hàng hải",
+    "vi phạm các quy định về hàng hải",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "phương tiện hàng hải",
+      "quy định về hàng hải"
+    ],
+    [
+      "phạm tội",
+      "phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "phạt tù"
+    ]
+  ]
+}

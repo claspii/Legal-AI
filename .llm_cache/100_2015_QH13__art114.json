@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chính quyền nhân dân"
+  ],
+  "actions": [
+    "phá hoại cơ sở vật chất - kỹ thuật",
+    "chống chính quyền nhân dân",
+    "phạm tội",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phá hoại cơ sở vật chất - kỹ thuật"
+    ],
+    [
+      "người",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "chuẩn bị phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phá hoại cơ sở vật chất - kỹ thuật",
+      "chống chính quyền nhân dân"
+    ],
+    [
+      "phạm tội",
+      "ít nghiêm trọng"
+    ]
+  ]
+}

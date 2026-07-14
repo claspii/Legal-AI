@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "nạn nhân",
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người ốm đau",
+    "người khác không có khả năng tự vệ"
+  ],
+  "actions": [
+    "cố ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "dùng hung khí nguy hiểm",
+    "gây nguy hại",
+    "dùng a-xít sunfuric",
+    "gây cố tật nhẹ",
+    "phạm tội",
+    "thuê gây thương tích"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cố ý gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "dùng hung khí nguy hiểm"
+    ],
+    [
+      "người nào",
+      "dùng a-xít sunfuric"
+    ],
+    [
+      "người nào",
+      "gây cố tật nhẹ"
+    ],
+    [
+      "người nào",
+      "phạm tội"
+    ],
+    [
+      "người nào",
+      "thuê gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây thương tích"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cố ý gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "phạt tù"
+    ],
+    [
+      "hung khí nguy hiểm",
+      "gây nguy hại"
+    ],
+    [
+      "a-xít sunfuric",
+      "hóa chất nguy hiểm khác"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại sức khỏe"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

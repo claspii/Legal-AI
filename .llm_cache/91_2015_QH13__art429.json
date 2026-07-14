@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người có quyền yêu cầu"
+  ],
+  "actions": [
+    "khởi kiện",
+    "giải quyết tranh chấp hợp đồng",
+    "biết",
+    "bị xâm phạm"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết tranh chấp hợp đồng"
+    ],
+    [
+      "người có quyền yêu cầu",
+      "biết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu khởi kiện",
+      "hợp đồng"
+    ],
+    [
+      "quyền và lợi ích hợp pháp",
+      "bị xâm phạm"
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "pháp nhân thương mại phạm tội",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "quyết định",
+    "thực hiện",
+    "khắc phục hậu quả",
+    "ngăn chặn hậu quả",
+    "tháo dỡ",
+    "khắc phục tình trạng ô nhiễm môi trường",
+    "lây lan dịch bệnh",
+    "đưa ra khỏi lãnh thổ",
+    "tái xuất",
+    "tiêu hủy",
+    "loại bỏ yếu tố vi phạm",
+    "thu hồi sản phẩm"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "thực hiện"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "khắc phục hậu quả"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "ngăn chặn hậu quả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại phạm tội",
+      "biện pháp tư pháp"
+    ],
+    [
+      "biện pháp tư pháp",
+      "khắc phục hậu quả"
+    ],
+    [
+      "biện pháp tư pháp",
+      "ngăn chặn hậu quả"
+    ],
+    [
+      "công trình xây dựng",
+      "giấy phép"
+    ],
+    [
+      "ô nhiễm môi trường",
+      "dịch bệnh"
+    ],
+    [
+      "hàng hóa",
+      "quyền sở hữu trí tuệ"
+    ],
+    [
+      "hàng hóa",
+      "sức khỏe con người"
+    ]
+  ]
+}

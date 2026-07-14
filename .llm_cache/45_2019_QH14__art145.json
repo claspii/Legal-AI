@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người chưa đủ 15 tuổi",
+    "người đại diện theo pháp luật của người chưa đủ 15 tuổi",
+    "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+    "người từ đủ 13 tuổi đến chưa đủ 15 tuổi",
+    "người chưa đủ 13 tuổi",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "bộ trưởng bộ lao động - thương binh và xã hội"
+  ],
+  "actions": [
+    "sử dụng người chưa đủ 15 tuổi làm việc",
+    "giao kết hợp đồng lao động",
+    "bố trí giờ làm việc",
+    "có giấy khám sức khỏe",
+    "tổ chức kiểm tra sức khỏe định kỳ",
+    "bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động",
+    "tuyển dụng và sử dụng người từ đủ 13 tuổi đến chưa đủ 15 tuổi",
+    "tuyển dụng và sử dụng người chưa đủ 13 tuổi làm việc"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "sử dụng người chưa đủ 15 tuổi làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí giờ làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "có giấy khám sức khỏe"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức kiểm tra sức khỏe định kỳ"
+    ],
+    [
+      "người sử dụng lao động",
+      "bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "tuyển dụng và sử dụng người từ đủ 13 tuổi đến chưa đủ 15 tuổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "tuyển dụng và sử dụng người chưa đủ 13 tuổi làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người chưa đủ 15 tuổi"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "hợp đồng lao động bằng văn bản"
+    ],
+    [
+      "người chưa đủ 15 tuổi",
+      "giấy khám sức khỏe"
+    ],
+    [
+      "người từ đủ 13 tuổi đến chưa đủ 15 tuổi",
+      "công việc nhẹ"
+    ],
+    [
+      "người chưa đủ 13 tuổi",
+      "công việc nghệ thuật, thể dục, thể thao"
+    ],
+    [
+      "người chưa đủ 13 tuổi",
+      "sự phát triển thể lực, trí lực, nhân cách"
+    ]
+  ]
+}

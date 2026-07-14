@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "tòa án"
+  ],
+  "actions": [
+    "phạm tội",
+    "xét xử",
+    "quyết định hình phạt",
+    "tổng hợp hình phạt",
+    "tuyên",
+    "cộng lại",
+    "chấp hành"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "tổng hợp hình phạt"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chấp hành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt chính",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt chính",
+      "đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "hình phạt bổ sung",
+      "hình phạt tiền"
+    ],
+    [
+      "hình phạt",
+      "pháp nhân thương mại"
+    ]
+  ]
+}

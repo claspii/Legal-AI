@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án"
+  ],
+  "actions": [
+    "kháng nghị theo thủ tục giám đốc thẩm",
+    "kháng nghị theo thủ tục tái thẩm",
+    "giải quyết theo quy định của pháp luật về dân sự"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết theo quy định của pháp luật về dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bộ luật này",
+      "kháng nghị theo thủ tục giám đốc thẩm"
+    ],
+    [
+      "bộ luật này",
+      "kháng nghị theo thủ tục tái thẩm"
+    ],
+    [
+      "tòa án",
+      "vụ việc"
+    ],
+    [
+      "pháp luật về dân sự",
+      "vụ việc"
+    ]
+  ]
+}

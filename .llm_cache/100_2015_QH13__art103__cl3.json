@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm nhiều tội",
+    "tòa án"
+  ],
+  "actions": [
+    "tổng hợp hình phạt",
+    "thực hiện tội",
+    "tuyên hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người phạm nhiều tội",
+      "thực hiện tội"
+    ],
+    [
+      "tòa án",
+      "tuyên hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổng hợp hình phạt",
+      "phạm nhiều tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người đủ 18 tuổi trở lên",
+      "phạm tội"
+    ]
+  ]
+}

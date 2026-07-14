@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [
+    "trụ sở của pháp nhân",
+    "địa chỉ liên lạc của pháp nhân"
+  ],
+  "actors": [
+    "pháp nhân"
+  ],
+  "actions": [
+    "công bố công khai",
+    "chọn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "công bố công khai"
+    ],
+    [
+      "pháp nhân",
+      "chọn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trụ sở của pháp nhân",
+      "cơ quan điều hành của pháp nhân"
+    ],
+    [
+      "trụ sở của pháp nhân",
+      "địa chỉ liên lạc của pháp nhân"
+    ]
+  ]
+}

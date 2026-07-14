@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chủ sở hữu",
+    "người quản lý phương tiện tham gia giao thông đường bộ",
+    "người không có giấy phép lái xe",
+    "người đang trong tình trạng có sử dụng rượu, bia",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "người không đủ các điều kiện khác theo quy định của pháp luật"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+    "điều khiển phương tiện tham gia giao thông đường bộ",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người chủ sở hữu",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người quản lý phương tiện tham gia giao thông đường bộ",
+      "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người không có giấy phép lái xe",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người đang trong tình trạng có sử dụng rượu, bia",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "người không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không có giấy phép lái xe",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "nồng độ cồn vượt quá mức quy định",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "không đủ các điều kiện khác theo quy định của pháp luật",
+      "điều khiển phương tiện tham gia giao thông đường bộ"
+    ],
+    [
+      "làm chết 01 người",
+      "bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương cơ thể 61% trở lên",
+      "bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm"
+    ],
+    [
+      "gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000 đồng",
+      "bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm"
+    ]
+  ]
+}

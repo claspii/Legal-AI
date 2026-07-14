@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cơ quan nhà nước có thẩm quyền",
+    "cha đẻ",
+    "mẹ đẻ",
+    "con nuôi",
+    "cha nuôi",
+    "mẹ nuôi",
+    "người bị lưu lạc"
+  ],
+  "actions": [
+    "yêu cầu",
+    "công nhận",
+    "thay đổi họ",
+    "xác định cha, mẹ",
+    "thôi làm con nuôi",
+    "tìm ra nguồn gốc huyết thống",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "công nhận"
+    ],
+    [
+      "cha nuôi",
+      "yêu cầu"
+    ],
+    [
+      "mẹ nuôi",
+      "yêu cầu"
+    ],
+    [
+      "con nuôi",
+      "thôi làm con nuôi"
+    ],
+    [
+      "cha đẻ",
+      "yêu cầu"
+    ],
+    [
+      "mẹ đẻ",
+      "yêu cầu"
+    ],
+    [
+      "người bị lưu lạc",
+      "tìm ra nguồn gốc huyết thống"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "họ"
+    ],
+    [
+      "cha đẻ",
+      "họ"
+    ],
+    [
+      "mẹ đẻ",
+      "họ"
+    ],
+    [
+      "con nuôi",
+      "họ"
+    ],
+    [
+      "cha nuôi",
+      "họ"
+    ],
+    [
+      "mẹ nuôi",
+      "họ"
+    ],
+    [
+      "họ",
+      "quyền, nghĩa vụ dân sự"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [
+    "một năm",
+    "nửa năm",
+    "một tháng",
+    "nửa tháng",
+    "một tuần",
+    "một ngày",
+    "một giờ",
+    "một phút"
+  ],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn",
+      "một năm"
+    ],
+    [
+      "thời hạn",
+      "nửa năm"
+    ],
+    [
+      "thời hạn",
+      "một tháng"
+    ],
+    [
+      "thời hạn",
+      "nửa tháng"
+    ],
+    [
+      "thời hạn",
+      "một tuần"
+    ],
+    [
+      "thời hạn",
+      "một ngày"
+    ]
+  ]
+}

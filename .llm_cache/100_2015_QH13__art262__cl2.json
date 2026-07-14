@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "đưa vào sử dụng",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phương tiện giao thông cơ giới đường bộ",
+      "tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "xe máy chuyên dùng",
+      "tiêu chuẩn an toàn kỹ thuật"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "phạm tội",
+      "bị phạt"
+    ]
+  ]
+}

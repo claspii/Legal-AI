@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "chuẩn bị phạm tội"
+  ],
+  "actors": [],
+  "actions": [
+    "tìm kiếm",
+    "sửa soạn",
+    "tạo ra",
+    "thực hiện",
+    "thành lập",
+    "tham gia"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chuẩn bị phạm tội",
+      "tìm kiếm công cụ"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "sửa soạn công cụ"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "tạo ra điều kiện"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "thực hiện tội phạm"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "thành lập nhóm tội phạm"
+    ],
+    [
+      "chuẩn bị phạm tội",
+      "tham gia nhóm tội phạm"
+    ]
+  ]
+}

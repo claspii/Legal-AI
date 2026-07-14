@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "buôn lậu",
+    "vận chuyển trái phép hàng hóa, tiền tệ qua biên giới",
+    "sản xuất, buôn bán hàng cấm",
+    "tàng trữ, vận chuyển hàng cấm",
+    "sản xuất, buôn bán hàng giả",
+    "sản xuất, buôn bán hàng giả là lương thực, thực phẩm, phụ gia thực phẩm",
+    "sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội buôn lậu"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội vận chuyển trái phép hàng hóa, tiền tệ qua biên giới"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội sản xuất, buôn bán hàng cấm"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội tàng trữ, vận chuyển hàng cấm"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội sản xuất, buôn bán hàng giả"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội gây ô nhiễm môi trường"
+    ],
+    [
+      "trách nhiệm hình sự",
+      "tội vi phạm phòng ngừa, ứng phó, khắc phục sự cố môi trường"
+    ]
+  ]
+}

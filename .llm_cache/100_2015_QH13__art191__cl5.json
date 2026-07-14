@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạm tội",
+    "bị phạt tiền",
+    "bị đình chỉ hoạt động có thời hạn",
+    "bị đình chỉ hoạt động vĩnh viễn",
+    "bị cấm kinh doanh",
+    "bị cấm hoạt động",
+    "bị cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm hoạt động"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "phạm tội",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "phạm tội",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "phạm tội",
+      "bị cấm kinh doanh"
+    ],
+    [
+      "phạm tội",
+      "bị cấm hoạt động"
+    ],
+    [
+      "phạm tội",
+      "bị cấm huy động vốn"
+    ]
+  ]
+}

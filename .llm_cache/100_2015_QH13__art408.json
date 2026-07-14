@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quân nhân",
+    "người phối thuộc với quân đội"
+  ],
+  "actions": [
+    "báo cáo sai",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "báo cáo sai"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "báo cáo sai",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "báo cáo sai",
+      "hoạt động quân sự"
+    ],
+    [
+      "chiến đấu",
+      "khu vực có chiến sự"
+    ],
+    [
+      "tình trạng khẩn cấp",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

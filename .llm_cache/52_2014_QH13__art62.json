@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ chồng",
+    "bên",
+    "tòa án",
+    "hộ gia đình"
+  ],
+  "actions": [
+    "chia quyền sử dụng đất",
+    "ly hôn",
+    "sử dụng đất",
+    "thanh toán",
+    "giải quyết",
+    "tách ra"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "chia quyền sử dụng đất"
+    ],
+    [
+      "bên",
+      "sử dụng đất"
+    ],
+    [
+      "bên",
+      "thanh toán"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "vợ chồng",
+      "ly hôn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sử dụng đất",
+      "tài sản riêng"
+    ],
+    [
+      "quyền sử dụng đất",
+      "tài sản chung"
+    ],
+    [
+      "ly hôn",
+      "chia quyền sử dụng đất"
+    ],
+    [
+      "đất nông nghiệp",
+      "nuôi trồng thủy sản"
+    ],
+    [
+      "đất nông nghiệp",
+      "trồng cây hàng năm"
+    ],
+    [
+      "hộ gia đình",
+      "vợ chồng"
+    ]
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức của người lao động tại doanh nghiệp",
+    "cơ quan nhà nước có thẩm quyền",
+    "chính phủ",
+    "người lao động",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thành lập",
+    "gia nhập",
+    "hoạt động hợp pháp",
+    "cấp đăng ký",
+    "tổ chức và hoạt động",
+    "bảo đảm nguyên tắc",
+    "thu hồi đăng ký",
+    "chấm dứt sự tồn tại",
+    "chia",
+    "tách",
+    "hợp nhất",
+    "sáp nhập",
+    "giải thể",
+    "phá sản",
+    "thực hiện theo quy định",
+    "quy định về hồ sơ",
+    "quy định về trình tự",
+    "quy định về thủ tục đăng ký",
+    "quản lý nhà nước"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "thành lập"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "hoạt động hợp pháp"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "cấp đăng ký"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "tổ chức và hoạt động"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "bảo đảm nguyên tắc"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "bị thu hồi đăng ký"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "chấm dứt sự tồn tại"
+    ],
+    [
+      "chính phủ",
+      "quy định về hồ sơ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "cơ quan nhà nước có thẩm quyền"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "đăng ký"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "Hiến pháp"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "pháp luật"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "điều lệ"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "Công đoàn Việt Nam"
+    ],
+    [
+      "tổ chức của người lao động tại doanh nghiệp",
+      "Luật Công đoàn"
+    ],
+    [
+      "chính phủ",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ]
+  ]
+}

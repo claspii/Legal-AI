@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bán",
+    "bên mua",
+    "người mắc nợ",
+    "pháp luật"
+  ],
+  "actions": [
+    "chuyển giấy tờ",
+    "làm thủ tục chuyển quyền sở hữu",
+    "trả tiền",
+    "cam kết bảo đảm khả năng thanh toán",
+    "liên đới chịu trách nhiệm thanh toán",
+    "nhận được giấy tờ",
+    "đăng ký việc chuyển quyền sở hữu"
+  ],
+  "actor_actions": [
+    [
+      "bên bán",
+      "chuyển giấy tờ"
+    ],
+    [
+      "bên bán",
+      "làm thủ tục chuyển quyền sở hữu"
+    ],
+    [
+      "bên mua",
+      "trả tiền"
+    ],
+    [
+      "bên bán",
+      "cam kết bảo đảm khả năng thanh toán"
+    ],
+    [
+      "bên bán",
+      "liên đới chịu trách nhiệm thanh toán"
+    ],
+    [
+      "bên mua",
+      "nhận được giấy tờ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua bán quyền tài sản",
+      "bên bán"
+    ],
+    [
+      "mua bán quyền tài sản",
+      "bên mua"
+    ],
+    [
+      "quyền tài sản",
+      "quyền đòi nợ"
+    ],
+    [
+      "chuyển quyền sở hữu",
+      "quyền tài sản"
+    ],
+    [
+      "thời điểm chuyển quyền sở hữu",
+      "đăng ký việc chuyển quyền sở hữu"
+    ]
+  ]
+}

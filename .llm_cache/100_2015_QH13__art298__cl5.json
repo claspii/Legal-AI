@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "30.000.000 đồng"
+    ],
+    [
+      "phạt tiền",
+      "100.000.000 đồng"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "01 năm"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "05 năm"
+    ],
+    [
+      "cấm hành nghề",
+      "01 năm"
+    ],
+    [
+      "cấm hành nghề",
+      "05 năm"
+    ],
+    [
+      "làm công việc nhất định",
+      "01 năm"
+    ],
+    [
+      "làm công việc nhất định",
+      "05 năm"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "hai bên"
+  ],
+  "actions": [
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền lương của người lao động",
+      "thời gian thử việc"
+    ],
+    [
+      "tiền lương của người lao động",
+      "mức lương của công việc"
+    ]
+  ]
+}

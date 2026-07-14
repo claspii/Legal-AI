@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+    "người"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "bị xử lý kỷ luật",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "gây thương tích"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "bị kết án"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "vi phạm"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "phạt tiền"
+    ],
+    [
+      "người điều động người không có giấy phép, giấy chứng nhận hoặc chứng chỉ chuyên môn theo quy định hoặc không đủ các điều kiện khác theo quy định của pháp luật giao thông đường thủy",
+      "phạt cải tạo không giam giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép",
+      "giấy chứng nhận"
+    ],
+    [
+      "giấy chứng nhận",
+      "chứng chỉ chuyên môn"
+    ],
+    [
+      "gây thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "xử lý kỷ luật",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "kết án về tội này"
+    ],
+    [
+      "chưa được xóa án tích",
+      "còn vi phạm"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

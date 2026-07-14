@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người giám hộ đương nhiên của người chưa thành niên",
+    "người chưa thành niên",
+    "anh ruột",
+    "chị ruột",
+    "người giám hộ",
+    "ông nội",
+    "bà nội",
+    "ông ngoại"
+  ],
+  "actions": [
+    "xác định",
+    "làm người giám hộ",
+    "có thỏa thuận",
+    "thỏa thuận cử"
+  ],
+  "actor_actions": [
+    [
+      "anh ruột là anh cả hoặc chị ruột là chị cả",
+      "là người giám hộ"
+    ],
+    [
+      "anh cả hoặc chị cả",
+      "không có đủ điều kiện làm người giám hộ"
+    ],
+    [
+      "anh ruột hoặc chị ruột tiếp theo",
+      "là người giám hộ"
+    ],
+    [
+      "anh ruột hoặc chị ruột khác",
+      "làm người giám hộ"
+    ],
+    [
+      "ông nội, bà nội, ông ngoại, bà ngoại",
+      "là người giám hộ"
+    ],
+    [
+      "những người này",
+      "thỏa thuận cử một hoặc một số người trong số họ làm người giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ đương nhiên của người chưa thành niên",
+      "người chưa thành niên"
+    ],
+    [
+      "người giám hộ",
+      "anh ruột"
+    ],
+    [
+      "người giám hộ",
+      "chị ruột"
+    ],
+    [
+      "người giám hộ",
+      "ông nội"
+    ],
+    [
+      "người giám hộ",
+      "bà nội"
+    ],
+    [
+      "người giám hộ",
+      "ông ngoại"
+    ],
+    [
+      "người giám hộ",
+      "bà ngoại"
+    ],
+    [
+      "người giám hộ",
+      "bác ruột, chú ruột, cậu ruột, cô ruột hoặc dì ruột"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua tài sản"
+  ],
+  "actions": [
+    "sử dụng tài sản",
+    "hưởng hoa lợi, lợi tức từ tài sản",
+    "chịu rủi ro về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên mua tài sản",
+      "sử dụng tài sản"
+    ],
+    [
+      "bên mua tài sản",
+      "hưởng hoa lợi, lợi tức từ tài sản"
+    ],
+    [
+      "bên mua tài sản",
+      "chịu rủi ro về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên mua tài sản",
+      "tài sản"
+    ],
+    [
+      "bên mua tài sản",
+      "hoa lợi"
+    ],
+    [
+      "bên mua tài sản",
+      "lợi tức"
+    ],
+    [
+      "bên mua tài sản",
+      "rủi ro về tài sản"
+    ],
+    [
+      "bảo lưu quyền sở hữu",
+      "tài sản"
+    ]
+  ]
+}

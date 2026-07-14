@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "nạn nhân",
+    "phụ nữ có thai",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "tòa án",
+    "người có bệnh",
+    "cơ quan có trách nhiệm"
+  ],
+  "actions": [
+    "ngăn chặn tác hại",
+    "làm giảm bớt tác hại",
+    "tự nguyện sửa chữa",
+    "bồi thường thiệt hại",
+    "khắc phục hậu quả",
+    "phạm tội",
+    "định tội",
+    "định khung"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "ngăn chặn hoặc làm giảm bớt tác hại của tội phạm"
+    ],
+    [
+      "người phạm tội",
+      "tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả"
+    ],
+    [
+      "người phạm tội",
+      "tự thú"
+    ],
+    [
+      "người phạm tội",
+      "thành khẩn khai báo hoặc ăn năn hối cải"
+    ],
+    [
+      "người phạm tội",
+      "tích cực giúp đỡ các cơ quan có trách nhiệm phát hiện hoặc điều tra tội phạm"
+    ],
+    [
+      "người phạm tội",
+      "lập công chuộc tội"
+    ],
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "ghi rõ lý do giảm nhẹ trong bản án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tình tiết giảm nhẹ trách nhiệm hình sự",
+      "quyết định hình phạt"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "dấu hiệu định tội"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "định khung"
+    ],
+    [
+      "đầu thú",
+      "tình tiết giảm nhẹ"
+    ]
+  ]
+}

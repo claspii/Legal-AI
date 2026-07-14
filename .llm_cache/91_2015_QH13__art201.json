@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "cơ quan nhà nước",
+    "đơn vị vũ trang nhân dân"
+  ],
+  "actions": [
+    "thực hiện quyền sở hữu toàn dân",
+    "kiểm tra",
+    "giám sát",
+    "quản lý",
+    "sử dụng"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "thực hiện quyền kiểm tra"
+    ],
+    [
+      "nhà nước",
+      "giám sát"
+    ],
+    [
+      "cơ quan nhà nước",
+      "thực hiện việc quản lý"
+    ],
+    [
+      "cơ quan nhà nước",
+      "sử dụng"
+    ],
+    [
+      "đơn vị vũ trang nhân dân",
+      "thực hiện việc quản lý"
+    ],
+    [
+      "đơn vị vũ trang nhân dân",
+      "sử dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "cơ quan nhà nước"
+    ],
+    [
+      "tài sản thuộc sở hữu toàn dân",
+      "đơn vị vũ trang nhân dân"
+    ],
+    [
+      "kiểm tra",
+      "quản lý"
+    ],
+    [
+      "giám sát",
+      "sử dụng"
+    ]
+  ]
+}

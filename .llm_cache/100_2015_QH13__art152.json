@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 01 tuổi",
+    "người phạm tội"
+  ],
+  "actions": [
+    "đánh tráo",
+    "phạt tù",
+    "phạm tội",
+    "chăm sóc",
+    "nuôi dưỡng",
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đánh tráo người dưới 01 tuổi này với người dưới 01 tuổi khác"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người dưới 01 tuổi",
+      "chăm sóc"
+    ],
+    [
+      "người dưới 01 tuổi",
+      "nuôi dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "nhân phẩm",
+      "danh dự"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "chăm sóc",
+      "nuôi dưỡng"
+    ]
+  ]
+}

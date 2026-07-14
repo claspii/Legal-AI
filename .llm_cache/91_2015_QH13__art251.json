@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu nhà",
+    "chủ sở hữu công trình xây dựng khác",
+    "chủ sở hữu bất động sản liền kề"
+  ],
+  "actions": [
+    "thoát nước thải",
+    "làm cống ngầm",
+    "làm rãnh thoát nước",
+    "đưa nước thải ra nơi quy định",
+    "chảy tràn"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu nhà",
+      "thoát nước thải"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "thoát nước thải"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "làm cống ngầm"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "làm cống ngầm"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "làm rãnh thoát nước"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "làm rãnh thoát nước"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "đưa nước thải ra nơi quy định"
+    ],
+    [
+      "chủ sở hữu công trình xây dựng khác",
+      "đưa nước thải ra nơi quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu nhà",
+      "nước thải"
+    ],
+    [
+      "công trình xây dựng khác",
+      "nước thải"
+    ],
+    [
+      "nước thải",
+      "cống ngầm"
+    ],
+    [
+      "nước thải",
+      "rãnh thoát nước"
+    ],
+    [
+      "nước thải",
+      "bất động sản liền kề"
+    ],
+    [
+      "nước thải",
+      "đường công cộng"
+    ],
+    [
+      "nước thải",
+      "nơi sinh hoạt công cộng"
+    ],
+    [
+      "chủ sở hữu nhà",
+      "chủ sở hữu bất động sản liền kề"
+    ]
+  ]
+}

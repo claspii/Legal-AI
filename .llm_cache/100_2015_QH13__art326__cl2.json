@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "truyền bá",
+    "phổ biến"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "truyền bá"
+    ],
+    [
+      "người",
+      "phổ biến"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "văn hóa phẩm",
+      "đồi trụy"
+    ],
+    [
+      "dữ liệu được số hóa",
+      "dung lượng"
+    ],
+    [
+      "sách in",
+      "báo in"
+    ],
+    [
+      "mạng internet",
+      "mạng máy tính"
+    ],
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ]
+  ]
+}

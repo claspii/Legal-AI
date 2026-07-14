@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản"
+  ],
+  "actions": [
+    "chịu rủi ro về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu",
+      "chịu rủi ro về tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "chịu rủi ro về tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "tài sản"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "tài sản"
+    ]
+  ]
+}

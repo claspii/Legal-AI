@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "bên tranh chấp",
+    "hội đồng trọng tài lao động",
+    "tòa án"
+  ],
+  "actions": [
+    "yêu cầu hòa giải",
+    "thực hiện hòa giải",
+    "phát hiện hành vi",
+    "yêu cầu giải quyết tranh chấp"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "thực hiện hòa giải"
+    ],
+    [
+      "bên tranh chấp",
+      "phát hiện hành vi"
+    ],
+    [
+      "bên tranh chấp",
+      "yêu cầu hòa giải viên lao động thực hiện hòa giải"
+    ],
+    [
+      "bên tranh chấp",
+      "yêu cầu hội đồng trọng tài lao động giải quyết tranh chấp"
+    ],
+    [
+      "bên tranh chấp",
+      "yêu cầu tòa án giải quyết tranh chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu",
+      "yêu cầu hòa giải"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "thời hiệu"
+    ],
+    [
+      "thời hiệu",
+      "yêu cầu hội đồng trọng tài lao động giải quyết tranh chấp"
+    ],
+    [
+      "thời hiệu",
+      "yêu cầu tòa án giải quyết tranh chấp"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "hòa giải viên lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể về quyền",
+      "tòa án"
+    ]
+  ]
+}

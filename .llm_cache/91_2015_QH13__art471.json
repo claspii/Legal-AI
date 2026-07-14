@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [
+    "họ"
+  ],
+  "actors": [
+    "nhóm người",
+    "thành viên",
+    "nhân dân"
+  ],
+  "actions": [
+    "giao dịch",
+    "định ra",
+    "góp",
+    "lĩnh họ",
+    "tổ chức họ",
+    "cho vay nặng lãi"
+  ],
+  "actor_actions": [
+    [
+      "nhóm người",
+      "định ra"
+    ],
+    [
+      "nhóm người",
+      "góp"
+    ],
+    [
+      "nhóm người",
+      "lĩnh họ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "họ",
+      "hụi"
+    ],
+    [
+      "họ",
+      "biêu"
+    ],
+    [
+      "họ",
+      "phường"
+    ],
+    [
+      "họ",
+      "tài sản"
+    ],
+    [
+      "tổ chức họ",
+      "mục đích tương trợ"
+    ],
+    [
+      "tổ chức họ",
+      "cho vay nặng lãi"
+    ]
+  ]
+}

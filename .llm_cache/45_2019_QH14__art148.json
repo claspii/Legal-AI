@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [
+    "người lao động cao tuổi"
+  ],
+  "actors": [
+    "người lao động cao tuổi",
+    "người sử dụng lao động",
+    "nhà nước"
+  ],
+  "actions": [
+    "tiếp tục lao động",
+    "thỏa thuận",
+    "rút ngắn thời giờ làm việc hằng ngày",
+    "áp dụng chế độ làm việc không trọn thời gian",
+    "khuyến khích sử dụng",
+    "làm việc phù hợp với sức khỏe",
+    "bảo đảm quyền lao động",
+    "sử dụng hiệu quả nguồn nhân lực"
+  ],
+  "actor_actions": [
+    [
+      "người lao động cao tuổi",
+      "tiếp tục lao động"
+    ],
+    [
+      "người lao động cao tuổi",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động cao tuổi",
+      "rút ngắn thời giờ làm việc hằng ngày"
+    ],
+    [
+      "người lao động cao tuổi",
+      "áp dụng chế độ làm việc không trọn thời gian"
+    ],
+    [
+      "nhà nước",
+      "khuyến khích sử dụng"
+    ],
+    [
+      "nhà nước",
+      "bảo đảm quyền lao động"
+    ],
+    [
+      "nhà nước",
+      "sử dụng hiệu quả nguồn nhân lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động cao tuổi",
+      "tuổi"
+    ],
+    [
+      "người lao động cao tuổi",
+      "thời giờ làm việc hằng ngày"
+    ],
+    [
+      "người lao động cao tuổi",
+      "chế độ làm việc không trọn thời gian"
+    ],
+    [
+      "người lao động cao tuổi",
+      "sức khỏe"
+    ],
+    [
+      "nhà nước",
+      "người lao động cao tuổi"
+    ],
+    [
+      "quyền lao động",
+      "nguồn nhân lực"
+    ]
+  ]
+}

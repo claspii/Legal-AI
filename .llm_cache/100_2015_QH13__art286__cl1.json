@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người sử dụng"
+  ],
+  "actions": [
+    "phát tán",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "làm lây nhiễm",
+    "xử phạt vi phạm hành chính",
+    "kết án",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý phát tán chương trình tin học gây hại cho mạng máy tính, mạng viễn thông, phương tiện điện tử"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ],
+    [
+      "người",
+      "làm lây nhiễm"
+    ],
+    [
+      "người",
+      "đã bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    [
+      "người",
+      "đã bị kết án về tội này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "phương tiện điện tử",
+      "hệ thống thông tin"
+    ],
+    [
+      "vi phạm hành chính",
+      "tội này"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "kết án"
+    ]
+  ]
+}

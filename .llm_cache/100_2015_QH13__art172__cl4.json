@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm đoạt tài sản",
+    "công nhiên chiếm đoạt tài sản",
+    "lợi dụng hoàn cảnh chiến tranh",
+    "tình trạng khẩn cấp"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chiếm đoạt tài sản",
+      "công nhiên chiếm đoạt tài sản"
+    ],
+    [
+      "hoàn cảnh chiến tranh",
+      "tình trạng khẩn cấp"
+    ],
+    [
+      "tài sản trị giá 500.000.000 đồng trở lên",
+      "phạt tù từ 12 năm đến 20 năm"
+    ],
+    [
+      "tài sản trị giá từ 200.000.000 đồng đến dưới 500.000.000 đồng",
+      "phạt tù từ 12 năm đến 20 năm"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người làm chứng",
+    "người bị hại",
+    "đương sự",
+    "người giám định",
+    "người định giá tài sản",
+    "người phiên dịch",
+    "người dịch thuật"
+  ],
+  "actions": [
+    "mua chuộc",
+    "cưỡng ép",
+    "khai báo gian dối",
+    "cung cấp tài liệu sai sự thật",
+    "không khai báo",
+    "không cung cấp tài liệu",
+    "kết luận gian dối",
+    "dịch xuyên tạc"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "mua chuộc"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "người làm chứng",
+      "khai báo gian dối"
+    ],
+    [
+      "người bị hại",
+      "khai báo gian dối"
+    ],
+    [
+      "đương sự",
+      "khai báo gian dối"
+    ],
+    [
+      "người làm chứng",
+      "cung cấp tài liệu sai sự thật"
+    ],
+    [
+      "người giám định",
+      "kết luận gian dối"
+    ],
+    [
+      "người phiên dịch",
+      "dịch xuyên tạc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua chuộc",
+      "khai báo gian dối"
+    ],
+    [
+      "cưỡng ép",
+      "cung cấp tài liệu sai sự thật"
+    ],
+    [
+      "người làm chứng",
+      "khai báo gian dối"
+    ],
+    [
+      "người giám định",
+      "kết luận gian dối"
+    ],
+    [
+      "vụ án hình sự",
+      "giải quyết vụ án, vụ việc bị sai lệch"
+    ],
+    [
+      "dùng vũ lực",
+      "phạt tù từ 02 năm đến 07 năm"
+    ],
+    [
+      "lợi dụng chức vụ, quyền hạn",
+      "phạt tù từ 02 năm đến 07 năm"
+    ]
+  ]
+}

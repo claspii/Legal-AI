@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "gia đình người bị giam, giữ",
+    "người bị bắt, giữ, giam trái pháp luật",
+    "người phạm tội",
+    "nạn nhân"
+  ],
+  "actions": [
+    "bắt, giữ hoặc giam người trái pháp luật",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "làm cho gia đình người bị giam, giữ lâm vào tình trạng khó khăn, quẫn bách",
+    "gây rối loạn tâm thần và hành vi",
+    "chết",
+    "tự sát",
+    "tra tấn, đối xử hoặc trừng phạt tàn bạo, vô nhân đạo hoặc hạ nhục phẩm giá",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bắt, giữ hoặc giam người trái pháp luật"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "bắt, giữ hoặc giam người trái pháp luật"
+    ],
+    [
+      "người phạm tội",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người phạm tội",
+      "phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "gia đình người bị giam, giữ",
+      "lâm vào tình trạng khó khăn, quẫn bách"
+    ],
+    [
+      "người bị bắt, giữ, giam trái pháp luật",
+      "chết"
+    ],
+    [
+      "người bị bắt, giữ, giam trái pháp luật",
+      "tự sát"
+    ],
+    [
+      "nạn nhân",
+      "tra tấn, đối xử hoặc trừng phạt tàn bạo, vô nhân đạo hoặc hạ nhục phẩm giá"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị tuyên bố là đã chết",
+    "người có quyền, lợi ích liên quan",
+    "tòa án",
+    "vợ hoặc chồng",
+    "người khác",
+    "người thừa kế",
+    "ủy ban nhân dân cấp xã"
+  ],
+  "actions": [
+    "hủy bỏ quyết định tuyên bố chết",
+    "trở về",
+    "có tin tức xác thực",
+    "yêu cầu",
+    "ra quyết định",
+    "khôi phục",
+    "ly hôn",
+    "kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "người bị tuyên bố là đã chết",
+      "trở về"
+    ],
+    [
+      "người bị tuyên bố là đã chết",
+      "có tin tức xác thực"
+    ],
+    [
+      "người có quyền, lợi ích liên quan",
+      "yêu cầu"
+    ],
+    [
+      "tòa án",
+      "ra quyết định hủy bỏ quyết định tuyên bố người đó là đã chết"
+    ],
+    [
+      "quan hệ nhân thân",
+      "khôi phục"
+    ],
+    [
+      "vợ hoặc chồng của người bị tuyên bố là đã chết",
+      "ly hôn"
+    ],
+    [
+      "vợ hoặc chồng của người bị tuyên bố là đã chết",
+      "kết hôn với người khác"
+    ],
+    [
+      "người bị tuyên bố là đã chết mà còn sống",
+      "yêu cầu"
+    ],
+    [
+      "người thừa kế của người bị tuyên bố là đã chết",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị tuyên bố là đã chết",
+      "quyết định tuyên bố chết"
+    ],
+    [
+      "hủy bỏ quyết định tuyên bố chết",
+      "quan hệ nhân thân"
+    ],
+    [
+      "quan hệ nhân thân",
+      "vợ hoặc chồng"
+    ],
+    [
+      "quyết định tuyên bố chết",
+      "tài sản thừa kế"
+    ],
+    [
+      "quan hệ tài sản",
+      "vợ và chồng"
+    ]
+  ]
+}

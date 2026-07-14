@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng đất",
+    "nhà nước",
+    "người khác"
+  ],
+  "actions": [
+    "được cấp giấy chứng nhận quyền sử dụng đất",
+    "quyền sở hữu tài sản gắn liền với đất",
+    "hưởng thành quả lao động",
+    "hưởng kết quả đầu tư trên đất",
+    "hưởng các lợi ích do công trình của nhà nước",
+    "được nhà nước hướng dẫn",
+    "được nhà nước giúp đỡ",
+    "được nhà nước bảo hộ",
+    "khiếu nại"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng đất",
+      "có các quyền sau đây"
+    ],
+    [
+      "người sử dụng đất",
+      "được cấp giấy chứng nhận quyền sử dụng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "quyền sở hữu tài sản gắn liền với đất"
+    ],
+    [
+      "người sử dụng đất",
+      "hưởng thành quả lao động"
+    ],
+    [
+      "người sử dụng đất",
+      "hưởng kết quả đầu tư trên đất"
+    ],
+    [
+      "người sử dụng đất",
+      "hưởng các lợi ích do công trình của nhà nước phục vụ việc bảo vệ, cải tạo đất nông nghiệp"
+    ],
+    [
+      "người sử dụng đất",
+      "được nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, bồi bổ đất nông nghiệp"
+    ],
+    [
+      "người sử dụng đất",
+      "được nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sử dụng đất",
+      "giấy chứng nhận quyền sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "tài sản gắn liền với đất"
+    ],
+    [
+      "đất nông nghiệp",
+      "cải tạo đất nông nghiệp"
+    ],
+    [
+      "đất nông nghiệp",
+      "bồi bổ đất nông nghiệp"
+    ],
+    [
+      "quyền sử dụng đất",
+      "chuyển đổi quyền sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "chuyển nhượng quyền sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "cho thuê quyền sử dụng đất"
+    ],
+    [
+      "quyền sử dụng đất",
+      "thế chấp quyền sử dụng đất"
+    ]
+  ]
+}

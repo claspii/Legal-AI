@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi"
+  ],
+  "actions": [
+    "thực hiện",
+    "chuyển giao",
+    "tiếp nhận",
+    "giao",
+    "nhận tiền",
+    "nhận tài sản",
+    "nhận lợi ích vật chất",
+    "bóc lột tình dục",
+    "cưỡng bức lao động",
+    "lấy bộ phận cơ thể",
+    "tuyển mộ",
+    "vận chuyển",
+    "chứa chấp"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "chuyển giao"
+    ],
+    [
+      "người",
+      "tiếp nhận"
+    ],
+    [
+      "người",
+      "tuyển mộ"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "chứa chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuyển giao người dưới 16 tuổi",
+      "tiếp nhận người dưới 16 tuổi"
+    ],
+    [
+      "giao tiền",
+      "nhận tiền"
+    ],
+    [
+      "giao tài sản",
+      "nhận tài sản"
+    ],
+    [
+      "giao lợi ích vật chất",
+      "nhận lợi ích vật chất"
+    ],
+    [
+      "bóc lột tình dục",
+      "cưỡng bức lao động"
+    ],
+    [
+      "bóc lột tình dục",
+      "lấy bộ phận cơ thể"
+    ],
+    [
+      "cưỡng bức lao động",
+      "lấy bộ phận cơ thể"
+    ],
+    [
+      "tuyển mộ người dưới 16 tuổi",
+      "vận chuyển người dưới 16 tuổi"
+    ],
+    [
+      "tuyển mộ người dưới 16 tuổi",
+      "chứa chấp người dưới 16 tuổi"
+    ]
+  ]
+}

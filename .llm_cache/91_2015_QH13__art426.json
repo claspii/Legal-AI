@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên",
+    "bên kia",
+    "bên vi phạm"
+  ],
+  "actions": [
+    "làm mất",
+    "làm hư hỏng",
+    "hoàn trả",
+    "đền bù",
+    "sửa chữa",
+    "thay thế",
+    "hủy bỏ hợp đồng",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "làm mất"
+    ],
+    [
+      "một bên",
+      "làm hư hỏng"
+    ],
+    [
+      "bên kia",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản bị mất",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "tài sản bị hư hỏng",
+      "hủy bỏ hợp đồng"
+    ],
+    [
+      "bên vi phạm",
+      "bồi thường"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "bồi thường"
+    ]
+  ]
+}

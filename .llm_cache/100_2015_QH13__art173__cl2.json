@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt tài sản",
+    "dùng thủ đoạn xảo quyệt, nguy hiểm",
+    "hành hung để tẩu thoát",
+    "trộm cắp tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội trộm cắp tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "tội trộm cắp tài sản",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

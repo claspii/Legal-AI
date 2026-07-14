@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đại diện",
+    "người được đại diện",
+    "người đã giao dịch"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "đồng ý",
+    "phản đối",
+    "chấm dứt thực hiện giao dịch dân sự",
+    "hủy bỏ giao dịch dân sự",
+    "yêu cầu bồi thường thiệt hại",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người được đại diện",
+      "đồng ý"
+    ],
+    [
+      "người được đại diện",
+      "phản đối"
+    ],
+    [
+      "người đã giao dịch",
+      "chấm dứt thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đã giao dịch",
+      "hủy bỏ giao dịch dân sự"
+    ],
+    [
+      "người đã giao dịch",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "người đại diện và người giao dịch",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "phạm vi đại diện"
+    ],
+    [
+      "người đại diện",
+      "người được đại diện"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "chấm dứt thực hiện",
+      "hủy bỏ giao dịch dân sự"
+    ],
+    [
+      "giao dịch dân sự",
+      "bồi thường thiệt hại"
+    ]
+  ]
+}

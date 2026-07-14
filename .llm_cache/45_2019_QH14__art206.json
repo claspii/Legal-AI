@@ -1,0 +1,23 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "cấm đóng cửa tạm thời nơi làm việc",
+    "đình công",
+    "ngừng đình công"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "ngừng đình công"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm đóng cửa tạm thời nơi làm việc",
+      "đình công"
+    ]
+  ]
+}

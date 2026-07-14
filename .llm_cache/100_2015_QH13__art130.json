@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người lệ thuộc",
+    "người dưới 16 tuổi",
+    "phụ nữ"
+  ],
+  "actions": [
+    "đối xử tàn ác",
+    "ức hiếp",
+    "ngược đãi",
+    "làm nhục",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đối xử tàn ác"
+    ],
+    [
+      "người",
+      "ức hiếp"
+    ],
+    [
+      "người",
+      "ngược đãi"
+    ],
+    [
+      "người",
+      "làm nhục"
+    ],
+    [
+      "người lệ thuộc",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "người lệ thuộc"
+    ]
+  ]
+}

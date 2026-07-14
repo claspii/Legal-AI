@@ -1,0 +1,85 @@
+{
+  "concepts_defined": [
+    "tranh chấp lao động"
+  ],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "doanh nghiệp",
+    "tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng",
+    "người lao động thuê lại",
+    "người sử dụng lao động thuê lại",
+    "tổ chức đại diện người lao động",
+    "tổ chức của người sử dụng lao động"
+  ],
+  "actions": [
+    "xác lập quan hệ lao động",
+    "thực hiện quan hệ lao động",
+    "chấm dứt quan hệ lao động",
+    "đi làm việc ở nước ngoài theo hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "xác lập quan hệ lao động"
+    ],
+    [
+      "người lao động",
+      "thực hiện quan hệ lao động"
+    ],
+    [
+      "người lao động",
+      "chấm dứt quan hệ lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "xác lập quan hệ lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện quan hệ lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt quan hệ lao động"
+    ],
+    [
+      "người lao động",
+      "đi làm việc ở nước ngoài theo hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động",
+      "quan hệ lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "người lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "người sử dụng lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "doanh nghiệp đưa người lao động đi làm việc ở nước ngoài theo hợp đồng"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "người lao động thuê lại"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "người sử dụng lao động thuê lại"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "tổ chức đại diện người lao động"
+    ],
+    [
+      "tranh chấp lao động tập thể",
+      "người sử dụng lao động"
+    ]
+  ]
+}

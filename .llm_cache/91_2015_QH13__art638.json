@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "quân nhân tại ngũ",
+    "thủ trưởng đơn vị",
+    "người đang đi trên tàu biển, máy bay",
+    "người chỉ huy phương tiện",
+    "người đang điều trị tại bệnh viện, cơ sở chữa bệnh, điều dưỡng khác",
+    "người phụ trách bệnh viện, cơ sở đó",
+    "người đang làm công việc khảo sát, thăm dò, nghiên cứu ở vùng rừng núi, hải đảo",
+    "công dân việt nam đang ở nước ngoài"
+  ],
+  "actions": [
+    "có xác nhận",
+    "yêu cầu công chứng hoặc chứng thực",
+    "có chứng nhận",
+    "chấp hành hình phạt tù",
+    "chấp hành biện pháp xử lý hành chính"
+  ],
+  "actor_actions": [
+    [
+      "quân nhân tại ngũ",
+      "yêu cầu công chứng hoặc chứng thực"
+    ],
+    [
+      "thủ trưởng đơn vị",
+      "có xác nhận"
+    ],
+    [
+      "người chỉ huy phương tiện",
+      "có xác nhận"
+    ],
+    [
+      "người phụ trách bệnh viện, cơ sở đó",
+      "có xác nhận"
+    ],
+    [
+      "người phụ trách đơn vị",
+      "có xác nhận"
+    ],
+    [
+      "cơ quan lãnh sự, đại diện ngoại giao việt nam ở nước đó",
+      "có chứng nhận"
+    ],
+    [
+      "người phụ trách cơ sở đó",
+      "có xác nhận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc bằng văn bản",
+      "di chúc được công chứng hoặc chứng thực"
+    ],
+    [
+      "di chúc",
+      "có xác nhận"
+    ],
+    [
+      "di chúc",
+      "có chứng nhận"
+    ]
+  ]
+}

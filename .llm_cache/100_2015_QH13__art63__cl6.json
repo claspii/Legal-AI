@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án tử hình"
+  ],
+  "actions": [
+    "ân giảm",
+    "xét giảm",
+    "chấp hành hình phạt",
+    "giảm"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án tử hình",
+      "ân giảm"
+    ],
+    [
+      "người bị kết án tử hình",
+      "xét giảm"
+    ],
+    [
+      "người bị kết án tử hình",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị kết án tử hình",
+      "giảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án tử hình",
+      "ân giảm"
+    ],
+    [
+      "người bị kết án tử hình",
+      "xét giảm"
+    ],
+    [
+      "chấp hành hình phạt",
+      "giảm"
+    ]
+  ]
+}

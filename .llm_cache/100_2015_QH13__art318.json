@@ -1,0 +1,105 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "gây rối trật tự công cộng",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "có tổ chức",
+    "dùng vũ khí",
+    "dùng hung khí",
+    "có hành vi phá phách",
+    "gây cản trở giao thông nghiêm trọng",
+    "gây đình trệ hoạt động công cộng",
+    "xúi giục",
+    "hành hung",
+    "can thiệp bảo vệ trật tự công cộng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây rối trật tự công cộng"
+    ],
+    [
+      "người",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "có tổ chức"
+    ],
+    [
+      "người",
+      "dùng vũ khí"
+    ],
+    [
+      "người",
+      "dùng hung khí"
+    ],
+    [
+      "người",
+      "có hành vi phá phách"
+    ],
+    [
+      "người",
+      "gây cản trở giao thông nghiêm trọng"
+    ],
+    [
+      "người",
+      "gây đình trệ hoạt động công cộng"
+    ],
+    [
+      "người",
+      "xúi giục người khác gây rối"
+    ],
+    [
+      "người",
+      "hành hung người can thiệp bảo vệ trật tự công cộng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "gây rối trật tự công cộng",
+      "ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội"
+    ],
+    [
+      "gây rối trật tự công cộng",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "gây rối trật tự công cộng",
+      "bị kết án"
+    ],
+    [
+      "phạt tiền",
+      "tội gây rối trật tự công cộng"
+    ],
+    [
+      "cải tạo không giam giữ",
+      "tội gây rối trật tự công cộng"
+    ],
+    [
+      "phạt tù",
+      "tội gây rối trật tự công cộng"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạt tù"
+    ]
+  ]
+}

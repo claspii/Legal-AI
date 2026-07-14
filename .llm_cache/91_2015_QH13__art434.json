@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên mua",
+    "bên bán",
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao tài sản",
+    "đồng ý",
+    "yêu cầu",
+    "nhận tài sản",
+    "báo trước",
+    "thanh toán tiền mua",
+    "nhận giấy tờ chứng nhận quyền sở hữu tài sản"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "giao tài sản"
+    ],
+    [
+      "bên mua",
+      "đồng ý"
+    ],
+    [
+      "bên mua",
+      "yêu cầu"
+    ],
+    [
+      "bên bán",
+      "yêu cầu"
+    ],
+    [
+      "bên mua",
+      "nhận tài sản"
+    ],
+    [
+      "các bên",
+      "báo trước"
+    ],
+    [
+      "bên mua",
+      "thanh toán tiền mua"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn thực hiện hợp đồng mua bán",
+      "các bên thỏa thuận"
+    ],
+    [
+      "thời hạn giao tài sản",
+      "thời gian thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "giao tài sản"
+    ],
+    [
+      "bên mua",
+      "thanh toán tiền mua"
+    ],
+    [
+      "nhận tài sản mua",
+      "thanh toán ngay"
+    ],
+    [
+      "nhận giấy tờ chứng nhận quyền sở hữu tài sản",
+      "thanh toán ngay"
+    ]
+  ]
+}

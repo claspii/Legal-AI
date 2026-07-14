@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "đánh bạc trái phép",
+    "xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đánh bạc trái phép"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "còn vi phạm"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "còn có thể bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đánh bạc trái phép",
+      "tiền"
+    ],
+    [
+      "đánh bạc trái phép",
+      "hiện vật"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "tái phạm nguy hiểm",
+      "phạm tội"
+    ],
+    [
+      "sử dụng mạng internet",
+      "phạm tội"
+    ]
+  ]
+}

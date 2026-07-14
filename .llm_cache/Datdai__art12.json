@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người sử dụng đất"
+  ],
+  "actions": [
+    "đại diện chủ sở hữu",
+    "thống nhất quản lý",
+    "trao quyền sử dụng đất"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "đại diện chủ sở hữu"
+    ],
+    [
+      "nhà nước",
+      "thống nhất quản lý"
+    ],
+    [
+      "nhà nước",
+      "trao quyền sử dụng đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đất đai",
+      "sở hữu toàn dân"
+    ],
+    [
+      "nhà nước",
+      "đại diện chủ sở hữu"
+    ],
+    [
+      "nhà nước",
+      "thống nhất quản lý"
+    ],
+    [
+      "quyền sử dụng đất",
+      "người sử dụng đất"
+    ]
+  ]
+}

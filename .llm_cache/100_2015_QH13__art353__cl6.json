@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có chức vụ, quyền hạn",
+    "doanh nghiệp ngoài nhà nước",
+    "tổ chức ngoài nhà nước"
+  ],
+  "actions": [
+    "tham ô tài sản",
+    "bị xử lý"
+  ],
+  "actor_actions": [
+    [
+      "người có chức vụ, quyền hạn",
+      "tham ô tài sản"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "bị xử lý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có chức vụ, quyền hạn",
+      "doanh nghiệp ngoài nhà nước"
+    ],
+    [
+      "người có chức vụ, quyền hạn",
+      "tổ chức ngoài nhà nước"
+    ],
+    [
+      "tham ô tài sản",
+      "bị xử lý"
+    ]
+  ]
+}

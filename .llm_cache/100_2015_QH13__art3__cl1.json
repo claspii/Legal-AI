@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "gia đình",
+    "người bị phạt tù"
+  ],
+  "actions": [
+    "phát hiện",
+    "xử lý",
+    "áp dụng hình phạt",
+    "giám sát",
+    "giáo dục",
+    "chấp hành hình phạt",
+    "lao động",
+    "học tập",
+    "xóa án tích"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bình đẳng trước pháp luật"
+    ],
+    [
+      "cơ quan",
+      "giám sát"
+    ],
+    [
+      "tổ chức",
+      "giám sát"
+    ],
+    [
+      "gia đình",
+      "giám sát"
+    ],
+    [
+      "người bị phạt tù",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị phạt tù",
+      "lao động"
+    ],
+    [
+      "người bị phạt tù",
+      "học tập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi phạm tội",
+      "xử lý"
+    ],
+    [
+      "người phạm tội",
+      "bình đẳng trước pháp luật"
+    ],
+    [
+      "người chủ mưu",
+      "nghiêm trị"
+    ],
+    [
+      "người tự thú",
+      "khoan hồng"
+    ],
+    [
+      "người lần đầu phạm tội ít nghiêm trọng",
+      "hình phạt nhẹ hơn hình phạt tù"
+    ],
+    [
+      "người bị phạt tù",
+      "chấp hành hình phạt"
+    ],
+    [
+      "người bị phạt tù",
+      "lao động"
+    ],
+    [
+      "người đã chấp hành xong hình phạt",
+      "xóa án tích"
+    ]
+  ]
+}

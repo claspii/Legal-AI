@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "làm việc",
+    "nghỉ hằng năm"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "làm việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "người sử dụng lao động"
+    ],
+    [
+      "số ngày nghỉ hằng năm",
+      "số tháng làm việc"
+    ]
+  ]
+}

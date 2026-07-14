@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [
+    "tài sản"
+  ],
+  "actors": [],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tài sản",
+      "vật"
+    ],
+    [
+      "tài sản",
+      "tiền"
+    ],
+    [
+      "tài sản",
+      "giấy tờ có giá"
+    ],
+    [
+      "tài sản",
+      "quyền tài sản"
+    ],
+    [
+      "tài sản",
+      "bất động sản"
+    ],
+    [
+      "tài sản",
+      "động sản"
+    ],
+    [
+      "tài sản",
+      "tài sản hiện có"
+    ],
+    [
+      "tài sản",
+      "tài sản hình thành trong tương lai"
+    ]
+  ]
+}

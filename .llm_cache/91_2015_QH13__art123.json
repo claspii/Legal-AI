@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [
+    "điều cấm của luật",
+    "đạo đức xã hội"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "vi phạm",
+    "thực hiện",
+    "thừa nhận",
+    "tôn trọng"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "thực hiện"
+    ],
+    [
+      "cộng đồng",
+      "thừa nhận"
+    ],
+    [
+      "cộng đồng",
+      "tôn trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giao dịch dân sự",
+      "điều cấm của luật"
+    ],
+    [
+      "giao dịch dân sự",
+      "đạo đức xã hội"
+    ],
+    [
+      "mục đích",
+      "giao dịch dân sự"
+    ],
+    [
+      "nội dung",
+      "giao dịch dân sự"
+    ],
+    [
+      "vi phạm điều cấm của luật",
+      "vô hiệu"
+    ],
+    [
+      "trái đạo đức xã hội",
+      "vô hiệu"
+    ]
+  ]
+}

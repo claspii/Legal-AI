@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi"
+  ],
+  "actions": [
+    "phạm tội",
+    "hiếp dâm",
+    "bị phạt tù",
+    "bị xử phạt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "hiếp dâm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội hiếp dâm",
+      "người từ đủ 16 tuổi đến dưới 18 tuổi"
+    ],
+    [
+      "phạm tội",
+      "mức hình phạt"
+    ]
+  ]
+}

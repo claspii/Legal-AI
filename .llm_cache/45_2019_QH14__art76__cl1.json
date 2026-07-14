@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "lấy ý kiến",
+    "ký kết",
+    "đàm phán",
+    "biểu quyết tán thành"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "lấy ý kiến"
+    ],
+    [
+      "người lao động",
+      "biểu quyết tán thành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "ký kết"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "lấy ý kiến"
+    ],
+    [
+      "dự thảo thỏa ước lao động tập thể",
+      "đàm phán"
+    ],
+    [
+      "người lao động",
+      "biểu quyết tán thành"
+    ]
+  ]
+}

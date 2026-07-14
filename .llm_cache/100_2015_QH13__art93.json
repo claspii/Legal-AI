@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi",
+    "người từ đủ 16 tuổi đến dưới 18 tuổi",
+    "cơ quan điều tra",
+    "viện kiểm sát",
+    "tòa án",
+    "cha mẹ",
+    "người đại diện hợp pháp",
+    "người bị khiển trách",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "phạm tội",
+    "khiển trách",
+    "nhận thức",
+    "quyết định áp dụng biện pháp khiển trách",
+    "chứng kiến",
+    "thực hiện nghĩa vụ",
+    "tuân thủ pháp luật",
+    "trình diện",
+    "tham gia chương trình",
+    "ấn định thời gian"
+  ],
+  "actor_actions": [
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người từ đủ 16 tuổi đến dưới 18 tuổi",
+      "lần đầu phạm tội ít nghiêm trọng"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "là người đồng phạm có vai trò không đáng kể"
+    ],
+    [
+      "cơ quan điều tra",
+      "quyết định áp dụng biện pháp khiển trách"
+    ],
+    [
+      "viện kiểm sát",
+      "quyết định áp dụng biện pháp khiển trách"
+    ],
+    [
+      "tòa án",
+      "quyết định áp dụng biện pháp khiển trách"
+    ],
+    [
+      "cha mẹ",
+      "chứng kiến"
+    ],
+    [
+      "người đại diện hợp pháp",
+      "chứng kiến"
+    ],
+    [
+      "người bị khiển trách",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "khiển trách",
+      "người dưới 18 tuổi phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "hậu quả gây ra"
+    ],
+    [
+      "nghĩa vụ của người dưới 18 tuổi",
+      "tuân thủ pháp luật"
+    ],
+    [
+      "nghĩa vụ của người dưới 18 tuổi",
+      "trình diện trước cơ quan có thẩm quyền"
+    ],
+    [
+      "nghĩa vụ của người dưới 18 tuổi",
+      "tham gia các chương trình học tập, dạy nghề"
+    ]
+  ]
+}

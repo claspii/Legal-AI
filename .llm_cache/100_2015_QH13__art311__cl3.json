@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "sản xuất",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép chất cháy, chất độc",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất cháy",
+      "chất độc"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tài sản"
+    ],
+    [
+      "vận chuyển",
+      "mua bán qua biên giới"
+    ],
+    [
+      "hóa chất độc",
+      "công ước cấm phát triển sản xuất, tàng trữ, sử dụng và phá hủy vũ khí hóa học"
+    ]
+  ]
+}

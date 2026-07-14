@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "thực hiện hành vi gây hậu quả nguy hại cho xã hội",
+    "thấy trước hậu quả",
+    "chịu trách nhiệm hình sự"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi gây hậu quả nguy hại cho xã hội"
+    ],
+    [
+      "người",
+      "thấy trước hậu quả"
+    ],
+    [
+      "người",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi gây hậu quả nguy hại cho xã hội",
+      "sự kiện bất ngờ"
+    ],
+    [
+      "sự kiện bất ngờ",
+      "không phải chịu trách nhiệm hình sự"
+    ]
+  ]
+}

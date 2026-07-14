@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều động",
+    "người giao",
+    "người không đủ điều kiện",
+    "người không có giấy phép người lái tàu bay",
+    "người"
+  ],
+  "actions": [
+    "điều động",
+    "giao",
+    "điều khiển",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người điều động hoặc giao",
+      "điều động"
+    ],
+    [
+      "người điều động hoặc giao",
+      "giao"
+    ],
+    [
+      "người không đủ điều kiện",
+      "điều khiển"
+    ],
+    [
+      "người không có giấy phép người lái tàu bay",
+      "điều khiển"
+    ],
+    [
+      "người điều động hoặc giao",
+      "gây thương tích"
+    ],
+    [
+      "người điều động hoặc giao",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện",
+      "điều khiển phương tiện giao thông đường không"
+    ],
+    [
+      "người không có giấy phép người lái tàu bay",
+      "điều khiển phương tiện giao thông đường không"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "01 người",
+      "tỷ lệ tổn thương cơ thể từ 31% đến 60%"
+    ],
+    [
+      "02 người trở lên",
+      "tổng tỷ lệ tổn thương cơ thể của những người này từ 31% đến 60%"
+    ]
+  ]
+}

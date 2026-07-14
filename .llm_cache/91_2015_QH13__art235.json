@@ -1,0 +1,25 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền"
+  ],
+  "actions": [
+    "xác lập"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "bản án"
+    ],
+    [
+      "quyền sở hữu",
+      "quyết định"
+    ],
+    [
+      "tòa án",
+      "cơ quan nhà nước có thẩm quyền khác"
+    ]
+  ]
+}

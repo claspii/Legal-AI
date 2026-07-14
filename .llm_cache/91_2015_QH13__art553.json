@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên nhận gia công",
+    "bên đặt gia công"
+  ],
+  "actions": [
+    "thanh lý nguyên vật liệu",
+    "chấm dứt",
+    "hoàn trả",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên nhận gia công",
+      "hoàn trả nguyên vật liệu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng gia công",
+      "chấm dứt"
+    ],
+    [
+      "nguyên vật liệu",
+      "hoàn trả"
+    ]
+  ]
+}

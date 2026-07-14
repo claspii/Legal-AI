@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đại diện",
+    "cơ quan có thẩm quyền",
+    "pháp nhân",
+    "người đại diện theo pháp luật",
+    "người được đại diện",
+    "cá nhân",
+    "bên thứ ba",
+    "bên giao dịch"
+  ],
+  "actions": [
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "người đại diện",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "xác lập giao dịch dân sự"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "thực hiện giao dịch dân sự"
+    ],
+    [
+      "cá nhân",
+      "đại diện"
+    ],
+    [
+      "pháp nhân",
+      "đại diện"
+    ],
+    [
+      "người đại diện",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người đại diện",
+      "phạm vi đại diện"
+    ],
+    [
+      "phạm vi đại diện",
+      "quyết định của cơ quan có thẩm quyền"
+    ],
+    [
+      "phạm vi đại diện",
+      "điều lệ của pháp nhân"
+    ],
+    [
+      "phạm vi đại diện",
+      "nội dung ủy quyền"
+    ],
+    [
+      "người đại diện theo pháp luật",
+      "người được đại diện"
+    ],
+    [
+      "cá nhân",
+      "đại diện"
+    ],
+    [
+      "pháp nhân",
+      "đại diện"
+    ],
+    [
+      "người đại diện",
+      "giao dịch dân sự"
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "làm tem giả",
+    "buôn bán tem giả",
+    "làm vé giả",
+    "buôn bán vé giả",
+    "thu lợi bất chính",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "làm tem giả"
+    ],
+    [
+      "người nào",
+      "buôn bán tem giả"
+    ],
+    [
+      "người nào",
+      "làm vé giả"
+    ],
+    [
+      "người nào",
+      "buôn bán vé giả"
+    ],
+    [
+      "người nào",
+      "thu lợi bất chính"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tem giả",
+      "vé giả"
+    ],
+    [
+      "tem giả",
+      "không có mệnh giá"
+    ],
+    [
+      "vé giả",
+      "không có mệnh giá"
+    ],
+    [
+      "tem giả",
+      "có mệnh giá"
+    ],
+    [
+      "vé giả",
+      "có mệnh giá"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "cấm hành nghề"
+    ]
+  ]
+}

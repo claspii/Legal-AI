@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "chiếm đoạt",
+    "cố ý làm hư hỏng",
+    "cố ý lấy",
+    "nghe",
+    "ghi âm",
+    "khám xét",
+    "thu giữ",
+    "xâm phạm",
+    "phạm tội",
+    "tiết lộ",
+    "làm ảnh hưởng",
+    "làm tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "chiếm đoạt thư tín"
+    ],
+    [
+      "người",
+      "cố ý làm hư hỏng"
+    ],
+    [
+      "người",
+      "cố ý lấy"
+    ],
+    [
+      "người",
+      "nghe"
+    ],
+    [
+      "người",
+      "ghi âm"
+    ],
+    [
+      "người",
+      "khám xét"
+    ],
+    [
+      "người",
+      "thu giữ"
+    ],
+    [
+      "người",
+      "xâm phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bí mật thư tín",
+      "an toàn thư tín"
+    ],
+    [
+      "bí mật điện thoại",
+      "an toàn điện thoại"
+    ],
+    [
+      "bí mật điện tín",
+      "an toàn điện tín"
+    ],
+    [
+      "thư tín",
+      "điện báo"
+    ],
+    [
+      "điện báo",
+      "telex"
+    ],
+    [
+      "telex",
+      "fax"
+    ],
+    [
+      "danh dự",
+      "uy tín"
+    ],
+    [
+      "uy tín",
+      "nhân phẩm"
+    ]
+  ]
+}

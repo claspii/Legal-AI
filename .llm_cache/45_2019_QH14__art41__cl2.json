@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động trái pháp luật",
+    "không muốn tiếp tục làm việc",
+    "phải trả",
+    "chấm dứt hợp đồng lao động"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "không muốn tiếp tục làm việc"
+    ],
+    [
+      "người sử dụng lao động",
+      "phải trả"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động trái pháp luật"
+    ],
+    [
+      "người sử dụng lao động",
+      "trợ cấp thôi việc"
+    ],
+    [
+      "trợ cấp thôi việc",
+      "chấm dứt hợp đồng lao động"
+    ]
+  ]
+}

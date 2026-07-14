@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "kết hôn"
+  ],
+  "actors": [
+    "nam",
+    "nữ"
+  ],
+  "actions": [
+    "xác lập quan hệ vợ chồng",
+    "đăng ký kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "nam",
+      "xác lập quan hệ vợ chồng"
+    ],
+    [
+      "nữ",
+      "xác lập quan hệ vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "quan hệ vợ chồng"
+    ],
+    [
+      "kết hôn",
+      "điều kiện kết hôn"
+    ],
+    [
+      "kết hôn",
+      "đăng ký kết hôn"
+    ]
+  ]
+}

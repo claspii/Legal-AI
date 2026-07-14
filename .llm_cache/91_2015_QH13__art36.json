@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người"
+  ],
+  "actions": [
+    "xác định lại giới tính",
+    "đăng ký thay đổi hộ tịch"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác định lại giới tính"
+    ],
+    [
+      "cá nhân",
+      "đăng ký thay đổi hộ tịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xác định lại giới tính",
+      "khuyết tật bẩm sinh"
+    ],
+    [
+      "xác định lại giới tính",
+      "chưa định hình chính xác"
+    ],
+    [
+      "xác định lại giới tính",
+      "can thiệp của y học"
+    ],
+    [
+      "giới tính",
+      "hộ tịch"
+    ],
+    [
+      "giới tính",
+      "quyền nhân thân"
+    ]
+  ]
+}

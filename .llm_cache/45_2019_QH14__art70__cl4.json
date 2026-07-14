@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người lao động",
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "tổ chức thảo luận",
+    "lấy ý kiến",
+    "quyết định về thời gian",
+    "quyết định về địa điểm",
+    "quyết định về cách thức tiến hành",
+    "gây khó khăn",
+    "cản trở",
+    "can thiệp"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tổ chức thảo luận"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "lấy ý kiến"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "quyết định về thời gian"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "quyết định về địa điểm"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "quyết định về cách thức tiến hành"
+    ],
+    [
+      "người sử dụng lao động",
+      "gây khó khăn"
+    ],
+    [
+      "người sử dụng lao động",
+      "cản trở"
+    ],
+    [
+      "người sử dụng lao động",
+      "can thiệp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thảo luận",
+      "lấy ý kiến"
+    ],
+    [
+      "thời gian",
+      "địa điểm"
+    ],
+    [
+      "địa điểm",
+      "cách thức tiến hành"
+    ],
+    [
+      "gây khó khăn",
+      "cản trở"
+    ],
+    [
+      "cản trở",
+      "can thiệp"
+    ]
+  ]
+}

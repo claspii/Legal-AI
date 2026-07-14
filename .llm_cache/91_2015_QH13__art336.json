@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên được bảo lãnh",
+    "người bảo lãnh",
+    "pháp nhân bảo lãnh",
+    "các bên"
+  ],
+  "actions": [
+    "cam kết bảo lãnh",
+    "thỏa thuận",
+    "sử dụng biện pháp bảo đảm bằng tài sản",
+    "chết",
+    "chấm dứt tồn tại"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "cam kết bảo lãnh"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "sử dụng biện pháp bảo đảm bằng tài sản"
+    ],
+    [
+      "người bảo lãnh",
+      "chết"
+    ],
+    [
+      "pháp nhân bảo lãnh",
+      "chấm dứt tồn tại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "tiền lãi trên nợ gốc"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "tiền phạt"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "tiền bồi thường thiệt hại"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "lãi trên số tiền chậm trả"
+    ],
+    [
+      "biện pháp bảo đảm bằng tài sản",
+      "nghĩa vụ bảo lãnh"
+    ],
+    [
+      "phạm vi bảo lãnh",
+      "nghĩa vụ phát sinh trong tương lai"
+    ],
+    [
+      "người bảo lãnh",
+      "phạm vi bảo lãnh"
+    ]
+  ]
+}

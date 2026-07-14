@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ thể quyền bề mặt",
+    "chủ thể có quyền sử dụng đất"
+  ],
+  "actions": [
+    "chấm dứt",
+    "phải trả lại",
+    "xử lý tài sản",
+    "thanh toán chi phí"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể quyền bề mặt",
+      "phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "phải xử lý tài sản"
+    ],
+    [
+      "chủ thể có quyền sử dụng đất",
+      "không nhận tài sản"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "phải thanh toán chi phí xử lý tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền bề mặt",
+      "tài sản"
+    ],
+    [
+      "quyền bề mặt",
+      "quyền sử dụng đất"
+    ],
+    [
+      "chủ thể quyền bề mặt",
+      "chủ thể có quyền sử dụng đất"
+    ]
+  ]
+}

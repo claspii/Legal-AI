@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền",
+    "mọi chủ thể",
+    "người sử dụng đất",
+    "người khác"
+  ],
+  "actions": [
+    "xác định",
+    "lấn",
+    "chiếm",
+    "thay đổi",
+    "tôn trọng",
+    "duy trì",
+    "sử dụng",
+    "làm ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "quyết định"
+    ],
+    [
+      "mọi chủ thể",
+      "tôn trọng"
+    ],
+    [
+      "mọi chủ thể",
+      "duy trì"
+    ],
+    [
+      "người sử dụng đất",
+      "sử dụng"
+    ],
+    [
+      "người sử dụng đất",
+      "trồng cây"
+    ],
+    [
+      "người sử dụng đất",
+      "làm các việc khác"
+    ],
+    [
+      "người sử dụng đất",
+      "xén rễ"
+    ],
+    [
+      "người sử dụng đất",
+      "cắt, tỉa cành"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ranh giới",
+      "bất động sản liền kề"
+    ],
+    [
+      "ranh giới",
+      "thỏa thuận"
+    ],
+    [
+      "ranh giới",
+      "quyết định của cơ quan nhà nước có thẩm quyền"
+    ],
+    [
+      "ranh giới",
+      "tập quán"
+    ],
+    [
+      "ranh giới",
+      "mốc giới ngăn cách"
+    ],
+    [
+      "người sử dụng đất",
+      "không gian và lòng đất"
+    ],
+    [
+      "người sử dụng đất",
+      "thửa đất"
+    ],
+    [
+      "rễ cây, cành cây",
+      "ranh giới"
+    ]
+  ]
+}

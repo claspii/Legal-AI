@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "cơ quan nhà nước ở trung ương",
+    "cơ quan nhà nước ở địa phương",
+    "nhà nước nước ngoài",
+    "pháp nhân",
+    "cá nhân nước ngoài",
+    "pháp nhân việt nam",
+    "cá nhân việt nam"
+  ],
+  "actions": [
+    "chịu trách nhiệm về nghĩa vụ dân sự",
+    "xác lập nghĩa vụ dân sự",
+    "từ bỏ quyền miễn trừ",
+    "tham gia quan hệ dân sự",
+    "áp dụng tương tự"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "chịu trách nhiệm về nghĩa vụ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "chịu trách nhiệm về nghĩa vụ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "chịu trách nhiệm về nghĩa vụ dân sự"
+    ],
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "từ bỏ quyền miễn trừ"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "từ bỏ quyền miễn trừ"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "từ bỏ quyền miễn trừ"
+    ],
+    [
+      "nhà nước nước ngoài",
+      "tham gia quan hệ dân sự"
+    ],
+    [
+      "cơ quan nhà nước của nước ngoài",
+      "tham gia quan hệ dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở trung ương",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "cơ quan nhà nước ở địa phương",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "quan hệ dân sự",
+      "quyền miễn trừ"
+    ]
+  ]
+}

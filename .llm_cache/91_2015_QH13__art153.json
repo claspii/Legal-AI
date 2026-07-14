@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền",
+    "người có quyền, nghĩa vụ liên quan",
+    "tòa án",
+    "người khác"
+  ],
+  "actions": [
+    "tính liên tục",
+    "kết thúc",
+    "gián đoạn",
+    "tính lại",
+    "chấm dứt",
+    "giải quyết",
+    "tranh chấp",
+    "chuyển giao hợp pháp"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "giải quyết"
+    ],
+    [
+      "người có quyền, nghĩa vụ liên quan",
+      "tranh chấp"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu hưởng quyền dân sự",
+      "tính liên tục"
+    ],
+    [
+      "thời hiệu miễn trừ nghĩa vụ dân sự",
+      "tính liên tục"
+    ],
+    [
+      "thời hiệu",
+      "gián đoạn"
+    ],
+    [
+      "thời hiệu",
+      "tính lại"
+    ],
+    [
+      "quyền dân sự",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "quyết định có hiệu lực pháp luật",
+      "bản án"
+    ]
+  ]
+}

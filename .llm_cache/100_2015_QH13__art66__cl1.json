@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đang chấp hành án phạt tù",
+    "người bị kết án",
+    "người phạm tội",
+    "thương binh",
+    "bệnh binh",
+    "thân nhân gia đình liệt sỹ",
+    "gia đình có công với cách mạng",
+    "người đủ 70 tuổi trở lên",
+    "người khuyết tật nặng hoặc khuyết tật đặc biệt nặng",
+    "phụ nữ đang nuôi con dưới 36 tháng tuổi"
+  ],
+  "actions": [
+    "tha tù trước thời hạn",
+    "chấp hành án phạt tù",
+    "phạm tội lần đầu",
+    "cải tạo tốt",
+    "giảm thời hạn chấp hành hình phạt tù",
+    "chấp hành xong hình phạt bổ sung",
+    "bồi thường dân sự",
+    "chấp hành được"
+  ],
+  "actor_actions": [
+    [
+      "người đang chấp hành án phạt tù",
+      "tha tù trước thời hạn"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "chấp hành án phạt tù"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "phạm tội lần đầu"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "cải tạo tốt"
+    ],
+    [
+      "người bị kết án",
+      "giảm thời hạn chấp hành hình phạt tù"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "chấp hành xong hình phạt bổ sung"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "bồi thường dân sự"
+    ],
+    [
+      "người đang chấp hành án phạt tù",
+      "chấp hành được"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "người đang chấp hành án phạt tù"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "án phạt tù"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "phạm tội lần đầu"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "ý thức cải tạo tốt"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "hình phạt bổ sung"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "nghĩa vụ bồi thường dân sự"
+    ],
+    [
+      "tha tù trước thời hạn có điều kiện",
+      "thời hạn chấp hành tù"
+    ],
+    [
+      "thời hạn chấp hành tù",
+      "tù chung thân"
+    ]
+  ]
+}

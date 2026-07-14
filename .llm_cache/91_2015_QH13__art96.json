@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "cơ quan nhà nước có thẩm quyền",
+    "nhà nước cộng hòa xã hội chủ nghĩa việt nam",
+    "cơ quan nhà nước ở trung ương",
+    "cơ quan nhà nước ở địa phương"
+  ],
+  "actions": [
+    "chấm dứt tồn tại",
+    "hợp nhất",
+    "sáp nhập",
+    "chia",
+    "chuyển đổi hình thức",
+    "giải thể",
+    "tuyên bố phá sản",
+    "xóa tên",
+    "giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân",
+      "bị tuyên bố phá sản"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "xác định"
+    ],
+    [
+      "tài sản của pháp nhân",
+      "giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "hợp nhất"
+    ],
+    [
+      "pháp nhân",
+      "sáp nhập"
+    ],
+    [
+      "pháp nhân",
+      "chia"
+    ],
+    [
+      "pháp nhân",
+      "chuyển đổi hình thức"
+    ],
+    [
+      "pháp nhân",
+      "giải thể"
+    ],
+    [
+      "pháp nhân",
+      "phá sản"
+    ],
+    [
+      "chấm dứt tồn tại pháp nhân",
+      "sổ đăng ký pháp nhân"
+    ]
+  ]
+}

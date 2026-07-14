@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động cao tuổi",
+    "hai bên",
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "thỏa thuận giao kết",
+    "làm việc",
+    "hưởng lương hưu",
+    "hưởng tiền lương",
+    "sử dụng",
+    "quan tâm chăm sóc sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "hai bên",
+      "thỏa thuận giao kết"
+    ],
+    [
+      "người lao động cao tuổi",
+      "làm việc"
+    ],
+    [
+      "người lao động cao tuổi",
+      "hưởng lương hưu"
+    ],
+    [
+      "người lao động cao tuổi",
+      "hưởng tiền lương"
+    ],
+    [
+      "người sử dụng lao động",
+      "sử dụng"
+    ],
+    [
+      "người sử dụng lao động",
+      "quan tâm chăm sóc sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động cao tuổi",
+      "hợp đồng lao động"
+    ],
+    [
+      "người lao động cao tuổi",
+      "chế độ hưu trí"
+    ],
+    [
+      "người lao động cao tuổi",
+      "tiền lương"
+    ],
+    [
+      "người lao động cao tuổi",
+      "sức khỏe"
+    ],
+    [
+      "người sử dụng lao động",
+      "người lao động cao tuổi"
+    ]
+  ]
+}

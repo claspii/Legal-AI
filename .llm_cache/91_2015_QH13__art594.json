@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người gây thiệt hại",
+    "người bị thiệt hại"
+  ],
+  "actions": [
+    "bồi thường",
+    "phòng vệ chính đáng",
+    "vượt quá giới hạn phòng vệ chính đáng"
+  ],
+  "actor_actions": [
+    [
+      "người gây thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "người gây thiệt hại",
+      "phòng vệ chính đáng"
+    ],
+    [
+      "người gây thiệt hại",
+      "vượt quá giới hạn phòng vệ chính đáng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phòng vệ chính đáng",
+      "vượt quá giới hạn phòng vệ chính đáng"
+    ],
+    [
+      "người gây thiệt hại",
+      "người bị thiệt hại"
+    ],
+    [
+      "bồi thường",
+      "thiệt hại"
+    ]
+  ]
+}

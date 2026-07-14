@@ -1,0 +1,140 @@
+{
+  "concepts_defined": [
+    "di chúc hợp pháp",
+    "di chúc miệng"
+  ],
+  "actors": [
+    "người lập di chúc",
+    "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+    "cha",
+    "mẹ",
+    "người giám hộ",
+    "người bị hạn chế về thể chất",
+    "người không biết chữ",
+    "người làm chứng",
+    "người di chúc miệng",
+    "công chứng viên",
+    "cơ quan có thẩm quyền"
+  ],
+  "actions": [
+    "lập di chúc",
+    "bị lừa dối",
+    "đe doạ",
+    "cưỡng ép",
+    "vi phạm điều cấm của luật",
+    "trái đạo đức xã hội",
+    "trái quy định của luật",
+    "đồng ý về việc lập di chúc",
+    "có công chứng",
+    "chứng thực",
+    "thể hiện ý chí cuối cùng",
+    "ghi chép lại",
+    "ký tên",
+    "điểm chỉ",
+    "xác nhận chữ ký"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "lập di chúc"
+    ],
+    [
+      "cha",
+      "đồng ý về việc lập di chúc"
+    ],
+    [
+      "mẹ",
+      "đồng ý về việc lập di chúc"
+    ],
+    [
+      "người giám hộ",
+      "đồng ý về việc lập di chúc"
+    ],
+    [
+      "người bị hạn chế về thể chất",
+      "lập thành văn bản"
+    ],
+    [
+      "người không biết chữ",
+      "lập thành văn bản"
+    ],
+    [
+      "người làm chứng",
+      "lập thành văn bản"
+    ],
+    [
+      "người làm chứng",
+      "ghi chép lại"
+    ],
+    [
+      "người làm chứng",
+      "ký tên"
+    ],
+    [
+      "người làm chứng",
+      "điểm chỉ"
+    ],
+    [
+      "người di chúc miệng",
+      "thể hiện ý chí cuối cùng"
+    ],
+    [
+      "công chứng viên",
+      "xác nhận chữ ký"
+    ],
+    [
+      "cơ quan có thẩm quyền",
+      "chứng thực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc hợp pháp",
+      "người lập di chúc minh mẫn, sáng suốt"
+    ],
+    [
+      "di chúc hợp pháp",
+      "nội dung của di chúc không vi phạm điều cấm của luật"
+    ],
+    [
+      "di chúc hợp pháp",
+      "hình thức di chúc không trái quy định của luật"
+    ],
+    [
+      "di chúc của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "phải được lập thành văn bản"
+    ],
+    [
+      "di chúc của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "phải được cha, mẹ hoặc người giám hộ đồng ý"
+    ],
+    [
+      "di chúc của người bị hạn chế về thể chất",
+      "phải được người làm chứng lập thành văn bản"
+    ],
+    [
+      "di chúc của người không biết chữ",
+      "phải được người làm chứng lập thành văn bản"
+    ],
+    [
+      "di chúc miệng",
+      "người di chúc miệng thể hiện ý chí cuối cùng trước mặt ít nhất hai người làm chứng"
+    ],
+    [
+      "di chúc miệng",
+      "người làm chứng ghi chép lại, cùng ký tên hoặc điểm chỉ"
+    ],
+    [
+      "di chúc miệng",
+      "phải được công chứng viên hoặc cơ quan có thẩm quyền chứng thực xác nhận chữ ký hoặc điểm chỉ của người làm chứng"
+    ],
+    [
+      "di chúc bằng văn bản không có công chứng, chứng thực",
+      "hợp pháp"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được giám hộ",
+    "người giám hộ",
+    "người thừa kế",
+    "người quản lý di sản",
+    "ủy ban nhân dân cấp xã",
+    "cha",
+    "mẹ",
+    "người giám sát việc giám hộ"
+  ],
+  "actions": [
+    "chấm dứt việc giám hộ",
+    "thanh toán tài sản",
+    "chuyển giao quyền, nghĩa vụ",
+    "quản lý tài sản",
+    "giải quyết theo quy định của pháp luật về thừa kế",
+    "thông báo",
+    "lập thành văn bản",
+    "giám sát"
+  ],
+  "actor_actions": [
+    [
+      "người giám hộ",
+      "thanh toán tài sản"
+    ],
+    [
+      "người giám hộ",
+      "chuyển giao quyền, nghĩa vụ"
+    ],
+    [
+      "người giám hộ",
+      "giao tài sản"
+    ],
+    [
+      "người giám hộ",
+      "tiếp tục quản lý tài sản"
+    ],
+    [
+      "người giám hộ",
+      "thông báo"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "giám sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt việc giám hộ",
+      "thanh toán tài sản"
+    ],
+    [
+      "chấm dứt việc giám hộ",
+      "chuyển giao quyền, nghĩa vụ"
+    ],
+    [
+      "người được giám hộ đã có năng lực hành vi dân sự đầy đủ",
+      "chấm dứt việc giám hộ"
+    ],
+    [
+      "người được giám hộ chết",
+      "chấm dứt việc giám hộ"
+    ],
+    [
+      "thanh toán tài sản",
+      "chuyển giao quyền, nghĩa vụ"
+    ],
+    [
+      "thanh toán tài sản",
+      "lập thành văn bản"
+    ],
+    [
+      "chuyển giao quyền, nghĩa vụ",
+      "lập thành văn bản"
+    ]
+  ]
+}

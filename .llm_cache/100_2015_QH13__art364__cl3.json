@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "đưa hối lộ"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hối lộ",
+      "tiền"
+    ],
+    [
+      "hối lộ",
+      "tài sản"
+    ],
+    [
+      "hối lộ",
+      "lợi ích vật chất"
+    ],
+    [
+      "phạm tội",
+      "bị phạt tù"
+    ],
+    [
+      "tiền",
+      "trị giá"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "lợi ích vật chất",
+      "trị giá"
+    ]
+  ]
+}

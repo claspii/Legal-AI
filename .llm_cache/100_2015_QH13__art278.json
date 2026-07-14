@@ -1,0 +1,94 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "hành khách",
+    "tổ bay",
+    "nhân viên mặt đất",
+    "người tại cảng hàng không, sân bay"
+  ],
+  "actions": [
+    "cản trở giao thông đường không",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "đặt các chướng ngại vật",
+    "di chuyển trái phép",
+    "làm sai lệch",
+    "che khuất",
+    "phá hủy",
+    "sử dụng sai",
+    "làm nhiễu",
+    "cung cấp thông tin sai",
+    "làm hư hỏng"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cản trở giao thông đường không"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người",
+      "đặt các chướng ngại vật"
+    ],
+    [
+      "người",
+      "di chuyển trái phép"
+    ],
+    [
+      "người",
+      "làm sai lệch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cản trở giao thông đường không",
+      "chết"
+    ],
+    [
+      "cản trở giao thông đường không",
+      "thương tích"
+    ],
+    [
+      "cản trở giao thông đường không",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "cản trở giao thông đường không",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "biển hiệu",
+      "tín hiệu an toàn giao thông đường không"
+    ],
+    [
+      "tần số thông tin liên lạc",
+      "làm nhiễu"
+    ],
+    [
+      "an toàn của tàu bay",
+      "thông tin sai"
+    ],
+    [
+      "thiết bị của sân bay",
+      "hư hỏng"
+    ]
+  ]
+}

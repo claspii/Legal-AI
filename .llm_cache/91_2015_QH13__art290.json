@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [
+    "nghĩa vụ phân chia được theo phần"
+  ],
+  "actors": [
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "chia thành nhiều phần",
+    "có thỏa thuận khác",
+    "thực hiện từng phần nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thực hiện từng phần nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ phân chia được theo phần",
+      "đối tượng của nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ phân chia được theo phần",
+      "thực hiện nghĩa vụ"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chỉ huy, điều khiển phương tiện giao thông đường sắt"
+  ],
+  "actions": [
+    "vi phạm quy định về an toàn giao thông đường sắt",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người chỉ huy, điều khiển phương tiện giao thông đường sắt",
+      "vi phạm quy định về an toàn giao thông đường sắt"
+    ],
+    [
+      "người chỉ huy, điều khiển phương tiện giao thông đường sắt",
+      "gây thương tích"
+    ],
+    [
+      "người chỉ huy, điều khiển phương tiện giao thông đường sắt",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "vi phạm quy định về an toàn giao thông đường sắt",
+      "gây thương tích"
+    ],
+    [
+      "vi phạm quy định về an toàn giao thông đường sắt",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tiền",
+      "30.000.000 đồng đến 100.000.000 đồng"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "03 năm"
+    ],
+    [
+      "phạt tù",
+      "03 tháng đến 02 năm"
+    ]
+  ]
+}

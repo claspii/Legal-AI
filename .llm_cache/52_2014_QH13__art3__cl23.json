@@ -1,0 +1,51 @@
+{
+  "concepts_defined": [
+    "mang thai hộ vì mục đích thương mại"
+  ],
+  "actors": [
+    "một người phụ nữ",
+    "người khác"
+  ],
+  "actions": [
+    "mang thai",
+    "áp dụng kỹ thuật hỗ trợ sinh sản",
+    "hưởng lợi về kinh tế",
+    "hưởng lợi ích khác"
+  ],
+  "actor_actions": [
+    [
+      "một người phụ nữ",
+      "mang thai"
+    ],
+    [
+      "một người phụ nữ",
+      "áp dụng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "một người phụ nữ",
+      "hưởng lợi về kinh tế"
+    ],
+    [
+      "một người phụ nữ",
+      "hưởng lợi ích khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mang thai hộ vì mục đích thương mại",
+      "mang thai"
+    ],
+    [
+      "mang thai hộ vì mục đích thương mại",
+      "kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "mang thai hộ vì mục đích thương mại",
+      "lợi ích về kinh tế"
+    ],
+    [
+      "mang thai hộ vì mục đích thương mại",
+      "lợi ích khác"
+    ]
+  ]
+}

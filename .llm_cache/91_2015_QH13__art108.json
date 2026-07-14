@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [
+    "tài sản hiện có",
+    "tài sản hình thành trong tương lai"
+  ],
+  "actors": [
+    "chủ thể"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "xác lập quyền khác",
+    "xác lập giao dịch"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể",
+      "xác lập quyền sở hữu"
+    ],
+    [
+      "chủ thể",
+      "xác lập quyền khác"
+    ],
+    [
+      "chủ thể",
+      "xác lập giao dịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản hiện có",
+      "tài sản hình thành trong tương lai"
+    ],
+    [
+      "tài sản hiện có",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản hiện có",
+      "giao dịch"
+    ],
+    [
+      "tài sản hình thành trong tương lai",
+      "tài sản chưa hình thành"
+    ],
+    [
+      "tài sản hình thành trong tương lai",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản hình thành trong tương lai",
+      "giao dịch"
+    ]
+  ]
+}

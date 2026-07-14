@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có trách nhiệm về an toàn lao động, vệ sinh lao động, về an toàn ở những nơi đông người"
+  ],
+  "actions": [
+    "phạm tội",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "an toàn lao động",
+      "vệ sinh lao động"
+    ],
+    [
+      "an toàn lao động",
+      "an toàn ở những nơi đông người"
+    ],
+    [
+      "vệ sinh lao động",
+      "an toàn ở những nơi đông người"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

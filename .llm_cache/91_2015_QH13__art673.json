@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "người nước ngoài",
+    "công dân việt nam"
+  ],
+  "actions": [
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "xác định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "năng lực pháp luật dân sự của cá nhân",
+      "pháp luật của nước mà người đó có quốc tịch"
+    ],
+    [
+      "người nước ngoài tại việt nam",
+      "năng lực pháp luật dân sự"
+    ],
+    [
+      "người nước ngoài tại việt nam",
+      "công dân việt nam"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người mang thai hộ",
+    "chồng của người mang thai hộ",
+    "bên nhờ mang thai hộ",
+    "cha mẹ"
+  ],
+  "actions": [
+    "chăm sóc sức khỏe sinh sản",
+    "chăm sóc",
+    "nuôi dưỡng con",
+    "giao đứa trẻ"
+  ],
+  "actor_actions": [
+    [
+      "người mang thai hộ",
+      "chăm sóc sức khỏe sinh sản"
+    ],
+    [
+      "người mang thai hộ",
+      "chăm sóc"
+    ],
+    [
+      "người mang thai hộ",
+      "nuôi dưỡng con"
+    ],
+    [
+      "người mang thai hộ",
+      "giao đứa trẻ"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "chăm sóc sức khỏe sinh sản"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "chăm sóc"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "nuôi dưỡng con"
+    ],
+    [
+      "chồng của người mang thai hộ",
+      "giao đứa trẻ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người mang thai hộ",
+      "chồng của người mang thai hộ"
+    ],
+    [
+      "người mang thai hộ",
+      "bên nhờ mang thai hộ"
+    ],
+    [
+      "cha mẹ",
+      "người mang thai hộ"
+    ],
+    [
+      "cha mẹ",
+      "chồng của người mang thai hộ"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo lãnh",
+    "bên được bảo lãnh"
+  ],
+  "actions": [
+    "yêu cầu",
+    "thực hiện nghĩa vụ",
+    "có thỏa thuận khác"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo lãnh",
+      "yêu cầu"
+    ],
+    [
+      "bên được bảo lãnh",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên bảo lãnh",
+      "bên được bảo lãnh"
+    ],
+    [
+      "nghĩa vụ bảo lãnh",
+      "nghĩa vụ"
+    ]
+  ]
+}

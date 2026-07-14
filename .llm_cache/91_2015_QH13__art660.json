@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra"
+  ],
+  "actions": [
+    "phân chia di sản",
+    "hưởng",
+    "yêu cầu",
+    "thỏa thuận",
+    "định giá",
+    "nhận",
+    "bán"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra",
+      "được hưởng"
+    ],
+    [
+      "những người thừa kế",
+      "được hưởng"
+    ],
+    [
+      "những người thừa kế",
+      "yêu cầu phân chia di sản"
+    ],
+    [
+      "những người thừa kế",
+      "thỏa thuận về việc định giá hiện vật"
+    ],
+    [
+      "những người thừa kế",
+      "thỏa thuận về người nhận hiện vật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di sản",
+      "người thừa kế"
+    ],
+    [
+      "phân chia di sản",
+      "người thừa kế"
+    ],
+    [
+      "hiện vật",
+      "phân chia di sản"
+    ]
+  ]
+}

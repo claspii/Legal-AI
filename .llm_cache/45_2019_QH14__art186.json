@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức",
+    "cá nhân có thẩm quyền",
+    "bên"
+  ],
+  "actions": [
+    "giải quyết tranh chấp lao động",
+    "hành động đơn phương"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan, tổ chức, cá nhân có thẩm quyền",
+      "giải quyết tranh chấp lao động"
+    ],
+    [
+      "bên",
+      "hành động đơn phương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động",
+      "giải quyết tranh chấp lao động"
+    ]
+  ]
+}

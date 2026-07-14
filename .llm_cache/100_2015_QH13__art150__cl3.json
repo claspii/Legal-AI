@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nạn nhân"
+  ],
+  "actions": [
+    "mua bán người",
+    "lấy bộ phận cơ thể",
+    "gây rối loạn tâm thần và hành vi",
+    "làm chết",
+    "tự sát"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tội mua bán người",
+      "tính chất chuyên nghiệp"
+    ],
+    [
+      "tội mua bán người",
+      "lấy bộ phận cơ thể của nạn nhân"
+    ],
+    [
+      "tội mua bán người",
+      "gây rối loạn tâm thần và hành vi của nạn nhân"
+    ],
+    [
+      "tội mua bán người",
+      "làm nạn nhân chết"
+    ],
+    [
+      "tội mua bán người",
+      "nạn nhân tự sát"
+    ],
+    [
+      "tội mua bán người",
+      "đối với 06 người trở lên"
+    ],
+    [
+      "tội mua bán người",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

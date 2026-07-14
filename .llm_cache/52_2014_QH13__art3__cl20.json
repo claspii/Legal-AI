@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [
+    "nhu cầu thiết yếu"
+  ],
+  "actors": [
+    "mỗi người",
+    "mỗi gia đình"
+  ],
+  "actions": [
+    "ăn",
+    "mặc",
+    "ở",
+    "học tập",
+    "khám bệnh",
+    "chữa bệnh"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhu cầu thiết yếu",
+      "nhu cầu sinh hoạt thông thường"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "ăn"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "mặc"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "ở"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "học tập"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "khám bệnh"
+    ],
+    [
+      "nhu cầu thiết yếu",
+      "chữa bệnh"
+    ],
+    [
+      "mỗi người",
+      "nhu cầu sinh hoạt thông thường"
+    ]
+  ]
+}

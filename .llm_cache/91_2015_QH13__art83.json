@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "cơ quan điều hành",
+    "cơ quan khác"
+  ],
+  "actions": [
+    "có cơ quan điều hành",
+    "được quy định",
+    "có cơ quan khác"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "có cơ quan điều hành"
+    ],
+    [
+      "tổ chức, nhiệm vụ và quyền hạn của cơ quan điều hành của pháp nhân",
+      "được quy định"
+    ],
+    [
+      "pháp nhân",
+      "có cơ quan khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "cơ quan điều hành"
+    ],
+    [
+      "cơ quan điều hành",
+      "tổ chức"
+    ],
+    [
+      "cơ quan điều hành",
+      "nhiệm vụ"
+    ],
+    [
+      "cơ quan điều hành",
+      "quyền hạn"
+    ],
+    [
+      "điều lệ của pháp nhân",
+      "tổ chức của cơ quan điều hành"
+    ],
+    [
+      "quyết định thành lập pháp nhân",
+      "tổ chức của cơ quan điều hành"
+    ],
+    [
+      "pháp nhân",
+      "cơ quan khác"
+    ]
+  ]
+}

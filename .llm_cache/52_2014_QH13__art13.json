@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền",
+    "hai bên"
+  ],
+  "actions": [
+    "thu hồi",
+    "hủy bỏ",
+    "đăng ký kết hôn",
+    "xác lập"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "thu hồi"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "hủy bỏ"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "yêu cầu"
+    ],
+    [
+      "hai bên",
+      "thực hiện lại việc đăng ký kết hôn"
+    ],
+    [
+      "quan hệ hôn nhân",
+      "xác lập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đăng ký kết hôn không đúng thẩm quyền",
+      "thu hồi giấy chứng nhận kết hôn"
+    ],
+    [
+      "đăng ký kết hôn không đúng thẩm quyền",
+      "hủy bỏ giấy chứng nhận kết hôn"
+    ],
+    [
+      "giấy chứng nhận kết hôn",
+      "quan hệ hôn nhân"
+    ]
+  ]
+}

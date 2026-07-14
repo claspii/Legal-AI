@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người không có giấy phép người lái tàu bay",
+    "người điều động",
+    "người phạm tội"
+  ],
+  "actions": [
+    "điều động",
+    "giao",
+    "điều khiển phương tiện giao thông đường không",
+    "phạt tù",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "điều động"
+    ],
+    [
+      "người",
+      "giao"
+    ],
+    [
+      "người không có giấy phép người lái tàu bay",
+      "điều khiển phương tiện giao thông đường không"
+    ],
+    [
+      "người điều động",
+      "gây thương tích"
+    ],
+    [
+      "người điều động",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện điều khiển các phương tiện giao thông đường không",
+      "phạt tù"
+    ],
+    [
+      "làm chết",
+      "phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "phạt tù"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "phạt tù"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tù"
+    ]
+  ]
+}

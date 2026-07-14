@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "làm trái quy định về đăng ký nghĩa vụ quân sự",
+    "gọi nhập ngũ",
+    "gọi tập trung huấn luyện",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "làm trái quy định về đăng ký nghĩa vụ quân sự"
+    ],
+    [
+      "người",
+      "gọi nhập ngũ"
+    ],
+    [
+      "người",
+      "gọi tập trung huấn luyện"
+    ],
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ quân sự",
+      "đăng ký nghĩa vụ quân sự"
+    ],
+    [
+      "nghĩa vụ quân sự",
+      "gọi nhập ngũ"
+    ],
+    [
+      "nghĩa vụ quân sự",
+      "gọi tập trung huấn luyện"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ]
+  ]
+}

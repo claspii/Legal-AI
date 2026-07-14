@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tặng cho bất động sản",
+    "lập thành văn bản",
+    "công chứng",
+    "chứng thực",
+    "đăng ký",
+    "chuyển giao tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tặng cho bất động sản",
+      "văn bản có công chứng, chứng thực"
+    ],
+    [
+      "bất động sản",
+      "đăng ký quyền sở hữu"
+    ],
+    [
+      "hợp đồng tặng cho bất động sản",
+      "hiệu lực"
+    ],
+    [
+      "thời điểm đăng ký",
+      "hiệu lực"
+    ],
+    [
+      "thời điểm chuyển giao tài sản",
+      "hiệu lực"
+    ]
+  ]
+}

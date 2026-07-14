@@ -1,0 +1,88 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc",
+    "người",
+    "cơ quan",
+    "tổ chức",
+    "người tự viết di chúc",
+    "người làm chứng di chúc"
+  ],
+  "actions": [
+    "lập di chúc",
+    "hưởng di sản",
+    "ghi số thứ tự",
+    "ký tên",
+    "điểm chỉ",
+    "tẩy xóa",
+    "sửa chữa"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "lập di chúc"
+    ],
+    [
+      "người",
+      "hưởng di sản"
+    ],
+    [
+      "cơ quan",
+      "hưởng di sản"
+    ],
+    [
+      "tổ chức",
+      "hưởng di sản"
+    ],
+    [
+      "người lập di chúc",
+      "ký tên"
+    ],
+    [
+      "người lập di chúc",
+      "điểm chỉ"
+    ],
+    [
+      "người tự viết di chúc",
+      "ký tên"
+    ],
+    [
+      "người làm chứng di chúc",
+      "ký tên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "nội dung di chúc"
+    ],
+    [
+      "di chúc",
+      "người lập di chúc"
+    ],
+    [
+      "di chúc",
+      "di sản"
+    ],
+    [
+      "di chúc",
+      "người được hưởng di sản"
+    ],
+    [
+      "di chúc",
+      "chữ ký"
+    ],
+    [
+      "di chúc",
+      "điểm chỉ"
+    ],
+    [
+      "di chúc",
+      "tẩy xóa"
+    ],
+    [
+      "di chúc",
+      "sửa chữa"
+    ]
+  ]
+}

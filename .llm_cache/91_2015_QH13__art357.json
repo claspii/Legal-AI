@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "các bên"
+  ],
+  "actions": [
+    "trả tiền",
+    "trả lãi",
+    "xác định",
+    "thỏa thuận",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "trả lãi"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chậm thực hiện nghĩa vụ trả tiền",
+      "trả lãi"
+    ],
+    [
+      "số tiền chậm trả",
+      "thời gian chậm trả"
+    ],
+    [
+      "lãi suất phát sinh do chậm trả tiền",
+      "thỏa thuận của các bên"
+    ],
+    [
+      "lãi suất phát sinh do chậm trả tiền",
+      "khoản 1 điều 468 của bộ luật này"
+    ],
+    [
+      "lãi suất phát sinh do chậm trả tiền",
+      "khoản 2 điều 468 của bộ luật này"
+    ]
+  ]
+}

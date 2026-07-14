@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [
+    "hình phạt"
+  ],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "trừng trị",
+    "giáo dục",
+    "tuân theo pháp luật",
+    "ngăn ngừa",
+    "tôn trọng pháp luật",
+    "phòng ngừa tội phạm",
+    "đấu tranh chống tội phạm"
+  ],
+  "actor_actions": [
+    [
+      "hình phạt",
+      "trừng trị"
+    ],
+    [
+      "hình phạt",
+      "giáo dục"
+    ],
+    [
+      "hình phạt",
+      "ngăn ngừa"
+    ],
+    [
+      "người",
+      "tuân theo pháp luật"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tuân theo pháp luật"
+    ],
+    [
+      "người",
+      "tôn trọng pháp luật"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tôn trọng pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "mục đích"
+    ],
+    [
+      "hình phạt",
+      "tội phạm"
+    ],
+    [
+      "người",
+      "tội phạm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội phạm"
+    ],
+    [
+      "giáo dục",
+      "ý thức tuân theo pháp luật"
+    ],
+    [
+      "giáo dục",
+      "quy tắc của cuộc sống"
+    ],
+    [
+      "phòng ngừa",
+      "tội phạm"
+    ],
+    [
+      "đấu tranh chống",
+      "tội phạm"
+    ]
+  ]
+}

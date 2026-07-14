@@ -1,0 +1,78 @@
+{
+  "concepts_defined": [
+    "đồng phạm",
+    "phạm tội có tổ chức",
+    "người thực hành",
+    "người tổ chức",
+    "người xúi giục",
+    "người giúp sức"
+  ],
+  "actors": [
+    "người",
+    "người đồng phạm",
+    "người thực hành",
+    "người tổ chức",
+    "người xúi giục",
+    "người giúp sức"
+  ],
+  "actions": [
+    "thực hiện",
+    "chịu trách nhiệm hình sự",
+    "kích động",
+    "dụ dỗ",
+    "thúc đẩy",
+    "tạo điều kiện"
+  ],
+  "actor_actions": [
+    [
+      "hai người trở lên",
+      "cố ý cùng thực hiện một tội phạm"
+    ],
+    [
+      "người đồng phạm",
+      "không phải chịu trách nhiệm hình sự"
+    ],
+    [
+      "người thực hành",
+      "trực tiếp thực hiện tội phạm"
+    ],
+    [
+      "người tổ chức",
+      "chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm"
+    ],
+    [
+      "người xúi giục",
+      "kích động, dụ dỗ, thúc đẩy người khác thực hiện tội phạm"
+    ],
+    [
+      "người giúp sức",
+      "tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đồng phạm",
+      "người tổ chức"
+    ],
+    [
+      "đồng phạm",
+      "người thực hành"
+    ],
+    [
+      "đồng phạm",
+      "người xúi giục"
+    ],
+    [
+      "đồng phạm",
+      "người giúp sức"
+    ],
+    [
+      "phạm tội có tổ chức",
+      "đồng phạm"
+    ],
+    [
+      "hành vi vượt quá",
+      "người thực hành"
+    ]
+  ]
+}

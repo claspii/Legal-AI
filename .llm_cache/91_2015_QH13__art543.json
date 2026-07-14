@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "đối tượng của hợp đồng gia công"
+  ],
+  "actors": [
+    "các bên",
+    "pháp luật"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "có quy định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "pháp luật",
+      "có quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đối tượng của hợp đồng gia công",
+      "vật"
+    ],
+    [
+      "vật",
+      "mẫu"
+    ],
+    [
+      "vật",
+      "tiêu chuẩn"
+    ]
+  ]
+}

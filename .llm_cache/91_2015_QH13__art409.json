@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "thỏa thuận",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện trước hoặc sau thời hạn"
+    ],
+    [
+      "bên có quyền",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng đơn vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "thời hạn"
+    ],
+    [
+      "bên có quyền",
+      "đồng ý"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [
+    "sự kiện bất khả kháng",
+    "trở ngại khách quan"
+  ],
+  "actors": [
+    "chủ thể có quyền khởi kiện",
+    "chủ thể có quyền yêu cầu",
+    "người có quyền, nghĩa vụ dân sự",
+    "người có quyền khởi kiện",
+    "người có quyền yêu cầu",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người bị hạn chế năng lực hành vi dân sự",
+    "người đại diện",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "khởi kiện",
+    "yêu cầu",
+    "áp dụng",
+    "khắc phục",
+    "biết",
+    "thực hiện",
+    "xâm phạm",
+    "chết",
+    "chấm dứt tồn tại",
+    "đại diện"
+  ],
+  "actor_actions": [
+    [
+      "chủ thể có quyền khởi kiện, quyền yêu cầu",
+      "không thể khởi kiện, yêu cầu"
+    ],
+    [
+      "người có quyền, nghĩa vụ dân sự",
+      "không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm"
+    ],
+    [
+      "người có quyền, nghĩa vụ dân sự",
+      "không thể thực hiện được quyền, nghĩa vụ dân sự của mình"
+    ],
+    [
+      "người có quyền khởi kiện, người có quyền yêu cầu",
+      "chưa có người đại diện"
+    ],
+    [
+      "người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự",
+      "chưa có người đại diện khác thay thế"
+    ],
+    [
+      "người đại diện là cá nhân",
+      "chết"
+    ],
+    [
+      "người đại diện là pháp nhân",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "người đại diện",
+      "không thể tiếp tục đại diện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời gian không tính vào thời hiệu khởi kiện vụ án dân sự",
+      "thời gian không tính vào thời hiệu yêu cầu giải quyết việc dân sự"
+    ],
+    [
+      "sự kiện bất khả kháng",
+      "trở ngại khách quan"
+    ],
+    [
+      "người chưa thành niên",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "người chưa thành niên",
+      "có khó khăn trong nhận thức, làm chủ hành vi"
+    ],
+    [
+      "người chưa thành niên",
+      "bị hạn chế năng lực hành vi dân sự"
+    ],
+    [
+      "người có quyền khởi kiện",
+      "người có quyền yêu cầu"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ dân sự"
+    ]
+  ]
+}

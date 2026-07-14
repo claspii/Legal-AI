@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "cưỡng ép người khác trốn đi nước ngoài trái phép",
+    "cưỡng ép người khác ở lại nước ngoài trái phép",
+    "phạm tội",
+    "làm chết người"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cưỡng ép người khác trốn đi nước ngoài trái phép"
+    ],
+    [
+      "người",
+      "cưỡng ép người khác ở lại nước ngoài trái phép"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "làm chết người"
+    ]
+  ],
+  "related_concepts": []
+}

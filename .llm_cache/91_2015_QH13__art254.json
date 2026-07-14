@@ -1,0 +1,73 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu",
+    "chủ sở hữu bất động sản bị vây bọc",
+    "chủ sở hữu bất động sản vây bọc",
+    "chủ sở hữu bất động sản hưởng quyền về lối đi qua",
+    "chủ sở hữu bất động sản chịu hưởng quyền",
+    "tòa án",
+    "cơ quan nhà nước có thẩm quyền khác",
+    "chủ sử dụng"
+  ],
+  "actions": [
+    "yêu cầu",
+    "dành cho mình một lối đi hợp lý",
+    "đền bù",
+    "thỏa thuận",
+    "xác định",
+    "chia"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu bất động sản bị vây bọc",
+      "yêu cầu"
+    ],
+    [
+      "chủ sở hữu bất động sản vây bọc",
+      "dành cho mình một lối đi hợp lý"
+    ],
+    [
+      "chủ sở hữu bất động sản hưởng quyền về lối đi qua",
+      "đền bù"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "xác định"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền khác",
+      "xác định"
+    ],
+    [
+      "bất động sản",
+      "chia"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu",
+      "bất động sản"
+    ],
+    [
+      "lối đi qua",
+      "bất động sản bị vây bọc"
+    ],
+    [
+      "lối đi qua",
+      "đường công cộng"
+    ],
+    [
+      "đền bù",
+      "lối đi qua"
+    ],
+    [
+      "bất động sản",
+      "chia"
+    ]
+  ]
+}

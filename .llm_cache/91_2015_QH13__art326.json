@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu tài sản gắn liền với đất",
+    "người sử dụng đất",
+    "người nhận chuyển quyền sở hữu tài sản gắn liền với đất"
+  ],
+  "actions": [
+    "thế chấp tài sản gắn liền với đất",
+    "thế chấp quyền sử dụng đất",
+    "xử lý tài sản",
+    "tiếp tục sử dụng đất"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu tài sản gắn liền với đất",
+      "thế chấp tài sản gắn liền với đất"
+    ],
+    [
+      "người nhận chuyển quyền sở hữu tài sản gắn liền với đất",
+      "tiếp tục sử dụng đất"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản gắn liền với đất",
+      "quyền sử dụng đất"
+    ],
+    [
+      "thế chấp tài sản gắn liền với đất",
+      "thế chấp quyền sử dụng đất"
+    ],
+    [
+      "chủ sở hữu tài sản gắn liền với đất",
+      "người sử dụng đất"
+    ]
+  ]
+}

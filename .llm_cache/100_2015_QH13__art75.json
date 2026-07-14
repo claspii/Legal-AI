@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "cá nhân"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "thực hiện",
+    "chỉ đạo",
+    "điều hành",
+    "chấp thuận",
+    "truy cứu trách nhiệm hình sự",
+    "loại trừ"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "chịu trách nhiệm hình sự"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chỉ đạo"
+    ],
+    [
+      "pháp nhân thương mại",
+      "điều hành"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chấp thuận"
+    ],
+    [
+      "cá nhân",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "hành vi phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "cá nhân",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "thời hiệu",
+      "truy cứu trách nhiệm hình sự"
+    ],
+    [
+      "hành vi phạm tội",
+      "lợi ích của pháp nhân thương mại"
+    ]
+  ]
+}

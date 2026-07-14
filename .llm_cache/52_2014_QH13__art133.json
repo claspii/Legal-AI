@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chính phủ",
+    "tòa án nhân dân tối cao",
+    "viện kiểm sát nhân dân tối cao",
+    "bộ tư pháp",
+    "quốc hội",
+    "chủ tịch quốc hội"
+  ],
+  "actions": [
+    "quy định chi tiết",
+    "hướng dẫn thi hành",
+    "chủ trì phối hợp",
+    "thông qua"
+  ],
+  "actor_actions": [
+    [
+      "chính phủ",
+      "quy định chi tiết"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "chủ trì phối hợp"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "hướng dẫn thi hành"
+    ],
+    [
+      "quốc hội",
+      "thông qua"
+    ]
+  ],
+  "related_concepts": []
+}

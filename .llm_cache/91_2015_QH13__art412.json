@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "không thực hiện đúng nghĩa vụ",
+    "xác lập quyền cầm giữ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "không thực hiện đúng nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "xác lập quyền cầm giữ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "quyền cầm giữ tài sản"
+    ],
+    [
+      "hợp đồng song vụ",
+      "cầm giữ tài sản"
+    ],
+    [
+      "tài sản của bên có nghĩa vụ",
+      "quyền cầm giữ tài sản"
+    ]
+  ]
+}

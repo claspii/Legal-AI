@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án"
+  ],
+  "actions": [
+    "thụ lý đơn yêu cầu ly hôn",
+    "tiến hành hòa giải"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "thụ lý đơn yêu cầu ly hôn"
+    ],
+    [
+      "tòa án",
+      "tiến hành hòa giải"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hòa giải",
+      "ly hôn"
+    ],
+    [
+      "tòa án",
+      "tố tụng dân sự"
+    ]
+  ]
+}

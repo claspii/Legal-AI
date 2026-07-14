@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động"
+  ],
+  "actions": [
+    "chuyển làm công việc khác",
+    "được trả lương",
+    "giữ nguyên tiền lương"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "chuyển làm công việc khác"
+    ],
+    [
+      "người lao động",
+      "được trả lương"
+    ],
+    [
+      "người lao động",
+      "giữ nguyên tiền lương"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công việc khác",
+      "hợp đồng lao động"
+    ],
+    [
+      "tiền lương của công việc mới",
+      "tiền lương của công việc cũ"
+    ],
+    [
+      "tiền lương theo công việc mới",
+      "mức lương tối thiểu"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "cơ sở khám bệnh, chữa bệnh",
+    "pháp nhân",
+    "người khác"
+  ],
+  "actions": [
+    "hiến mô, bộ phận cơ thể của mình",
+    "hiến mô, bộ phận cơ thể, hiến xác của mình",
+    "nhận mô, bộ phận cơ thể",
+    "lấy xác"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "hiến mô, bộ phận cơ thể của mình"
+    ],
+    [
+      "cá nhân",
+      "hiến mô, bộ phận cơ thể, hiến xác của mình"
+    ],
+    [
+      "cá nhân",
+      "nhận mô, bộ phận cơ thể"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh",
+      "nhận bộ phận cơ thể người"
+    ],
+    [
+      "cơ sở khám bệnh, chữa bệnh",
+      "lấy xác"
+    ],
+    [
+      "pháp nhân",
+      "nhận bộ phận cơ thể người"
+    ],
+    [
+      "pháp nhân",
+      "lấy xác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiến mô, bộ phận cơ thể người",
+      "chữa bệnh cho người khác"
+    ],
+    [
+      "hiến mô, bộ phận cơ thể người",
+      "nghiên cứu y học"
+    ],
+    [
+      "hiến mô, bộ phận cơ thể người",
+      "nghiên cứu dược học"
+    ],
+    [
+      "hiến mô, bộ phận cơ thể người",
+      "nghiên cứu khoa học khác"
+    ],
+    [
+      "nhận mô, bộ phận cơ thể của người khác",
+      "chữa bệnh cho mình"
+    ],
+    [
+      "lấy xác",
+      "thử nghiệm y học"
+    ],
+    [
+      "lấy xác",
+      "thử nghiệm dược học"
+    ],
+    [
+      "lấy xác",
+      "nghiên cứu khoa học khác"
+    ]
+  ]
+}

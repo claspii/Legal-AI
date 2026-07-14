@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có công việc được thực hiện",
+    "người thừa kế",
+    "người đại diện của người có công việc được thực hiện",
+    "người thực hiện công việc không có ủy quyền",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "chấm dứt thực hiện công việc không có ủy quyền",
+    "tiếp nhận công việc",
+    "chết",
+    "chấm dứt tồn tại"
+  ],
+  "actor_actions": [
+    [
+      "người có công việc được thực hiện",
+      "yêu cầu"
+    ],
+    [
+      "người có công việc được thực hiện",
+      "tiếp nhận công việc"
+    ],
+    [
+      "người thừa kế",
+      "tiếp nhận công việc"
+    ],
+    [
+      "người đại diện của người có công việc được thực hiện",
+      "tiếp nhận công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "không thể tiếp tục thực hiện công việc"
+    ],
+    [
+      "người thực hiện công việc không có ủy quyền",
+      "chết"
+    ],
+    [
+      "pháp nhân",
+      "chấm dứt tồn tại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chấm dứt thực hiện công việc không có ủy quyền",
+      "yêu cầu của người có công việc được thực hiện"
+    ],
+    [
+      "chấm dứt thực hiện công việc không có ủy quyền",
+      "tiếp nhận công việc"
+    ],
+    [
+      "chấm dứt thực hiện công việc không có ủy quyền",
+      "người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc"
+    ],
+    [
+      "chấm dứt thực hiện công việc không có ủy quyền",
+      "người thực hiện công việc không có ủy quyền chết"
+    ],
+    [
+      "chấm dứt thực hiện công việc không có ủy quyền",
+      "pháp nhân chấm dứt tồn tại"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "một bên"
+  ],
+  "actions": [
+    "thỏa thuận nội dung thử việc ghi trong hợp đồng lao động",
+    "thử việc không đạt yêu cầu",
+    "hủy bỏ thỏa thuận thử việc"
+  ],
+  "actor_actions": [
+    [
+      "một bên",
+      "hủy bỏ thỏa thuận thử việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thỏa thuận nội dung thử việc",
+      "hợp đồng lao động"
+    ],
+    [
+      "thử việc",
+      "không đạt yêu cầu"
+    ]
+  ]
+}

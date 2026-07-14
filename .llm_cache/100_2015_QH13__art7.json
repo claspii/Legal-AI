@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "áp dụng",
+    "có hiệu lực thi hành",
+    "quy định",
+    "thực hiện",
+    "xóa bỏ"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiệu lực của bộ luật hình sự",
+      "thời gian"
+    ],
+    [
+      "điều luật",
+      "hành vi phạm tội"
+    ],
+    [
+      "tội phạm",
+      "hình phạt"
+    ],
+    [
+      "hình phạt nặng hơn",
+      "tình tiết tăng nặng mới"
+    ],
+    [
+      "án treo",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "giảm hình phạt",
+      "xóa án tích"
+    ],
+    [
+      "hình phạt nhẹ hơn",
+      "tình tiết giảm nhẹ mới"
+    ]
+  ]
+}

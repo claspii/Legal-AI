@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có nghĩa vụ",
+    "người thế nghĩa vụ",
+    "bên có quyền",
+    "pháp luật"
+  ],
+  "actions": [
+    "chuyển giao nghĩa vụ",
+    "đồng ý",
+    "trở thành bên có nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "chuyển giao nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "đồng ý"
+    ],
+    [
+      "người thế nghĩa vụ",
+      "trở thành bên có nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "chuyển giao nghĩa vụ"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "người thế nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "nhân thân"
+    ],
+    [
+      "bên có nghĩa vụ",
+      "bên có quyền"
+    ]
+  ]
+}

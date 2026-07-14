@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "xã hội",
+    "tổ chức",
+    "cá nhân",
+    "gia đình"
+  ],
+  "actions": [
+    "khuyến khích",
+    "trợ giúp"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "khuyến khích"
+    ],
+    [
+      "xã hội",
+      "khuyến khích"
+    ],
+    [
+      "tổ chức",
+      "trợ giúp"
+    ],
+    [
+      "cá nhân",
+      "trợ giúp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tổ chức",
+      "trợ giúp"
+    ],
+    [
+      "cá nhân",
+      "trợ giúp"
+    ],
+    [
+      "gia đình",
+      "hoàn cảnh đặc biệt khó khăn, túng thiếu"
+    ],
+    [
+      "cá nhân",
+      "hoàn cảnh đặc biệt khó khăn, túng thiếu"
+    ],
+    [
+      "tiền",
+      "trợ giúp"
+    ],
+    [
+      "tài sản khác",
+      "trợ giúp"
+    ]
+  ]
+}

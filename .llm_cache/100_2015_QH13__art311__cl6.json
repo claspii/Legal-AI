@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạt tiền",
+    "phạt quản chế",
+    "cấm cư trú"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạt tiền",
+      "5.000.000 đồng đến 50.000.000 đồng"
+    ],
+    [
+      "cấm cư trú",
+      "01 năm đến 05 năm"
+    ]
+  ]
+}

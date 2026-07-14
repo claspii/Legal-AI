@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "tổ chức đại diện người lao động tại cơ sở",
+    "công đoàn",
+    "tổ chức của người lao động tại doanh nghiệp"
+  ],
+  "actions": [
+    "thành lập",
+    "gia nhập",
+    "hoạt động công đoàn",
+    "tham gia hoạt động",
+    "đại diện bảo vệ quyền và lợi ích hợp pháp, chính đáng"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "thành lập"
+    ],
+    [
+      "người lao động",
+      "gia nhập"
+    ],
+    [
+      "người lao động",
+      "hoạt động công đoàn"
+    ],
+    [
+      "người lao động trong doanh nghiệp",
+      "thành lập"
+    ],
+    [
+      "người lao động trong doanh nghiệp",
+      "gia nhập"
+    ],
+    [
+      "người lao động trong doanh nghiệp",
+      "tham gia hoạt động của tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "các tổ chức đại diện người lao động",
+      "bình đẳng về quyền và nghĩa vụ"
+    ],
+    [
+      "các tổ chức đại diện người lao động",
+      "đại diện bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "công đoàn",
+      "tổ chức của người lao động tại doanh nghiệp"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp, chính đáng"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "quan hệ lao động"
+    ]
+  ]
+}

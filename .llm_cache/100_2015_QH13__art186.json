@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án",
+    "người có nghĩa vụ cấp dưỡng",
+    "người được cấp dưỡng"
+  ],
+  "actions": [
+    "từ chối nghĩa vụ cấp dưỡng",
+    "trốn tránh nghĩa vụ cấp dưỡng",
+    "xử phạt vi phạm hành chính",
+    "phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "từ chối nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "người",
+      "trốn tránh nghĩa vụ cấp dưỡng"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ cấp dưỡng",
+      "khả năng thực tế để thực hiện việc cấp dưỡng"
+    ],
+    [
+      "người có nghĩa vụ cấp dưỡng",
+      "người được cấp dưỡng"
+    ],
+    [
+      "tình trạng nguy hiểm đến tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "từ chối nghĩa vụ cấp dưỡng",
+      "trốn tránh nghĩa vụ cấp dưỡng"
+    ]
+  ]
+}

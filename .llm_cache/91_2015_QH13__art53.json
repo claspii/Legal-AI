@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người mất năng lực hành vi dân sự",
+    "người giám hộ",
+    "vợ",
+    "chồng",
+    "cha",
+    "mẹ",
+    "con",
+    "người con cả"
+  ],
+  "actions": [
+    "làm người giám hộ",
+    "mất năng lực hành vi dân sự"
+  ],
+  "actor_actions": [
+    [
+      "chồng",
+      "là người giám hộ"
+    ],
+    [
+      "vợ",
+      "là người giám hộ"
+    ],
+    [
+      "người con cả",
+      "là người giám hộ"
+    ],
+    [
+      "người con tiếp theo",
+      "là người giám hộ"
+    ],
+    [
+      "cha",
+      "là người giám hộ"
+    ],
+    [
+      "mẹ",
+      "là người giám hộ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người giám hộ đương nhiên",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người mất năng lực hành vi dân sự",
+      "người giám hộ"
+    ],
+    [
+      "vợ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "chồng",
+      "người giám hộ"
+    ],
+    [
+      "cha",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "mẹ",
+      "người mất năng lực hành vi dân sự"
+    ],
+    [
+      "người con cả",
+      "người giám hộ"
+    ],
+    [
+      "người thành niên mất năng lực hành vi dân sự",
+      "cha"
+    ]
+  ]
+}

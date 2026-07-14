@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nào"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "mua bán",
+    "chiếm đoạt",
+    "sản xuất trái phép",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "xóa án tích",
+    "vi phạm"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "tàng trữ"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "mua bán"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt"
+    ],
+    [
+      "người nào",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người nào",
+      "bị kết án"
+    ],
+    [
+      "người nào",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tiền chất",
+      "chất ma túy"
+    ],
+    [
+      "tàng trữ",
+      "tiền chất"
+    ],
+    [
+      "vận chuyển",
+      "tiền chất"
+    ],
+    [
+      "mua bán",
+      "tiền chất"
+    ],
+    [
+      "chiếm đoạt",
+      "tiền chất"
+    ]
+  ]
+}

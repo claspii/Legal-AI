@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "thực hiện",
+    "tấn công",
+    "bắt giữ",
+    "cướp phá tài sản",
+    "phạm tội",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "chiếm đoạt tài sản",
+    "gây thiệt hại về tài sản",
+    "chuẩn bị phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "tấn công"
+    ],
+    [
+      "người",
+      "bắt giữ"
+    ],
+    [
+      "người",
+      "cướp phá tài sản"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tấn công tàu biển",
+      "cướp biển"
+    ],
+    [
+      "bắt giữ người",
+      "cướp biển"
+    ],
+    [
+      "cướp phá tài sản",
+      "cướp biển"
+    ],
+    [
+      "làm chết người",
+      "phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "phạt tù"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "phạt tù"
+    ],
+    [
+      "gây thiệt hại về tài sản",
+      "phạt tù"
+    ]
+  ]
+}

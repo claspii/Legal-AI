@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "chế tạo",
+    "tàng trữ",
+    "vận chuyển",
+    "sử dụng",
+    "mua bán trái phép",
+    "chiếm đoạt vũ khí quân dụng",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chế tạo",
+      "vũ khí quân dụng"
+    ],
+    [
+      "tàng trữ",
+      "vũ khí quân dụng"
+    ],
+    [
+      "vận chuyển",
+      "vũ khí quân dụng"
+    ],
+    [
+      "sử dụng",
+      "vũ khí quân dụng"
+    ],
+    [
+      "mua bán trái phép",
+      "vũ khí quân dụng"
+    ],
+    [
+      "chiếm đoạt",
+      "vũ khí quân dụng"
+    ],
+    [
+      "làm chết",
+      "người"
+    ],
+    [
+      "gây thương tích",
+      "người"
+    ]
+  ]
+}

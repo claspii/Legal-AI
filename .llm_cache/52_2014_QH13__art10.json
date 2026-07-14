@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị cưỡng ép kết hôn",
+    "người bị lừa dối kết hôn",
+    "cá nhân",
+    "tổ chức",
+    "tòa án",
+    "vợ",
+    "chồng",
+    "cha",
+    "mẹ"
+  ],
+  "actions": [
+    "yêu cầu hủy việc kết hôn trái pháp luật",
+    "bị cưỡng ép kết hôn",
+    "bị lừa dối kết hôn",
+    "đề nghị",
+    "phát hiện việc kết hôn trái pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "người bị cưỡng ép kết hôn",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "người bị lừa dối kết hôn",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "tổ chức",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "cá nhân",
+      "đề nghị"
+    ],
+    [
+      "tổ chức",
+      "đề nghị"
+    ],
+    [
+      "cá nhân",
+      "phát hiện việc kết hôn trái pháp luật"
+    ],
+    [
+      "tổ chức",
+      "phát hiện việc kết hôn trái pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "yêu cầu hủy việc kết hôn trái pháp luật",
+      "kết hôn trái pháp luật"
+    ],
+    [
+      "người bị cưỡng ép kết hôn",
+      "hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "người bị lừa dối kết hôn",
+      "hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "tổ chức",
+      "yêu cầu hủy việc kết hôn trái pháp luật"
+    ]
+  ]
+}

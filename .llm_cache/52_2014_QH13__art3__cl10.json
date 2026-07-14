@@ -1,0 +1,93 @@
+{
+  "concepts_defined": [
+    "cản trở kết hôn, ly hôn"
+  ],
+  "actors": [
+    "người",
+    "người có đủ điều kiện kết hôn",
+    "người khác"
+  ],
+  "actions": [
+    "đe dọa",
+    "uy hiếp tinh thần",
+    "hành hạ",
+    "ngược đãi",
+    "yêu sách của cải",
+    "ngăn cản việc kết hôn",
+    "buộc duy trì quan hệ hôn nhân",
+    "kết hôn",
+    "ly hôn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "đe dọa"
+    ],
+    [
+      "người",
+      "uy hiếp tinh thần"
+    ],
+    [
+      "người",
+      "hành hạ"
+    ],
+    [
+      "người",
+      "ngược đãi"
+    ],
+    [
+      "người",
+      "yêu sách của cải"
+    ],
+    [
+      "người",
+      "ngăn cản việc kết hôn"
+    ],
+    [
+      "người",
+      "buộc duy trì quan hệ hôn nhân"
+    ],
+    [
+      "người có đủ điều kiện kết hôn",
+      "kết hôn"
+    ],
+    [
+      "người khác",
+      "duy trì quan hệ hôn nhân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "ly hôn"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "đe dọa"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "uy hiếp tinh thần"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "hành hạ"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "ngược đãi"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "yêu sách của cải"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "ngăn cản việc kết hôn"
+    ],
+    [
+      "cản trở kết hôn, ly hôn",
+      "buộc duy trì quan hệ hôn nhân"
+    ]
+  ]
+}

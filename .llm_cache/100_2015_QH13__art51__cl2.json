@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "coi đầu thú hoặc tình tiết khác là tình tiết giảm nhẹ",
+    "ghi rõ lý do giảm nhẹ trong bản án"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "coi đầu thú hoặc tình tiết khác là tình tiết giảm nhẹ"
+    ],
+    [
+      "tòa án",
+      "ghi rõ lý do giảm nhẹ trong bản án"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyết định hình phạt",
+      "tình tiết giảm nhẹ"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "đầu thú"
+    ],
+    [
+      "ghi rõ lý do giảm nhẹ trong bản án",
+      "tình tiết giảm nhẹ"
+    ]
+  ]
+}

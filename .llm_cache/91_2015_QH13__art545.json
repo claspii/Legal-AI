@@ -1,0 +1,67 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên đặt gia công",
+    "bên nhận gia công"
+  ],
+  "actions": [
+    "nhận sản phẩm gia công",
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "đồng ý nhận sản phẩm",
+    "yêu cầu sửa chữa",
+    "hủy bỏ hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên đặt gia công",
+      "nhận sản phẩm gia công"
+    ],
+    [
+      "bên đặt gia công",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên đặt gia công",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "bên nhận gia công",
+      "vi phạm nghiêm trọng hợp đồng"
+    ],
+    [
+      "bên đặt gia công",
+      "đồng ý nhận sản phẩm"
+    ],
+    [
+      "bên đặt gia công",
+      "yêu cầu sửa chữa"
+    ],
+    [
+      "bên đặt gia công",
+      "hủy bỏ hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên đặt gia công",
+      "bên nhận gia công"
+    ],
+    [
+      "hợp đồng",
+      "sản phẩm gia công"
+    ],
+    [
+      "chấm dứt thực hiện hợp đồng",
+      "yêu cầu bồi thường thiệt hại"
+    ],
+    [
+      "sản phẩm không bảo đảm chất lượng",
+      "yêu cầu sửa chữa"
+    ],
+    [
+      "hủy bỏ hợp đồng",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "tòa án",
+    "các bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "chia tài sản chung",
+    "thỏa thuận",
+    "ghi trong văn bản",
+    "xác định thời điểm có hiệu lực",
+    "tính từ ngày lập văn bản",
+    "có hiệu lực pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "tòa án",
+      "chia tài sản chung của vợ chồng"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời điểm có hiệu lực",
+      "chia tài sản chung"
+    ],
+    [
+      "tài sản chung",
+      "thời kỳ hôn nhân"
+    ],
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ về tài sản"
+    ],
+    [
+      "giao dịch",
+      "tài sản"
+    ]
+  ]
+}

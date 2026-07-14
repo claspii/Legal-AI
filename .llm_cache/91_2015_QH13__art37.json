@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân"
+  ],
+  "actions": [
+    "chuyển đổi giới tính",
+    "đăng ký thay đổi hộ tịch"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "chuyển đổi giới tính"
+    ],
+    [
+      "cá nhân",
+      "đăng ký thay đổi hộ tịch"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chuyển đổi giới tính",
+      "thay đổi hộ tịch"
+    ],
+    [
+      "giới tính",
+      "quyền nhân thân"
+    ]
+  ]
+}

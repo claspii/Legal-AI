@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sĩ quan"
+  ],
+  "actions": [
+    "tự gây thương tích",
+    "gây tổn hại cho sức khỏe của mình",
+    "dùng thủ đoạn gian dối khác",
+    "trốn tránh nhiệm vụ",
+    "lôi kéo người khác phạm tội",
+    "cứu hộ",
+    "cứu nạn",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tự gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe của mình"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn gian dối khác"
+    ],
+    [
+      "người",
+      "trốn tránh nhiệm vụ"
+    ],
+    [
+      "chỉ huy",
+      "phạm tội"
+    ],
+    [
+      "sĩ quan",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "lôi kéo người khác phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hậu quả nghiêm trọng",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "hậu quả rất nghiêm trọng",
+      "hậu quả đặc biệt nghiêm trọng"
+    ],
+    [
+      "thời chiến",
+      "tình trạng khẩn cấp"
+    ],
+    [
+      "cứu hộ",
+      "cứu nạn"
+    ]
+  ]
+}

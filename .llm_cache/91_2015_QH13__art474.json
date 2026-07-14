@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "mỗi bên",
+    "bên kia"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định",
+    "chấm dứt hợp đồng",
+    "thông báo"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "mỗi bên",
+      "chấm dứt hợp đồng"
+    ],
+    [
+      "mỗi bên",
+      "thông báo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hạn thuê",
+      "mục đích thuê"
+    ],
+    [
+      "thời hạn thuê",
+      "hợp đồng"
+    ]
+  ]
+}

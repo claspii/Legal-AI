@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "chiếm hữu công khai"
+  ],
+  "actors": [
+    "người chiếm hữu"
+  ],
+  "actions": [
+    "chiếm hữu công khai",
+    "chiếm hữu",
+    "thực hiện",
+    "sử dụng",
+    "bảo quản",
+    "giữ gìn",
+    "suy đoán"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "bảo quản"
+    ],
+    [
+      "người chiếm hữu",
+      "giữ gìn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu công khai",
+      "chiếm hữu"
+    ],
+    [
+      "chiếm hữu không công khai",
+      "tình trạng của người chiếm hữu"
+    ],
+    [
+      "chiếm hữu không công khai",
+      "quyền của người chiếm hữu"
+    ]
+  ]
+}

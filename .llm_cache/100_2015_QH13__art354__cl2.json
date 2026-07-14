@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "nhận hối lộ",
+    "phạm tội",
+    "lạm dụng chức vụ, quyền hạn",
+    "gây thiệt hại về tài sản",
+    "đòi hối lộ",
+    "sách nhiễu",
+    "dùng thủ đoạn xảo quyệt"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "nhận hối lộ"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "lạm dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người phạm tội",
+      "gây thiệt hại về tài sản"
+    ],
+    [
+      "người phạm tội",
+      "đòi hối lộ"
+    ],
+    [
+      "người phạm tội",
+      "sách nhiễu"
+    ],
+    [
+      "người phạm tội",
+      "dùng thủ đoạn xảo quyệt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội nhận hối lộ",
+      "của hối lộ"
+    ],
+    [
+      "tội nhận hối lộ",
+      "tài sản của nhà nước"
+    ],
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "của hối lộ",
+      "tiền"
+    ],
+    [
+      "của hối lộ",
+      "tài sản"
+    ],
+    [
+      "của hối lộ",
+      "lợi ích vật chất khác"
+    ]
+  ]
+}

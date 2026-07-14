@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "tòa án",
+    "chấp hành viên",
+    "người đang thi hành công vụ"
+  ],
+  "actions": [
+    "không chấp hành bản án hoặc quyết định",
+    "áp dụng biện pháp cưỡng chế",
+    "xử phạt vi phạm hành chính",
+    "chống lại",
+    "dùng thủ đoạn",
+    "tẩu tán tài sản",
+    "phạt tù",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "không chấp hành bản án hoặc quyết định"
+    ],
+    [
+      "tòa án",
+      "ra bản án hoặc quyết định"
+    ],
+    [
+      "người",
+      "chống lại chấp hành viên"
+    ],
+    [
+      "người",
+      "chống lại người đang thi hành công vụ"
+    ],
+    [
+      "người",
+      "dùng thủ đoạn tinh vi, xảo quyệt"
+    ],
+    [
+      "người",
+      "tẩu tán tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không chấp hành bản án hoặc quyết định",
+      "biện pháp cưỡng chế"
+    ],
+    [
+      "không chấp hành bản án hoặc quyết định",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "bản án",
+      "quyết định của tòa án"
+    ],
+    [
+      "chấp hành viên",
+      "người đang thi hành công vụ"
+    ]
+  ]
+}

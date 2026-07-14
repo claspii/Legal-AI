@@ -1,0 +1,96 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "cưỡng dâm",
+    "giao cấu",
+    "thực hiện hành vi quan hệ tình dục khác",
+    "phạt tù",
+    "có thai",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây rối loạn tâm thần và hành vi",
+    "phạm tội",
+    "chết"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng mọi thủ đoạn khiến người từ đủ 13 tuổi đến dưới 16 tuổi đang ở trong tình trạng lệ thuộc mình hoặc trong tình trạng quẫn bách phải miễn cưỡng giao cấu hoặc miễn cưỡng thực hiện hành vi quan hệ tình dục khác"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "nạn nhân",
+      "có thai"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe của nạn nhân"
+    ],
+    [
+      "người",
+      "gây rối loạn tâm thần và hành vi của nạn nhân"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "biết mình bị nhiễm hiv mà vẫn phạm tội"
+    ],
+    [
+      "người",
+      "làm nạn nhân chết hoặc tự sát"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cưỡng dâm",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "giao cấu",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "hành vi quan hệ tình dục khác",
+      "người từ đủ 13 tuổi đến dưới 16 tuổi"
+    ],
+    [
+      "phạt tù",
+      "cưỡng dâm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ rối loạn tâm thần và hành vi",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "nhiễm hiv",
+      "phạm tội"
+    ],
+    [
+      "cấm đảm nhiệm chức vụ",
+      "người phạm tội"
+    ]
+  ]
+}

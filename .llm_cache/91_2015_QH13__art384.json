@@ -1,0 +1,19 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chấm dứt nghĩa vụ",
+    "phá sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "phá sản"
+    ],
+    [
+      "chấm dứt nghĩa vụ",
+      "luật phá sản"
+    ]
+  ]
+}

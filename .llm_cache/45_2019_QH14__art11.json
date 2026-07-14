@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "tổ chức dịch vụ việc làm",
+    "doanh nghiệp hoạt động cho thuê lại lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "tuyển dụng lao động",
+    "trả chi phí"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "tuyển dụng lao động"
+    ],
+    [
+      "người lao động",
+      "trả chi phí"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tuyển dụng lao động",
+      "chi phí"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức dịch vụ việc làm"
+    ],
+    [
+      "người sử dụng lao động",
+      "doanh nghiệp hoạt động cho thuê lại lao động"
+    ]
+  ]
+}

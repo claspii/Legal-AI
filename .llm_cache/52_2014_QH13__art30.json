@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ, chồng"
+  ],
+  "actions": [
+    "thực hiện giao dịch",
+    "đáp ứng nhu cầu thiết yếu của gia đình",
+    "đóng góp tài sản riêng"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "thực hiện giao dịch"
+    ],
+    [
+      "vợ, chồng",
+      "đáp ứng nhu cầu thiết yếu của gia đình"
+    ],
+    [
+      "vợ, chồng",
+      "đóng góp tài sản riêng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "tài sản chung",
+      "tài sản riêng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "gia đình",
+      "nhu cầu thiết yếu của gia đình"
+    ]
+  ]
+}

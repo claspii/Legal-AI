@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "sản xuất, buôn bán hàng giả là lương thực, thực phẩm, phụ gia thực phẩm",
+    "bị phạt tiền",
+    "đình chỉ hoạt động có thời hạn",
+    "đình chỉ hoạt động vĩnh viễn",
+    "cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị cấm huy động vốn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "phạt tiền"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "phạt tiền",
+      "đình chỉ hoạt động"
+    ],
+    [
+      "đình chỉ hoạt động có thời hạn",
+      "đình chỉ hoạt động vĩnh viễn"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người tổ chức",
+    "người hoạt động đắc lực",
+    "người đồng phạm khác",
+    "người chuẩn bị phạm tội này",
+    "người"
+  ],
+  "actions": [
+    "hoạt động vũ trang",
+    "dùng bạo lực có tổ chức",
+    "chống chính quyền nhân dân",
+    "gây hậu quả nghiêm trọng",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "hoạt động vũ trang"
+    ],
+    [
+      "người",
+      "dùng bạo lực có tổ chức"
+    ],
+    [
+      "người tổ chức",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người hoạt động đắc lực",
+      "gây hậu quả nghiêm trọng"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": []
+}

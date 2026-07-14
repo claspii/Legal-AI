@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung theo phần",
+    "chủ sở hữu chung hợp nhất",
+    "pháp luật"
+  ],
+  "actions": [
+    "khai thác công dụng",
+    "hưởng hoa lợi",
+    "hưởng lợi tức",
+    "có thỏa thuận khác",
+    "có quy định khác"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung theo phần",
+      "có quyền khai thác công dụng"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "hưởng hoa lợi"
+    ],
+    [
+      "chủ sở hữu chung theo phần",
+      "hưởng lợi tức"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "có quyền ngang nhau trong việc khai thác công dụng"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "hưởng hoa lợi"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "hưởng lợi tức"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ sở hữu chung theo phần",
+      "tài sản chung"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "tài sản chung"
+    ],
+    [
+      "khai thác công dụng",
+      "tài sản chung"
+    ],
+    [
+      "hoa lợi",
+      "tài sản chung"
+    ],
+    [
+      "lợi tức",
+      "tài sản chung"
+    ]
+  ]
+}

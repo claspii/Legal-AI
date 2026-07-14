@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người phạm tội"
+  ],
+  "actions": [
+    "mua dâm",
+    "phạt tù",
+    "gây tổn hại",
+    "phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "mua dâm"
+    ],
+    [
+      "người phạm tội",
+      "phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mua dâm người dưới 18 tuổi",
+      "phạt tù"
+    ],
+    [
+      "gây tổn hại cho sức khỏe của nạn nhân",
+      "tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

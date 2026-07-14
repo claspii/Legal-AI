@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người dưới 18 tuổi phạm tội",
+    "người được giáo dục tại trường giáo dưỡng",
+    "nhà trường"
+  ],
+  "actions": [
+    "giáo dục tại trường giáo dưỡng",
+    "áp dụng",
+    "phạm tội",
+    "đưa vào một tổ chức giáo dục có kỷ luật chặt chẽ",
+    "chấp hành đầy đủ những nghĩa vụ",
+    "học tập",
+    "học nghề",
+    "lao động",
+    "sinh hoạt"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "áp dụng"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người được giáo dục tại trường giáo dưỡng",
+      "chấp hành đầy đủ những nghĩa vụ"
+    ],
+    [
+      "nhà trường",
+      "quản lý"
+    ],
+    [
+      "nhà trường",
+      "giáo dục"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giáo dục tại trường giáo dưỡng",
+      "người dưới 18 tuổi phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "nhân thân"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "môi trường sống"
+    ],
+    [
+      "người được giáo dục tại trường giáo dưỡng",
+      "nghĩa vụ"
+    ]
+  ]
+}

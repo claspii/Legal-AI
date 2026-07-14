@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "phạm tội",
+    "gian lận bảo hiểm y tế",
+    "chiếm đoạt tiền bảo hiểm y tế",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "gian lận bảo hiểm y tế",
+      "chiếm đoạt tiền bảo hiểm y tế"
+    ],
+    [
+      "gian lận bảo hiểm y tế",
+      "gây thiệt hại"
+    ]
+  ]
+}

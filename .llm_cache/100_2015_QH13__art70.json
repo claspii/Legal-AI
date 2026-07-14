@@ -1,0 +1,63 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp"
+  ],
+  "actions": [
+    "xóa án tích",
+    "chấp hành xong hình phạt chính",
+    "hết thời hiệu thi hành bản án",
+    "không thực hiện hành vi phạm tội mới",
+    "cập nhật thông tin",
+    "cấp phiếu lý lịch tư pháp"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "đương nhiên được xóa án tích"
+    ],
+    [
+      "người bị kết án",
+      "chấp hành xong hình phạt chính"
+    ],
+    [
+      "người bị kết án",
+      "hết thời hiệu thi hành bản án"
+    ],
+    [
+      "người bị kết án",
+      "không thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "cập nhật thông tin"
+    ],
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "cấp phiếu lý lịch tư pháp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người bị kết án",
+      "xóa án tích"
+    ],
+    [
+      "xóa án tích",
+      "hình phạt chính"
+    ],
+    [
+      "xóa án tích",
+      "thời hiệu thi hành bản án"
+    ],
+    [
+      "xóa án tích",
+      "hành vi phạm tội mới"
+    ],
+    [
+      "cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp",
+      "phiếu lý lịch tư pháp"
+    ]
+  ]
+}

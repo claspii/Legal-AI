@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "mỗi bên",
+    "bên đặt gia công",
+    "bên nhận gia công",
+    "bên đơn phương chấm dứt thực hiện hợp đồng",
+    "bên kia"
+  ],
+  "actions": [
+    "đơn phương chấm dứt thực hiện hợp đồng gia công",
+    "tiếp tục thực hiện hợp đồng",
+    "báo cho bên kia biết",
+    "trả tiền công",
+    "gây thiệt hại",
+    "bồi thường"
+  ],
+  "actor_actions": [
+    [
+      "mỗi bên",
+      "đơn phương chấm dứt thực hiện hợp đồng gia công"
+    ],
+    [
+      "mỗi bên",
+      "báo cho bên kia biết"
+    ],
+    [
+      "bên đặt gia công",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên đặt gia công",
+      "trả tiền công"
+    ],
+    [
+      "bên nhận gia công",
+      "đơn phương chấm dứt thực hiện hợp đồng"
+    ],
+    [
+      "bên đơn phương chấm dứt thực hiện hợp đồng",
+      "gây thiệt hại"
+    ],
+    [
+      "bên đơn phương chấm dứt thực hiện hợp đồng",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đơn phương chấm dứt thực hiện hợp đồng gia công",
+      "báo cho bên kia biết trước một thời gian hợp lý"
+    ],
+    [
+      "bên đặt gia công đơn phương chấm dứt thực hiện hợp đồng",
+      "trả tiền công tương ứng với công việc đã làm"
+    ],
+    [
+      "bên nhận gia công đơn phương chấm dứt thực hiện hợp đồng",
+      "không được trả tiền công"
+    ],
+    [
+      "bên đơn phương chấm dứt thực hiện hợp đồng mà gây thiệt hại",
+      "phải bồi thường"
+    ]
+  ]
+}

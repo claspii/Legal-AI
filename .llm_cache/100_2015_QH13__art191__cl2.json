@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "tàng trữ",
+    "vận chuyển",
+    "phạm tội",
+    "thu lợi bất chính",
+    "tái phạm"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan",
+      "lợi dụng danh nghĩa"
+    ],
+    [
+      "tổ chức",
+      "lợi dụng danh nghĩa"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tàng trữ",
+      "hàng cấm"
+    ],
+    [
+      "vận chuyển",
+      "hàng cấm"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "hàng phạm pháp",
+      "trị giá"
+    ],
+    [
+      "thu lợi",
+      "bất chính"
+    ],
+    [
+      "tái phạm",
+      "nguy hiểm"
+    ]
+  ]
+}

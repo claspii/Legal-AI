@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên gây thiệt hại",
+    "bên bị thiệt hại",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "thỏa thuận lựa chọn pháp luật áp dụng",
+    "bồi thường thiệt hại ngoài hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận lựa chọn pháp luật áp dụng"
+    ],
+    [
+      "bên gây thiệt hại",
+      "bồi thường thiệt hại ngoài hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên gây thiệt hại",
+      "bên bị thiệt hại"
+    ],
+    [
+      "pháp luật áp dụng",
+      "bồi thường thiệt hại ngoài hợp đồng"
+    ],
+    [
+      "nơi cư trú",
+      "cá nhân"
+    ],
+    [
+      "nơi thành lập",
+      "pháp nhân"
+    ]
+  ]
+}

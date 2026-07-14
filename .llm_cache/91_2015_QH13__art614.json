@@ -1,0 +1,44 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người thừa kế",
+    "người chết"
+  ],
+  "actions": [
+    "phát sinh quyền",
+    "phát sinh nghĩa vụ",
+    "để lại"
+  ],
+  "actor_actions": [
+    [
+      "người thừa kế",
+      "phát sinh quyền"
+    ],
+    [
+      "người thừa kế",
+      "phát sinh nghĩa vụ"
+    ],
+    [
+      "người chết",
+      "để lại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời điểm mở thừa kế",
+      "thời điểm phát sinh quyền"
+    ],
+    [
+      "thời điểm mở thừa kế",
+      "thời điểm phát sinh nghĩa vụ"
+    ],
+    [
+      "quyền tài sản",
+      "nghĩa vụ tài sản"
+    ],
+    [
+      "người thừa kế",
+      "người chết"
+    ]
+  ]
+}

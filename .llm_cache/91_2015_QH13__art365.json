@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền yêu cầu",
+    "người thế quyền",
+    "bên có quyền",
+    "bên có nghĩa vụ",
+    "người chuyển giao quyền yêu cầu"
+  ],
+  "actions": [
+    "chuyển giao quyền yêu cầu",
+    "thông báo",
+    "thanh toán chi phí",
+    "yêu cầu cấp dưỡng",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền yêu cầu",
+      "chuyển giao quyền yêu cầu"
+    ],
+    [
+      "người thế quyền",
+      "trở thành bên có quyền yêu cầu"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "thông báo"
+    ],
+    [
+      "người chuyển giao quyền yêu cầu",
+      "thanh toán chi phí"
+    ],
+    [
+      "bên có quyền",
+      "chuyển giao quyền yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên có quyền yêu cầu",
+      "người thế quyền"
+    ],
+    [
+      "bên có quyền yêu cầu",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "chuyển giao quyền yêu cầu",
+      "thông báo"
+    ],
+    [
+      "quyền yêu cầu cấp dưỡng",
+      "chuyển giao quyền yêu cầu"
+    ],
+    [
+      "quyền yêu cầu bồi thường thiệt hại",
+      "chuyển giao quyền yêu cầu"
+    ]
+  ]
+}

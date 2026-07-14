@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "vợ",
+    "chồng",
+    "con",
+    "tòa án"
+  ],
+  "actions": [
+    "kết hôn",
+    "chung sống như vợ chồng",
+    "ly hôn",
+    "tự sát",
+    "hủy việc kết hôn",
+    "chấm dứt việc chung sống"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "kết hôn"
+    ],
+    [
+      "người",
+      "chung sống như vợ chồng"
+    ],
+    [
+      "quan hệ hôn nhân",
+      "dẫn đến ly hôn"
+    ],
+    [
+      "vợ",
+      "tự sát"
+    ],
+    [
+      "chồng",
+      "tự sát"
+    ],
+    [
+      "con",
+      "tự sát"
+    ],
+    [
+      "tòa án",
+      "hủy việc kết hôn"
+    ],
+    [
+      "tòa án",
+      "buộc phải chấm dứt việc chung sống như vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "kết hôn",
+      "chung sống như vợ chồng"
+    ],
+    [
+      "hôn nhân",
+      "gia đình"
+    ]
+  ]
+}

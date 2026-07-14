@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên bảo đảm",
+    "bên nhận bảo đảm",
+    "bên có nghĩa vụ được bảo đảm",
+    "các bên"
+  ],
+  "actions": [
+    "thanh toán",
+    "xử lý tài sản cầm cố, thế chấp",
+    "thực hiện nghĩa vụ",
+    "thỏa thuận bổ sung tài sản bảo đảm",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "bên bảo đảm",
+      "được trả"
+    ],
+    [
+      "bên nhận bảo đảm",
+      "có quyền yêu cầu"
+    ],
+    [
+      "bên có nghĩa vụ được bảo đảm",
+      "phải thực hiện phần nghĩa vụ chưa được thanh toán"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận bổ sung tài sản bảo đảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản cầm cố",
+      "tài sản thế chấp"
+    ],
+    [
+      "tài sản cầm cố",
+      "nghĩa vụ được bảo đảm"
+    ],
+    [
+      "chi phí bảo quản",
+      "chi phí thu giữ"
+    ],
+    [
+      "chi phí thu giữ",
+      "chi phí xử lý tài sản cầm cố, thế chấp"
+    ],
+    [
+      "số tiền có được từ việc xử lý tài sản cầm cố, thế chấp",
+      "giá trị nghĩa vụ được bảo đảm"
+    ],
+    [
+      "phần nghĩa vụ chưa được thanh toán",
+      "nghĩa vụ không có bảo đảm"
+    ]
+  ]
+}

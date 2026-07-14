@@ -1,0 +1,18 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "gian lận bảo hiểm xã hội",
+    "gian lận bảo hiểm thất nghiệp",
+    "chiếm đoạt tiền bảo hiểm xã hội",
+    "chiếm đoạt tiền bảo hiểm thất nghiệp",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tiền bảo hiểm xã hội",
+      "tiền bảo hiểm thất nghiệp"
+    ]
+  ]
+}

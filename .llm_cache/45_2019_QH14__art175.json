@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người sử dụng lao động",
+    "ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở",
+    "tổ chức đại diện người lao động tại cơ sở"
+  ],
+  "actions": [
+    "phân biệt đối xử",
+    "thành lập",
+    "gia nhập",
+    "hoạt động",
+    "yêu cầu",
+    "tuyển dụng",
+    "giao kết",
+    "sa thải"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "phân biệt đối xử"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu tham gia"
+    ],
+    [
+      "người sử dụng lao động",
+      "sa thải"
+    ],
+    [
+      "người sử dụng lao động",
+      "can thiệp"
+    ],
+    [
+      "người sử dụng lao động",
+      "thao túng"
+    ],
+    [
+      "người sử dụng lao động",
+      "hỗ trợ tài chính"
+    ],
+    [
+      "người lao động",
+      "thành lập"
+    ],
+    [
+      "người lao động",
+      "gia nhập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người sử dụng lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "thành lập",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "hoạt động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "phân biệt đối xử",
+      "tiền lương"
+    ],
+    [
+      "phân biệt đối xử",
+      "thời giờ làm việc"
+    ]
+  ]
+}

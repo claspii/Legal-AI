@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người chịu trách nhiệm trực tiếp"
+  ],
+  "actions": [
+    "chịu trách nhiệm trực tiếp về việc điều động",
+    "chịu trách nhiệm trực tiếp về tình trạng kỹ thuật",
+    "cho phép đưa vào sử dụng các phương tiện, thiết bị không có giấy chứng nhận đăng ký, đăng kiểm",
+    "cho phép đưa vào sử dụng các phương tiện, thiết bị không bảo đảm tiêu chuẩn kỹ thuật, an toàn",
+    "gây thiệt hại",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "chịu trách nhiệm trực tiếp về việc điều động"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "chịu trách nhiệm trực tiếp về tình trạng kỹ thuật"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "cho phép đưa vào sử dụng các phương tiện, thiết bị không có giấy chứng nhận đăng ký, đăng kiểm"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "cho phép đưa vào sử dụng các phương tiện, thiết bị không bảo đảm tiêu chuẩn kỹ thuật, an toàn"
+    ],
+    [
+      "người chịu trách nhiệm trực tiếp",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương tiện, thiết bị giao thông đường sắt",
+      "không bảo đảm an toàn"
+    ],
+    [
+      "phương tiện, thiết bị giao thông đường sắt",
+      "không có giấy chứng nhận đăng ký, đăng kiểm"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thiệt hại về tài sản"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "gây thương tích",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "bị cấm đảm nhiệm chức vụ",
+      "bị cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người khác"
+  ],
+  "actions": [
+    "vượt qua",
+    "sử dụng",
+    "xâm nhập trái phép",
+    "chiếm quyền điều khiển",
+    "can thiệp",
+    "lấy cắp",
+    "thay đổi",
+    "hủy hoại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vượt qua"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "xâm nhập trái phép"
+    ],
+    [
+      "người",
+      "chiếm quyền điều khiển"
+    ],
+    [
+      "người",
+      "can thiệp"
+    ],
+    [
+      "người",
+      "lấy cắp"
+    ],
+    [
+      "người",
+      "thay đổi"
+    ],
+    [
+      "người",
+      "hủy hoại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "cảnh báo",
+      "mã truy cập"
+    ],
+    [
+      "mã truy cập",
+      "tường lửa"
+    ],
+    [
+      "dữ liệu",
+      "dịch vụ"
+    ]
+  ]
+}

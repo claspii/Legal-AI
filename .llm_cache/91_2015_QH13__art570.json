@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đã công khai hứa thưởng",
+    "người hứa thưởng",
+    "người đã thực hiện công việc"
+  ],
+  "actions": [
+    "hứa thưởng",
+    "trả thưởng",
+    "thực hiện công việc",
+    "không vi phạm điều cấm của luật",
+    "không trái đạo đức xã hội"
+  ],
+  "actor_actions": [
+    [
+      "người đã công khai hứa thưởng",
+      "trả thưởng"
+    ],
+    [
+      "người đã thực hiện công việc",
+      "thực hiện công việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hứa thưởng",
+      "trả thưởng"
+    ],
+    [
+      "người hứa thưởng",
+      "công việc được hứa thưởng"
+    ],
+    [
+      "công việc được hứa thưởng",
+      "không vi phạm điều cấm của luật"
+    ],
+    [
+      "công việc được hứa thưởng",
+      "không trái đạo đức xã hội"
+    ]
+  ]
+}

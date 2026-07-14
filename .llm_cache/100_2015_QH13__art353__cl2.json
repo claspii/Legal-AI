@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cán bộ",
+    "công chức",
+    "viên chức",
+    "người lao động",
+    "người có công với cách mạng"
+  ],
+  "actions": [
+    "phạm tội",
+    "chiếm đoạt",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "dùng thủ đoạn xảo quyệt, nguy hiểm"
+    ],
+    [
+      "chiếm đoạt",
+      "tài sản"
+    ],
+    [
+      "gây thiệt hại",
+      "tài sản"
+    ],
+    [
+      "xóa đói",
+      "giảm nghèo"
+    ],
+    [
+      "thiên tai",
+      "dịch bệnh"
+    ]
+  ]
+}

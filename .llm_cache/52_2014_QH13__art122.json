@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cộng hòa xã hội chủ nghĩa việt nam"
+  ],
+  "actions": [
+    "áp dụng pháp luật",
+    "áp dụng quy định"
+  ],
+  "actor_actions": [
+    [
+      "cộng hòa xã hội chủ nghĩa việt nam",
+      "là thành viên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật về hôn nhân và gia đình của nước cộng hòa xã hội chủ nghĩa việt nam",
+      "quan hệ hôn nhân và gia đình có yếu tố nước ngoài"
+    ],
+    [
+      "luật này",
+      "điều ước quốc tế"
+    ],
+    [
+      "pháp luật việt nam",
+      "pháp luật nước ngoài"
+    ],
+    [
+      "luật này",
+      "các văn bản pháp luật khác của việt nam"
+    ],
+    [
+      "điều ước quốc tế",
+      "pháp luật nước ngoài"
+    ]
+  ]
+}

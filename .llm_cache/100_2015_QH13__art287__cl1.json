@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "xóa",
+    "làm tổn hại",
+    "thay đổi phần mềm",
+    "ngăn chặn trái phép việc truyền tải dữ liệu",
+    "cản trở hoạt động",
+    "gây rối loạn hoạt động",
+    "thu lợi bất chính",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "tự ý xóa"
+    ],
+    [
+      "người",
+      "làm tổn hại"
+    ],
+    [
+      "người",
+      "thay đổi phần mềm"
+    ],
+    [
+      "người",
+      "ngăn chặn trái phép việc truyền tải dữ liệu"
+    ],
+    [
+      "người",
+      "cản trở hoạt động"
+    ],
+    [
+      "người",
+      "gây rối loạn hoạt động"
+    ],
+    [
+      "người",
+      "thu lợi bất chính"
+    ],
+    [
+      "người",
+      "gây thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "mạng máy tính",
+      "phương tiện điện tử"
+    ],
+    [
+      "mạng viễn thông",
+      "phương tiện điện tử"
+    ],
+    [
+      "thu lợi bất chính",
+      "gây thiệt hại"
+    ]
+  ]
+}

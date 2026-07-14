@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "lập thành văn bản",
+    "thực hiện hợp đồng",
+    "phù hợp với quy định",
+    "đúng trình tự, thủ tục"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hợp đồng về quyền sử dụng đất",
+      "hình thức"
+    ],
+    [
+      "hợp đồng về quyền sử dụng đất",
+      "thủ tục"
+    ],
+    [
+      "hình thức hợp đồng về quyền sử dụng đất",
+      "quy định của Bộ luật này"
+    ],
+    [
+      "hình thức hợp đồng về quyền sử dụng đất",
+      "pháp luật về đất đai"
+    ],
+    [
+      "hình thức hợp đồng về quyền sử dụng đất",
+      "quy định khác của pháp luật có liên quan"
+    ],
+    [
+      "thực hiện hợp đồng về quyền sử dụng đất",
+      "trình tự"
+    ],
+    [
+      "thực hiện hợp đồng về quyền sử dụng đất",
+      "thủ tục"
+    ],
+    [
+      "thực hiện hợp đồng về quyền sử dụng đất",
+      "pháp luật về đất đai"
+    ]
+  ]
+}

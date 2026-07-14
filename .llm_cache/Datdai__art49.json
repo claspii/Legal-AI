@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "địa giới đơn vị hành chính"
+  ],
+  "actors": [],
+  "actions": [
+    "lập",
+    "thể hiện thông tin",
+    "thành lập",
+    "nhập",
+    "chia",
+    "điều chỉnh"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "địa giới đơn vị hành chính",
+      "đơn vị hành chính cấp xã"
+    ],
+    [
+      "địa giới đơn vị hành chính",
+      "đơn vị hành chính cấp huyện"
+    ],
+    [
+      "địa giới đơn vị hành chính",
+      "đơn vị hành chính cấp tỉnh"
+    ],
+    [
+      "hồ sơ địa giới đơn vị hành chính",
+      "thông tin về việc thành lập"
+    ],
+    [
+      "hồ sơ địa giới đơn vị hành chính",
+      "thông tin về việc nhập"
+    ],
+    [
+      "hồ sơ địa giới đơn vị hành chính",
+      "thông tin về việc chia"
+    ],
+    [
+      "hồ sơ địa giới đơn vị hành chính",
+      "thông tin về việc điều chỉnh địa giới đơn vị hành chính"
+    ],
+    [
+      "hồ sơ địa giới đơn vị hành chính",
+      "mốc địa giới"
+    ]
+  ]
+}

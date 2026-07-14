@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "con",
+    "con nuôi",
+    "cha nuôi",
+    "mẹ nuôi",
+    "con chưa thành niên",
+    "con đã thành niên mất năng lực hành vi dân sự",
+    "cha mẹ mất năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "bảo vệ",
+    "tôn trọng",
+    "sinh ra",
+    "nuôi con nuôi",
+    "thỏa thuận",
+    "làm ảnh hưởng"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "bảo vệ"
+    ],
+    [
+      "con",
+      "bảo vệ"
+    ],
+    [
+      "con",
+      "sinh ra"
+    ],
+    [
+      "cha mẹ",
+      "thỏa thuận"
+    ],
+    [
+      "con",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "cha mẹ",
+      "con"
+    ],
+    [
+      "con nuôi",
+      "cha nuôi"
+    ],
+    [
+      "con nuôi",
+      "mẹ nuôi"
+    ],
+    [
+      "quan hệ nhân thân",
+      "tài sản"
+    ],
+    [
+      "quyền",
+      "lợi ích hợp pháp"
+    ],
+    [
+      "con chưa thành niên",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "con không có khả năng lao động",
+      "con không có tài sản để tự nuôi mình"
+    ]
+  ]
+}

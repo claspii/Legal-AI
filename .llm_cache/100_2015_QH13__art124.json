@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người mẹ",
+    "con",
+    "đứa trẻ"
+  ],
+  "actions": [
+    "giết con",
+    "vứt bỏ con",
+    "phạt tù",
+    "phạt cải tạo không giam giữ"
+  ],
+  "actor_actions": [
+    [
+      "người mẹ",
+      "giết con"
+    ],
+    [
+      "người mẹ",
+      "vứt bỏ con"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giết con",
+      "vứt bỏ con"
+    ],
+    [
+      "tư tưởng lạc hậu",
+      "giết con"
+    ],
+    [
+      "tư tưởng lạc hậu",
+      "vứt bỏ con"
+    ],
+    [
+      "hoàn cảnh khách quan đặc biệt",
+      "giết con"
+    ],
+    [
+      "hoàn cảnh khách quan đặc biệt",
+      "vứt bỏ con"
+    ],
+    [
+      "07 ngày tuổi",
+      "giết con"
+    ],
+    [
+      "07 ngày tuổi",
+      "vứt bỏ con"
+    ]
+  ]
+}

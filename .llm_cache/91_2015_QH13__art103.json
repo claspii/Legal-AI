@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "thành viên hộ gia đình",
+    "tổ hợp tác",
+    "tổ chức khác không có tư cách pháp nhân",
+    "người có quyền",
+    "các bên"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "tham gia quan hệ dân sự",
+    "chịu trách nhiệm dân sự",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "người có quyền",
+      "yêu cầu các thành viên thực hiện nghĩa vụ"
+    ],
+    [
+      "các thành viên",
+      "chịu trách nhiệm dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+      "nghĩa vụ dân sự"
+    ],
+    [
+      "nghĩa vụ dân sự",
+      "tài sản chung của các thành viên"
+    ],
+    [
+      "các thành viên",
+      "nghĩa vụ chung"
+    ],
+    [
+      "nghĩa vụ chung",
+      "tài sản chung"
+    ],
+    [
+      "trách nhiệm dân sự",
+      "phần đóng góp tài sản"
+    ]
+  ]
+}

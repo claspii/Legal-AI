@@ -1,0 +1,61 @@
+{
+  "concepts_defined": [
+    "người thân thích của người được giám hộ"
+  ],
+  "actors": [
+    "người thân thích của người được giám hộ",
+    "người được giám hộ",
+    "người giám sát việc giám hộ",
+    "cá nhân",
+    "pháp nhân",
+    "ủy ban nhân dân cấp xã"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "cử",
+    "chọn",
+    "giám sát việc giám hộ",
+    "đăng ký",
+    "quản lý tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người thân thích của người được giám hộ",
+      "thỏa thuận"
+    ],
+    [
+      "người thân thích của người được giám hộ",
+      "cử"
+    ],
+    [
+      "người thân thích của người được giám hộ",
+      "chọn"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "đăng ký"
+    ],
+    [
+      "người giám sát",
+      "đăng ký"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người thân thích của người được giám hộ",
+      "người giám sát việc giám hộ"
+    ],
+    [
+      "người được giám hộ",
+      "giám sát việc giám hộ"
+    ],
+    [
+      "người giám sát việc giám hộ",
+      "quản lý tài sản"
+    ],
+    [
+      "người giám sát",
+      "ủy ban nhân dân cấp xã"
+    ]
+  ]
+}

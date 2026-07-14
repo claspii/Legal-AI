@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "lính đánh thuê",
+    "quốc gia",
+    "vùng lãnh thổ"
+  ],
+  "actions": [
+    "tuyển mộ",
+    "huấn luyện",
+    "sử dụng",
+    "chống lại",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "tuyển mộ"
+    ],
+    [
+      "người nào",
+      "huấn luyện"
+    ],
+    [
+      "người nào",
+      "sử dụng"
+    ],
+    [
+      "lính đánh thuê",
+      "chống lại"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tuyển mộ",
+      "lính đánh thuê"
+    ],
+    [
+      "huấn luyện",
+      "lính đánh thuê"
+    ],
+    [
+      "sử dụng",
+      "lính đánh thuê"
+    ],
+    [
+      "lính đánh thuê",
+      "chống lại"
+    ],
+    [
+      "quốc gia",
+      "vùng lãnh thổ"
+    ]
+  ]
+}

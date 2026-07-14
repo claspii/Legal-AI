@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "gia đình"
+  ],
+  "actions": [
+    "ly hôn",
+    "tạo lập",
+    "duy trì",
+    "phát triển",
+    "vi phạm",
+    "tiếp tục lao động tạo thu nhập"
+  ],
+  "actor_actions": [
+    [
+      "vợ, chồng",
+      "tạo lập"
+    ],
+    [
+      "vợ, chồng",
+      "duy trì"
+    ],
+    [
+      "vợ, chồng",
+      "phát triển"
+    ],
+    [
+      "vợ, chồng",
+      "vi phạm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "tài sản chung của vợ chồng",
+      "ly hôn"
+    ],
+    [
+      "công sức đóng góp của vợ, chồng",
+      "tạo lập, duy trì và phát triển khối tài sản chung"
+    ],
+    [
+      "lợi ích chính đáng của mỗi bên",
+      "sản xuất, kinh doanh và nghề nghiệp"
+    ],
+    [
+      "lỗi của mỗi bên",
+      "vi phạm quyền, nghĩa vụ của vợ chồng"
+    ]
+  ]
+}

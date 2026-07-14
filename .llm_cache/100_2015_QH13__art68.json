@@ -1,0 +1,22 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người đang chấp hành hình phạt tù"
+  ],
+  "actions": [
+    "tạm đình chỉ chấp hành hình phạt tù",
+    "chấp hành hình phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người đang chấp hành hình phạt tù",
+      "tạm đình chỉ chấp hành hình phạt tù"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tạm đình chỉ chấp hành hình phạt tù",
+      "thời gian chấp hành hình phạt tù"
+    ]
+  ]
+}

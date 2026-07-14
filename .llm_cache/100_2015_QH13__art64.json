@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị kết án",
+    "tòa án"
+  ],
+  "actions": [
+    "lập công",
+    "mắc bệnh hiểm nghèo",
+    "xét giảm"
+  ],
+  "actor_actions": [
+    [
+      "người bị kết án",
+      "lập công"
+    ],
+    [
+      "người bị kết án",
+      "mắc bệnh hiểm nghèo"
+    ],
+    [
+      "tòa án",
+      "xét giảm"
+    ]
+  ],
+  "related_concepts": []
+}

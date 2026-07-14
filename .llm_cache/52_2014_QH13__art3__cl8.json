@@ -1,0 +1,34 @@
+{
+  "concepts_defined": [
+    "tảo hôn"
+  ],
+  "actors": [
+    "vợ",
+    "chồng"
+  ],
+  "actions": [
+    "lấy vợ",
+    "lấy chồng",
+    "kết hôn"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "lấy vợ"
+    ],
+    [
+      "chồng",
+      "lấy chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tảo hôn",
+      "kết hôn"
+    ],
+    [
+      "lấy vợ",
+      "lấy chồng"
+    ]
+  ]
+}

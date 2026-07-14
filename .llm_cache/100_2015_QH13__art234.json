@@ -1,0 +1,97 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "săn bắt",
+    "giết",
+    "nuôi",
+    "nhốt",
+    "vận chuyển",
+    "buôn bán trái phép",
+    "tàng trữ",
+    "phạm tội",
+    "bị phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "đình chỉ hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện"
+    ],
+    [
+      "người",
+      "săn bắt"
+    ],
+    [
+      "người",
+      "giết"
+    ],
+    [
+      "người",
+      "nuôi"
+    ],
+    [
+      "người",
+      "nhốt"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "buôn bán trái phép"
+    ],
+    [
+      "người",
+      "tàng trữ"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động vật nguy cấp, quý, hiếm nhóm iib",
+      "phụ lục ii của công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp"
+    ],
+    [
+      "săn bắt",
+      "giết"
+    ],
+    [
+      "nuôi",
+      "nhốt"
+    ],
+    [
+      "vận chuyển",
+      "buôn bán trái phép"
+    ],
+    [
+      "cá thể",
+      "bộ phận cơ thể"
+    ],
+    [
+      "bộ phận cơ thể",
+      "sản phẩm của loài động vật"
+    ],
+    [
+      "động vật",
+      "bộ phận cơ thể"
+    ],
+    [
+      "phạt tiền",
+      "cải tạo không giam giữ"
+    ]
+  ]
+}

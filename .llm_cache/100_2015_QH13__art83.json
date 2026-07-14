@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "quyết định hình phạt",
+    "cân nhắc",
+    "chấp hành pháp luật"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "quyết định hình phạt"
+    ],
+    [
+      "tòa án",
+      "căn cứ"
+    ],
+    [
+      "tòa án",
+      "cân nhắc"
+    ],
+    [
+      "pháp nhân thương mại",
+      "chấp hành pháp luật"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt",
+      "pháp nhân thương mại phạm tội"
+    ],
+    [
+      "tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội",
+      "quyết định hình phạt"
+    ],
+    [
+      "việc chấp hành pháp luật của pháp nhân thương mại",
+      "quyết định hình phạt"
+    ],
+    [
+      "tình tiết giảm nhẹ",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "tình tiết tăng nặng",
+      "trách nhiệm hình sự"
+    ]
+  ]
+}

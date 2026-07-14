@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [
+    "thời hiệu truy cứu trách nhiệm hình sự"
+  ],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "truy cứu trách nhiệm hình sự",
+    "thực hiện hành vi phạm tội mới",
+    "trốn tránh",
+    "ra đầu thú",
+    "bị bắt giữ"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "thực hiện hành vi phạm tội mới"
+    ],
+    [
+      "người phạm tội",
+      "trốn tránh"
+    ],
+    [
+      "người đó",
+      "ra đầu thú"
+    ],
+    [
+      "người đó",
+      "bị bắt giữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "tội phạm ít nghiêm trọng"
+    ],
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "tội phạm nghiêm trọng"
+    ],
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "tội phạm rất nghiêm trọng"
+    ],
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "tội phạm đặc biệt nghiêm trọng"
+    ],
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "hành vi phạm tội mới"
+    ],
+    [
+      "thời hiệu truy cứu trách nhiệm hình sự",
+      "quyết định truy nã"
+    ]
+  ]
+}

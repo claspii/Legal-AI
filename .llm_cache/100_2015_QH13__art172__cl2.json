@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "công nhiên chiếm đoạt tài sản",
+    "chiếm đoạt tài sản",
+    "hành hung để tẩu thoát",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "công nhiên chiếm đoạt tài sản",
+      "tài sản trị giá từ 50.000.000 đồng đến dưới 200.000.000 đồng"
+    ],
+    [
+      "công nhiên chiếm đoạt tài sản",
+      "hành hung để tẩu thoát"
+    ],
+    [
+      "công nhiên chiếm đoạt tài sản",
+      "tái phạm nguy hiểm"
+    ],
+    [
+      "công nhiên chiếm đoạt tài sản",
+      "tài sản là hàng cứu trợ"
+    ],
+    [
+      "công nhiên chiếm đoạt tài sản",
+      "tài sản trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng"
+    ]
+  ]
+}

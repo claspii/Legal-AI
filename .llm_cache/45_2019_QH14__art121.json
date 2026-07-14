@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cơ quan nhà nước có thẩm quyền",
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "nhận hồ sơ",
+    "ban hành",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "cơ quan nhà nước có thẩm quyền",
+      "nhận hồ sơ"
+    ],
+    [
+      "người sử dụng lao động",
+      "ban hành"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nội quy lao động",
+      "hiệu lực"
+    ],
+    [
+      "nội quy lao động",
+      "hồ sơ đăng ký nội quy lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "nội quy lao động"
+    ]
+  ]
+}

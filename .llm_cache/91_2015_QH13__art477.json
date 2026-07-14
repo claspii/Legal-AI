@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên cho thuê",
+    "bên thuê"
+  ],
+  "actions": [
+    "bảo đảm giá trị sử dụng của tài sản thuê",
+    "sửa chữa",
+    "giảm giá thuê",
+    "đổi tài sản khác",
+    "đơn phương chấm dứt thực hiện hợp đồng",
+    "yêu cầu bồi thường thiệt hại",
+    "tự sửa chữa tài sản thuê",
+    "thanh toán chi phí sửa chữa"
+  ],
+  "actor_actions": [
+    [
+      "bên cho thuê",
+      "bảo đảm tài sản thuê trong tình trạng như đã thỏa thuận"
+    ],
+    [
+      "bên cho thuê",
+      "sửa chữa những hư hỏng, khuyết tật của tài sản thuê"
+    ],
+    [
+      "bên thuê",
+      "yêu cầu bên cho thuê thực hiện một hoặc một số biện pháp"
+    ],
+    [
+      "bên thuê",
+      "yêu cầu bên cho thuê thanh toán chi phí sửa chữa"
+    ],
+    [
+      "bên thuê",
+      "tự sửa chữa tài sản thuê"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên cho thuê",
+      "bên thuê"
+    ],
+    [
+      "tài sản thuê",
+      "mục đích thuê"
+    ],
+    [
+      "hư hỏng, khuyết tật của tài sản thuê",
+      "sửa chữa"
+    ],
+    [
+      "tài sản thuê bị giảm sút giá trị sử dụng",
+      "biện pháp"
+    ]
+  ]
+}

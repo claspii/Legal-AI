@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người dưới 16 tuổi",
+    "người từ đủ 13 tuổi đến dưới 16 tuổi",
+    "người dưới 13 tuổi"
+  ],
+  "actions": [
+    "thực hiện hành vi",
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "lợi dụng tình trạng không thể tự vệ",
+    "giao cấu",
+    "thực hiện hành vi quan hệ tình dục khác"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "lợi dụng tình trạng không thể tự vệ"
+    ],
+    [
+      "người",
+      "giao cấu"
+    ],
+    [
+      "người",
+      "thực hiện hành vi quan hệ tình dục khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 16 tuổi",
+      "tội hiếp dâm người dưới 16 tuổi"
+    ],
+    [
+      "người từ đủ 13 tuổi đến dưới 16 tuổi",
+      "giao cấu"
+    ],
+    [
+      "người dưới 13 tuổi",
+      "giao cấu"
+    ],
+    [
+      "vũ lực",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "giao cấu",
+      "quan hệ tình dục khác"
+    ]
+  ]
+}

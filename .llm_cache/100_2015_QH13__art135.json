@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người khác",
+    "nạn nhân",
+    "người đó",
+    "người thân thích"
+  ],
+  "actions": [
+    "cố ý gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "cố ý gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tình thần bị kích động mạnh"
+    ],
+    [
+      "hành vi trái pháp luật nghiêm trọng",
+      "nạn nhân"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tù",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "chết người"
+    ]
+  ]
+}

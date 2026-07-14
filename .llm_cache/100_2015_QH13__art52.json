@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 16 tuổi",
+    "phụ nữ có thai",
+    "người đủ 70 tuổi trở lên",
+    "người ở trong tình trạng không thể tự vệ được",
+    "người khuyết tật nặng",
+    "người khuyết tật đặc biệt nặng",
+    "người bị hạn chế khả năng nhận thức",
+    "người lệ thuộc mình về mặt vật chất, tinh thần, công tác hoặc các mặt khác"
+  ],
+  "actions": [
+    "phạm tội có tổ chức",
+    "phạm tội có tính chất chuyên nghiệp",
+    "lợi dụng chức vụ, quyền hạn để phạm tội",
+    "phạm tội có tính chất côn đồ",
+    "phạm tội vì động cơ đê hèn",
+    "cố tình thực hiện tội phạm đến cùng",
+    "phạm tội 02 lần trở lên",
+    "tái phạm",
+    "tái phạm nguy hiểm",
+    "lợi dụng hoàn cảnh chiến tranh, tình trạng khẩn cấp, thiên tai, dịch bệnh hoặc những khó khăn đặc biệt khác của xã hội để phạm tội",
+    "dùng thủ đoạn tinh vi, xảo quyệt, tàn ác để phạm tội",
+    "dùng thủ đoạn, phương tiện có khả năng gây nguy hại cho nhiều người để phạm tội",
+    "xúi giục người dưới 18 tuổi phạm tội",
+    "có hành động xảo quyệt hoặc hung hãn nhằm trốn tránh hoặc che giấu tội phạm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "phạm tội có tổ chức"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "phạm tội có tính chất chuyên nghiệp"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "lợi dụng chức vụ, quyền hạn để phạm tội"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "phạm tội có tính chất côn đồ"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "phạm tội vì động cơ đê hèn"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "cố tình thực hiện tội phạm đến cùng"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "phạm tội 02 lần trở lên"
+    ],
+    [
+      "tình tiết tăng nặng trách nhiệm hình sự",
+      "tái phạm"
+    ]
+  ]
+}

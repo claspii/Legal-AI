@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "phụ nữ",
+    "thầy thuốc",
+    "nhân viên y tế",
+    "người thi hành công vụ"
+  ],
+  "actions": [
+    "lây truyền hiv",
+    "bị phạt tù",
+    "quan hệ tình dục",
+    "chữa bệnh"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lây truyền hiv"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "nạn nhân",
+      "quan hệ tình dục"
+    ],
+    [
+      "thầy thuốc",
+      "chữa bệnh"
+    ],
+    [
+      "nhân viên y tế",
+      "chữa bệnh"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "nhiễm hiv"
+    ],
+    [
+      "lây truyền hiv",
+      "bị phạt tù"
+    ],
+    [
+      "nạn nhân",
+      "tình trạng nhiễm hiv"
+    ],
+    [
+      "phụ nữ",
+      "có thai"
+    ],
+    [
+      "thầy thuốc",
+      "chữa bệnh"
+    ],
+    [
+      "nhân viên y tế",
+      "chữa bệnh"
+    ],
+    [
+      "người thi hành công vụ",
+      "lý do công vụ"
+    ]
+  ]
+}

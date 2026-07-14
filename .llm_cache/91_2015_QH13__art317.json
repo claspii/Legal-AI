@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "thế chấp tài sản"
+  ],
+  "actors": [
+    "bên thế chấp",
+    "bên nhận thế chấp",
+    "các bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "dùng tài sản để bảo đảm thực hiện nghĩa vụ",
+    "không giao tài sản",
+    "giữ tài sản",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "bên thế chấp",
+      "dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ"
+    ],
+    [
+      "bên thế chấp",
+      "không giao tài sản"
+    ],
+    [
+      "bên thế chấp",
+      "giữ tài sản thế chấp"
+    ],
+    [
+      "các bên",
+      "thỏa thuận giao cho người thứ ba giữ tài sản thế chấp"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản thế chấp",
+      "bên thế chấp"
+    ],
+    [
+      "tài sản thế chấp",
+      "bên nhận thế chấp"
+    ],
+    [
+      "thế chấp tài sản",
+      "bảo đảm thực hiện nghĩa vụ"
+    ]
+  ]
+}

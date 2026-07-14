@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người bị xâm phạm"
+  ],
+  "actions": [
+    "phạm tội",
+    "phạt tiền",
+    "phạt tù",
+    "thu lợi bất chính",
+    "gây thiệt hại",
+    "xâm phạm bí mật cá nhân",
+    "gây ảnh hưởng xấu",
+    "dẫn đến biểu tình",
+    "tự sát"
+  ],
+  "actor_actions": [
+    [
+      "người bị xâm phạm",
+      "tự sát"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thông tin mạng máy tính",
+      "mạng viễn thông"
+    ],
+    [
+      "an ninh",
+      "trật tự"
+    ],
+    [
+      "trật tự",
+      "an toàn xã hội"
+    ],
+    [
+      "an toàn xã hội",
+      "quan hệ đối ngoại của việt nam"
+    ]
+  ]
+}

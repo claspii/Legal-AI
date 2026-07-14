@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [
+    "sở hữu chung hợp nhất"
+  ],
+  "actors": [
+    "chủ sở hữu chung",
+    "chủ sở hữu chung hợp nhất"
+  ],
+  "actions": [
+    "xác định",
+    "phân chia"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "sở hữu chung hợp nhất",
+      "sở hữu chung hợp nhất có thể phân chia"
+    ],
+    [
+      "sở hữu chung hợp nhất",
+      "sở hữu chung hợp nhất không phân chia"
+    ],
+    [
+      "sở hữu chung hợp nhất",
+      "tài sản chung"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "quyền"
+    ],
+    [
+      "chủ sở hữu chung hợp nhất",
+      "nghĩa vụ"
+    ]
+  ]
+}

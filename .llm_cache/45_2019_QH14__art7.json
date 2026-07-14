@@ -1,0 +1,101 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "tổ chức đại diện người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động",
+    "cơ quan nhà nước có thẩm quyền",
+    "công đoàn",
+    "phòng thương mại và công nghiệp việt nam",
+    "liên minh hợp tác xã việt nam"
+  ],
+  "actions": [
+    "xây dựng quan hệ lao động",
+    "xác lập quan hệ lao động",
+    "hỗ trợ xây dựng quan hệ lao động",
+    "giám sát việc thi hành quy định của pháp luật về lao động",
+    "bảo vệ quyền và lợi ích hợp pháp, chính đáng",
+    "tham gia xây dựng quan hệ lao động"
+  ],
+  "actor_actions": [
+    [
+      "quan hệ lao động",
+      "được xác lập qua đối thoại, thương lượng, thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "tổ chức đại diện người sử dụng lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "người lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "tổ chức đại diện người lao động",
+      "xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "công đoàn",
+      "tham gia cùng với cơ quan nhà nước có thẩm quyền hỗ trợ xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "công đoàn",
+      "giám sát việc thi hành quy định của pháp luật về lao động"
+    ],
+    [
+      "công đoàn",
+      "bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động"
+    ],
+    [
+      "phòng thương mại và công nghiệp việt nam",
+      "có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động"
+    ],
+    [
+      "phòng thương mại và công nghiệp việt nam",
+      "tham gia xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "liên minh hợp tác xã việt nam",
+      "có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động"
+    ],
+    [
+      "liên minh hợp tác xã việt nam",
+      "tham gia xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quan hệ lao động",
+      "đối thoại"
+    ],
+    [
+      "quan hệ lao động",
+      "thương lượng"
+    ],
+    [
+      "quan hệ lao động",
+      "thỏa thuận"
+    ],
+    [
+      "người lao động",
+      "quyền và lợi ích hợp pháp"
+    ],
+    [
+      "người sử dụng lao động",
+      "quyền và lợi ích hợp pháp"
+    ],
+    [
+      "quan hệ lao động",
+      "tiến bộ, hài hòa và ổn định"
+    ],
+    [
+      "pháp luật về lao động",
+      "quy định"
+    ]
+  ]
+}

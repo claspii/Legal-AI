@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "vận chuyển trái phép chất ma túy",
+    "phạm tội"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhựa thuốc phiện",
+      "nhựa cần sa"
+    ],
+    [
+      "nhựa thuốc phiện",
+      "cao cô ca"
+    ],
+    [
+      "nhựa cần sa",
+      "cao cô ca"
+    ],
+    [
+      "hêrôin",
+      "côcain"
+    ],
+    [
+      "hêrôin",
+      "methamphetamine"
+    ],
+    [
+      "hêrôin",
+      "amphetamine"
+    ],
+    [
+      "hêrôin",
+      "mdma"
+    ],
+    [
+      "lá, rễ, thân, cành, hoa, quả cây cần sa",
+      "lá cây côca"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "người lao động"
+  ],
+  "actions": [
+    "chịu trách nhiệm hình sự",
+    "buôn lậu",
+    "vận chuyển trái phép hàng hóa",
+    "sản xuất hàng cấm",
+    "buôn bán hàng cấm",
+    "tàng trữ hàng cấm",
+    "sản xuất hàng giả",
+    "buôn bán hàng giả"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "chịu trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân thương mại",
+      "trách nhiệm hình sự"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội buôn lậu"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội vận chuyển trái phép hàng hóa, tiền tệ qua biên giới"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội sản xuất, buôn bán hàng cấm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội tàng trữ, vận chuyển hàng cấm"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội sản xuất, buôn bán hàng giả"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tội trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp"
+    ]
+  ]
+}

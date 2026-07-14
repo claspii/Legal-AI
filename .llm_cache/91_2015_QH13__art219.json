@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung",
+    "người yêu cầu",
+    "người có quyền",
+    "người có nghĩa vụ"
+  ],
+  "actions": [
+    "yêu cầu chia tài sản chung",
+    "duy trì tình trạng sở hữu chung",
+    "bán phần quyền sở hữu của mình",
+    "thực hiện nghĩa vụ thanh toán",
+    "tham gia vào việc chia tài sản chung"
+  ],
+  "actor_actions": [
+    [
+      "mỗi chủ sở hữu chung",
+      "yêu cầu chia tài sản chung"
+    ],
+    [
+      "mỗi chủ sở hữu chung",
+      "bán phần quyền sở hữu của mình"
+    ],
+    [
+      "người yêu cầu",
+      "yêu cầu một người trong số các chủ sở hữu chung thực hiện nghĩa vụ thanh toán"
+    ],
+    [
+      "người yêu cầu",
+      "yêu cầu chia tài sản chung"
+    ],
+    [
+      "người yêu cầu",
+      "tham gia vào việc chia tài sản chung"
+    ],
+    [
+      "người có quyền",
+      "yêu cầu người có nghĩa vụ bán phần quyền sở hữu của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sở hữu chung",
+      "chia tài sản chung"
+    ],
+    [
+      "tài sản chung",
+      "phần quyền sở hữu"
+    ],
+    [
+      "nghĩa vụ thanh toán",
+      "tài sản riêng"
+    ]
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người đó"
+  ],
+  "actions": [
+    "ly hôn",
+    "giải quyết",
+    "sở hữu",
+    "sáp nhập",
+    "trộn lẫn",
+    "yêu cầu",
+    "thanh toán",
+    "đóng góp",
+    "thỏa thuận"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "ly hôn"
+    ],
+    [
+      "chồng",
+      "ly hôn"
+    ],
+    [
+      "người đó",
+      "sở hữu"
+    ],
+    [
+      "vợ",
+      "sáp nhập"
+    ],
+    [
+      "chồng",
+      "sáp nhập"
+    ],
+    [
+      "vợ",
+      "trộn lẫn"
+    ],
+    [
+      "chồng",
+      "trộn lẫn"
+    ],
+    [
+      "vợ",
+      "yêu cầu"
+    ],
+    [
+      "chồng",
+      "yêu cầu"
+    ],
+    [
+      "vợ",
+      "thanh toán"
+    ],
+    [
+      "chồng",
+      "thanh toán"
+    ],
+    [
+      "vợ",
+      "đóng góp"
+    ],
+    [
+      "chồng",
+      "đóng góp"
+    ],
+    [
+      "vợ",
+      "thỏa thuận"
+    ],
+    [
+      "chồng",
+      "thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản riêng của vợ",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản riêng của chồng",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản riêng",
+      "tài sản chung"
+    ],
+    [
+      "sáp nhập tài sản riêng",
+      "tài sản chung"
+    ],
+    [
+      "trộn lẫn tài sản riêng",
+      "tài sản chung"
+    ],
+    [
+      "chia tài sản",
+      "thanh toán phần giá trị tài sản"
+    ],
+    [
+      "ly hôn",
+      "giải quyết tài sản"
+    ]
+  ]
+}

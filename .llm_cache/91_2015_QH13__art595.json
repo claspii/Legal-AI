@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người gây thiệt hại",
+    "người bị thiệt hại",
+    "người đã gây ra tình thế cấp thiết"
+  ],
+  "actions": [
+    "bồi thường",
+    "gây thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người gây thiệt hại",
+      "bồi thường"
+    ],
+    [
+      "người đã gây ra tình thế cấp thiết",
+      "bồi thường"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thiệt hại",
+      "tình thế cấp thiết"
+    ],
+    [
+      "thiệt hại",
+      "bồi thường"
+    ]
+  ]
+}

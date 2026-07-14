@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lập di chúc"
+  ],
+  "actions": [
+    "yêu cầu công chứng",
+    "chứng thực"
+  ],
+  "actor_actions": [
+    [
+      "người lập di chúc",
+      "yêu cầu công chứng"
+    ],
+    [
+      "người lập di chúc",
+      "chứng thực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "di chúc",
+      "công chứng"
+    ],
+    [
+      "di chúc",
+      "chứng thực"
+    ]
+  ]
+}

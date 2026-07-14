@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực",
+    "lợi dụng tình trạng không thể tự vệ được",
+    "giao cấu",
+    "thực hiện hành vi quan hệ tình dục khác"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "dùng vũ lực"
+    ],
+    [
+      "người",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "người",
+      "lợi dụng tình trạng không thể tự vệ được của nạn nhân"
+    ],
+    [
+      "người",
+      "giao cấu"
+    ],
+    [
+      "người",
+      "thực hiện hành vi quan hệ tình dục khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vũ lực",
+      "đe dọa dùng vũ lực"
+    ],
+    [
+      "tình trạng không thể tự vệ được",
+      "nạn nhân"
+    ],
+    [
+      "giao cấu",
+      "hành vi quan hệ tình dục khác"
+    ]
+  ]
+}

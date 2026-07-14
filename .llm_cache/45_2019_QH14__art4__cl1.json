@@ -1,0 +1,40 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "nhà nước",
+    "người lao động",
+    "người làm việc không có quan hệ lao động"
+  ],
+  "actions": [
+    "bảo đảm",
+    "khuyến khích"
+  ],
+  "actor_actions": [
+    [
+      "nhà nước",
+      "bảo đảm quyền và lợi ích hợp pháp, chính đáng của người lao động"
+    ],
+    [
+      "nhà nước",
+      "bảo đảm quyền và lợi ích hợp pháp, chính đáng của người làm việc không có quan hệ lao động"
+    ],
+    [
+      "nhà nước",
+      "khuyến khích những thỏa thuận bảo đảm cho người lao động có điều kiện thuận lợi hơn so với quy định của pháp luật về lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền",
+      "lợi ích hợp pháp, chính đáng"
+    ],
+    [
+      "người lao động",
+      "điều kiện thuận lợi"
+    ],
+    [
+      "thỏa thuận",
+      "pháp luật về lao động"
+    ]
+  ]
+}

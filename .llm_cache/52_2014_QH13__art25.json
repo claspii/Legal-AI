@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "người đại diện hợp pháp"
+  ],
+  "actions": [
+    "kinh doanh chung",
+    "trực tiếp tham gia quan hệ kinh doanh",
+    "có thỏa thuận khác",
+    "có quy định khác",
+    "đưa tài sản chung vào kinh doanh"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "kinh doanh chung"
+    ],
+    [
+      "chồng",
+      "kinh doanh chung"
+    ],
+    [
+      "vợ",
+      "trực tiếp tham gia quan hệ kinh doanh"
+    ],
+    [
+      "chồng",
+      "trực tiếp tham gia quan hệ kinh doanh"
+    ],
+    [
+      "vợ",
+      "có thỏa thuận khác"
+    ],
+    [
+      "chồng",
+      "có thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quan hệ kinh doanh",
+      "kinh doanh chung"
+    ],
+    [
+      "người đại diện hợp pháp",
+      "quan hệ kinh doanh"
+    ],
+    [
+      "tài sản chung",
+      "kinh doanh"
+    ]
+  ]
+}

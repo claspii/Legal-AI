@@ -1,0 +1,105 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "pháp nhân thương mại",
+    "người gửi hàng",
+    "cơ quan quản lý thuế"
+  ],
+  "actions": [
+    "trốn thuế",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "không nộp hồ sơ đăng ký thuế",
+    "không nộp hồ sơ khai thuế",
+    "nộp hồ sơ khai thuế không đúng thời hạn",
+    "không ghi chép trong sổ kế toán các khoản thu liên quan đến việc xác định số tiền thuế phải nộp",
+    "không xuất hóa đơn khi bán hàng hóa, dịch vụ",
+    "ghi giá trị trên hóa đơn bán hàng thấp hơn giá trị thanh toán thực tế của hàng hóa, dịch vụ đã bán",
+    "sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán hàng hóa, nguyên liệu đầu vào trong hoạt động phát sinh nghĩa vụ thuế làm giảm số tiền thuế phải nộp",
+    "sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán hàng hóa, nguyên liệu đầu vào trong hoạt động phát sinh nghĩa vụ thuế làm tăng số tiền thuế được miễn, số tiền thuế được giảm hoặc tăng số tiền thuế được khấu trừ, số tiền thuế được hoàn",
+    "sử dụng chứng từ, tài liệu không hợp pháp khác để xác định sai số tiền thuế phải nộp, số tiền thuế được hoàn",
+    "khai sai với thực tế hàng hóa xuất khẩu, nhập khẩu mà không khai bổ sung hồ sơ khai thuế sau khi hàng hóa đã được thông quan",
+    "cố ý không kê khai hoặc khai sai về thuế đối với hàng hóa xuất khẩu, nhập khẩu",
+    "cấu kết với người gửi hàng để nhập khẩu hàng hóa",
+    "sử dụng hàng hóa thuộc đối tượng không chịu thuế, miễn thuế, xét miễn thuế không đúng mục đích quy định mà không khai báo việc chuyển đổi mục đích sử dụng với cơ quan quản lý thuế",
+    "phạm tội",
+    "bị phạt tiền",
+    "bị phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản",
+    "bị đình chỉ hoạt động có thời hạn",
+    "bị đình chỉ hoạt động vĩnh viễn",
+    "cấm kinh doanh, hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "thực hiện một trong các hành vi sau đây trốn thuế"
+    ],
+    [
+      "người",
+      "bị phạt tiền"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ],
+    [
+      "người",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "trốn thuế",
+      "số tiền trốn thuế"
+    ],
+    [
+      "hành vi trốn thuế",
+      "xử phạt vi phạm hành chính"
+    ],
+    [
+      "tội trốn thuế",
+      "kết án"
+    ],
+    [
+      "số tiền thuế phải nộp",
+      "sổ kế toán"
+    ],
+    [
+      "hóa đơn",
+      "bán hàng hóa, dịch vụ"
+    ],
+    [
+      "chứng từ không hợp pháp",
+      "hạch toán hàng hóa, nguyên liệu đầu vào"
+    ],
+    [
+      "hàng hóa xuất khẩu, nhập khẩu",
+      "khai sai"
+    ],
+    [
+      "pháp nhân thương mại",
+      "đình chỉ hoạt động"
+    ]
+  ]
+}

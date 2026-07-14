@@ -1,0 +1,104 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "vợ chồng"
+  ],
+  "actions": [
+    "thương yêu",
+    "chung thủy",
+    "tôn trọng",
+    "quan tâm",
+    "chăm sóc",
+    "giúp đỡ",
+    "chia sẻ",
+    "thực hiện công việc",
+    "sống chung",
+    "thỏa thuận khác"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "thương yêu"
+    ],
+    [
+      "chồng",
+      "thương yêu"
+    ],
+    [
+      "vợ chồng",
+      "thương yêu"
+    ],
+    [
+      "vợ chồng",
+      "chung thủy"
+    ],
+    [
+      "vợ chồng",
+      "tôn trọng"
+    ],
+    [
+      "vợ chồng",
+      "quan tâm"
+    ],
+    [
+      "vợ chồng",
+      "chăm sóc"
+    ],
+    [
+      "vợ chồng",
+      "giúp đỡ"
+    ],
+    [
+      "vợ chồng",
+      "chia sẻ"
+    ],
+    [
+      "vợ chồng",
+      "thực hiện công việc trong gia đình"
+    ],
+    [
+      "vợ chồng",
+      "sống chung với nhau"
+    ],
+    [
+      "vợ chồng",
+      "có thỏa thuận khác"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "nghĩa vụ",
+      "thương yêu"
+    ],
+    [
+      "nghĩa vụ",
+      "chung thủy"
+    ],
+    [
+      "nghĩa vụ",
+      "tôn trọng"
+    ],
+    [
+      "nghĩa vụ",
+      "quan tâm"
+    ],
+    [
+      "nghĩa vụ",
+      "chăm sóc"
+    ],
+    [
+      "nghĩa vụ",
+      "giúp đỡ"
+    ],
+    [
+      "nghĩa vụ",
+      "sống chung"
+    ]
+  ]
+}

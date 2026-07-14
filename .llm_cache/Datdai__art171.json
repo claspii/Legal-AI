@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cộng đồng dân cư",
+    "tổ chức",
+    "cá nhân",
+    "nhà nước",
+    "đơn vị sự nghiệp công lập"
+  ],
+  "actions": [
+    "sử dụng",
+    "quản lý",
+    "công nhận",
+    "giao",
+    "cho thuê"
+  ],
+  "actor_actions": [
+    [
+      "cộng đồng dân cư",
+      "sử dụng"
+    ],
+    [
+      "tổ chức",
+      "quản lý"
+    ],
+    [
+      "cá nhân",
+      "sử dụng"
+    ],
+    [
+      "nhà nước",
+      "công nhận"
+    ],
+    [
+      "nhà nước",
+      "giao"
+    ],
+    [
+      "nhà nước",
+      "cho thuê"
+    ],
+    [
+      "đơn vị sự nghiệp công lập",
+      "xây dựng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đất ở",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất nông nghiệp do cộng đồng dân cư sử dụng",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất rừng đặc dụng",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất rừng phòng hộ",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất rừng sản xuất do tổ chức quản lý",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất thương mại, dịch vụ của cá nhân đang sử dụng ổn định",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định",
+      "đất sử dụng ổn định lâu dài"
+    ],
+    [
+      "đất xây dựng trụ sở cơ quan",
+      "đất sử dụng ổn định lâu dài"
+    ]
+  ]
+}

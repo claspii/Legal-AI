@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "những người có quyền, lợi ích liên quan",
+    "tòa án"
+  ],
+  "actions": [
+    "biệt tích",
+    "yêu cầu thông báo tìm kiếm",
+    "yêu cầu áp dụng biện pháp quản lý tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "biệt tích"
+    ],
+    [
+      "những người có quyền, lợi ích liên quan",
+      "yêu cầu thông báo tìm kiếm"
+    ],
+    [
+      "những người có quyền, lợi ích liên quan",
+      "yêu cầu áp dụng biện pháp quản lý tài sản"
+    ],
+    [
+      "tòa án",
+      "thông báo tìm kiếm người vắng mặt tại nơi cư trú"
+    ],
+    [
+      "tòa án",
+      "áp dụng biện pháp quản lý tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người vắng mặt tại nơi cư trú",
+      "quản lý tài sản"
+    ],
+    [
+      "thông báo tìm kiếm người vắng mặt tại nơi cư trú",
+      "quản lý tài sản của người đó"
+    ]
+  ]
+}

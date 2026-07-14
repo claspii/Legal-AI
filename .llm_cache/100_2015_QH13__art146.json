@@ -1,0 +1,70 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người dưới 16 tuổi",
+    "người phạm tội",
+    "nạn nhân"
+  ],
+  "actions": [
+    "có hành vi dâm ô",
+    "phạm tội",
+    "gây rối loạn tâm thần và hành vi",
+    "làm tự sát",
+    "bị cấm đảm nhiệm chức vụ",
+    "bị cấm hành nghề",
+    "bị cấm làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "có hành vi dâm ô"
+    ],
+    [
+      "người phạm tội",
+      "phạm tội"
+    ],
+    [
+      "người phạm tội",
+      "gây rối loạn tâm thần và hành vi"
+    ],
+    [
+      "người phạm tội",
+      "làm tự sát"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hành vi dâm ô",
+      "người dưới 16 tuổi"
+    ],
+    [
+      "gây rối loạn tâm thần và hành vi",
+      "nạn nhân"
+    ],
+    [
+      "người phạm tội",
+      "trách nhiệm chăm sóc, giáo dục, chữa bệnh"
+    ],
+    [
+      "phạm tội",
+      "có tổ chức"
+    ],
+    [
+      "phạm tội",
+      "tái phạm nguy hiểm"
+    ]
+  ]
+}

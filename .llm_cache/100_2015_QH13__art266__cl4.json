@@ -1,0 +1,53 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "làm chết",
+      "03 người trở lên"
+    ],
+    [
+      "gây thương tích",
+      "03 người"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "03 người"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "61% trở lên"
+    ],
+    [
+      "tổng tỷ lệ tổn thương cơ thể",
+      "201% trở lên"
+    ],
+    [
+      "thiệt hại về tài sản",
+      "1.500.000.000 đồng trở lên"
+    ],
+    [
+      "đua xe trái phép",
+      "làm chết 03 người trở lên"
+    ],
+    [
+      "đua xe trái phép",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người với tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên"
+    ],
+    [
+      "đua xe trái phép",
+      "gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này 201% trở lên"
+    ],
+    [
+      "đua xe trái phép",
+      "gây thiệt hại về tài sản 1.500.000.000 đồng trở lên"
+    ]
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người bị tấn công",
+    "người dưới 16 tuổi",
+    "phụ nữ",
+    "người già yếu",
+    "người không có khả năng tự vệ",
+    "người chuẩn bị phạm tội",
+    "người phạm tội"
+  ],
+  "actions": [
+    "dùng vũ lực",
+    "đe dọa dùng vũ lực ngay tức khắc",
+    "làm cho lâm vào tình trạng không thể chống cự được",
+    "chiếm đoạt tài sản",
+    "bị phạt tù",
+    "phạm tội",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe",
+    "sử dụng vũ khí, phương tiện hoặc thủ đoạn nguy hiểm khác"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "dùng vũ lực"
+    ],
+    [
+      "người nào",
+      "đe dọa dùng vũ lực ngay tức khắc"
+    ],
+    [
+      "người nào",
+      "làm cho người bị tấn công lâm vào tình trạng không thể chống cự được"
+    ],
+    [
+      "người nào",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "người nào",
+      "bị phạt tù"
+    ],
+    [
+      "người nào",
+      "phạm tội"
+    ],
+    [
+      "người chuẩn bị phạm tội này",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "còn có thể bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội cướp tài sản",
+      "chiếm đoạt tài sản"
+    ],
+    [
+      "tội cướp tài sản",
+      "vũ lực"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "tài sản trị giá"
+    ],
+    [
+      "phạt tù",
+      "mức độ phạm tội"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tài sản",
+      "trị giá"
+    ]
+  ]
+}

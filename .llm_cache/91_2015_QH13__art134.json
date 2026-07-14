@@ -1,0 +1,64 @@
+{
+  "concepts_defined": [
+    "đại diện"
+  ],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người đại diện",
+    "người được đại diện"
+  ],
+  "actions": [
+    "xác lập",
+    "thực hiện",
+    "đại diện"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "xác lập"
+    ],
+    [
+      "cá nhân",
+      "thực hiện"
+    ],
+    [
+      "pháp nhân",
+      "xác lập"
+    ],
+    [
+      "pháp nhân",
+      "thực hiện"
+    ],
+    [
+      "người đại diện",
+      "xác lập"
+    ],
+    [
+      "người đại diện",
+      "thực hiện"
+    ],
+    [
+      "cá nhân",
+      "đại diện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người đại diện",
+      "người được đại diện"
+    ],
+    [
+      "đại diện",
+      "giao dịch dân sự"
+    ],
+    [
+      "người đại diện",
+      "năng lực pháp luật dân sự"
+    ],
+    [
+      "người đại diện",
+      "năng lực hành vi dân sự"
+    ]
+  ]
+}

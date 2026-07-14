@@ -1,0 +1,20 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tiêu dùng",
+    "bị tiêu hủy",
+    "chấm dứt"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "tài sản được tiêu dùng",
+      "quyền sở hữu"
+    ],
+    [
+      "tài sản bị tiêu hủy",
+      "quyền sở hữu"
+    ]
+  ]
+}

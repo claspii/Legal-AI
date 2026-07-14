@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "người có quyền nhận",
+    "bên thuê vận chuyển"
+  ],
+  "actions": [
+    "bảo đảm vận chuyển tài sản",
+    "giao tài sản",
+    "chịu chi phí",
+    "mua bảo hiểm",
+    "bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "bảo đảm vận chuyển tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "giao tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "chịu chi phí"
+    ],
+    [
+      "bên vận chuyển",
+      "mua bảo hiểm"
+    ],
+    [
+      "bên vận chuyển",
+      "bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vận chuyển",
+      "tài sản"
+    ],
+    [
+      "bên vận chuyển",
+      "bên thuê vận chuyển"
+    ],
+    [
+      "tài sản",
+      "chi phí"
+    ],
+    [
+      "bảo hiểm",
+      "trách nhiệm dân sự"
+    ],
+    [
+      "bên vận chuyển",
+      "thiệt hại"
+    ]
+  ]
+}

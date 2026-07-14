@@ -1,0 +1,60 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "vợ chồng",
+    "bên nhờ mang thai hộ",
+    "bên mang thai hộ",
+    "đứa trẻ"
+  ],
+  "actions": [
+    "giải quyết tranh chấp",
+    "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+    "mang thai hộ",
+    "chết",
+    "mất năng lực hành vi dân sự",
+    "nhận nuôi",
+    "giám hộ",
+    "cấp dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "giải quyết tranh chấp"
+    ],
+    [
+      "vợ chồng bên nhờ mang thai hộ",
+      "chết"
+    ],
+    [
+      "vợ chồng bên nhờ mang thai hộ",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "bên mang thai hộ",
+      "nhận nuôi đứa trẻ"
+    ],
+    [
+      "bên mang thai hộ",
+      "không nhận nuôi đứa trẻ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "mang thai hộ"
+    ],
+    [
+      "bên nhờ mang thai hộ",
+      "bên mang thai hộ"
+    ],
+    [
+      "chết",
+      "mất năng lực hành vi dân sự"
+    ],
+    [
+      "giám hộ",
+      "cấp dưỡng"
+    ]
+  ]
+}

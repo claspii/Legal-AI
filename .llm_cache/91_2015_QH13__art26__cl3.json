@@ -1,0 +1,35 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam"
+  ],
+  "actions": [
+    "đặt tên",
+    "xâm phạm",
+    "trái"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "đặt tên"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "việc đặt tên",
+      "quyền, lợi ích hợp pháp của người khác"
+    ],
+    [
+      "việc đặt tên",
+      "nguyên tắc cơ bản của pháp luật dân sự"
+    ],
+    [
+      "tên của công dân việt nam",
+      "tiếng việt"
+    ],
+    [
+      "tên của công dân việt nam",
+      "tiếng dân tộc khác của việt nam"
+    ]
+  ]
+}

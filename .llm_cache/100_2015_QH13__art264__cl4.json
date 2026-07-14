@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chủ sở hữu",
+    "người quản lý phương tiện tham gia giao thông đường bộ",
+    "người không có giấy phép lái xe",
+    "người đang trong tình trạng có sử dụng rượu, bia",
+    "người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác"
+  ],
+  "actions": [
+    "giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+    "giao cho người không có giấy phép lái xe",
+    "giao cho người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định",
+    "giao cho người có sử dụng chất ma túy hoặc các chất kích thích mạnh khác",
+    "gây thương tích hoặc gây tổn hại cho sức khỏe"
+  ],
+  "actor_actions": [
+    [
+      "người chủ sở hữu",
+      "giao cho người không có giấy phép lái xe"
+    ],
+    [
+      "người quản lý phương tiện tham gia giao thông đường bộ",
+      "giao cho người không có giấy phép lái xe"
+    ],
+    [
+      "người chủ sở hữu",
+      "giao cho người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định"
+    ],
+    [
+      "người quản lý phương tiện tham gia giao thông đường bộ",
+      "giao cho người đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ",
+      "giao cho"
+    ],
+    [
+      "thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "rượu, bia",
+      "nồng độ cồn vượt quá mức quy định"
+    ],
+    [
+      "chất ma túy",
+      "chất kích thích mạnh khác"
+    ]
+  ]
+}

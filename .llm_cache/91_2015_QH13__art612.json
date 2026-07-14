@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [
+    "di sản"
+  ],
+  "actors": [
+    "người chết",
+    "người khác"
+  ],
+  "actions": [],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "di sản",
+      "tài sản riêng"
+    ],
+    [
+      "di sản",
+      "tài sản chung"
+    ],
+    [
+      "người chết",
+      "tài sản riêng"
+    ],
+    [
+      "người chết",
+      "tài sản chung"
+    ],
+    [
+      "người chết",
+      "di sản"
+    ]
+  ]
+}

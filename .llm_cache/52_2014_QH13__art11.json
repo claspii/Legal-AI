@@ -1,0 +1,69 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "hai bên kết hôn",
+    "cơ quan đã thực hiện việc đăng ký kết hôn",
+    "cá nhân",
+    "cơ quan",
+    "tổ chức",
+    "tòa án nhân dân tối cao",
+    "viện kiểm sát nhân dân tối cao",
+    "bộ tư pháp"
+  ],
+  "actions": [
+    "xử lý việc kết hôn trái pháp luật",
+    "công nhận quan hệ hôn nhân",
+    "gửi quyết định",
+    "ghi vào sổ hộ tịch",
+    "hướng dẫn"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xử lý việc kết hôn trái pháp luật"
+    ],
+    [
+      "tòa án",
+      "công nhận quan hệ hôn nhân"
+    ],
+    [
+      "tòa án",
+      "gửi quyết định"
+    ],
+    [
+      "cơ quan đã thực hiện việc đăng ký kết hôn",
+      "ghi vào sổ hộ tịch"
+    ],
+    [
+      "tòa án nhân dân tối cao",
+      "hướng dẫn điều này"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn trái pháp luật",
+      "quan hệ hôn nhân"
+    ],
+    [
+      "kết hôn trái pháp luật",
+      "hủy việc kết hôn trái pháp luật"
+    ],
+    [
+      "quan hệ hôn nhân",
+      "công nhận quan hệ hôn nhân"
+    ],
+    [
+      "quyết định của tòa án",
+      "hủy kết hôn trái pháp luật"
+    ],
+    [
+      "quyết định của tòa án",
+      "công nhận quan hệ hôn nhân"
+    ],
+    [
+      "cơ quan đã thực hiện việc đăng ký kết hôn",
+      "sổ hộ tịch"
+    ]
+  ]
+}

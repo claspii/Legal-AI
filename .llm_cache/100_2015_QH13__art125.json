@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "nạn nhân",
+    "người thân thích"
+  ],
+  "actions": [
+    "giết người",
+    "bị phạt tù",
+    "phạm tội"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "giết người"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giết người",
+      "trạng thái tinh thần bị kích động mạnh"
+    ],
+    [
+      "hành vi trái pháp luật nghiêm trọng",
+      "nạn nhân"
+    ]
+  ]
+}

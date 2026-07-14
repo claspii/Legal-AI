@@ -1,0 +1,76 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người được trả tự do",
+    "người bị tạm giữ",
+    "người bị tạm giam"
+  ],
+  "actions": [
+    "lợi dụng chức vụ",
+    "quyền hạn",
+    "giam, giữ người trái pháp luật",
+    "không ra quyết định trả tự do",
+    "ra quyết định bắt, giữ, giam người",
+    "không chấp hành quyết định trả tự do",
+    "thực hiện việc bắt, giữ, giam người",
+    "không ra lệnh, quyết định gia hạn tạm giữ, tạm giam",
+    "thay đổi, hủy bỏ biện pháp tạm giữ, tạm giam"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ"
+    ],
+    [
+      "người",
+      "quyền hạn"
+    ],
+    [
+      "người",
+      "không ra quyết định trả tự do"
+    ],
+    [
+      "người",
+      "quyết định bắt, giữ, giam người không có căn cứ"
+    ],
+    [
+      "người",
+      "không chấp hành quyết định trả tự do"
+    ],
+    [
+      "người",
+      "thực hiện việc bắt, giữ, giam người không có lệnh, quyết định"
+    ],
+    [
+      "người",
+      "không ra lệnh, quyết định gia hạn tạm giữ, tạm giam"
+    ],
+    [
+      "người",
+      "thay đổi, hủy bỏ biện pháp tạm giữ, tạm giam"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chức vụ",
+      "quyền hạn"
+    ],
+    [
+      "giam",
+      "giữ người"
+    ],
+    [
+      "lệnh",
+      "quyết định"
+    ],
+    [
+      "tạm giữ",
+      "tạm giam"
+    ],
+    [
+      "người bị tạm giữ",
+      "người bị tạm giam"
+    ]
+  ]
+}

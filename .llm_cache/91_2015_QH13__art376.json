@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên có quyền",
+    "bên có nghĩa vụ"
+  ],
+  "actions": [
+    "chấm dứt",
+    "miễn thực hiện nghĩa vụ",
+    "có biện pháp bảo đảm"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "miễn việc thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "miễn thực hiện nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "chấm dứt"
+    ],
+    [
+      "nghĩa vụ có biện pháp bảo đảm",
+      "biện pháp bảo đảm"
+    ]
+  ]
+}

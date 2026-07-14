@@ -1,0 +1,62 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chỉ huy",
+    "người có thẩm quyền",
+    "người bị nạn"
+  ],
+  "actions": [
+    "vi phạm quy định về điều khiển phương tiện giao thông đường sắt",
+    "phạm tội",
+    "bị phạt tù",
+    "gây tai nạn",
+    "bỏ chạy",
+    "trốn tránh trách nhiệm",
+    "cứu giúp",
+    "không chấp hành hiệu lệnh",
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người chỉ huy",
+      "điều khiển, giữ gìn trật tự, an toàn giao thông đường sắt"
+    ],
+    [
+      "người có thẩm quyền",
+      "điều khiển, giữ gìn trật tự, an toàn giao thông đường sắt"
+    ],
+    [
+      "người bị nạn",
+      "bị thương tích"
+    ],
+    [
+      "người bị nạn",
+      "bị tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép",
+      "bằng hoặc chứng chỉ chuyên môn"
+    ],
+    [
+      "rượu, bia",
+      "nồng độ cồn"
+    ],
+    [
+      "chất ma túy",
+      "chất kích thích mạnh khác"
+    ],
+    [
+      "thương tích",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổng tỷ lệ tổn thương cơ thể"
+    ]
+  ]
+}

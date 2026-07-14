@@ -1,0 +1,89 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào",
+    "người có thẩm quyền"
+  ],
+  "actions": [
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây thiệt hại",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "xây nhà",
+    "hủy hoại",
+    "làm hư hỏng",
+    "khoan, đào thăm dò, khảo sát, khai thác đất, đá, cát sỏi, khoáng sản, nước dưới đất",
+    "sử dụng chất nổ, gây nổ, gây cháy",
+    "vận hành hồ chứa nước, liên hồ chứa nước, công trình phân lũ, làm chậm lũ không đúng với quy trình, quy chuẩn kỹ thuật cho phép"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "gây thương tích"
+    ],
+    [
+      "người nào",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người nào",
+      "gây thiệt hại"
+    ],
+    [
+      "người nào",
+      "xây nhà, công trình trái phép"
+    ],
+    [
+      "người nào",
+      "hủy hoại hoặc làm hư hỏng công trình"
+    ],
+    [
+      "người nào",
+      "khoan, đào thăm dò, khảo sát, khai thác đất, đá, cát sỏi, khoáng sản, nước dưới đất trái phép"
+    ],
+    [
+      "người nào",
+      "sử dụng chất nổ, gây nổ, gây cháy"
+    ],
+    [
+      "người nào",
+      "vận hành hồ chứa nước, liên hồ chứa nước, công trình phân lũ, làm chậm lũ không đúng với quy trình, quy chuẩn kỹ thuật cho phép"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công trình thủy lợi",
+      "đê điều"
+    ],
+    [
+      "phòng, chống thiên tai",
+      "bảo vệ bờ, bãi sông"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thiệt hại"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt cải tạo không giam giữ",
+      "phạt tù"
+    ],
+    [
+      "tài nguyên nước",
+      "công trình bảo vệ, khai thác, sử dụng, quan trắc, giám sát tài nguyên nước"
+    ],
+    [
+      "hồ chứa nước",
+      "liên hồ chứa nước"
+    ],
+    [
+      "công trình phân lũ",
+      "làm chậm lũ"
+    ]
+  ]
+}

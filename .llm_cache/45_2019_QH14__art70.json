@@ -1,0 +1,83 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tổ chức đại diện người lao động tại cơ sở",
+    "người sử dụng lao động",
+    "bên nhận được yêu cầu",
+    "người lao động",
+    "đại diện bên người lao động",
+    "bên đại diện người lao động",
+    "đại diện các bên thương lượng",
+    "người ghi biên bản"
+  ],
+  "actions": [
+    "yêu cầu thương lượng tập thể",
+    "từ chối việc thương lượng",
+    "thỏa thuận",
+    "bố trí thời gian, địa điểm và các điều kiện cần thiết",
+    "tham gia các phiên họp thương lượng tập thể",
+    "cung cấp thông tin",
+    "tổ chức thảo luận, lấy ý kiến",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "yêu cầu thương lượng tập thể"
+    ],
+    [
+      "người sử dụng lao động",
+      "yêu cầu thương lượng tập thể"
+    ],
+    [
+      "bên nhận được yêu cầu",
+      "từ chối việc thương lượng"
+    ],
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "bố trí thời gian, địa điểm và các điều kiện cần thiết"
+    ],
+    [
+      "đại diện bên người lao động",
+      "tham gia các phiên họp thương lượng tập thể"
+    ],
+    [
+      "bên người sử dụng lao động",
+      "cung cấp thông tin"
+    ],
+    [
+      "tổ chức đại diện người lao động tại cơ sở",
+      "tổ chức thảo luận, lấy ý kiến người lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thương lượng tập thể",
+      "yêu cầu thương lượng tập thể"
+    ],
+    [
+      "thương lượng tập thể",
+      "quy trình thương lượng tập thể"
+    ],
+    [
+      "thương lượng tập thể",
+      "biên bản thương lượng tập thể"
+    ],
+    [
+      "thương lượng tập thể",
+      "phiên họp thương lượng tập thể"
+    ],
+    [
+      "người lao động",
+      "tổ chức đại diện người lao động tại cơ sở"
+    ],
+    [
+      "người sử dụng lao động",
+      "doanh nghiệp"
+    ]
+  ]
+}

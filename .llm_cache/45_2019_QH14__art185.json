@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp tỉnh",
+    "chủ tịch",
+    "thư ký",
+    "trọng tài viên lao động",
+    "hội đồng trọng tài lao động",
+    "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+    "công đoàn cấp tỉnh",
+    "tổ chức đại diện của người sử dụng lao động",
+    "người sử dụng lao động",
+    "ban trọng tài lao động"
+  ],
+  "actions": [
+    "quyết định thành lập",
+    "bổ nhiệm",
+    "quyết định",
+    "đề cử",
+    "hiểu biết pháp luật",
+    "có kinh nghiệm",
+    "có uy tín",
+    "có công tâm"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "quyết định thành lập"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "bổ nhiệm"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "quyết định"
+    ],
+    [
+      "cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
+      "đề cử"
+    ],
+    [
+      "công đoàn cấp tỉnh",
+      "đề cử"
+    ],
+    [
+      "tổ chức đại diện của người sử dụng lao động",
+      "đề cử"
+    ],
+    [
+      "trọng tài viên lao động",
+      "hiểu biết pháp luật"
+    ],
+    [
+      "trọng tài viên lao động",
+      "có kinh nghiệm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "trọng tài viên lao động"
+    ],
+    [
+      "trọng tài viên lao động",
+      "tiêu chuẩn"
+    ],
+    [
+      "trọng tài viên lao động",
+      "chế độ làm việc"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "ban trọng tài lao động"
+    ]
+  ]
+}

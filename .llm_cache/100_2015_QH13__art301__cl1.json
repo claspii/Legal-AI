@@ -1,0 +1,102 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "quốc gia",
+    "vùng lãnh thổ",
+    "tổ chức quốc tế",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "con tin"
+  ],
+  "actions": [
+    "bắt giữ",
+    "giam người khác làm con tin",
+    "đe dọa giết",
+    "làm bị thương",
+    "tiếp tục giam",
+    "giữ",
+    "cưỡng ép",
+    "làm",
+    "không làm",
+    "thả con tin",
+    "bị phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "bắt giữ"
+    ],
+    [
+      "người",
+      "giam người khác làm con tin"
+    ],
+    [
+      "người",
+      "đe dọa giết"
+    ],
+    [
+      "người",
+      "làm bị thương"
+    ],
+    [
+      "người",
+      "tiếp tục giam"
+    ],
+    [
+      "người",
+      "giữ"
+    ],
+    [
+      "người",
+      "cưỡng ép"
+    ],
+    [
+      "quốc gia",
+      "làm"
+    ],
+    [
+      "vùng lãnh thổ",
+      "làm"
+    ],
+    [
+      "tổ chức quốc tế",
+      "làm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người",
+      "con tin"
+    ],
+    [
+      "quốc gia",
+      "điều kiện"
+    ],
+    [
+      "vùng lãnh thổ",
+      "điều kiện"
+    ],
+    [
+      "tổ chức quốc tế",
+      "điều kiện"
+    ],
+    [
+      "cơ quan",
+      "điều kiện"
+    ],
+    [
+      "tổ chức",
+      "điều kiện"
+    ],
+    [
+      "cá nhân",
+      "điều kiện"
+    ],
+    [
+      "điều kiện",
+      "thả con tin"
+    ]
+  ]
+}

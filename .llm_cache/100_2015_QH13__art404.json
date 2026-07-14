@@ -1,0 +1,32 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "chỉ huy",
+    "sỹ quan"
+  ],
+  "actions": [
+    "cố ý làm lộ bí mật công tác quân sự",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "cố ý làm lộ bí mật công tác quân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cố ý làm lộ bí mật công tác quân sự",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "cố ý làm lộ bí mật công tác quân sự",
+      "hậu quả rất nghiêm trọng"
+    ],
+    [
+      "cố ý làm lộ bí mật công tác quân sự",
+      "hậu quả đặc biệt nghiêm trọng"
+    ]
+  ]
+}

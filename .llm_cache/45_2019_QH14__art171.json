@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công đoàn cơ sở",
+    "hệ thống tổ chức công đoàn việt nam",
+    "cơ quan",
+    "tổ chức",
+    "đơn vị",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thành lập",
+    "giải thể",
+    "tổ chức",
+    "hoạt động"
+  ],
+  "actor_actions": [
+    [
+      "công đoàn cơ sở",
+      "thành lập"
+    ],
+    [
+      "công đoàn cơ sở",
+      "giải thể"
+    ],
+    [
+      "công đoàn cơ sở",
+      "tổ chức"
+    ],
+    [
+      "công đoàn cơ sở",
+      "hoạt động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "công đoàn cơ sở",
+      "hệ thống tổ chức công đoàn việt nam"
+    ],
+    [
+      "công đoàn cơ sở",
+      "luật công đoàn"
+    ]
+  ]
+}

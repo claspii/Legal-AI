@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội",
+    "người không đủ điều kiện"
+  ],
+  "actions": [
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "cấm làm công việc nhất định",
+    "giao cho người không đủ điều kiện điều khiển các phương tiện giao thông đường sắt"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người phạm tội",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "cấm làm công việc nhất định"
+    ],
+    [
+      "người không đủ điều kiện",
+      "điều khiển các phương tiện giao thông đường sắt"
+    ]
+  ]
+}

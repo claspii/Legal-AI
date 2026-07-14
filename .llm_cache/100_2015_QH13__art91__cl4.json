@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "tòa án",
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "xét xử",
+    "áp dụng hình phạt",
+    "miễn trách nhiệm hình sự",
+    "áp dụng biện pháp giáo dục tại trường giáo dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "tòa án",
+      "xét xử"
+    ],
+    [
+      "tòa án",
+      "áp dụng hình phạt"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi phạm tội",
+      "hình phạt"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "người dưới 18 tuổi phạm tội",
+      "biện pháp giáo dục tại trường giáo dưỡng"
+    ]
+  ]
+}

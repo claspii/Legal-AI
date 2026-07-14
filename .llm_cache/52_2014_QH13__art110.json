@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "con chưa thành niên",
+    "con đã thành niên không có khả năng lao động và không có tài sản để tự nuôi mình"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "nuôi dưỡng"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ",
+      "cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ",
+      "con"
+    ],
+    [
+      "cấp dưỡng",
+      "nuôi dưỡng"
+    ]
+  ]
+}

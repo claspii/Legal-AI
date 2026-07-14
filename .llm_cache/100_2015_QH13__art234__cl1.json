@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người nào"
+  ],
+  "actions": [
+    "thực hiện",
+    "săn bắt",
+    "giết",
+    "nuôi",
+    "nhốt",
+    "vận chuyển",
+    "buôn bán",
+    "tàng trữ"
+  ],
+  "actor_actions": [
+    [
+      "người nào",
+      "thực hiện"
+    ],
+    [
+      "người nào",
+      "săn bắt"
+    ],
+    [
+      "người nào",
+      "giết"
+    ],
+    [
+      "người nào",
+      "nuôi"
+    ],
+    [
+      "người nào",
+      "nhốt"
+    ],
+    [
+      "người nào",
+      "vận chuyển"
+    ],
+    [
+      "người nào",
+      "buôn bán"
+    ],
+    [
+      "người nào",
+      "tàng trữ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "động vật nguy cấp, quý, hiếm nhóm iib",
+      "phụ lục ii của công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp"
+    ],
+    [
+      "động vật nguy cấp, quý, hiếm nhóm iib",
+      "động vật hoang dã thông thường khác"
+    ],
+    [
+      "cá thể",
+      "bộ phận cơ thể"
+    ],
+    [
+      "bộ phận cơ thể",
+      "sản phẩm của loài động vật"
+    ],
+    [
+      "xử phạt vi phạm hành chính",
+      "kết án"
+    ]
+  ]
+}

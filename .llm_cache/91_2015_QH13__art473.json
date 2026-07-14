@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "người thứ ba",
+      "xác định"
+    ],
+    [
+      "các bên",
+      "yêu cầu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giá thuê",
+      "thỏa thuận"
+    ],
+    [
+      "giá thuê",
+      "giá thị trường"
+    ],
+    [
+      "thời điểm giao kết hợp đồng thuê",
+      "địa điểm giao kết hợp đồng thuê"
+    ]
+  ]
+}

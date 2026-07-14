@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [
+    "tù chung thân"
+  ],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "bị xử phạt tử hình",
+    "phạm tội",
+    "không áp dụng hình phạt tù chung thân"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị xử phạt tử hình"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "phạm tội"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "không áp dụng hình phạt tù chung thân"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tù chung thân",
+      "hình phạt tù không thời hạn"
+    ],
+    [
+      "phạm tội đặc biệt nghiêm trọng",
+      "tử hình"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "tù chung thân"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người có nghĩa vụ cấp dưỡng",
+    "tòa án"
+  ],
+  "actions": [
+    "thực hiện định kỳ",
+    "thỏa thuận thay đổi phương thức cấp dưỡng",
+    "tạm ngừng cấp dưỡng",
+    "yêu cầu giải quyết"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận thay đổi phương thức cấp dưỡng"
+    ],
+    [
+      "các bên",
+      "tạm ngừng cấp dưỡng"
+    ],
+    [
+      "các bên",
+      "yêu cầu giải quyết"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "phương thức cấp dưỡng",
+      "cấp dưỡng"
+    ],
+    [
+      "người có nghĩa vụ cấp dưỡng",
+      "khó khăn về kinh tế"
+    ]
+  ]
+}

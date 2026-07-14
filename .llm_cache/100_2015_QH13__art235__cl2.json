@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "gây ô nhiễm môi trường",
+    "phạt tiền",
+    "phạt tù",
+    "chôn",
+    "lấp",
+    "đổ",
+    "thải ra môi trường",
+    "xả thải ra môi trường"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "chất thải nguy hại",
+      "chất hữu cơ khó phân hủy"
+    ],
+    [
+      "nước thải",
+      "thông số môi trường nguy hại"
+    ],
+    [
+      "chất thải rắn thông thường",
+      "quy định của pháp luật"
+    ],
+    [
+      "chất thải",
+      "chất phóng xạ"
+    ],
+    [
+      "bức xạ",
+      "phóng xạ"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "vi phạm quy định về quản lý, sử dụng tài sản nhà nước gây thất thoát, lãng phí",
+    "được giao quản lý, sử dụng tài sản nhà nước",
+    "vi phạm chế độ quản lý, sử dụng tài sản",
+    "gây thất thoát, lãng phí",
+    "bị xử lý kỷ luật",
+    "phạm tội",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị cấm đảm nhiệm chức vụ",
+    "làm công việc nhất định",
+    "tịch thu một phần hoặc toàn bộ tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vi phạm quy định về quản lý, sử dụng tài sản nhà nước gây thất thoát, lãng phí"
+    ],
+    [
+      "người",
+      "được giao quản lý, sử dụng tài sản nhà nước"
+    ],
+    [
+      "người",
+      "vi phạm chế độ quản lý, sử dụng tài sản"
+    ],
+    [
+      "người",
+      "gây thất thoát, lãng phí"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "bị phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "bị phạt tù"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "làm công việc nhất định"
+    ],
+    [
+      "người phạm tội",
+      "tịch thu một phần hoặc toàn bộ tài sản"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vi phạm quy định về quản lý, sử dụng tài sản nhà nước gây thất thoát, lãng phí",
+      "tài sản nhà nước"
+    ],
+    [
+      "gây thất thoát, lãng phí",
+      "tài sản nhà nước"
+    ],
+    [
+      "mức độ thiệt hại",
+      "khung hình phạt"
+    ],
+    [
+      "hành vi vi phạm",
+      "xử lý kỷ luật"
+    ],
+    [
+      "mức độ thiệt hại từ 100.000.000 đồng đến dưới 300.000.000 đồng",
+      "phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm"
+    ],
+    [
+      "mức độ thiệt hại từ 300.000.000 đồng đến dưới 1.000.000.000 đồng",
+      "phạt tù từ 03 năm đến 12 năm"
+    ],
+    [
+      "mức độ thiệt hại 1.000.000.000 đồng trở lên",
+      "phạt tù từ 10 năm đến 20 năm"
+    ],
+    [
+      "phạm tội",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

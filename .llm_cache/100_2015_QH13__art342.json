@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "cơ quan",
+    "tổ chức"
+  ],
+  "actions": [
+    "chiếm đoạt",
+    "mua bán",
+    "tiêu hủy",
+    "phạt tiền",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề hoặc làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm đoạt"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "tiêu hủy"
+    ],
+    [
+      "người",
+      "phạt tiền"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người",
+      "cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người",
+      "cấm hành nghề hoặc làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "con dấu",
+      "tài liệu"
+    ],
+    [
+      "tài liệu",
+      "bí mật nhà nước"
+    ],
+    [
+      "tài liệu",
+      "bí mật công tác"
+    ],
+    [
+      "chiếm đoạt",
+      "con dấu"
+    ],
+    [
+      "mua bán",
+      "con dấu"
+    ],
+    [
+      "tiêu hủy",
+      "con dấu"
+    ],
+    [
+      "chiếm đoạt",
+      "tài liệu"
+    ],
+    [
+      "mua bán",
+      "tài liệu"
+    ]
+  ]
+}

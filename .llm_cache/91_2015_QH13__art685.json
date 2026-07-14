@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "chiếm hữu",
+    "sử dụng",
+    "được lợi về tài sản",
+    "hoàn trả"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nghĩa vụ hoàn trả",
+      "chiếm hữu"
+    ],
+    [
+      "nghĩa vụ hoàn trả",
+      "sử dụng"
+    ],
+    [
+      "nghĩa vụ hoàn trả",
+      "được lợi về tài sản"
+    ],
+    [
+      "chiếm hữu",
+      "tài sản"
+    ],
+    [
+      "sử dụng",
+      "tài sản"
+    ],
+    [
+      "lợi ích được hưởng",
+      "căn cứ pháp luật"
+    ]
+  ]
+}

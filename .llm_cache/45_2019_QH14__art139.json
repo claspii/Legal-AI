@@ -1,0 +1,90 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "lao động nữ",
+    "người mẹ",
+    "người sử dụng lao động",
+    "cơ sở khám bệnh, chữa bệnh",
+    "lao động nam",
+    "người lao động",
+    "vợ"
+  ],
+  "actions": [
+    "nghỉ thai sản",
+    "sinh con",
+    "hưởng chế độ thai sản",
+    "nghỉ thêm một thời gian không hưởng lương",
+    "thỏa thuận",
+    "trở lại làm việc",
+    "báo trước",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "lao động nữ",
+      "nghỉ thai sản"
+    ],
+    [
+      "lao động nữ",
+      "sinh con"
+    ],
+    [
+      "lao động nữ",
+      "hưởng chế độ thai sản"
+    ],
+    [
+      "lao động nữ",
+      "nghỉ thêm một thời gian không hưởng lương"
+    ],
+    [
+      "lao động nữ",
+      "thỏa thuận"
+    ],
+    [
+      "người sử dụng lao động",
+      "thỏa thuận"
+    ],
+    [
+      "lao động nữ",
+      "trở lại làm việc"
+    ],
+    [
+      "người lao động",
+      "báo trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "lao động nữ",
+      "nghỉ thai sản"
+    ],
+    [
+      "nghỉ thai sản",
+      "chế độ thai sản"
+    ],
+    [
+      "lao động nữ",
+      "sinh đôi trở lên"
+    ],
+    [
+      "lao động nữ",
+      "người sử dụng lao động"
+    ],
+    [
+      "nghỉ thai sản",
+      "bảo hiểm xã hội"
+    ],
+    [
+      "lao động nam",
+      "vợ sinh con"
+    ],
+    [
+      "người lao động",
+      "nhận nuôi con nuôi dưới 06 tháng tuổi"
+    ],
+    [
+      "lao động nữ mang thai hộ",
+      "chế độ thai sản"
+    ]
+  ]
+}

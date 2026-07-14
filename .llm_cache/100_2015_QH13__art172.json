@@ -1,0 +1,108 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị hại",
+    "gia đình",
+    "người phạm tội"
+  ],
+  "actions": [
+    "công nhiên chiếm đoạt tài sản",
+    "bị xử phạt vi phạm hành chính",
+    "vi phạm",
+    "bị kết án",
+    "chưa được xóa án tích",
+    "gây ảnh hưởng xấu",
+    "phạm tội",
+    "hành hung để tẩu thoát",
+    "lợi dụng thiên tai",
+    "lợi dụng dịch bệnh",
+    "lợi dụng hoàn cảnh chiến tranh",
+    "lợi dụng tình trạng khẩn cấp",
+    "bị phạt tiền"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "công nhiên chiếm đoạt tài sản"
+    ],
+    [
+      "người",
+      "bị xử phạt vi phạm hành chính"
+    ],
+    [
+      "người",
+      "bị kết án"
+    ],
+    [
+      "người",
+      "chưa được xóa án tích"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "phạm tội"
+    ],
+    [
+      "người",
+      "hành hung để tẩu thoát"
+    ],
+    [
+      "người",
+      "lợi dụng thiên tai"
+    ],
+    [
+      "người",
+      "lợi dụng dịch bệnh"
+    ],
+    [
+      "người",
+      "lợi dụng hoàn cảnh chiến tranh"
+    ],
+    [
+      "người",
+      "lợi dụng tình trạng khẩn cấp"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "trị giá"
+    ],
+    [
+      "chiếm đoạt tài sản",
+      "vi phạm hành chính"
+    ],
+    [
+      "tài sản",
+      "phương tiện kiếm sống chính"
+    ],
+    [
+      "tài sản",
+      "hàng cứu trợ"
+    ],
+    [
+      "hình phạt",
+      "cải tạo không giam giữ"
+    ],
+    [
+      "hình phạt",
+      "phạt tù"
+    ],
+    [
+      "hình phạt",
+      "phạt tiền"
+    ],
+    [
+      "án tích",
+      "xóa án tích"
+    ]
+  ]
+}

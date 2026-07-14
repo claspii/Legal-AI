@@ -1,0 +1,42 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "tàng trữ trái phép chất ma túy"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "nhựa thuốc phiện",
+      "nhựa cần sa"
+    ],
+    [
+      "nhựa thuốc phiện",
+      "cao côca"
+    ],
+    [
+      "hêrôin",
+      "côcain"
+    ],
+    [
+      "hêrôin",
+      "methamphetamine"
+    ],
+    [
+      "hêrôin",
+      "amphetamine"
+    ],
+    [
+      "hêrôin",
+      "mdma"
+    ],
+    [
+      "lá, rễ, thân, cành, hoa, quả cây cần sa",
+      "lá cây côca"
+    ],
+    [
+      "quả thuốc phiện khô",
+      "quả thuốc phiện tươi"
+    ]
+  ]
+}

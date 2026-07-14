@@ -1,0 +1,82 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "biết rõ",
+    "không tố giác",
+    "bị phạt cảnh cáo",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "can ngăn",
+    "hạn chế tác hại",
+    "miễn trách nhiệm hình sự",
+    "miễn hình phạt"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "biết rõ"
+    ],
+    [
+      "người",
+      "không tố giác"
+    ],
+    [
+      "người",
+      "bị phạt cảnh cáo"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người không tố giác",
+      "có hành động can ngăn người phạm tội"
+    ],
+    [
+      "người không tố giác",
+      "hạn chế tác hại của tội phạm"
+    ],
+    [
+      "người không tố giác",
+      "miễn trách nhiệm hình sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "không tố giác tội phạm",
+      "phạt cảnh cáo"
+    ],
+    [
+      "không tố giác tội phạm",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "không tố giác tội phạm",
+      "phạt tù"
+    ],
+    [
+      "can ngăn người phạm tội",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "hạn chế tác hại của tội phạm",
+      "miễn trách nhiệm hình sự"
+    ],
+    [
+      "can ngăn người phạm tội",
+      "miễn hình phạt"
+    ],
+    [
+      "hạn chế tác hại của tội phạm",
+      "miễn hình phạt"
+    ]
+  ]
+}

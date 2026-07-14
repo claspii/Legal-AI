@@ -1,0 +1,56 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người phạm tội"
+  ],
+  "actions": [
+    "phạt tiền",
+    "cấm đảm nhiệm chức vụ",
+    "cấm hành nghề",
+    "làm công việc nhất định"
+  ],
+  "actor_actions": [
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm đảm nhiệm chức vụ"
+    ],
+    [
+      "người phạm tội",
+      "bị cấm hành nghề"
+    ],
+    [
+      "người phạm tội",
+      "bị làm công việc nhất định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất ma túy",
+      "tiền chất"
+    ],
+    [
+      "chất ma túy",
+      "thuốc gây nghiện"
+    ],
+    [
+      "chất ma túy",
+      "thuốc hướng thần"
+    ],
+    [
+      "quản lý",
+      "sử dụng chất ma túy"
+    ],
+    [
+      "an toàn công cộng",
+      "trật tự công cộng"
+    ],
+    [
+      "an toàn công cộng",
+      "an toàn giao thông"
+    ]
+  ]
+}

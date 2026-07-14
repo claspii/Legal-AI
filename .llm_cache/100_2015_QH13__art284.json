@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người điều khiển tàu thủy",
+    "phương tiện hàng hải khác",
+    "người"
+  ],
+  "actions": [
+    "điều khiển",
+    "vào",
+    "ra khỏi",
+    "đi qua",
+    "chạy quá tốc độ",
+    "chạy không đúng vùng",
+    "không thực hiện",
+    "thực hiện không đầy đủ",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "làm chết",
+    "gây thiệt hại về tài sản"
+  ],
+  "actor_actions": [
+    [
+      "người điều khiển tàu thủy",
+      "điều khiển"
+    ],
+    [
+      "phương tiện hàng hải khác",
+      "điều khiển"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "vào"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "ra khỏi"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "đi qua"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "gây thương tích"
+    ],
+    [
+      "người điều khiển tàu thủy",
+      "gây tổn hại cho sức khỏe"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "thương tích"
+    ],
+    [
+      "tỷ lệ tổn thương cơ thể",
+      "tổn hại cho sức khỏe"
+    ],
+    [
+      "phạt tiền",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "phạt tiền",
+      "phạt tù"
+    ],
+    [
+      "chạy quá tốc độ",
+      "vùng nước cảng biển"
+    ],
+    [
+      "chạy không đúng vùng",
+      "vùng được phép hoạt động"
+    ],
+    [
+      "không thực hiện thủ tục",
+      "thủ tục vào cảng"
+    ],
+    [
+      "không thực hiện thủ tục",
+      "thủ tục rời cảng"
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [
+    "thay đổi cơ cấu, công nghệ"
+  ],
+  "actors": [
+    "người sử dụng lao động"
+  ],
+  "actions": [
+    "thay đổi cơ cấu tổ chức",
+    "tổ chức lại lao động",
+    "thay đổi quy trình, công nghệ, máy móc, thiết bị sản xuất, kinh doanh gắn với ngành, nghề sản xuất, kinh doanh",
+    "thay đổi sản phẩm hoặc cơ cấu sản phẩm"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "thay đổi cơ cấu, công nghệ",
+      "người sử dụng lao động"
+    ]
+  ]
+}

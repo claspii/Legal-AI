@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người từ đủ mười tám tuổi trở lên",
+    "người chưa đủ mười lăm tuổi",
+    "cha, mẹ",
+    "con chưa thành niên",
+    "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+    "người chưa thành niên",
+    "người mất năng lực hành vi dân sự",
+    "người có khó khăn trong nhận thức, làm chủ hành vi",
+    "người giám hộ",
+    "người được giám hộ"
+  ],
+  "actions": [
+    "gây thiệt hại",
+    "bồi thường",
+    "chịu trách nhiệm bồi thường thiệt hại",
+    "tự bồi thường",
+    "chứng minh",
+    "giám hộ"
+  ],
+  "actor_actions": [
+    [
+      "người từ đủ mười tám tuổi trở lên",
+      "gây thiệt hại"
+    ],
+    [
+      "người từ đủ mười tám tuổi trở lên",
+      "phải tự bồi thường"
+    ],
+    [
+      "người chưa đủ mười lăm tuổi",
+      "gây thiệt hại"
+    ],
+    [
+      "cha, mẹ",
+      "phải bồi thường toàn bộ thiệt hại"
+    ],
+    [
+      "con chưa thành niên",
+      "gây thiệt hại có tài sản riêng"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "gây thiệt hại"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "phải bồi thường bằng tài sản của mình"
+    ],
+    [
+      "cha, mẹ",
+      "phải bồi thường phần còn thiếu bằng tài sản của mình"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người từ đủ mười tám tuổi trở lên",
+      "bồi thường"
+    ],
+    [
+      "người chưa đủ mười lăm tuổi",
+      "cha, mẹ bồi thường"
+    ],
+    [
+      "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi",
+      "bồi thường bằng tài sản"
+    ],
+    [
+      "người giám hộ",
+      "tài sản của người được giám hộ"
+    ],
+    [
+      "người giám hộ",
+      "tài sản của mình"
+    ],
+    [
+      "trách nhiệm bồi thường thiệt hại",
+      "cá nhân"
+    ],
+    [
+      "thiệt hại",
+      "tài sản"
+    ]
+  ]
+}

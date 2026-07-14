@@ -1,0 +1,65 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "công dân"
+  ],
+  "actions": [
+    "bình đẳng",
+    "thực hiện quyền",
+    "thực hiện nghĩa vụ"
+  ],
+  "actor_actions": [
+    [
+      "vợ",
+      "bình đẳng"
+    ],
+    [
+      "chồng",
+      "bình đẳng"
+    ],
+    [
+      "vợ",
+      "thực hiện quyền"
+    ],
+    [
+      "vợ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "chồng",
+      "thực hiện quyền"
+    ],
+    [
+      "chồng",
+      "thực hiện nghĩa vụ"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vợ",
+      "chồng"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "vợ",
+      "gia đình"
+    ],
+    [
+      "chồng",
+      "gia đình"
+    ],
+    [
+      "quyền",
+      "công dân"
+    ],
+    [
+      "nghĩa vụ",
+      "công dân"
+    ]
+  ]
+}

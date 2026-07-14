@@ -1,0 +1,33 @@
+{
+  "concepts_defined": [
+    "hoàn thành nghĩa vụ"
+  ],
+  "actors": [
+    "bên có nghĩa vụ",
+    "bên có quyền"
+  ],
+  "actions": [
+    "thực hiện nghĩa vụ",
+    "cho miễn thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "bên có nghĩa vụ",
+      "thực hiện nghĩa vụ"
+    ],
+    [
+      "bên có quyền",
+      "cho miễn thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nghĩa vụ",
+      "bên có nghĩa vụ"
+    ],
+    [
+      "nghĩa vụ",
+      "bên có quyền"
+    ]
+  ]
+}

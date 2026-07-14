@@ -1,0 +1,72 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vay",
+    "bên cho vay"
+  ],
+  "actions": [
+    "trả nợ",
+    "trả tiền",
+    "trả vật",
+    "yêu cầu trả tiền lãi",
+    "chậm trả",
+    "thỏa thuận",
+    "trả lãi"
+  ],
+  "actor_actions": [
+    [
+      "bên vay",
+      "trả nợ"
+    ],
+    [
+      "bên vay",
+      "trả tiền"
+    ],
+    [
+      "bên vay",
+      "trả vật"
+    ],
+    [
+      "bên vay",
+      "chậm trả"
+    ],
+    [
+      "bên cho vay",
+      "đồng ý"
+    ],
+    [
+      "bên cho vay",
+      "yêu cầu trả tiền lãi"
+    ],
+    [
+      "bên vay",
+      "trả lãi"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vay",
+      "bên cho vay"
+    ],
+    [
+      "tiền",
+      "vật"
+    ],
+    [
+      "vay không có lãi",
+      "vay có lãi"
+    ],
+    [
+      "nợ gốc",
+      "lãi suất thỏa thuận"
+    ],
+    [
+      "trả đủ tiền",
+      "đến hạn"
+    ],
+    [
+      "trả vật cùng loại",
+      "đúng số lượng, chất lượng"
+    ]
+  ]
+}

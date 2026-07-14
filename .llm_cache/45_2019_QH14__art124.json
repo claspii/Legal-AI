@@ -1,0 +1,29 @@
+{
+  "concepts_defined": [],
+  "actors": [],
+  "actions": [
+    "khiển trách",
+    "kéo dài thời hạn nâng lương",
+    "cách chức",
+    "sa thải"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "hình thức xử lý kỷ luật lao động",
+      "khiển trách"
+    ],
+    [
+      "hình thức xử lý kỷ luật lao động",
+      "kéo dài thời hạn nâng lương"
+    ],
+    [
+      "hình thức xử lý kỷ luật lao động",
+      "cách chức"
+    ],
+    [
+      "hình thức xử lý kỷ luật lao động",
+      "sa thải"
+    ]
+  ]
+}

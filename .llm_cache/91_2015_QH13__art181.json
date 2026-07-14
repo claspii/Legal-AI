@@ -1,0 +1,37 @@
+{
+  "concepts_defined": [
+    "chiếm hữu không ngay tình"
+  ],
+  "actors": [
+    "người chiếm hữu"
+  ],
+  "actions": [
+    "chiếm hữu",
+    "biết",
+    "không có quyền"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "chiếm hữu"
+    ],
+    [
+      "người chiếm hữu",
+      "biết"
+    ],
+    [
+      "người chiếm hữu",
+      "không có quyền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm hữu không ngay tình",
+      "chiếm hữu"
+    ],
+    [
+      "chiếm hữu",
+      "quyền đối với tài sản"
+    ]
+  ]
+}

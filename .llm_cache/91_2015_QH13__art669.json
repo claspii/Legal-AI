@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp luật của nước"
+  ],
+  "actions": [
+    "quy định"
+  ],
+  "actor_actions": [
+    [
+      "pháp luật của nước",
+      "quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật của nước có nhiều hệ thống pháp luật",
+      "pháp luật áp dụng"
+    ]
+  ]
+}

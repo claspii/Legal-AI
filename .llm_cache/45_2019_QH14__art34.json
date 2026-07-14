@@ -1,0 +1,91 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "hai bên",
+    "tòa án",
+    "người nước ngoài",
+    "cơ quan nhà nước có thẩm quyền",
+    "người sử dụng lao động",
+    "cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh",
+    "một bên"
+  ],
+  "actions": [
+    "chấm dứt hợp đồng lao động",
+    "hoàn thành công việc",
+    "thỏa thuận chấm dứt hợp đồng lao động",
+    "bị kết án phạt tù",
+    "bị cấm làm công việc",
+    "bị trục xuất",
+    "chết",
+    "tuyên bố mất năng lực hành vi dân sự"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "bị kết án phạt tù"
+    ],
+    [
+      "người lao động",
+      "bị cấm làm công việc"
+    ],
+    [
+      "người lao động là người nước ngoài",
+      "bị trục xuất"
+    ],
+    [
+      "người lao động",
+      "chết"
+    ],
+    [
+      "người lao động",
+      "bị tòa án tuyên bố mất năng lực hành vi dân sự"
+    ],
+    [
+      "người sử dụng lao động là cá nhân",
+      "chết"
+    ],
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "cho người lao động thôi việc"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "kết án phạt tù"
+    ],
+    [
+      "người lao động",
+      "tử hình"
+    ],
+    [
+      "người lao động là người nước ngoài",
+      "bị trục xuất"
+    ],
+    [
+      "người lao động",
+      "chết"
+    ],
+    [
+      "người sử dụng lao động",
+      "chết"
+    ],
+    [
+      "thử việc",
+      "hủy bỏ thỏa thuận thử việc"
+    ],
+    [
+      "người lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ]
+  ]
+}

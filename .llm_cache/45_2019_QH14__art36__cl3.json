@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động"
+  ],
+  "actions": [
+    "đơn phương chấm dứt hợp đồng lao động",
+    "báo trước"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "đơn phương chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "không phải báo trước"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đơn phương chấm dứt hợp đồng lao động",
+      "báo trước"
+    ]
+  ]
+}

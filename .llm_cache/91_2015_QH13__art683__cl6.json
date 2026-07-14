@@ -1,0 +1,36 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người thứ ba"
+  ],
+  "actions": [
+    "thỏa thuận thay đổi pháp luật áp dụng",
+    "ảnh hưởng đến quyền, lợi ích hợp pháp",
+    "đồng ý"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận thay đổi pháp luật áp dụng"
+    ],
+    [
+      "việc thay đổi đó",
+      "không được ảnh hưởng đến quyền, lợi ích hợp pháp"
+    ],
+    [
+      "người thứ ba",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp luật áp dụng",
+      "hợp đồng"
+    ],
+    [
+      "thay đổi pháp luật áp dụng",
+      "quyền, lợi ích hợp pháp của người thứ ba"
+    ]
+  ]
+}

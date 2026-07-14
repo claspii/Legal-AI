@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [
+    "trường hợp được coi là đã nhận được đề nghị giao kết hợp đồng"
+  ],
+  "actors": [
+    "bên đề nghị",
+    "bên được đề nghị",
+    "cá nhân",
+    "pháp nhân"
+  ],
+  "actions": [
+    "ấn định",
+    "nhận được đề nghị",
+    "chuyển đến",
+    "đưa vào hệ thống thông tin chính thức",
+    "biết được đề nghị giao kết hợp đồng"
+  ],
+  "actor_actions": [
+    [
+      "bên đề nghị",
+      "ấn định"
+    ],
+    [
+      "bên được đề nghị",
+      "nhận được đề nghị"
+    ],
+    [
+      "bên được đề nghị",
+      "biết được đề nghị giao kết hợp đồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "thời điểm đề nghị giao kết hợp đồng có hiệu lực",
+      "bên đề nghị ấn định"
+    ],
+    [
+      "thời điểm đề nghị giao kết hợp đồng có hiệu lực",
+      "bên được đề nghị nhận được đề nghị"
+    ],
+    [
+      "đề nghị được chuyển đến nơi cư trú",
+      "cá nhân"
+    ],
+    [
+      "đề nghị được chuyển đến trụ sở",
+      "pháp nhân"
+    ],
+    [
+      "đề nghị giao kết hợp đồng",
+      "hệ thống thông tin chính thức của bên được đề nghị"
+    ]
+  ]
+}

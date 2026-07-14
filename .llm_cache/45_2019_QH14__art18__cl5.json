@@ -1,0 +1,39 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người được ủy quyền giao kết hợp đồng lao động",
+    "người khác"
+  ],
+  "actions": [
+    "giao kết hợp đồng lao động",
+    "ủy quyền lại"
+  ],
+  "actor_actions": [
+    [
+      "người được ủy quyền giao kết hợp đồng lao động",
+      "giao kết hợp đồng lao động"
+    ],
+    [
+      "người được ủy quyền giao kết hợp đồng lao động",
+      "không được ủy quyền lại"
+    ],
+    [
+      "người khác",
+      "giao kết hợp đồng lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người được ủy quyền giao kết hợp đồng lao động",
+      "ủy quyền lại"
+    ],
+    [
+      "ủy quyền lại",
+      "người khác"
+    ],
+    [
+      "giao kết hợp đồng lao động",
+      "ủy quyền lại"
+    ]
+  ]
+}

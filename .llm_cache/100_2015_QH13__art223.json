@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người nộp thuế",
+    "người phạm tội"
+  ],
+  "actions": [
+    "lợi dụng chức vụ, quyền hạn",
+    "thực hiện hành vi",
+    "làm thất thoát tiền thuế",
+    "bị xử lý kỷ luật",
+    "vi phạm",
+    "phạt cải tạo không giam giữ",
+    "phạt tù",
+    "miễn thuế",
+    "giảm thuế"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "lợi dụng chức vụ, quyền hạn"
+    ],
+    [
+      "người",
+      "thực hiện hành vi"
+    ],
+    [
+      "người",
+      "làm thất thoát tiền thuế"
+    ],
+    [
+      "người",
+      "bị xử lý kỷ luật"
+    ],
+    [
+      "người",
+      "vi phạm"
+    ],
+    [
+      "người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "người",
+      "phạt tù"
+    ],
+    [
+      "người nộp thuế",
+      "gây hậu quả nghiêm trọng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội thông đồng, bao che",
+      "hậu quả nghiêm trọng"
+    ],
+    [
+      "tiền thuế",
+      "mức độ thất thoát"
+    ],
+    [
+      "miễn thuế",
+      "không đúng quy định"
+    ],
+    [
+      "giảm thuế",
+      "không đúng quy định"
+    ],
+    [
+      "xóa nợ tiền thuế",
+      "không đúng quy định"
+    ],
+    [
+      "xóa nợ tiền phạt",
+      "không đúng quy định"
+    ],
+    [
+      "hoàn thuế",
+      "không đúng quy định"
+    ],
+    [
+      "xác nhận nghĩa vụ thuế",
+      "không đúng quy định"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "vợ",
+    "chồng",
+    "gia đình"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "xác định",
+    "bảo đảm",
+    "thực hiện",
+    "phát sinh",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "vợ chồng",
+      "thỏa thuận"
+    ],
+    [
+      "vợ chồng",
+      "thực hiện"
+    ],
+    [
+      "vợ chồng",
+      "xác định"
+    ],
+    [
+      "vợ chồng",
+      "bảo đảm"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản chung",
+      "tài sản riêng"
+    ],
+    [
+      "chế độ tài sản theo thỏa thuận",
+      "chế độ tài sản theo luật định"
+    ],
+    [
+      "quyền",
+      "nghĩa vụ"
+    ],
+    [
+      "tài sản chung",
+      "tài sản riêng của vợ, chồng"
+    ]
+  ]
+}

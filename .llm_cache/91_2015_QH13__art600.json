@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cá nhân",
+    "pháp nhân",
+    "người làm công",
+    "người học nghề"
+  ],
+  "actions": [
+    "bồi thường thiệt hại",
+    "thực hiện công việc được giao",
+    "yêu cầu",
+    "hoàn trả"
+  ],
+  "actor_actions": [
+    [
+      "cá nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "cá nhân",
+      "yêu cầu"
+    ],
+    [
+      "pháp nhân",
+      "yêu cầu"
+    ],
+    [
+      "người làm công",
+      "gây thiệt hại"
+    ],
+    [
+      "người học nghề",
+      "gây thiệt hại"
+    ],
+    [
+      "người làm công",
+      "hoàn trả"
+    ],
+    [
+      "người học nghề",
+      "hoàn trả"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cá nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "pháp nhân",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "người làm công",
+      "gây thiệt hại"
+    ],
+    [
+      "người học nghề",
+      "gây thiệt hại"
+    ],
+    [
+      "thiệt hại",
+      "người làm công"
+    ],
+    [
+      "thiệt hại",
+      "người học nghề"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người chiếm hữu",
+    "người sử dụng tài sản",
+    "chủ sở hữu",
+    "chủ thể có quyền khác đối với tài sản",
+    "người thứ ba"
+  ],
+  "actions": [
+    "giao tài sản",
+    "yêu cầu hoàn trả",
+    "hoàn trả tài sản",
+    "trả bằng tiền",
+    "có đền bù",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "người chiếm hữu",
+      "giao tài sản"
+    ],
+    [
+      "người sử dụng tài sản",
+      "giao tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "yêu cầu hoàn trả"
+    ],
+    [
+      "chủ thể có quyền khác đối với tài sản",
+      "yêu cầu hoàn trả"
+    ],
+    [
+      "người thứ ba",
+      "hoàn trả tài sản"
+    ],
+    [
+      "người thứ ba",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người chiếm hữu",
+      "giao tài sản"
+    ],
+    [
+      "người sử dụng tài sản",
+      "giao tài sản"
+    ],
+    [
+      "chủ sở hữu",
+      "yêu cầu hoàn trả"
+    ],
+    [
+      "người thứ ba",
+      "hoàn trả tài sản"
+    ],
+    [
+      "tài sản",
+      "hoàn trả"
+    ]
+  ]
+}

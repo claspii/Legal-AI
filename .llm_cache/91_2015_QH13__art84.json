@@ -1,0 +1,101 @@
+{
+  "concepts_defined": [
+    "chi nhánh",
+    "văn phòng đại diện"
+  ],
+  "actors": [
+    "pháp nhân",
+    "người đứng đầu chi nhánh",
+    "người đứng đầu văn phòng đại diện",
+    "chi nhánh",
+    "văn phòng đại diện"
+  ],
+  "actions": [
+    "thực hiện chức năng",
+    "đại diện",
+    "bảo vệ lợi ích",
+    "thành lập",
+    "chấm dứt",
+    "đăng ký",
+    "công bố công khai",
+    "thực hiện nhiệm vụ theo ủy quyền",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "chi nhánh",
+      "thực hiện toàn bộ hoặc một phần chức năng của pháp nhân"
+    ],
+    [
+      "văn phòng đại diện",
+      "đại diện trong phạm vi do pháp nhân giao"
+    ],
+    [
+      "văn phòng đại diện",
+      "bảo vệ lợi ích của pháp nhân"
+    ],
+    [
+      "chi nhánh",
+      "đăng ký"
+    ],
+    [
+      "văn phòng đại diện",
+      "đăng ký"
+    ],
+    [
+      "chi nhánh",
+      "công bố công khai"
+    ],
+    [
+      "văn phòng đại diện",
+      "công bố công khai"
+    ],
+    [
+      "người đứng đầu chi nhánh",
+      "thực hiện nhiệm vụ theo ủy quyền của pháp nhân"
+    ],
+    [
+      "người đứng đầu văn phòng đại diện",
+      "thực hiện nhiệm vụ theo ủy quyền của pháp nhân"
+    ],
+    [
+      "pháp nhân",
+      "có quyền, nghĩa vụ dân sự phát sinh từ giao dịch dân sự"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chi nhánh",
+      "pháp nhân"
+    ],
+    [
+      "văn phòng đại diện",
+      "pháp nhân"
+    ],
+    [
+      "chi nhánh",
+      "đơn vị phụ thuộc"
+    ],
+    [
+      "văn phòng đại diện",
+      "đơn vị phụ thuộc"
+    ],
+    [
+      "chi nhánh",
+      "đăng ký"
+    ],
+    [
+      "văn phòng đại diện",
+      "đăng ký"
+    ],
+    [
+      "chi nhánh",
+      "công bố công khai"
+    ],
+    [
+      "văn phòng đại diện",
+      "công bố công khai"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người lao động",
+    "người nước ngoài"
+  ],
+  "actions": [
+    "chấm dứt",
+    "làm việc"
+  ],
+  "actor_actions": [
+    [
+      "giấy phép lao động",
+      "hết hiệu lực"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "giấy phép lao động",
+      "người nước ngoài"
+    ],
+    [
+      "hợp đồng lao động",
+      "chấm dứt"
+    ]
+  ]
+}

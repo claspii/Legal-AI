@@ -1,0 +1,45 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người vợ",
+    "người phụ nữ sống độc thân",
+    "người cho tinh trùng",
+    "người cho noãn",
+    "người cho phôi",
+    "người con"
+  ],
+  "actions": [
+    "xác định cha, mẹ",
+    "sinh con",
+    "mang thai hộ",
+    "làm phát sinh quan hệ cha, mẹ và con"
+  ],
+  "actor_actions": [
+    [
+      "người vợ",
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "người phụ nữ sống độc thân",
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "người phụ nữ sống độc thân",
+      "là mẹ của con được sinh ra"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "xác định cha, mẹ",
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản"
+    ],
+    [
+      "sinh con bằng kỹ thuật hỗ trợ sinh sản",
+      "quan hệ cha, mẹ và con"
+    ],
+    [
+      "xác định cha, mẹ",
+      "mang thai hộ vì mục đích nhân đạo"
+    ]
+  ]
+}

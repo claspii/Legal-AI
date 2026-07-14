@@ -1,0 +1,21 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người dưới 18 tuổi"
+  ],
+  "actions": [
+    "xử phạt tù chung thân",
+    "xử phạt tử hình"
+  ],
+  "actor_actions": [],
+  "related_concepts": [
+    [
+      "người dưới 18 tuổi",
+      "tù chung thân"
+    ],
+    [
+      "người dưới 18 tuổi",
+      "tử hình"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cô, dì, chú, cậu, bác ruột",
+    "cháu ruột",
+    "cháu chưa thành niên",
+    "cháu đã thành niên",
+    "người khác"
+  ],
+  "actions": [
+    "cấp dưỡng",
+    "nuôi mình"
+  ],
+  "actor_actions": [
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "cấp dưỡng"
+    ],
+    [
+      "cháu đã thành niên",
+      "cấp dưỡng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "cháu ruột"
+    ],
+    [
+      "cô, dì, chú, cậu, bác ruột",
+      "cấp dưỡng"
+    ],
+    [
+      "cháu ruột",
+      "cấp dưỡng"
+    ],
+    [
+      "cháu chưa thành niên",
+      "không có khả năng lao động"
+    ],
+    [
+      "cháu đã thành niên",
+      "không có khả năng lao động"
+    ]
+  ]
+}

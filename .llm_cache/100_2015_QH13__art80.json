@@ -1,0 +1,55 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại",
+    "tòa án",
+    "con người",
+    "xã hội"
+  ],
+  "actions": [
+    "cấm kinh doanh",
+    "cấm hoạt động",
+    "gây nguy hại",
+    "quyết định"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "bị kết án"
+    ],
+    [
+      "pháp nhân thương mại",
+      "tiếp tục kinh doanh"
+    ],
+    [
+      "pháp nhân thương mại",
+      "hoạt động"
+    ],
+    [
+      "tòa án",
+      "quyết định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cấm kinh doanh",
+      "cấm hoạt động"
+    ],
+    [
+      "cấm kinh doanh",
+      "thời hạn cấm"
+    ],
+    [
+      "cấm hoạt động",
+      "thời hạn cấm"
+    ],
+    [
+      "tính mạng",
+      "sức khỏe"
+    ],
+    [
+      "pháp nhân thương mại",
+      "phạm tội"
+    ]
+  ]
+}

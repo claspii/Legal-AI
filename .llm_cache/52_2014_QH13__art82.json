@@ -1,0 +1,75 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha",
+    "mẹ",
+    "con",
+    "người trực tiếp nuôi con",
+    "người không trực tiếp nuôi con",
+    "tòa án"
+  ],
+  "actions": [
+    "tôn trọng",
+    "cấp dưỡng",
+    "thăm nom",
+    "cản trở",
+    "gây ảnh hưởng xấu",
+    "trông nom",
+    "chăm sóc",
+    "nuôi dưỡng",
+    "giáo dục",
+    "yêu cầu"
+  ],
+  "actor_actions": [
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "tôn trọng quyền của con được sống chung với người trực tiếp nuôi"
+    ],
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "cấp dưỡng cho con"
+    ],
+    [
+      "người không trực tiếp nuôi con",
+      "thăm nom con"
+    ],
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "lạm dụng việc thăm nom để cản trở"
+    ],
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "gây ảnh hưởng xấu đến việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con"
+    ],
+    [
+      "người trực tiếp nuôi con",
+      "yêu cầu tòa án hạn chế quyền thăm nom con của người đó"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "nghĩa vụ"
+    ],
+    [
+      "cha, mẹ không trực tiếp nuôi con",
+      "quyền"
+    ],
+    [
+      "thăm nom con",
+      "cản trở"
+    ],
+    [
+      "thăm nom con",
+      "gây ảnh hưởng xấu"
+    ],
+    [
+      "trông nom, chăm sóc, nuôi dưỡng, giáo dục con",
+      "ảnh hưởng xấu"
+    ],
+    [
+      "quyền thăm nom con",
+      "hạn chế"
+    ]
+  ]
+}

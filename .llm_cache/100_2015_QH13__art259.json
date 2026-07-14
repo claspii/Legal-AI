@@ -1,0 +1,104 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội",
+    "người không được phép cất giữ, sử dụng"
+  ],
+  "actions": [
+    "sản xuất",
+    "vận chuyển",
+    "bảo quản",
+    "tồn trữ",
+    "mua bán",
+    "phân phối",
+    "sử dụng",
+    "xử lý",
+    "trao đổi",
+    "xuất khẩu",
+    "nhập khẩu",
+    "quá cảnh lãnh thổ việt nam",
+    "kê đơn",
+    "bán thuốc",
+    "giám định",
+    "nghiên cứu",
+    "vi phạm",
+    "chuyển"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "sản xuất"
+    ],
+    [
+      "người",
+      "vận chuyển"
+    ],
+    [
+      "người",
+      "bảo quản"
+    ],
+    [
+      "người",
+      "tồn trữ"
+    ],
+    [
+      "người",
+      "mua bán"
+    ],
+    [
+      "người",
+      "phân phối"
+    ],
+    [
+      "người",
+      "sử dụng"
+    ],
+    [
+      "người",
+      "xử lý"
+    ],
+    [
+      "người",
+      "trao đổi"
+    ],
+    [
+      "người",
+      "xuất khẩu"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chất ma túy",
+      "tiền chất"
+    ],
+    [
+      "chất ma túy",
+      "thuốc gây nghiện"
+    ],
+    [
+      "chất ma túy",
+      "thuốc hướng thần"
+    ],
+    [
+      "tiền chất",
+      "thuốc gây nghiện"
+    ],
+    [
+      "tiền chất",
+      "thuốc hướng thần"
+    ],
+    [
+      "thuốc gây nghiện",
+      "thuốc hướng thần"
+    ],
+    [
+      "vi phạm",
+      "xử lý kỷ luật"
+    ],
+    [
+      "vi phạm",
+      "xử phạt vi phạm hành chính"
+    ]
+  ]
+}

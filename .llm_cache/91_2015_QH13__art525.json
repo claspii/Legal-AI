@@ -1,0 +1,74 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên vận chuyển",
+    "hành khách",
+    "người khác"
+  ],
+  "actions": [
+    "yêu cầu",
+    "trả đủ cước phí",
+    "từ chối chuyên chở",
+    "chấp hành quy định",
+    "làm mất trật tự công cộng",
+    "cản trở công việc",
+    "đe dọa đến tính mạng, sức khỏe, tài sản",
+    "không bảo đảm an toàn"
+  ],
+  "actor_actions": [
+    [
+      "bên vận chuyển",
+      "yêu cầu"
+    ],
+    [
+      "hành khách",
+      "trả đủ cước phí"
+    ],
+    [
+      "bên vận chuyển",
+      "từ chối chuyên chở"
+    ],
+    [
+      "hành khách",
+      "không chấp hành quy định"
+    ],
+    [
+      "hành khách",
+      "làm mất trật tự công cộng"
+    ],
+    [
+      "hành khách",
+      "cản trở công việc"
+    ],
+    [
+      "hành khách",
+      "đe dọa đến tính mạng, sức khỏe, tài sản"
+    ],
+    [
+      "hành khách",
+      "không bảo đảm an toàn"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "bên vận chuyển",
+      "cước phí vận chuyển"
+    ],
+    [
+      "hành khách",
+      "cước phí vận chuyển"
+    ],
+    [
+      "bên vận chuyển",
+      "hành khách"
+    ],
+    [
+      "hành khách",
+      "hành vi làm mất trật tự công cộng"
+    ],
+    [
+      "hành khách",
+      "tình trạng sức khỏe"
+    ]
+  ]
+}

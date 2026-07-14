@@ -1,0 +1,87 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "hòa giải viên lao động",
+    "hội đồng trọng tài lao động",
+    "tòa án",
+    "người giúp việc gia đình",
+    "người sử dụng lao động",
+    "người lao động",
+    "doanh nghiệp",
+    "tổ chức"
+  ],
+  "actions": [
+    "hòa giải",
+    "giải quyết",
+    "xử lý kỷ luật lao động",
+    "sa thải",
+    "chấm dứt hợp đồng lao động",
+    "bồi thường thiệt hại",
+    "trợ cấp",
+    "đi làm việc ở nước ngoài"
+  ],
+  "actor_actions": [
+    [
+      "hòa giải viên lao động",
+      "hòa giải"
+    ],
+    [
+      "hội đồng trọng tài lao động",
+      "giải quyết"
+    ],
+    [
+      "tòa án",
+      "giải quyết"
+    ],
+    [
+      "người sử dụng lao động",
+      "chấm dứt hợp đồng lao động"
+    ],
+    [
+      "người lao động",
+      "đi làm việc ở nước ngoài"
+    ],
+    [
+      "doanh nghiệp",
+      "đưa người lao động đi làm việc ở nước ngoài"
+    ],
+    [
+      "tổ chức",
+      "đưa người lao động đi làm việc ở nước ngoài"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tranh chấp lao động cá nhân",
+      "hòa giải"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "hòa giải viên lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "tranh chấp lao động cá nhân",
+      "tòa án"
+    ],
+    [
+      "xử lý kỷ luật lao động",
+      "sa thải"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "pháp luật về bảo hiểm xã hội"
+    ],
+    [
+      "bảo hiểm y tế",
+      "pháp luật về bảo hiểm y tế"
+    ],
+    [
+      "bảo hiểm thất nghiệp",
+      "pháp luật về việc làm"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "cha mẹ",
+    "người giám hộ",
+    "con chưa thành niên",
+    "con dưới 15 tuổi",
+    "con từ đủ 09 tuổi trở lên",
+    "con từ đủ 15 tuổi đến dưới 18 tuổi",
+    "con đã thành niên mất năng lực hành vi dân sự"
+  ],
+  "actions": [
+    "định đoạt tài sản riêng",
+    "quản lý tài sản riêng",
+    "xem xét nguyện vọng",
+    "có sự đồng ý bằng văn bản",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "cha mẹ",
+      "định đoạt tài sản riêng"
+    ],
+    [
+      "người giám hộ",
+      "định đoạt tài sản riêng"
+    ],
+    [
+      "cha mẹ",
+      "quản lý tài sản riêng"
+    ],
+    [
+      "người giám hộ",
+      "quản lý tài sản riêng"
+    ],
+    [
+      "con từ đủ 09 tuổi trở lên",
+      "xem xét nguyện vọng"
+    ],
+    [
+      "con từ đủ 15 tuổi đến dưới 18 tuổi",
+      "định đoạt tài sản riêng"
+    ],
+    [
+      "cha mẹ",
+      "có sự đồng ý bằng văn bản"
+    ],
+    [
+      "người giám hộ",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "cha mẹ",
+      "con chưa thành niên"
+    ],
+    [
+      "người giám hộ",
+      "con chưa thành niên"
+    ],
+    [
+      "tài sản riêng",
+      "con chưa thành niên"
+    ],
+    [
+      "tài sản riêng",
+      "con đã thành niên mất năng lực hành vi dân sự"
+    ],
+    [
+      "định đoạt tài sản riêng",
+      "lợi ích của con"
+    ],
+    [
+      "bất động sản",
+      "động sản có đăng ký quyền sở hữu"
+    ]
+  ]
+}

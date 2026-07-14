@@ -1,0 +1,54 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "bên bán",
+    "bên mua"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "giao tài sản",
+    "hủy bỏ",
+    "yêu cầu bồi thường thiệt hại"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "bên bán",
+      "giao tài sản"
+    ],
+    [
+      "bên bán",
+      "thực hiện không đúng nghĩa vụ"
+    ],
+    [
+      "bên mua",
+      "hủy bỏ phần hợp đồng"
+    ],
+    [
+      "bên mua",
+      "yêu cầu bồi thường thiệt hại"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tài sản",
+      "phương thức giao tài sản"
+    ],
+    [
+      "bên bán",
+      "bên mua"
+    ],
+    [
+      "hủy bỏ",
+      "bồi thường thiệt hại"
+    ],
+    [
+      "hợp đồng",
+      "vi phạm"
+    ]
+  ]
+}

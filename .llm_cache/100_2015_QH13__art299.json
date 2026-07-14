@@ -1,0 +1,81 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "công chúng",
+    "cơ quan",
+    "tổ chức",
+    "cá nhân",
+    "phần tử khủng bố"
+  ],
+  "actions": [
+    "khủng bố",
+    "gây ra tình trạng hoảng sợ",
+    "xâm phạm tính mạng",
+    "phá hủy tài sản",
+    "thành lập tổ chức khủng bố",
+    "tham gia tổ chức khủng bố",
+    "tổ chức tài trợ khủng bố",
+    "cưỡng ép phần tử khủng bố"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "gây ra tình trạng hoảng sợ"
+    ],
+    [
+      "người",
+      "xâm phạm tính mạng"
+    ],
+    [
+      "người",
+      "phá hủy tài sản"
+    ],
+    [
+      "người",
+      "thành lập tổ chức khủng bố"
+    ],
+    [
+      "người",
+      "tham gia tổ chức khủng bố"
+    ],
+    [
+      "người",
+      "tổ chức tài trợ khủng bố"
+    ],
+    [
+      "người",
+      "cưỡng ép phần tử khủng bố"
+    ],
+    [
+      "người",
+      "lôi kéo phần tử khủng bố"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "tội khủng bố",
+      "xâm phạm tính mạng"
+    ],
+    [
+      "tội khủng bố",
+      "phá hủy tài sản"
+    ],
+    [
+      "tội khủng bố",
+      "tình trạng hoảng sợ trong công chúng"
+    ],
+    [
+      "tội khủng bố",
+      "tổ chức khủng bố"
+    ],
+    [
+      "tội khủng bố",
+      "tổ chức tài trợ khủng bố"
+    ],
+    [
+      "tội khủng bố",
+      "phần tử khủng bố"
+    ]
+  ]
+}

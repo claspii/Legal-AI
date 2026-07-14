@@ -1,0 +1,86 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người sử dụng lao động",
+    "người lao động",
+    "tổ chức đại diện người lao động"
+  ],
+  "actions": [
+    "thực hiện hợp đồng lao động",
+    "thực hiện thỏa ước lao động tập thể",
+    "thực hiện thỏa thuận hợp pháp khác",
+    "tôn trọng danh dự, nhân phẩm",
+    "thiết lập cơ chế đối thoại",
+    "thực hiện đối thoại",
+    "trao đổi",
+    "thực hiện quy chế dân chủ ở cơ sở"
+  ],
+  "actor_actions": [
+    [
+      "người sử dụng lao động",
+      "thực hiện hợp đồng lao động"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện thỏa ước lao động tập thể"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện thỏa thuận hợp pháp khác"
+    ],
+    [
+      "người sử dụng lao động",
+      "tôn trọng danh dự, nhân phẩm"
+    ],
+    [
+      "người sử dụng lao động",
+      "thiết lập cơ chế đối thoại"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện đối thoại"
+    ],
+    [
+      "người sử dụng lao động",
+      "trao đổi"
+    ],
+    [
+      "người sử dụng lao động",
+      "thực hiện quy chế dân chủ ở cơ sở"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người sử dụng lao động",
+      "người lao động"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "hợp đồng lao động",
+      "thỏa thuận hợp pháp khác"
+    ],
+    [
+      "đào tạo",
+      "đào tạo lại"
+    ],
+    [
+      "đào tạo",
+      "bồi dưỡng nâng cao trình độ, kỹ năng nghề"
+    ],
+    [
+      "quy định của pháp luật về lao động",
+      "việc làm"
+    ],
+    [
+      "quy định của pháp luật về lao động",
+      "giáo dục nghề nghiệp"
+    ],
+    [
+      "bảo hiểm xã hội",
+      "bảo hiểm y tế"
+    ]
+  ]
+}

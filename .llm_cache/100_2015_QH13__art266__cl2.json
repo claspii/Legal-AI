@@ -1,0 +1,77 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người bị nạn",
+    "người có trách nhiệm bảo đảm trật tự, an toàn giao thông",
+    "người có trách nhiệm giải tán cuộc đua xe trái phép"
+  ],
+  "actions": [
+    "làm chết",
+    "gây thương tích",
+    "gây tổn hại cho sức khỏe",
+    "gây tai nạn",
+    "bỏ chạy để trốn tránh trách nhiệm",
+    "cố ý không cứu giúp",
+    "tham gia cá cược",
+    "chống lại",
+    "tháo dỡ",
+    "tái phạm nguy hiểm"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "làm chết"
+    ],
+    [
+      "người",
+      "gây thương tích"
+    ],
+    [
+      "người",
+      "gây tổn hại cho sức khỏe"
+    ],
+    [
+      "người",
+      "gây tai nạn"
+    ],
+    [
+      "người",
+      "bỏ chạy để trốn tránh trách nhiệm"
+    ],
+    [
+      "người",
+      "cố ý không cứu giúp"
+    ],
+    [
+      "người",
+      "tham gia cá cược"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "làm chết",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây thương tích",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tổn hại cho sức khỏe",
+      "tỷ lệ tổn thương cơ thể"
+    ],
+    [
+      "gây tai nạn",
+      "bỏ chạy để trốn tránh trách nhiệm"
+    ],
+    [
+      "gây tai nạn",
+      "cố ý không cứu giúp người bị nạn"
+    ],
+    [
+      "đua xe trái phép",
+      "tham gia cá cược"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người",
+    "người phạm tội"
+  ],
+  "actions": [
+    "chiếm dụng chỗ ở",
+    "xây dựng nhà trái phép",
+    "bị xử phạt vi phạm hành chính",
+    "bị kết án",
+    "vi phạm",
+    "bị phạt cải tạo không giam giữ",
+    "bị phạt tù",
+    "bị dỡ bỏ",
+    "bị trưng mua",
+    "bị tịch thu"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "chiếm dụng chỗ ở"
+    ],
+    [
+      "người",
+      "xây dựng nhà trái phép"
+    ],
+    [
+      "người phạm tội",
+      "bị phạt tiền"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "chiếm dụng chỗ ở",
+      "xây dựng nhà trái phép"
+    ],
+    [
+      "nhà ở",
+      "công trình xây dựng trái phép"
+    ],
+    [
+      "bị phạt cải tạo không giam giữ",
+      "bị phạt tù"
+    ]
+  ]
+}

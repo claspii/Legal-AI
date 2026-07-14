@@ -1,0 +1,30 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ sở hữu chung"
+  ],
+  "actions": [
+    "định đoạt",
+    "thực hiện"
+  ],
+  "actor_actions": [
+    [
+      "chủ sở hữu chung",
+      "định đoạt"
+    ],
+    [
+      "chủ sở hữu chung",
+      "thực hiện"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "định đoạt tài sản chung",
+      "thỏa thuận của các chủ sở hữu chung"
+    ],
+    [
+      "định đoạt tài sản chung",
+      "quy định của pháp luật"
+    ]
+  ]
+}

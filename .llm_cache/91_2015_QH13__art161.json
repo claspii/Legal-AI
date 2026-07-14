@@ -1,0 +1,49 @@
+{
+  "concepts_defined": [
+    "thời điểm tài sản được chuyển giao"
+  ],
+  "actors": [
+    "bên có quyền",
+    "người đại diện hợp pháp của họ",
+    "các bên",
+    "bên có tài sản chuyển giao"
+  ],
+  "actions": [
+    "xác lập quyền sở hữu",
+    "xác lập quyền khác đối với tài sản",
+    "thực hiện theo quy định của bộ luật này",
+    "thực hiện theo luật khác có liên quan",
+    "chiếm hữu tài sản",
+    "phát sinh hoa lợi",
+    "phát sinh lợi tức",
+    "có thỏa thuận khác"
+  ],
+  "actor_actions": [
+    [
+      "bên có quyền",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "người đại diện hợp pháp của họ",
+      "chiếm hữu tài sản"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "quyền sở hữu",
+      "quyền khác đối với tài sản"
+    ],
+    [
+      "hoa lợi",
+      "lợi tức"
+    ],
+    [
+      "thời điểm xác lập quyền sở hữu, quyền khác đối với tài sản",
+      "thời điểm tài sản được chuyển giao"
+    ]
+  ]
+}

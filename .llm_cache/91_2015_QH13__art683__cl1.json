@@ -1,0 +1,31 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên"
+  ],
+  "actions": [
+    "thỏa thuận lựa chọn pháp luật áp dụng đối với hợp đồng",
+    "có thỏa thuận về pháp luật áp dụng",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận lựa chọn pháp luật áp dụng đối với hợp đồng"
+    ],
+    [
+      "các bên",
+      "có thỏa thuận về pháp luật áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hợp đồng",
+      "pháp luật áp dụng"
+    ],
+    [
+      "pháp luật",
+      "mối liên hệ gắn bó nhất"
+    ]
+  ]
+}

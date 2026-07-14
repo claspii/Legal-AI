@@ -1,0 +1,59 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "công dân việt nam",
+    "người nước ngoài",
+    "cơ quan nhà nước có thẩm quyền của việt nam",
+    "những người nước ngoài thường trú ở việt nam"
+  ],
+  "actions": [
+    "kết hôn",
+    "tuân theo pháp luật",
+    "tuân theo quy định",
+    "tiến hành"
+  ],
+  "actor_actions": [
+    [
+      "công dân việt nam",
+      "kết hôn"
+    ],
+    [
+      "người nước ngoài",
+      "kết hôn"
+    ],
+    [
+      "mỗi bên",
+      "tuân theo pháp luật"
+    ],
+    [
+      "người nước ngoài",
+      "tuân theo các quy định"
+    ],
+    [
+      "cơ quan nhà nước có thẩm quyền của việt nam",
+      "tiến hành"
+    ],
+    [
+      "việc kết hôn giữa những người nước ngoài thường trú ở việt nam",
+      "tuân theo các quy định"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "kết hôn",
+      "yếu tố nước ngoài"
+    ],
+    [
+      "công dân việt nam",
+      "người nước ngoài"
+    ],
+    [
+      "pháp luật của nước mình",
+      "điều kiện kết hôn"
+    ],
+    [
+      "luật này",
+      "điều kiện kết hôn"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân thương mại"
+  ],
+  "actions": [
+    "phạt tiền",
+    "đình chỉ hoạt động có thời hạn",
+    "đình chỉ hoạt động vĩnh viễn",
+    "cấm kinh doanh",
+    "cấm hoạt động trong một số lĩnh vực nhất định",
+    "cấm huy động vốn"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân thương mại",
+      "bị áp dụng một hình phạt chính"
+    ],
+    [
+      "pháp nhân thương mại",
+      "bị áp dụng một hoặc một số hình phạt bổ sung"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hình phạt chính",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt chính",
+      "đình chỉ hoạt động có thời hạn"
+    ],
+    [
+      "hình phạt chính",
+      "đình chỉ hoạt động vĩnh viễn"
+    ],
+    [
+      "hình phạt bổ sung",
+      "cấm kinh doanh"
+    ],
+    [
+      "hình phạt bổ sung",
+      "cấm hoạt động trong một số lĩnh vực nhất định"
+    ],
+    [
+      "hình phạt bổ sung",
+      "cấm huy động vốn"
+    ],
+    [
+      "hình phạt bổ sung",
+      "phạt tiền"
+    ],
+    [
+      "hình phạt chính",
+      "hình phạt bổ sung"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "các bên",
+    "người sử dụng lao động",
+    "người lao động",
+    "doanh nghiệp"
+  ],
+  "actions": [
+    "thỏa thuận",
+    "ký kết",
+    "tôn trọng",
+    "thực hiện",
+    "áp dụng"
+  ],
+  "actor_actions": [
+    [
+      "các bên",
+      "thỏa thuận"
+    ],
+    [
+      "các bên",
+      "ký kết"
+    ],
+    [
+      "các bên",
+      "tôn trọng"
+    ],
+    [
+      "các bên",
+      "thực hiện"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "có hiệu lực áp dụng"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "có hiệu lực áp dụng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hiệu lực",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "thời hạn",
+      "thỏa ước lao động tập thể"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "người sử dụng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể doanh nghiệp",
+      "người lao động của doanh nghiệp"
+    ],
+    [
+      "thỏa ước lao động tập thể ngành",
+      "người sử dụng lao động"
+    ],
+    [
+      "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+      "người lao động của các doanh nghiệp"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [
+    "đình công"
+  ],
+  "actors": [
+    "người lao động",
+    "tổ chức đại diện người lao động có quyền thương lượng tập thể",
+    "một bên tranh chấp lao động tập thể"
+  ],
+  "actions": [
+    "ngừng việc tạm thời",
+    "tổ chức",
+    "lãnh đạo"
+  ],
+  "actor_actions": [
+    [
+      "người lao động",
+      "ngừng việc tạm thời"
+    ],
+    [
+      "tổ chức đại diện người lao động có quyền thương lượng tập thể",
+      "tổ chức"
+    ],
+    [
+      "tổ chức đại diện người lao động có quyền thương lượng tập thể",
+      "lãnh đạo"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "đình công",
+      "ngừng việc tạm thời"
+    ],
+    [
+      "đình công",
+      "tranh chấp lao động"
+    ],
+    [
+      "đình công",
+      "tổ chức đại diện người lao động có quyền thương lượng tập thể"
+    ]
+  ]
+}

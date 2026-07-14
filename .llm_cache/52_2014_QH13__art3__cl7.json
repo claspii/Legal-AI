@@ -1,0 +1,41 @@
+{
+  "concepts_defined": [
+    "chung sống như vợ chồng"
+  ],
+  "actors": [
+    "nam",
+    "nữ"
+  ],
+  "actions": [
+    "tổ chức cuộc sống chung",
+    "coi nhau là vợ chồng"
+  ],
+  "actor_actions": [
+    [
+      "nam",
+      "tổ chức cuộc sống chung"
+    ],
+    [
+      "nữ",
+      "tổ chức cuộc sống chung"
+    ],
+    [
+      "nam",
+      "coi nhau là vợ chồng"
+    ],
+    [
+      "nữ",
+      "coi nhau là vợ chồng"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "nam",
+      "nữ"
+    ],
+    [
+      "cuộc sống chung",
+      "vợ chồng"
+    ]
+  ]
+}

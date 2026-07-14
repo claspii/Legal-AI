@@ -1,0 +1,27 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người"
+  ],
+  "actions": [
+    "vô ý làm chết người",
+    "phạt cải tạo không giam giữ",
+    "phạt tù"
+  ],
+  "actor_actions": [
+    [
+      "người",
+      "vô ý làm chết người"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "vô ý làm chết người",
+      "phạt cải tạo không giam giữ"
+    ],
+    [
+      "vô ý làm chết người",
+      "phạt tù"
+    ]
+  ]
+}

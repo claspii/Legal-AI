@@ -1,0 +1,71 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "người có quyền, lợi ích liên quan",
+    "tòa án",
+    "người",
+    "ủy ban nhân dân cấp xã"
+  ],
+  "actions": [
+    "yêu cầu tòa án ra quyết định tuyên bố một người là đã chết",
+    "xác định ngày chết",
+    "gửi quyết định",
+    "ghi chú"
+  ],
+  "actor_actions": [
+    [
+      "người có quyền, lợi ích liên quan",
+      "yêu cầu tòa án ra quyết định tuyên bố một người là đã chết"
+    ],
+    [
+      "tòa án",
+      "ra quyết định tuyên bố một người là đã chết"
+    ],
+    [
+      "tòa án",
+      "xác định ngày chết của người bị tuyên bố là đã chết"
+    ],
+    [
+      "quyết định của tòa án",
+      "gửi cho ủy ban nhân dân cấp xã"
+    ],
+    [
+      "ủy ban nhân dân cấp xã",
+      "ghi chú"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "người có quyền, lợi ích liên quan",
+      "tòa án"
+    ],
+    [
+      "tòa án",
+      "quyết định tuyên bố một người là đã chết"
+    ],
+    [
+      "quyết định tuyên bố mất tích",
+      "quyết định tuyên bố một người là đã chết"
+    ],
+    [
+      "tai nạn hoặc thảm họa, thiên tai",
+      "không có tin tức xác thực là còn sống"
+    ],
+    [
+      "biệt tích trong chiến tranh",
+      "không có tin tức xác thực là còn sống"
+    ],
+    [
+      "biệt tích 05 năm liền trở lên",
+      "không có tin tức xác thực là còn sống"
+    ],
+    [
+      "quyết định của tòa án tuyên bố một người là đã chết",
+      "ủy ban nhân dân cấp xã"
+    ],
+    [
+      "ngày chết của người bị tuyên bố là đã chết",
+      "tòa án xác định"
+    ]
+  ]
+}

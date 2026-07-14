@@ -1,0 +1,50 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "chủ tịch ủy ban nhân dân cấp tỉnh",
+    "hội đồng trọng tài lao động",
+    "chủ tịch",
+    "thư ký",
+    "trọng tài viên lao động"
+  ],
+  "actions": [
+    "quyết định thành lập",
+    "bổ nhiệm"
+  ],
+  "actor_actions": [
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "quyết định thành lập hội đồng trọng tài lao động"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "bổ nhiệm chủ tịch"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "bổ nhiệm thư ký"
+    ],
+    [
+      "chủ tịch ủy ban nhân dân cấp tỉnh",
+      "bổ nhiệm trọng tài viên lao động"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "hội đồng trọng tài lao động",
+      "chủ tịch ủy ban nhân dân cấp tỉnh"
+    ],
+    [
+      "chủ tịch",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "thư ký",
+      "hội đồng trọng tài lao động"
+    ],
+    [
+      "trọng tài viên lao động",
+      "hội đồng trọng tài lao động"
+    ]
+  ]
+}

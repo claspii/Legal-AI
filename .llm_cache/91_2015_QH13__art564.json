@@ -1,0 +1,43 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "bên được ủy quyền",
+    "người khác",
+    "bên ủy quyền",
+    "người ủy quyền"
+  ],
+  "actions": [
+    "ủy quyền lại",
+    "áp dụng ủy quyền lại",
+    "xác lập giao dịch dân sự",
+    "thực hiện giao dịch dân sự"
+  ],
+  "actor_actions": [
+    [
+      "bên được ủy quyền",
+      "ủy quyền lại"
+    ],
+    [
+      "bên ủy quyền",
+      "đồng ý"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "ủy quyền lại",
+      "bên được ủy quyền"
+    ],
+    [
+      "ủy quyền lại",
+      "bên ủy quyền"
+    ],
+    [
+      "phạm vi ủy quyền lại",
+      "phạm vi ủy quyền ban đầu"
+    ],
+    [
+      "hình thức hợp đồng ủy quyền lại",
+      "hình thức ủy quyền ban đầu"
+    ]
+  ]
+}

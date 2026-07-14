@@ -1,0 +1,57 @@
+{
+  "concepts_defined": [],
+  "actors": [
+    "pháp nhân",
+    "pháp nhân được sáp nhập",
+    "pháp nhân sáp nhập"
+  ],
+  "actions": [
+    "sáp nhập",
+    "chấm dứt tồn tại",
+    "chuyển giao"
+  ],
+  "actor_actions": [
+    [
+      "pháp nhân",
+      "sáp nhập"
+    ],
+    [
+      "pháp nhân được sáp nhập",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân được sáp nhập",
+      "chuyển giao"
+    ],
+    [
+      "pháp nhân sáp nhập",
+      "sáp nhập"
+    ]
+  ],
+  "related_concepts": [
+    [
+      "pháp nhân",
+      "sáp nhập"
+    ],
+    [
+      "pháp nhân được sáp nhập",
+      "chấm dứt tồn tại"
+    ],
+    [
+      "pháp nhân được sáp nhập",
+      "quyền và nghĩa vụ dân sự"
+    ],
+    [
+      "pháp nhân sáp nhập",
+      "quyền và nghĩa vụ dân sự"
+    ],
+    [
+      "pháp nhân được sáp nhập",
+      "pháp nhân sáp nhập"
+    ],
+    [
+      "quyền và nghĩa vụ dân sự",
+      "chuyển giao"
+    ]
+  ]
+}
