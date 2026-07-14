@@ -1,0 +1,199 @@
+/* ─── ThinkingBlock ────────────────────────────────────────────────────────── */
+
+.thinking-block {
+  margin-top: var(--space-2);
+  margin-bottom: var(--space-3);
+  border-radius: var(--radius-lg);
+  border: 1px solid hsla(270, 40%, 45%, 0.25);
+  overflow: hidden;
+  background: hsla(270, 20%, 10%, 0.35);
+  backdrop-filter: blur(8px);
+}
+
+.thinking-block--open {
+  border-color: hsla(270, 50%, 55%, 0.35);
+}
+
+/* Toggle button */
+.thinking-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: var(--space-2) var(--space-3);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-family);
+  transition: background var(--transition-fast);
+}
+
+.thinking-toggle:hover {
+  background: hsla(270, 40%, 50%, 0.07);
+}
+
+.thinking-toggle-left {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.thinking-toggle-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+/* Brain icon */
+.thinking-icon {
+  width: 22px;
+  height: 22px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, hsl(270, 60%, 45%), hsl(290, 60%, 55%));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-shrink: 0;
+  box-shadow: 0 0 10px hsla(270, 60%, 50%, 0.3);
+}
+
+.thinking-icon--pulse {
+  animation: thinkingPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes thinkingPulse {
+  0%, 100% { box-shadow: 0 0 6px hsla(270, 60%, 50%, 0.3); }
+  50%       { box-shadow: 0 0 16px hsla(270, 60%, 60%, 0.6); }
+}
+
+.thinking-label {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  color: hsl(270, 40%, 75%);
+}
+
+/* Stats */
+.thinking-stat {
+  font-size: 10px;
+  color: hsl(270, 20%, 55%);
+}
+
+.thinking-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: hsl(270, 20%, 45%);
+}
+
+.thinking-chevron {
+  transition: transform var(--transition-fast);
+  color: hsl(270, 30%, 55%);
+}
+
+/* Animated collapse */
+.thinking-collapse {
+  overflow: hidden;
+  transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Content area */
+.thinking-content {
+  border-top: 1px solid hsla(270, 30%, 40%, 0.2);
+  background: linear-gradient(
+    180deg,
+    hsla(270, 20%, 8%, 0.6) 0%,
+    hsla(270, 15%, 6%, 0.4) 100%
+  );
+}
+
+.thinking-content-inner {
+  padding: var(--space-3) var(--space-4);
+  max-height: 400px;
+  overflow-y: auto;
+  font-size: var(--font-size-xs);
+  color: hsl(270, 15%, 65%);
+  line-height: 1.75;
+
+  /* Scrollbar */
+  scrollbar-width: thin;
+  scrollbar-color: hsla(270, 30%, 40%, 0.4) transparent;
+}
+
+.thinking-content-inner::-webkit-scrollbar {
+  width: 4px;
+}
+.thinking-content-inner::-webkit-scrollbar-track { background: transparent; }
+.thinking-content-inner::-webkit-scrollbar-thumb {
+  background: hsla(270, 30%, 50%, 0.3);
+  border-radius: 99px;
+}
+
+/* Markdown inside thinking */
+.thinking-content-inner p   { margin: 0 0 var(--space-2); }
+.thinking-content-inner p:last-child { margin-bottom: 0; }
+.thinking-content-inner strong { color: hsl(270, 30%, 80%); }
+.thinking-content-inner em { color: hsl(270, 30%, 72%); font-style: italic; }
+.thinking-content-inner code {
+  font-size: 0.85em;
+  background: hsla(270, 20%, 20%, 0.5);
+  border: 1px solid hsla(270, 20%, 35%, 0.3);
+  padding: 1px 4px;
+  border-radius: 4px;
+  color: hsl(270, 40%, 78%);
+}
+.thinking-content-inner ul,
+.thinking-content-inner ol {
+  margin: var(--space-1) 0;
+  padding-left: var(--space-4);
+}
+.thinking-content-inner li { margin-bottom: 2px; }
+.thinking-content-inner h1,
+.thinking-content-inner h2,
+.thinking-content-inner h3 {
+  color: hsl(270, 40%, 80%);
+  margin: var(--space-3) 0 var(--space-1);
+  font-size: var(--font-size-sm);
+}
+.thinking-content-inner blockquote {
+  border-left: 2px solid hsla(270, 50%, 55%, 0.4);
+  padding-left: var(--space-2);
+  margin: var(--space-2) 0;
+  color: hsl(270, 15%, 55%);
+  font-style: italic;
+}
+
+/* ─── Streaming-specific styles ──────────────────────────────────────────── */
+
+/* Blinking cursor ▋ */
+.thinking-cursor {
+  display: inline-block;
+  color: hsl(270, 60%, 70%);
+  font-size: 0.9em;
+  line-height: 1;
+  margin-left: 1px;
+  animation: cursorBlink 0.85s step-end infinite;
+}
+
+@keyframes cursorBlink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+
+/* Live stat (char count) */
+.thinking-stat--live {
+  color: hsl(270, 50%, 65%);
+  font-style: italic;
+}
+
+/* Streaming border glow */
+.thinking-block--streaming {
+  border-color: hsla(270, 50%, 55%, 0.45);
+  box-shadow: 0 0 12px hsla(270, 60%, 50%, 0.12);
+}
+
+/* Faster collapse when streaming ends → gives "done snapping" feeling */
+.thinking-collapse {
+  transition: max-height 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+}
+

@@ -1,0 +1,39 @@
+# Environments and local settings
+.env
+.env.local
+.env.*.local
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache, temporary, and log files
+__pycache__/
+*.pyc
+.pytest_cache/
+.llm_cache/
+logs/
+*.log
+
+# Private key and credential files (do not commit)
+key.json
+key_2.json
+Neo4j-*-Created-*.txt
+
+# Node / Frontend temporary and build files
+node_modules/
+dist/
+build/
+.npm/
+.eslintcache
+
+# Large dataset files (GitHub limit is 100MB; compress to .zip if needed)
+data_gen/*.jsonl
+
+# OS and Office temporary/lock files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+

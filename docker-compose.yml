@@ -1,0 +1,63 @@
+version: '3.9'
+
+services:
+  # ── Backend (FastAPI) ────────────────────────────────────────
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: legal-rag-backend
+    restart: unless-stopped
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:///./data/legal_rag.db
+      - SECRET_KEY=${SECRET_KEY:-change-this-in-production-use-openssl-rand-hex-32}
+      - ALGORITHM=HS256
+      - ACCESS_TOKEN_EXPIRE_MINUTES=60
+      - REFRESH_TOKEN_EXPIRE_DAYS=30
+      - CORS_ORIGINS=http://localhost,http://localhost:80,http://frontend
+      - UPLOAD_DIR=/app/uploads
+      - ADMIN_EMAIL=${ADMIN_EMAIL:-admin@legalrag.vn}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin123}
+    volumes:
+      # Persist database and uploads
+      - rag_data:/app/data
+      - rag_uploads:/app/uploads
+      # Mount model cache (optional — avoids re-download)
+      - model_cache:/root/.cache/huggingface
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    networks:
+      - legal-rag-net
+
+  # ── Frontend (React + Nginx) ─────────────────────────────────
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: legal-rag-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - legal-rag-net
+
+volumes:
+  rag_data:
+    driver: local
+  rag_uploads:
+    driver: local
+  model_cache:
+    driver: local
+
+networks:
+  legal-rag-net:
+    driver: bridge

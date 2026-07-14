@@ -1,0 +1,377 @@
+/* ============================================================
+   CHAT INPUT ENHANCED STYLES
+   ============================================================ */
+
+.chat-input-wrapper {
+  padding: var(--space-3) var(--space-6) var(--space-4);
+  border-top: 1px solid var(--color-border-subtle);
+  background: var(--color-bg);
+  flex-shrink: 0;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Drop zone highlight */
+.chat-input-wrapper.dragging-over {
+  outline: 2px dashed var(--color-primary);
+  outline-offset: -4px;
+  border-radius: var(--radius-lg);
+}
+
+/* Attachment Preview */
+.attachment-preview {
+  margin-bottom: var(--space-3);
+  animation: slideInUp 0.2s ease-out;
+}
+
+.attachment-image-preview {
+  position: relative;
+  display: inline-block;
+  max-width: 200px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 2px solid var(--color-primary);
+}
+
+.attachment-image-preview img {
+  width: 100%;
+  max-height: 140px;
+  object-fit: cover;
+  display: block;
+}
+
+.attachment-doc-preview {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  background: hsla(220, 80%, 55%, 0.08);
+  border: 1px solid hsla(220, 80%, 55%, 0.25);
+  border-radius: var(--radius-md);
+  color: var(--color-primary);
+}
+
+.attachment-doc-info {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.attachment-doc-name {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.attachment-doc-size {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+}
+
+.attachment-remove {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  padding: var(--space-1);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  transition: color var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.attachment-remove:hover { color: var(--color-error); }
+
+/* Input row */
+.chat-input-row {
+  display: flex;
+  align-items: flex-end;
+  gap: var(--space-2);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  padding: var(--space-2) var(--space-3);
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.chat-input-row:focus-within {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-glow);
+}
+
+.input-left-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+  padding-bottom: 4px;
+}
+
+.input-right-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+  padding-bottom: 4px;
+}
+
+.action-btn {
+  color: var(--color-text-muted) !important;
+  transition: color var(--transition-fast), background var(--transition-fast) !important;
+}
+
+.action-btn:hover {
+  color: var(--color-primary) !important;
+}
+
+.action-btn.recording {
+  color: var(--color-error) !important;
+  background: hsla(0, 72%, 55%, 0.1) !important;
+  animation: pulse 1s ease-in-out infinite;
+}
+
+/* Text area */
+.input-text-area {
+  flex: 1;
+  position: relative;
+  min-width: 0;
+}
+
+.recording-indicator {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--font-size-xs);
+  color: var(--color-error);
+  margin-bottom: var(--space-1);
+}
+
+.voice-wave-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 16px;
+  width: 25px;
+  margin-right: 4px;
+  flex-shrink: 0;
+}
+
+.voice-wave-bars .bar {
+  display: inline-block;
+  width: 3px;
+  background: var(--color-error);
+  border-radius: 1.5px;
+  animation: pulse-wave-bar 1s ease-in-out infinite;
+}
+
+.voice-wave-bars .bar-1 { height: 4px; animation-delay: 0.1s; }
+.voice-wave-bars .bar-2 { height: 8px; animation-delay: 0.3s; }
+.voice-wave-bars .bar-3 { height: 12px; animation-delay: 0.5s; }
+.voice-wave-bars .bar-4 { height: 8px; animation-delay: 0.7s; }
+.voice-wave-bars .bar-5 { height: 4px; animation-delay: 0.9s; }
+
+@keyframes pulse-wave-bar {
+  0%, 100% {
+    height: 4px;
+  }
+  50% {
+    height: 16px;
+  }
+}
+
+.chat-textarea {
+  width: 100%;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--color-text);
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-relaxed);
+  resize: none;
+  padding: var(--space-2) var(--space-1);
+  max-height: 200px;
+  min-height: 28px;
+  overflow-y: auto;
+  display: block;
+}
+
+.chat-textarea::placeholder {
+  color: var(--color-text-muted);
+}
+
+.chat-textarea:disabled {
+  opacity: 0.6;
+}
+
+/* Send button */
+.send-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  flex-shrink: 0;
+  background: var(--color-surface-3);
+  color: var(--color-text-muted);
+  transition: all var(--transition-fast);
+  margin-bottom: 2px;
+}
+
+.send-btn.active {
+  background: var(--color-primary);
+  color: white;
+  box-shadow: 0 2px 8px var(--color-primary-glow);
+}
+
+.send-btn.active:hover {
+  background: var(--color-primary-hover);
+  transform: scale(1.05);
+}
+
+.send-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Hint text */
+.chat-input-hint {
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  margin-top: var(--space-2);
+}
+
+/* ─── Reasoning Effort Bulb ──────────────────────────────────────────────── */
+
+.reasoning-bulb-wrap {
+  position: relative;
+  flex-shrink: 0;
+}
+
+/* Off state — dim, muted, with diagonal line effect via opacity */
+.reasoning-bulb-btn.reasoning-off {
+  color: var(--color-text-muted) !important;
+  opacity: 0.45;
+}
+
+.reasoning-bulb-btn.reasoning-off:hover {
+  opacity: 0.75;
+  color: var(--color-text-secondary) !important;
+}
+
+/* On state — glowing amber */
+.reasoning-bulb-btn.reasoning-on {
+  color: hsl(45, 95%, 55%) !important;
+  opacity: 1;
+  filter: drop-shadow(0 0 5px hsla(45, 95%, 55%, 0.5));
+}
+
+.reasoning-bulb-btn.reasoning-on:hover {
+  filter: drop-shadow(0 0 8px hsla(45, 95%, 55%, 0.7));
+}
+
+/* Dropdown */
+.reasoning-dropdown {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 230px;
+  background: hsl(220, 15%, 13%);
+  border: 1px solid hsl(220, 15%, 22%);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.3);
+  z-index: 200;
+  overflow: hidden;
+  animation: dropdownIn 0.15s ease-out;
+}
+
+/* Right-aligned variant — opens leftward, for right-side buttons */
+.reasoning-dropdown--right {
+  left: auto;
+  right: 0;
+  transform: none;
+  animation: dropdownInRight 0.15s ease-out;
+}
+
+@keyframes dropdownInRight {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes dropdownIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(6px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+.reasoning-dropdown-title {
+  padding: 12px 16px 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: hsl(220, 15%, 80%);
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid hsl(220, 15%, 20%);
+}
+
+.reasoning-dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 16px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background 0.12s;
+  border-bottom: 1px solid hsl(220, 15%, 18%);
+}
+
+.reasoning-dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.reasoning-dropdown-item:hover {
+  background: hsl(220, 15%, 18%);
+}
+
+.reasoning-dropdown-item.active {
+  background: hsl(220, 20%, 17%);
+}
+
+.rdi-check {
+  width: 16px;
+  font-size: 12px;
+  color: hsl(45, 95%, 60%);
+  font-weight: 700;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.rdi-label {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+  color: hsl(220, 10%, 88%);
+  text-align: left;
+}
+
+.reasoning-dropdown-item.active .rdi-label {
+  color: white;
+}
+
+.rdi-hint {
+  font-size: 12px;
+  color: hsl(220, 10%, 50%);
+  margin-left: auto;
+}

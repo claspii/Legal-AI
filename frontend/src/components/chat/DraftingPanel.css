@@ -1,0 +1,533 @@
+/* Drafting Panel - Workspace layout and styling */
+
+/* =============================================
+   Intent Detection Banner
+   ============================================= */
+
+.intent-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-4);
+  background: linear-gradient(135deg, rgba(var(--color-primary-rgb, 99, 102, 241), 0.12), rgba(var(--color-secondary-rgb, 16, 185, 129), 0.08));
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-2);
+  position: relative;
+  box-shadow: 0 0 12px var(--color-primary-glow);
+}
+
+.intent-banner-text {
+  font-size: var(--font-size-sm);
+  color: var(--color-text);
+  line-height: var(--line-height-normal);
+  flex: 1;
+}
+
+.intent-banner-close {
+  background: transparent;
+  border: none;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+  padding: 0 2px;
+  flex-shrink: 0;
+  transition: color var(--transition-fast);
+}
+
+.intent-banner-close:hover {
+  color: var(--color-text);
+}
+
+.drafting-panel-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+  border-left: 1px solid var(--color-border);
+  overflow: hidden;
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* 1. Sidebar Panel Options */
+.drafting-sidebar-options {
+  width: 380px;
+  min-width: 380px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-surface);
+  border-right: 1px solid var(--color-border);
+}
+
+.drafting-sidebar-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.drafting-sidebar-header h3 {
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-semibold);
+  margin: 0;
+  flex: 1;
+}
+
+.drafting-sidebar-header .header-icon {
+  color: var(--color-primary);
+}
+
+.drafting-sidebar-header .close-btn {
+  background: transparent;
+  border: none;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.drafting-sidebar-header .close-btn:hover {
+  background: var(--color-surface-2);
+  color: var(--color-text);
+}
+
+.drafting-sidebar-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+/* Config sections */
+.option-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.section-label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Forms controls */
+.form-select,
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  color: var(--color-text);
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  outline: none;
+  transition: all var(--transition-fast);
+}
+
+.form-select:focus,
+.form-input:focus,
+.form-textarea:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px var(--color-primary-glow);
+}
+
+.template-desc {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  line-height: var(--line-height-tight);
+  margin-top: var(--space-1);
+}
+
+/* Placeholders grid form */
+.placeholders-form-grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.placeholders-form-grid .form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.placeholders-form-grid label {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  font-weight: var(--font-weight-medium);
+}
+
+.placeholders-form-grid .form-input {
+  background: var(--color-surface-3);
+  font-size: var(--font-size-sm);
+  height: 34px;
+}
+
+/* Upload layout file zone */
+.style-upload-area {
+  border: 2px dashed var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4);
+  text-align: center;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  background: var(--color-surface-2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 80px;
+}
+
+.style-upload-area:hover {
+  border-color: var(--color-primary);
+  background: var(--color-surface-hover);
+}
+
+.upload-icon {
+  color: var(--color-text-muted);
+}
+
+.style-upload-area:hover .upload-icon {
+  color: var(--color-primary);
+}
+
+.upload-loading {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.upload-success {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.upload-success .file-name {
+  color: var(--color-secondary);
+  font-weight: var(--font-weight-semibold);
+  font-size: var(--font-size-sm);
+}
+
+.file-hint {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+}
+
+.extracted-style-guide {
+  margin-top: var(--space-2);
+  padding: var(--space-3);
+  background: rgba(16, 185, 129, 0.05);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-xs);
+}
+
+.extracted-style-guide h5 {
+  margin: 0 0 6px 0;
+  color: var(--color-secondary);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+}
+
+.extracted-style-guide ul {
+  margin: 0;
+  padding-left: var(--space-4);
+  color: var(--color-text-secondary);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+/* AI Generate Button styling */
+.btn-generate-document {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: var(--space-3);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  margin-top: auto;
+  box-shadow: var(--shadow-glow);
+}
+
+.btn-generate-document:hover {
+  background: var(--color-primary-hover);
+  transform: translateY(-1px);
+}
+
+.btn-generate-document.cancel-btn {
+  background: var(--color-error);
+  box-shadow: none;
+}
+
+.btn-generate-document.cancel-btn:hover {
+  background: hsl(0, 84%, 67%);
+}
+
+.spinner {
+  animation: spin 1s linear infinite;
+}
+
+/* 2. Editor Canvas Workspace Column */
+.drafting-canvas-workspace {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-bg-gradient);
+  height: 100%;
+}
+
+.canvas-header-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-3) var(--space-5);
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.view-mode-toggles {
+  display: flex;
+  background: var(--color-surface-2);
+  padding: 3px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.view-mode-toggles .toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px var(--space-3);
+  border: none;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.view-mode-toggles .toggle-btn.active {
+  background: var(--color-surface-3);
+  color: var(--color-text);
+  box-shadow: var(--shadow-sm);
+}
+
+.export-actions-group {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.toolbar-action-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  height: 32px;
+}
+
+.toolbar-action-btn:hover {
+  background: var(--color-surface-hover);
+  color: var(--color-text);
+  border-color: var(--color-border-focus);
+}
+
+/* 3. Paper Canvas Sheet Styling */
+.canvas-scroller-box {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-8) var(--space-6);
+  display: flex;
+  justify-content: center;
+  background: var(--color-bg-gradient);
+}
+
+.paper-canvas {
+  background: #ffffff;
+  color: #2b2b2b;
+  box-shadow: var(--shadow-xl), 0 10px 40px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 100%;
+  max-width: 21cm; /* Standard A4 paper width */
+  min-height: 29.7cm; /* Standard A4 paper height */
+  padding: 2.5cm 2cm 2.5cm 2.5cm; /* Left margin 2.5cm, Top/Bottom 2.5cm, Right 2cm */
+  border: 1px solid var(--color-border);
+  outline: none;
+  font-size: 13.5pt; /* Standard legal typing font size */
+  line-height: 1.55;
+  transition: box-shadow var(--transition-base);
+}
+
+/* Textarea raw mode overrides */
+textarea.paper-canvas {
+  resize: none;
+  font-family: 'Times New Roman', Times, serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  border: 1px dashed var(--color-primary-glow);
+}
+
+textarea.paper-canvas:focus {
+  border-style: solid;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 20px var(--color-primary-glow), var(--shadow-xl);
+}
+
+/* Markdown rendered view */
+.preview-container {
+  overflow-x: auto;
+}
+
+/* Styled Empty Canvas State */
+.canvas-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  color: var(--color-text-muted);
+  padding: var(--space-8);
+  min-height: 20cm;
+}
+
+.canvas-empty-state .empty-icon {
+  margin-bottom: var(--space-4);
+  color: var(--color-border);
+}
+
+.canvas-empty-state h4 {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-2);
+}
+
+.canvas-empty-state p {
+  max-width: 380px;
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-normal);
+}
+
+/* Markdown Legal Rendering styling inside canvas */
+.markdown-body h1 {
+  font-size: 16pt !important;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 18pt;
+  margin-bottom: 12pt;
+  color: #111111;
+  border: none;
+  padding: 0;
+}
+
+.markdown-body h2 {
+  font-size: 14pt !important;
+  font-weight: bold;
+  margin-top: 16pt;
+  margin-bottom: 8pt;
+  color: #111111;
+  border: none;
+  padding: 0;
+}
+
+.markdown-body h3 {
+  font-size: 13pt !important;
+  font-weight: bold;
+  margin-top: 12pt;
+  margin-bottom: 6pt;
+  color: #111111;
+}
+
+.markdown-body p {
+  margin-top: 0;
+  margin-bottom: 10pt;
+  text-align: justify;
+  text-indent: 1.25cm; /* Standard paragraph indentation in VN legal docs */
+  font-size: 13.5pt;
+  color: #2b2b2b;
+}
+
+.markdown-body hr {
+  height: 1px;
+  background-color: #333333;
+  border: none;
+  margin: 15pt 0;
+}
+
+.markdown-body blockquote {
+  border-left: 3px solid #666;
+  color: #555;
+  padding-left: 15px;
+  margin-left: 1.25cm;
+  font-style: italic;
+  background: transparent;
+}
+
+.markdown-body ul, .markdown-body ol {
+  padding-left: 2cm;
+  margin-bottom: 10pt;
+}
+
+.markdown-body li {
+  margin-bottom: 4pt;
+  text-align: justify;
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15pt 0;
+}
+
+.markdown-body th, .markdown-body td {
+  border: 1px solid #333333;
+  padding: 6px 10px;
+  font-size: 12pt;
+}
+
+.markdown-body th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
